@@ -2023,7 +2023,7 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
 **Punk Girl Venam (Concert Venue Field) Story Mode**
 
--   Toxel. Level 11. \@Oran Berry.
+-   Toxel. Level 11. @Oran Berry.
 
     -   Nuzzle
 
@@ -2033,7 +2033,7 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
     -   Tearful Look
 
--   Croagunk. Level 12. \@Oran Berry.
+-   Croagunk. Level 12. @Oran Berry.
 
     -   Fake Out
 
@@ -2063,7 +2063,7 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
 **Punk Girl Venam (Concert Venue Field) Classic Mode**
 
--   Trubbish. Level 13. \@Oran Berry.
+-   Trubbish. Level 13. @Oran Berry.
 
     -   Rock Blast
 
@@ -2073,7 +2073,7 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
     -   Spikes
 
--   Croagunk. Level 14. \@Normal Gem.
+-   Croagunk. Level 14. @Normal Gem.
 
     -   Fake Out
 
@@ -2083,7 +2083,7 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
     -   Sucker Punch
 
--   Ivysaur. Level 14. \@Oran Berry.
+-   Ivysaur. Level 14. @Oran Berry.
 
     -   Venam's Kiss
 
@@ -2093,7 +2093,7 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
     -   Leech Seed
 
--   Alolan Grimer, Level 14. \@Oran Berry.
+-   Alolan Grimer, Level 14. @Oran Berry.
 
     -   Bite
 
@@ -2650,7 +2650,7 @@ Go there and fight.
 
     -   Brutal Swing
 
--   Togepi, Level 17. \@Oran Berry.
+-   Togepi, Level 17. @Oran Berry.
 
     -   Ancient Power
 
@@ -4023,7 +4023,7 @@ Circuit). Story Mode**
 
 -   Mr. Mime, Level 21 (Samwell)
 
--   Flaaffy, Level 22 \@Eviolite (Samwell)
+-   Flaaffy, Level 22 @Eviolite (Samwell)
 
 -   Graveler, Level 23 (Samwell)
 
@@ -4040,7 +4040,7 @@ Circuit). Classic Mode**
 
 -   Graveler, Level 24 (Samwell)
 
--   Porygon, Level 24 \@Eviolite (Jacksin)
+-   Porygon, Level 24 @Eviolite (Jacksin)
 
 -   Seaking, Level 24 (Jacksin)
 
@@ -4096,7 +4096,7 @@ her again (double battle).
 
 **Dance Prodigy Rorim B and Wanderer Novae (Forest Field). Story Mode.**
 
--   Oricorio Sensu, Level 23 \@Maranga Berry. (Rorim B)
+-   Oricorio Sensu, Level 23 @Maranga Berry. (Rorim B)
 
     -   Feather Dance
 
@@ -4149,7 +4149,7 @@ Mode.**
 
     -   Psybeam
 
--   Oricorio Sensu, Level 23 \@Maranga Berry. (Rorim B)
+-   Oricorio Sensu, Level 23 @Maranga Berry. (Rorim B)
 
     -   Feather Dance
 
@@ -7770,7 +7770,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Outrage
 
--   Lapras, Level 41. \@Sitrus Berry
+-   Lapras, Level 41. @Sitrus Berry
 
     -   Surf
 
@@ -7780,7 +7780,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Ancient Power
 
--   Gallade, Level 42. \@Sitrus Berry
+-   Gallade, Level 42. @Sitrus Berry
 
     -   Sacred Sword
 
@@ -7802,7 +7802,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Hyper Voice
 
--   Roserade, Level 44. \@Icicle Plate
+-   Roserade, Level 44. @Icicle Plate
 
     -   Magical Leaf
 
@@ -7812,7 +7812,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Stun Spore
 
--   Ninetales, Level 44. \@Magical Seed
+-   Ninetales, Level 44. @Magical Seed
 
     -   Mystical Fire
 
@@ -7822,7 +7822,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Extrasensory
 
--   Krookodile, Level 43. \@Dragon Gem
+-   Krookodile, Level 43. @Dragon Gem
 
     -   Crunch
 
@@ -7832,7 +7832,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Outrage
 
--   Lapras, Level 44. \@Sitrus Berry
+-   Lapras, Level 44. @Sitrus Berry
 
     -   Surf
 
@@ -7842,7 +7842,7 @@ it will be quite long until we get our fifth badge and can return here.
 
     -   Ancient Power
 
--   Gallade, Level 44. \@Black Belt
+-   Gallade, Level 44. @Black Belt
 
     -   Sacred Sword
 
@@ -8145,7 +8145,7 @@ Continue upwards and you will be thrown into a battle.
 
 **Interceptor Crescent (Deep Earth Field)**
 
--   Aevian Bronzong. Level 86. \@Leftovers.
+-   Aevian Bronzong. Level 86. @Leftovers.
 
     -   Iron Defense
 
@@ -8155,7 +8155,7 @@ Continue upwards and you will be thrown into a battle.
 
     -   Terrain Pulse
 
--   Weavile. Level 87. \@Life Orb.
+-   Weavile. Level 87. @Life Orb.
 
     -   Low Kick
 
@@ -8165,7 +8165,7 @@ Continue upwards and you will be thrown into a battle.
 
     -   Psycho Cut
 
--   Metagross. Level 88. \@Metagrossite.
+-   Metagross. Level 88. @Metagrossite.
 
     -   Zen Headbutt
 
@@ -8175,7 +8175,7 @@ Continue upwards and you will be thrown into a battle.
 
     -   Earthquake
 
--   Garchomp. Level 87. \@Focus Sash.
+-   Garchomp. Level 87. @Focus Sash.
 
     -   Earthquake
 
@@ -8185,7 +8185,7 @@ Continue upwards and you will be thrown into a battle.
 
     -   Stone Edge
 
--   Malamar. Level 88. \@Iron Ball
+-   Malamar. Level 88. @Iron Ball
 
     -   Superpower
 
@@ -8195,7 +8195,7 @@ Continue upwards and you will be thrown into a battle.
 
     -   Psycho Cut
 
--   Crescent\'s Gothitelle. Boss Level 90. \@Gothitelle Crest
+-   Crescent\'s Gothitelle. Boss Level 90. @Gothitelle Crest
 
     -   Gravity
 
@@ -8398,7 +8398,7 @@ of Ren.
 
 **Shooting Star (Water Surface)**
 
--   Starmie. Boss Level 88. 2 Hp Bars. \@Petaya Berry.
+-   Starmie. Boss Level 88. 2 Hp Bars. @Petaya Berry.
 
     -   Surf
 
@@ -8509,7 +8509,7 @@ badge, so Talon says it is a battle for fun.
 
 **Cartographer Talon (Sky Field)**
 
--   Noivern. Level 87. \@Life Orb.
+-   Noivern. Level 87. @Life Orb.
 
     -   Flamethrower
 
@@ -8519,7 +8519,7 @@ badge, so Talon says it is a battle for fun.
 
     -   Dragon Pulse
 
--   Drifblim. Level 87. \@Elemental Seed.
+-   Drifblim. Level 87. @Elemental Seed.
 
     -   Acrobatics
 
@@ -8539,7 +8539,7 @@ badge, so Talon says it is a battle for fun.
 
     -   Tailwind
 
--   Butterfree. Level 89. \@Butterfreenite.
+-   Butterfree. Level 89. @Butterfreenite.
 
     -   Sleep Powder
 
@@ -8549,7 +8549,7 @@ badge, so Talon says it is a battle for fun.
 
     -   Bug Buzz
 
--   Salamence. Level 89. \@Elemental Seed.
+-   Salamence. Level 89. @Elemental Seed.
 
     -   Dragon Dance
 
@@ -8559,7 +8559,7 @@ badge, so Talon says it is a battle for fun.
 
     -   Aqua Tail
 
--   Braviary. Level 90. \@Life Orb
+-   Braviary. Level 90. @Life Orb
 
     -   Sky Attack
 
@@ -8939,7 +8939,7 @@ Venam and Amber.
 
 -   **Amber**
 
-    -   Camerupt. Level 76 (85 in script). \@Solid Rock.
+    -   Camerupt. Level 76 (85 in script). @Solid Rock.
 
         -   Fever Pitch
 
@@ -8949,7 +8949,7 @@ Venam and Amber.
 
         -   Stealth Rock
 
-    -   Aevian Gyarados Level 77 (86 in script). \@Air Balloon
+    -   Aevian Gyarados Level 77 (86 in script). @Air Balloon
 
         -   Fever Pitch
 
@@ -8957,7 +8957,7 @@ Venam and Amber.
 
         -   Work Up
 
-    -   Aevian Toxtricity. Level 77 (86in script). \@Air Balloon.
+    -   Aevian Toxtricity. Level 77 (86in script). @Air Balloon.
 
         -   Fever Pitch
 
@@ -8969,7 +8969,7 @@ Venam and Amber.
 
 -   **Venam**
 
-    -   Scolipede. Level 84 (86 in script). \@Tellutic Seed.
+    -   Scolipede. Level 84 (86 in script). @Tellutic Seed.
 
         -   Venam's Kiss
 
@@ -8979,7 +8979,7 @@ Venam and Amber.
 
         -   Protect
 
-    -   Toxtricity. Level 85 (87 in script). \@Elemental Seed.
+    -   Toxtricity. Level 85 (87 in script). @Elemental Seed.
 
         -   Overdrive
 
@@ -8989,7 +8989,7 @@ Venam and Amber.
 
         -   Hidden Power (Fire)
 
-    -   Seviper. Level 85. \@Seviper Crest.
+    -   Seviper. Level 85. @Seviper Crest.
 
         -   Sludge Wave
 
@@ -9095,7 +9095,7 @@ You will face consecutive battles, and they all are double battles.
 
     -   Iron Head
 
--   Corviknight. Level 82. \@Leftovers
+-   Corviknight. Level 82. @Leftovers
 
     -   Roost
 
@@ -9105,7 +9105,7 @@ You will face consecutive battles, and they all are double battles.
 
     -   U-Turn
 
--   Charizard. Level 81. \@Charizardite X
+-   Charizard. Level 81. @Charizardite X
 
     -   Fire Punch
 
@@ -9115,7 +9115,7 @@ You will face consecutive battles, and they all are double battles.
 
     -   Will-O-Wisp
 
--   Seviper. Level 82. \@Seviper Crest
+-   Seviper. Level 82. @Seviper Crest
 
     -   Sludge Wave
 
@@ -9130,7 +9130,7 @@ immediately, and no heals in the middle of course.
 
 **Inevitable Grief 01000001 01000101 (Deep Earth Field)**
 
--   Cherrim. Level 81. \@Cherrim Crest
+-   Cherrim. Level 81. @Cherrim Crest
 
     -   Helping Hand
 
@@ -9140,7 +9140,7 @@ immediately, and no heals in the middle of course.
 
     -   Synthesis
 
--   Hawlucha. Level 82. \@Telluric Seed
+-   Hawlucha. Level 82. @Telluric Seed
 
     -   Swords Dance
 
@@ -9150,7 +9150,7 @@ immediately, and no heals in the middle of course.
 
     -   X-Scissor
 
--   Absol. Level 82. \@Absolite
+-   Absol. Level 82. @Absolite
 
     -   Throat Chop
 
@@ -9160,7 +9160,7 @@ immediately, and no heals in the middle of course.
 
     -   Night Slash
 
--   Zangoose. Level 81. \@Zangoose Crest
+-   Zangoose. Level 81. @Zangoose Crest
 
     -   Facade
 
@@ -9174,7 +9174,7 @@ Again, the enemies aren't that strong, but this isn't the last battle.
 
 **Inevitable Grief 01001101 (Deep Earth Field)**
 
--   Zoroark. Level 81. \@Zoroark Crest
+-   Zoroark. Level 81. @Zoroark Crest
 
     -   Psychic
 
@@ -9184,7 +9184,7 @@ Again, the enemies aren't that strong, but this isn't the last battle.
 
     -   Sludge Bomb
 
--   Mimikyu. Level 81. \@Spooky Plate
+-   Mimikyu. Level 81. @Spooky Plate
 
     -   Hone Claws
 
@@ -9194,7 +9194,7 @@ Again, the enemies aren't that strong, but this isn't the last battle.
 
     -   Shadow Sneak
 
--   Snorlax. Level 82. \@Snorlaxite
+-   Snorlax. Level 82. @Snorlaxite
 
     -   Return
 
@@ -9204,7 +9204,7 @@ Again, the enemies aren't that strong, but this isn't the last battle.
 
     -   Heavy Slam
 
--   Togekiss. Level 82. \@Babiri Berry
+-   Togekiss. Level 82. @Babiri Berry
 
     -   Aura Sphere
 
@@ -9272,7 +9272,7 @@ one controlling her. Move up.
     -   Cold Truth
 
 -   After the first HP bar is finished, Glitch Field will happen, and
-    will get Hyper Beam. Item is now \@Leftovers.
+    will get Hyper Beam. Item is now @Leftovers.
 
 -   It can summon Mega Spiritomb and Sableye as support.
 
@@ -9430,7 +9430,7 @@ go to the Time Gate.
 
 **Tiempa (Deep Earth)**
 
--   Dialga. 2 Hp Bars. Level 85. \@Adamant Orb
+-   Dialga. 2 Hp Bars. Level 85. @Adamant Orb
 
     -   Earth Power
 
@@ -9454,7 +9454,7 @@ You will be fully healed before the next boos fight.
 
 **Spacea (Deep Earth)**
 
--   Palkia. 3 Hp Bars. Level 85. \@Lustrous Orb
+-   Palkia. 3 Hp Bars. Level 85. @Lustrous Orb
 
     -   Surf
 
@@ -10953,7 +10953,7 @@ Now you can face a boss.
 
 **Wacky Lizard. 2 Hp Bar.**
 
--   Keckleon. Level 80. \@Sitrus Berry.
+-   Keckleon. Level 80. @Sitrus Berry.
 
     -   Play Rough
 
@@ -10964,8 +10964,8 @@ Now you can face a boss.
     -   Earthquake
 
 -   It will start changing types among those of Tornadus, Thundurus,
-    Landorus and Enamorus. After Losing the \@Sitrus Berry it will gain
-    a \@Life Orb.
+    Landorus and Enamorus. After Losing the @Sitrus Berry it will gain
+    a @Life Orb.
 
 -   After losing an Hp bar, any drop in stats will be cured.
 
