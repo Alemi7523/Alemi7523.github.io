@@ -6580,6 +6580,31 @@ If you cancel an encounter without clearing the Den, you can get another encount
 
 Note that right now, Nim will fight with you, which may be undesired since she can knock out the opponent before being able to catch it.
 
+When you are done with the Rift Den, return to the bridge and speak with Cairo, who will easily open the way. 
+You will get a free Moomoo Milk and Cairo will tell us that he lives at the north from here. 
+Now cross the bridge and a scene will trigger.
+
+**Friendship Point Choice:**
+- You okay, Nim? (Aelita +1)
+- You're acting weird... (Neutral)
+
+After the scene, you will see one with Ren, who is still at Route 3 as he said he would, but Crescent appears and wants to speak with him. 
+We don't get to see the conservation as the scene turns back to our main character waking up.
+
+**Route 4 North Area Encounters (Grassy Terrain)**
+
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** | **%** |
+|-------------------|------|---------------|------|-----------------|------|------------|-------|
+|Bounsweet          |20    |Bounsweet      |49    |Bounsweet        |42    |Finneon     | 100   |
+|Sunkern            |20    |Sunflora       |15    |Meowth           |30    |            |       |
+|Meowth             |17    |Fletchinder    |12    |Tranquill        |19    |            |       |
+|Sunflora           |15    |Tranquill      |10    |Togedemaru       |5     |            |       |
+|Tranquill          |14    |Meowth         |5     |Plusle           |2     |            |       |
+|Emolga             |12    |Togedemaru     |5     |Nuzleaf          |2     |            |       |
+|Nuzleaf            |2     |Minun          |2     |                 |      |            |       |
+|                   |      |Nuzleaf        |2     |                 |      |            |       |
+
+Again, the encounters are a most the same as the rest of Route 4, but this time on the mornings, there is Emolga, who existed only as an overworld encounter on previous parts of Route 4.
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
