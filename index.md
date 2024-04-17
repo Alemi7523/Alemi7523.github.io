@@ -1,287 +1,147 @@
 # Rejuvenation 13.5 100% Walkthough
 
 - [About this guide](#about-this-guide)
-
 - [Prologue](#prologue)
-
 - [Intro](#intro)
-
   - [Passwords](#passwords)
-
     - [Quality of Life Passwords](#quality-of-life-passwords)
-
     - [Difficulty Passwords](#difficulty-passwords)
-
     - [Shenanigans](#shenanigans)
-
     - [Password Packs](#password-packs)
-
   - [S.S. Oceana (July XX, 20XX)](#s.s.-oceana-july-xx-20xx)
-
 - [Chapter 1: Crossroads of Destiny](#chapter-1-crossroads-of-destiny)
-
   - [Oceana Pie](#oceana-pier)
-
   - [Gearen Laboratory](#gearen-laboratory)
-
   - [East Gearen City](#east-gearen-city)
-
     - [Quest 1: Save Starly!)](#quest-1-save-starly)
-
     - [Quest 2: Buizel Event](#quest-2-buizel-event)
-
     - [Quest 3: Missing Mother](#quest-3-missing-mother)
-
     - [Quest 4: Hidden Library](#quest-4-hidden-library)
-
     - [Quest 5: Love Letter!](#quest-5-love-letter)
-
     - [Quest 6: Dangerous Pokémon!](#quest-6-dangerous-pokémon)
-
     - [Quest 7: Battle Request!](#quest-7-battle-request)
-
     - [Quest 8: Wretched Music](#quest-8-wretched-music)
-
     - [Quest 9: PictoZumi](#quest-9-pictozumi)
-
     - [Quest 10: Bad Luck](#quest-10-bad-luck)
-
   - [Gearen Alleway East Side](#gearen-alleway-east-side)
-
   - [Abandoned Sewers](#abandoned-sewers)
-
   - [Game Corner Prizes](#game-corner-prizes)
-
   - [PoisonHeart Badge](#poisonheart-badge)
-
   - [Post-Gym Quests](#post-gym-quests)
-
     - [Quest 11: Zygarde Quest](#quest-11-zygarde-quest)
-
     - [Quest 12: Virtual League (First Gym)](#quest-12-virtual-league-first-gym)
-
   - [Route 1 and Goldenwood Forest](#route-1-and-goldenwood-forest)
-
     - [Quest 13: Lost Girl!](#quest-13-lost-girl)
-
     - [Quest 14: My Darling Furfrou](#quest-14-my-darling-furfrou)
-
     - [Quest 15: The Big Catch!](#quest-15-the-big-catch)
-
   - [Goldenwood Cave](#goldenwood-cave)
-
     - [Quest 16: Culvier Clan Quest (1st Member)](#quest-16-culvier-clan-quest-1st-member)
-
   - [The Ruins](#the-ruins)
-
     - [The Silent Grove [40](#the-silent-grove)](#the-silent-grove)
-
   - [Goldenwood Xen Attack](#goldenwood-xen-attack)
-
 - [Chapter 2: Redemption](#chapter-2-redemption)
-
   - [Unlocked on Chapter 2 Start](#unlocked-on-chapter-2-start)
-
     - [Quest 17: Minccino Event](#quest-17-minccino-event)
-
   - [Junction Bridge](#junction-bridge)
-
   - [Route 2](#route-2)
-
     - [Quest 18: Painter Side Quest](#quest-18-painter-side-quest)
-
   - [Amethyst Cave 1st Visit](#amethyst-cave-1st-visit)
-
   - [Post-Amethyst Cave 1st Visit](#post-amethyst-cave-1st-visit)
-
     - [Quest 19: Karrina's Gang Fight](#quest-19-karrinas-gang-fight)
-
   - [Sheridan Village](#sheridan-village)
-
     - [Quest 20: Lost Boyfriend](#quest-20-lost-boyfriend)
-
   - [Amethyst Grotto](#amethyst-grotto)
-
     - [Quest 21: Hidden Library 2](#quest-21-hidden-library-2)
-
     - [Quest 22: Stolen Cargo!](#quest-22-stolen-cargo)
-
     - [Quest 23: Trade Me!](#quest-23-trade-me)
-
     - [Quest 24: Fetch an Item!](#quest-24-fetch-an-item)
-
     - [Quest 25: Battle Request 2](#quest-25-battle-request-2)
-
     - [Quest 26: Move Relearner Quest](#quest-26-move-relearner-quest)
-
   - [Diamond Punch Badge? - Badge1.5](#diamond-punch-badge---badge1.5)
-
   - [Carotos Mountain](#carotos-mountain)
-
   - [Diamond Punch Badge](#diamond-punch-badge)
-
 - [Chapter 3: Tainted Light](#chapter-3-tainted-light)
-
   - [Cut Detour](#cut-detour)
-
   - [Chrysalis Courtyard](#chrysalis-courtyard)
-
   - [Chrysalis Manor](#chrysalis-manor)
-
     - [Quest 27: Extra Chrysalis Trial](#quest-27-extra-chrysalis-trial)
-
   - [Normality Badge](#normality-badge)
-
 - [Chapter 4: Isolation](#chapter-4-isolation)
-
   - [Detour Before Route 3](#detour-before-route-3)
-
     - [Quest 12: Virtual League (Second Gym)](#quest-12-virtual-league-second-gym)
-
   - [Journey to Goldenleaf Town](#journey-to-goldenleaf-town)
-
     - [Quest 12: Virtual League (Third & Fourth Gyms)](#quest-12-virtual-league-third-fourth-gyms)
-
     - [Mirage Woods](#mirage-woods)
-
     - [Quest 28: Broken Bell](#quest-28-broken-bell)
-
     - [Quest 29: Cranky Crobat](#quest-29-cranky-crobat)
-
     - [Route 3](#route-3)
-
     - [Phasial Cave](#phasial-cave)
-
     - [Quest 28: Broken Bell (Continue)](#quest-28-broken-bell-continue)
-
     - [The Iron Gate](#the-iron-gate)
-
   - [Goldenleaf Town](#goldenleaf-town)
-
     - [Detour Before Wispy Path](#detour-before-wispy-path)
-
   - [Journey to Wispy Tower](#journey-to-wispy-tower)
-
     - [Wispy Path](#wispy-path)
-
     - [Goldenwood Forest Revisit](#goldenwood-forest-revisit)
-
   - [Wispy Tower](#wispy-tower)
-
     - [Forsaken Laboratory](#forsaken-laboratory)
-
   - [Phantasm Badge](#phantasm-badge)
-
     - [Detour Before Wispy Ruins](#detour-before-wispy-ruins)
-
     - [Quest 16: Culvier Clan Quest (4th Member)](#quest-16-culvier-clan-quest-4th-member)
-
 - [Chapter 5: Imprisoned](#chapter-5-imprisoned)
-
   - [Wispy Ruins](#wispy-ruins)
-
     - [Mystery Egg ](#mystery-egg)
 
 **Contents in middle pending to finish.**
-
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
-
   - [Awakening Adrest](#awakening-adrest)
-
   - [December 6th \| A Light of Determination](#december-6th-a-light-of-determination)
-
   - [December 7th \| A Light of Friendship](#december-7th-a-light-of-friendship)
-
   - [December 10th \| A Light of Feathers](#december-10th-a-light-of-feathers)
-
     - [Side-story: Become a director](#side-story-become-a-director)
-
   - [December 11th \| A Light of Fire](#december-11th-a-light-of-fire)
-
     - [Legendary Wings Quest](#legendary-wings-quest)
-
     - [Teila Resort December 11th](#teila-resort-december-11th)
-
   - [December 12th \| A Light of Ice](#december-12th-a-light-of-ice)
-
   - [December 13th \| 2:00AM.](#december-13th-200am.)
-
   - [December 15th \| A Light of Family](#december-15th-a-light-of-family)
-
   - [December 16th \| A Light of Insanity](#december-16th-a-light-of-insanity)
-
   - [December 20th \| A Light of Violet Rose](#december-20th-a-light-of-violet-rose)
-
   - [December 21st \| A Light of a Violet Tower](#december-21st-a-light-of-a-violet-tower)
-
   - [December 22nd \| A Light of a Hidden Truth](#december-22nd-a-light-of-a-hidden-truth)
-
   - [December 24th \| A Light of a \#######](#december-24th-a-light-of-a)
-
   - [December 25th \| A Light of a Miracle](#december-25th-a-light-of-a-miracle)
-
 - [Appendices](#appendices)
-
   - [All Special Evolution Locations](#all-special-evolution-locations)
-
     - [Moss Rock Evolution Environment](#moss-rock-evolution-environment)
-
     - [Icy Rock Evolution Environment](#icy-rock-evolution-environment)
-
     - [Magnetic Evolution Environment](#magnetic-evolution-environment)
-
     - [Cold Evolution Environment](#cold-evolution-environment)
-
     - [Alolan Marowak Evolution Environment](#alolan-marowak-evolution-environment)
-
     - [Galarian Weezing Evolution Environment](#galarian-weezing-evolution-environment)
-
     - [Alolan Exeggutor Evolution Environment](#alolan-exeggutor-evolution-environment)
-
     - [Hisuian Lilligant Evolution Environment](#hisuian-lilligant-evolution-environment)
-
     - [Hisuian Braviary Evolution Environment](#hisuian-braviary-evolution-environment)
-
     - [Hisuian Sliggoo Evolution Environment](#hisuian-sliggoo-evolution-environment)
-
     - [Hisuian Avalugg Evolution Environment](#hisuian-avalugg-evolution-environment)
-
   - [Complete the V13.5 Dex (Pending to Update properly)](#complete-the-v13.5-dex-pending-to-update-properly)
-
     - [Must Breed](#must-breed)
-
     - [Must Evolve by Level](#must-evolve-by-level)
-
     - [Must Evolve by Item](#must-evolve-by-item)
-
     - [Must Evolve by Friendship](#must-evolve-by-friendship)
-
     - [Must Evolve by Other Means](#must-evolve-by-other-means)
-
   - [V13.5 Unobtainable Pokémon](#v13.5-unobtainable-pokémon)
-
     - [Starter Choices](#starter-choices)
-
     - [Aevian Forms:](#aevian-forms)
-
     - [Completely Unobtainable](#completely-unobtainable)
-
     - [Unobtainable Legendaries Paragon Route:](#unobtainable-legendaries-paragon-route)
-
     - [Legendaries Renegade Route:](#legendaries-renegade-route)
-
   - [Pickup Table](#pickup-table)
-
   - [Crest Descriptions](#crest-descriptions)
-
 - [Eizen Reply](#eizen-reply)
-
 - [New Quests](#new-quests)
-
   - [Spiteful Ex](#spiteful-ex)
-
   - [A Souvenir for Mom](#a-souvenir-for-mom)
-
   - [Tantalizing Temple](#tantalizing-temple)
 
 
@@ -556,9 +416,7 @@ Friendship Points. I will document all of them in this guide. (Search
 that it is irrelevant or just adds very immediate dialogue variation.
 
 **Friendship Point Choice:**
-
 -   I\'m fine. (Mom +2)
-
 -   \... (Mom -1)
 
 Once the dialogue is finished, you can explore the S.S. Oceana. In this
@@ -658,51 +516,28 @@ choose for you among the 24 starters.
 Starter Choices (You can only pick one):
 
 -   **Bulbasaur**
-
 -   **Charmander**
-
 -   **Squirtle**
-
 -   **Chikorita**
-
 -   **Cyndaquil**
-
 -   **Totodile**
-
 -   **Treecko**
-
 -   **Torchic**
-
 -   **Mudkip**
-
 -   **Turtwig**
-
 -   **Chimchar**
-
 -   **Piplup**
-
 -   **Snivy**
-
 -   **Tepig**
-
 -   **Oshawott**
-
 -   **Chespin**
-
 -   **Fennekin**
-
 -   **Froakie**
-
 -   **Rowlet**
-
 -   **Litten**
-
 -   **Popplio**
-
 -   **Grookey**
-
 -   **Scorbunny**
-
 -   **Sobble**
 
 If you want to complete as most Dex as possible, **Torchic** is the only
@@ -724,7 +559,6 @@ After having your starter, talk with Amanda to have your first battle.
 This is one you can win or lose.
 
 **League Scout Amanda (No Field). Story Mode.**
-
 -   Hatenna. Level 4.
 
     -   Tackle
@@ -732,7 +566,6 @@ This is one you can win or lose.
     -   Play Nice
 
 **League Scout Amanda (No Field). Classic Mode.**
-
 -   Hatenna. Level 5.
 
     -   Tackle
@@ -754,7 +587,6 @@ before you can take control again, you will enter another fight. Again,
 you can lose.
 
 **Pokémon Trainer Ren (No Field). Story Mode.**
-
 -   Froakie, Level 4.
 
     -   Pound
@@ -762,7 +594,6 @@ you can lose.
     -   Growl
 
 **Pokémon Trainer Ren (No Field). Classic Mode.**
-
 -   Froakie, Level 5.
 
     -   Pound
@@ -795,15 +626,10 @@ There are also items in the training rooms that are specific to gain EVs
 of such stat more quickly:
 
 -   HP Room: ***Power Weight***
-
 -   Attack Room: ***Power Bracer***
-
 -   Defense Room: ***Power Belt***
-
 -   Special Attack Room: ***Power Lens***
-
 -   Special Defense Room: ***Power Band***
-
 -   Speed Room: ***Power Anklet***
 
 In these rooms you will find two items close to the entrance, the one
@@ -864,7 +690,6 @@ Now go to those thugs who kidnapped Starly, and you will have to fight
 one of them.
 
 **Gang Member Den (City Field)**
-
 -   Story Mode: Wimpod level 7, and Grubbin level 8.
 
 -   Classic Mode: Wimpod level 8, and Grubbin level 9.
@@ -1041,7 +866,6 @@ Go to the east to find the Buizel. You will have to fight its previous
 trainer.
 
 **Charmer Buzzington (City Field)**
-
 -   Story Mode: Bulbasaur level 8, Exeggcute level 8, and Rhyhorn level
     9.
 
@@ -1099,7 +923,6 @@ him on Paragon Route and pay on Renegade route. 1 of karma isn't very
 relevant, but this one is easy enough to get/reject.
 
 **Tourist Kageyama (City Field)**
-
 -   Story Mode: Torchic level 13, Hippopotas level 12, Wingull level 13
 
 -   Classic Mode: Torchic level 12, Hippopotas level 13, Wingull level
@@ -1170,7 +993,6 @@ get a ball that is better to catch certain types depending on your
 choice:
 
 -   Left: ***Mineral Ball*** (Rock, Steel and Ground)
-
 -   Right: ***Steam Ball*** (Fire and Water)
 
 In the same room you can fight a trainer and ger a ***Great Ball***.
@@ -1193,7 +1015,6 @@ again in front of a building in Oceana Pier. Enter after her. You will
 have to defeat a trainer.
 
 **Prima Donna Stella (Factory Field)**
-
 -   Story Mode: Loppuny level 17.
 
 -   Classic Mode: Loppuny level 19.
@@ -1333,7 +1154,6 @@ several HP bars and effects may happen when changing from one bar to
 another. Remember that you are still on City Field.
 
 **Pride King (City Field). 2HP Bars. Story Mode.**
-
 -   Pyroar. Level 15.
 
     -   Take Down
@@ -1345,7 +1165,6 @@ another. Remember that you are still on City Field.
     -   Roar
 
 **Pride King (City Field). 2HP Bars. Classic Mode.**
-
 -   Pyroar. Level 20.
 
     -   Take Down
@@ -1408,7 +1227,6 @@ There are encounters in the grass here.
 Talk with the white-haired girl, Novae, to start a battle.
 
 **Wanderer Novae (City Field). Story Mode.**
-
 -   Trumbeak, Level 15.
 
     -   Pluck
@@ -1446,7 +1264,6 @@ Talk with the white-haired girl, Novae, to start a battle.
     -   Tackle
 
 **Wanderer Novae (City Field). Classic Mode.**
-
 -   Trumbeak, Level 16.
 
     -   Pluck
@@ -1518,7 +1335,6 @@ Talk to the receptionist at the Chrisola Hotel and agree to go to the
 basement.
 
 **Dance Prodigy Rorim B (No Field). Story Mode.**
-
 -   Spinda, Level 14.
 
     -   Teeter Dance
@@ -1552,7 +1368,6 @@ basement.
     -   Bubble Beam
 
 **Dance Prodigy Rorim B (No Field) Classic Mode.**
-
 -   Spinda, Level 15.
 
     -   Teeter Dance
@@ -1595,11 +1410,8 @@ Be sure to have leveled your mons for this fight, but if you did the
 other quests, you should have already done that.
 
 **Friendship Point Choice:**
-
 -   You should stop. (RorimB -1)
-
 -   Yeah, he\'s a jerk. (RorimB +2)
-
 -   The other guests\...? (RorimB +1)
 
 Upstairs, talk to the bell boy in the upper left hallway, and the girl
@@ -1802,11 +1614,8 @@ attendant. Give it to Veronica, whose other identity is Venam and she
 asks you to call her like that.
 
 **Friendship Point Choice:**
-
 -   All me. (Venam +2)
-
 -   Maybe\... (Venam +1)
-
 -   No, actually. (Nothing)
 
 Head to the southeast of town and approach Ren and Venam for a cutscene
@@ -1853,7 +1662,6 @@ the third, first, then second generator. Go back into the room Venam
 went into for a long cutscene and a battle.
 
 **Garbage Menace. 3HP Bars. (No Field) Story Mode.**
-
 -   Garbodor. Level 10.
 
     -   Pound
@@ -1865,7 +1673,6 @@ went into for a long cutscene and a battle.
     -   Attract
 
 **Garbage Menace. 3HP Bars. (No Field) Classic Mode.**
-
 -   Garbodor. Level 12.
 
     -   Pound
@@ -1957,19 +1764,13 @@ Once you are done with the Game Corner, you can go to Gearen Park and
 talk with Melia for an optional scene for Friendship Points (Melia +3).
 
 **Friendship Point Choice:**
-
 -   You like photography? (Melia +1)
-
 -   What are you doing? (Nothing)
 
 **Friendship Point Choice:**
-
 -   I love photography! (Melia +2)
-
 -   I appreciate the art! (Melia +1)
-
 -   It\'s not for me. (Neutral)
-
 -   Photography\'s boring. (Melia -2)
 
 Now, you can also head back to Magnolia Library, and you\'ll be able to
@@ -2022,7 +1823,6 @@ part. This only happens if you have yet to get the badge.
 Now return to the Gym and prepare yourself for your first Gym battle.
 
 **Punk Girl Venam (Concert Venue Field) Story Mode**
-
 -   Toxel. Level 11. @Oran Berry.
 
     -   Nuzzle
@@ -2062,7 +1862,6 @@ Now return to the Gym and prepare yourself for your first Gym battle.
     -   Venam\'s Kiss
 
 **Punk Girl Venam (Concert Venue Field) Classic Mode**
-
 -   Trubbish. Level 13. @Oran Berry.
 
     -   Rock Blast
@@ -2179,23 +1978,15 @@ actually in the game right now, and the best reward we can get is for
 120 of them.
 
 -   Reward for collecting 5 Cells: ***TM49 Echoed Voice***
-
 -   Reward for collecting 10 Cells: ***Cell Imprint***
-
 -   Reward for collecting 15 Cells: ***Cell Imprint***
-
 -   Reward for collecting 25 Cells: ***Cell Imprint***
-
 -   Reward for collecting 35 Cells: ***Cell Imprint***, ***Soothe
     Bell***
-
 -   Reward for collecting 50 Cells: ***Cell Imprint***, ***Macho
     Brace***
-
 -   Reward for collecting 75 Cells: ***Lucky Egg***
-
 -   Reward for collecting 100 Cells + 1 Core: **Zygarde 10%**
-
 -   Reward for collecting 120 Cells: ***x5 Cell Imprint***, ***x20 EXP
     Candy XL***, ***x1 Modest Mint***
 
@@ -2269,7 +2060,6 @@ based on your starter choice:
 -   Totodile 14. Phanpy 12
 
 **Gym Leader Falkner (Glitch Field). Story Mode.**
-
 -   Hoothoot, Level 10.
 
     -   Confusion
@@ -2287,7 +2077,6 @@ based on your starter choice:
     -   Echoed Voice
 
 **Gym Leader Falkner (Glitch Field). Classic Mode.**
-
 -   Hoothoot, Level 11.
 
     -   Confusion
@@ -2411,9 +2200,7 @@ Return to the fishermen to progress the quest, you will have to fight
 something that resembles a Lairon but it is a machine.
 
 **Friendship Point Choice:**
-
 -   You okay? (Melia +2)
-
 -   That was close... (Nothing)
 
 You will receive **5 *Exp. Candy S***, and **5 *Great Balls*** as reward
@@ -2471,7 +2258,6 @@ Go upstairs to find Mars, the first member of the Culvier Clan, who has
 an Aevian Leavanny at the side. Prepare for the fight.
 
 **Culvier Clan Mars (Cave Field). Story Mode.**
-
 -   Aevian Sewaddle, Level 13.
 
     -   Struggle Bug
@@ -2503,7 +2289,6 @@ an Aevian Leavanny at the side. Prepare for the fight.
     -   Me First
 
 **Culvier Clan Mars (Cave Field). Classic Mode.**
-
 -   Aevian Sewaddle, Level 15.
 
     -   Struggle Bug
@@ -2551,9 +2336,7 @@ when you are ready and teach that Prism Nidorino a lesson. It is just a
 Prism mon, not a boss, so defeating it should be easy.
 
 **Friendship Point Choice:**
-
 -   Did you get my good side?! (Melia +2)
-
 -   Don't take pictures of me... (Melia -2)
 
 A hole has opened in the mural and Melia rushes to investigate the other
@@ -2577,7 +2360,6 @@ again and asked to fight Melia in the top of the castle-structure-thing.
 Go there and fight.
 
 **Pre-Leader Melia (Forest Field) Story Mode.**
-
 -   Buneary, Level 13.
 
     -   Fake Out
@@ -2619,7 +2401,6 @@ Go there and fight.
     -   Metronome
 
 **Pre-Leader Melia (Forest Field) Classic Mode.**
-
 -   Buneary, Level 15.
 
     -   Fake Out
@@ -2698,11 +2479,8 @@ Finneon. Melia is with you, but she won\'t battle, still, she will heal
 your team if you talk to her which is already very useful.
 
 **Friendship Point Choice:**
-
 -   We have to. (Melia +2)
-
 -   I'm not so sure myself... (Nothing)
-
 -   With that attitude? Nope. (Melia -2)
 
 Now go down and you will end up finding a grunt in front of a woman.
@@ -2714,7 +2492,6 @@ Head to the blown-up lake when you\'re ready. This time Melia will fight
 with you.
 
 **Misfortunate Duo Eli and Sharon (Forest Field). Story Mode.**
-
 -   Murkrow, Level 15.
 
     -   Wing Attack
@@ -2736,7 +2513,6 @@ with you.
     -   Growl
 
 **Misfortunate Duo Eli and Sharon (Forest Field). Classic Mode.**
-
 -   Murkrow, Level 16.
 
     -   Wing Attack
@@ -2781,7 +2557,6 @@ Defeat them and advance forward to get into another battle. Alone this
 time.
 
 **Xen Executive Zetta (Forest Field). Story Mode.**
-
 -   Minior. Level 13.
 
     -   Rollout
@@ -2823,7 +2598,6 @@ time.
     -   Aerial Ace
 
 **Xen Executive Zetta (Forest Field). Classic Mode.**
-
 -   **Shadow Snorunt**. Level 14.
 
     -   Nature Power
@@ -2893,7 +2667,6 @@ it.
 Go north to see a Magikarp evolve into Rift Gyarados. Time to fight.
 
 **Rift Gyarados (Dimensional Field). 2 HP Bars. Story Mode.**
-
 -   Rift Gyarados. Level 18. Type: Water/Ghost.
 
     -   Shadow Sneak
@@ -2908,7 +2681,6 @@ Go north to see a Magikarp evolve into Rift Gyarados. Time to fight.
     will drop, and the defense will increase.
 
 **Rift Gyarados (Dimensional Field). 2 HP Bars. Classic Mode.**
-
 -   Rift Gyarados. Level 20. Type: Water/Ghost.
 
     -   Shadow Sneak
@@ -2937,7 +2709,6 @@ we have always spoken with the professor, and you will end up having to
 fight while being Melia.
 
 **Xen Executive Madelis (No Field). Story Mode.**
-
 -   Houndoom. Level 18.
 
     -   Ember
@@ -2947,7 +2718,6 @@ fight while being Melia.
     -   Snarl
 
 **Xen Executive Madelis (No Field). Classic Mode.**
-
 -   Houndoom. Level 20.
 
     -   Incinerate
@@ -3063,7 +2833,6 @@ with Karrina to proceed and enter the laboratory. Prepare for a fight.
 You can team with either Ren or Venam
 
 **Mad Scientist Dr. Jenkel (Factory Field). Story Mode**
-
 -   Munna, Level 18. @ Elemental Seed.
 
     -   Hypnosis
@@ -3098,7 +2867,6 @@ You can team with either Ren or Venam
         -   After finishing 1HP bar, it will trigger Misty Terrain.
 
 **Mad Scientist Dr. Jenkel (Factory Field). Classic Mode**
-
 -   Munna, Level 18. @ Elemental Seed.
 
     -   Hypnosis
@@ -3161,11 +2929,8 @@ trying to cross the turnstile, our free pass is only for Route 1 . Do
 it, ride the train, and a scene will trigger.
 
 **Friendship Point Choice:**
-
 -   You guys alright? (Venam -1)
-
 -   Cheer up, guys\... (Ren +1)
-
 -   \... (Neutral)
 
 ## Route 2
@@ -3403,9 +3168,7 @@ On the second Joltik on the top you can find a hidden ***HP Up***.
 Continue forward until seeing Ren, talk to him.
 
 **Friendship Point Choice:**
-
 -   Is that strange? (Ren +1)
-
 -   What about them? (Neutral)
 
 There is nothing you can do if you go to the right like Ren, so go down,
@@ -3444,7 +3207,6 @@ the item to update your Rift Dex with the information of Rift
 Galvantula. You can choose either Ren or Venam to fight at your side.
 
 **Rift Galvantula (Dimensional Field). 3HP Bars. Story Mode.**
-
 -   Galvantula, Level 22. Ability: Parental Bond. Type: Poison/Electric.
 
     -   Electroweb
@@ -3486,7 +3248,6 @@ Galvantula. You can choose either Ren or Venam to fight at your side.
     -   Rift Galvantula restores any stats dropped.
 
 **Rift Galvantula (Dimensional Field). 3HP Bars. Classic Mode.**
-
 -   Galvantula, Level 25. Ability: Parental Bond. Type: Poison/Electric.
 
     -   Electroweb
@@ -3534,9 +3295,7 @@ annoying.
 ## Post-Amethyst Cave 1st Visit
 
 **Friendship Point Choice:**
-
 -   You think I can do it? (Neutral)
-
 -   Where do I go next? (Ren +2)
 
 Once you regain control, there are some things to do here.
@@ -3614,7 +3373,6 @@ rock right there.
 Go past Karrina and speak with the Gang Leader.
 
 **Gang Member Charly (Crystal Cavern Field). Story Mode**
-
 -   Cufant, Level 21
 
 -   Vigoroth, Level 23
@@ -3622,7 +3380,6 @@ Go past Karrina and speak with the Gang Leader.
 -   Mankey, Level 21
 
 **Gang Member Charly (Crystal Cavern Field). Classic Mode**
-
 -   Cufant, Level 23
 
 -   Vigoroth, Level 24
@@ -3655,7 +3412,6 @@ just do as you are told. You will have to battle at the end. It is a
 double battle.
 
 **Apprentice Nim (Psychic Terrain). Story Mode**
-
 -   Inkay, Level 16.
 
     -   Psywave
@@ -3697,7 +3453,6 @@ double battle.
     -   Cosmic Power
 
 **Apprentice Nim (Psychic Terrain). Classic Mode**
-
 -   Inkay, Level 20.
 
     -   Psywave
@@ -3744,9 +3499,7 @@ Lunatone an Solrock with Dark moves and they do down really quickly. The
 other two are less dangerous.
 
 **Friendship Point Choice:**
-
 -   Yes (Nim +2)
-
 -   No. (Nim -2)
 
 You will receive a ***Room ID Card*** from her. Once you can move, you
@@ -3863,9 +3616,7 @@ exchange your Igglybuff for a **Smoochum** with a ***Twisted Spoon***.
 Now go upstairs and speak with Aelita.
 
 **Friendship Point Choice:**
-
 -   I will. (Aelita +3)
-
 -   Why me?? (Aelita -1)
 
 From now on healing is free when you sleep at the inn. You have to sleep
@@ -3891,9 +3642,7 @@ Now go back to Sheridan Arena and head to Keta's House. Talk with
 Aelita. Enter the house following her. Follow Keta to the garden.
 
 **Friendship Point Choice:**
-
 -   I am. (Keta +2)
-
 -   But I just got here\... (Keta -2)
 
 ## Amethyst Grotto
@@ -3941,9 +3690,7 @@ Use the Truck Guy to return to East Gearen City and go to the Chrisola
 Hotel to talk with Karen.
 
 **Friendship Point Choice:**
-
 -   The Hidden Library. (Karen +2)
-
 -   Looking for a BATHROOM (Neutral)
 
 Take a small detour the Gearen Lab and on the room where the professor
@@ -4020,28 +3767,18 @@ Now you can go north without issues. Venam will join you for the battle.
 
 **Gang Member Samwell & Gang Member Jacksin (Factory Field or Short
 Circuit). Story Mode**
-
 -   Mr. Mime, Level 21 (Samwell)
-
 -   Flaaffy, Level 22 @Eviolite (Samwell)
-
 -   Graveler, Level 23 (Samwell)
-
 -   Porygon, Level 22 (Jacksin)
-
 -   Seaking, Level 23 (Jacksin)
 
 **Gang Member Samwell & Gang Member Jacksin (Factory Field or Short
 Circuit). Classic Mode**
-
 -   Mr. Mime, Level 23 (Samwell)
-
 -   Flaaffy, Level 24 (Samwell)
-
 -   Graveler, Level 24 (Samwell)
-
 -   Porygon, Level 24 @Eviolite (Jacksin)
-
 -   Seaking, Level 24 (Jacksin)
 
 They are quite bulky in Classic because of the Eviolite on Porygon and
@@ -4095,9 +3832,7 @@ You will find Novae at the front of the inn at night, prepare to fight
 her again (double battle).
 
 **Dance Prodigy Rorim B and Wanderer Novae (Forest Field). Story Mode.**
-
 -   Oricorio Sensu, Level 23 @Maranga Berry. (Rorim B)
-
     -   Feather Dance
 
     -   Teeter Dance
@@ -4107,7 +3842,6 @@ her again (double battle).
     -   Pluck
 
 -   Lombre, Level 24. (Rorim B)
-
     -   Mega Drain
 
     -   Rain Dance
@@ -4117,7 +3851,6 @@ her again (double battle).
     -   Knock Off
 
 -   Charjabug, Level 22. (Novae)
-
     -   Spark
 
     -   Acrobatics
@@ -4127,7 +3860,6 @@ her again (double battle).
     -   Crunch
 
 -   Passimian, Level 24. (Novae)
-
     -   Rock Tomb
 
     -   Bulldoze
@@ -4138,9 +3870,7 @@ her again (double battle).
 
 **Dance Prodigy Rorim B and Wanderer Novae (Forest Field). Classic
 Mode.**
-
 -   Galarian Mr. Mime, Level 24. (Rorim B)
-
     -   Teeter Dance
 
     -   Icy Wind
@@ -4150,7 +3880,6 @@ Mode.**
     -   Psybeam
 
 -   Oricorio Sensu, Level 23 @Maranga Berry. (Rorim B)
-
     -   Feather Dance
 
     -   Teeter Dance
@@ -4160,7 +3889,6 @@ Mode.**
     -   Pluck
 
 -   Lombre, Level 25. @ Mystic Water. (Rorim B)
-
     -   Mega Drain
 
     -   Rain Dance
@@ -4170,7 +3898,6 @@ Mode.**
     -   Knock Off
 
 -   Charjabug, Level 24. (Novae)
-
     -   Spark
 
     -   Charge
@@ -4180,7 +3907,6 @@ Mode.**
     -   Crunch
 
 -   Trumbeak, Level 23. (Novae)
-
     -   Fury Attack
 
     -   Rock Smash
@@ -4190,7 +3916,6 @@ Mode.**
     -   Rock Blast
 
 -   Passimian, Level 25. (Novae)
-
     -   Rock Tomb
 
     -   Bulldoze
@@ -4227,7 +3952,6 @@ Talk with Aelita on the battlefield and Keta will come. Time to fight
 him (double battle).
 
 **Sensei Keta (Forest Field). Story Mode**
-
 -   Combusken, Level 22.
 
     -   Double Kick
@@ -4269,7 +3993,6 @@ him (double battle).
     -   Gale Strike
 
 **Sensei Keta (Forest Field). Classic Mode**
-
 -   Pignite, Level 23.
 
     -   Flame Charge
@@ -4348,9 +4071,7 @@ Aelita followed Keta, so we must also follow her.
 A scene will play out as soon as you enter.
 
 **Friendship Point Choice:**
-
 -   Yes. (Aelita +1)
-
 -   No. (Aelita -1)
 
 Aelita will team up with you.
@@ -4438,7 +4159,6 @@ Snag Machine will stop working, so don't hope to catch it. It is a
 double battle with Keta aiding you.
 
 **Xen Executive Madelis (No Field). Story Mode.**
-
 -   Shadow Mewtwo, Level 27. 2HP Bars
 
     -   Shadow Beam (20 base damage)
@@ -4497,7 +4217,6 @@ double battle with Keta aiding you.
     -   Nasty Plot
 
 **Xen Executive Madelis (No Field). Classic Mode.**
-
 -   Shadow Mewtwo, Level 30. 2HP Bars
 
     -   Shadow Beam (40 base damage)
@@ -4565,19 +4284,14 @@ Beam hits hard and to everyone.
 You will be teleported to another area with Aelita.
 
 **Friendship Point Choice:**
-
 -   Thanks, Aelita. (Aelita +2)
-
 -   I can handle myself. (Aelita -- 2)
 
 Advance a bit for another choice.
 
 **Friendship Point Choice:**
-
 -   He's trying. (Aelita +1)
-
 -   He threw Sheridan away. (Neutral)
-
 -   He's a terrible person (Aelita -4)
 
 Go south to find ***TM43 Flame Charge***. Now go north, there are some
@@ -4616,7 +4330,6 @@ Go north to discover the poor Volcanion is just a child, but we will
 have to gith it to free it from its pain.
 
 **Rift Volcanion (Dimensional Field). 3HP Bars. Story Mode**
-
 -   Volcanion, Level 24. Ability: Water Absorb.
 
     -   Steam Eruption
@@ -4650,7 +4363,6 @@ have to gith it to free it from its pain.
     -   Rock Throw
 
 **Rift Volcanion (Dimensional Field). 3HP Bars. Classic Mode**
-
 -   Volcanion, Level 28. Ability: Water Absorb.
 
     -   Steam Eruption
@@ -4722,7 +4434,6 @@ one that has an old man on the left side. Inside you will be able to
 fight Crescent's Gothitelle.
 
 **Crescent\'s Gothitelle (No Field). 2 HP Bars. Story Mode.**
-
 -   Gothitelle, Level 32.
 
     -   Fake Tears
@@ -4736,7 +4447,6 @@ fight Crescent's Gothitelle.
 -   After clearing 1 HP bar, Defense increase.
 
 **Crescent\'s Gothitelle (No Field). 2 HP Bars. Classic Mode.**
-
 -   Gothitelle, Level 35.
 
     -   Fake Tears
@@ -4792,9 +4502,7 @@ way to go, so we will need to go from Goldenleaf Town, which we can
 reach through Route 3 west od Sheridan Village.
 
 **Karma Point Choice:**
-
 -   Are you ok? (+1 Karma)
-
 -   Who\'s Vivian? (Neutral)
 
 Once you are in control, you can purify some mons if you want, they will
@@ -4857,7 +4565,6 @@ The rest of ways are blocked, so go south to the sewers and talk to
 Amanda, who is blocking the entrance. You will battle her.
 
 **League Scout Amanda (City Field). Story Mode**
-
 -   Bronzor, Level 21. @ Heat Rock.
 
     -   Sunny Day
@@ -4899,7 +4606,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Aromatherapy
 
 **League Scout Amanda (City Field). Classic Mode**
-
 -   Bronzor, Level 24. @ Heat Rock.
 
     -   Sunny Day
@@ -4956,11 +4662,8 @@ Classic, otherwise, it may be though.
 After beating her you will receive the ***HM01 Cut***.
 
 **Friendship Point Choice:**
-
 -   I\'ll get it done! (Karrina +2, Aelita +1)
-
 -   \... (Neutral)
-
 -   I\'m kinda scared\... (Karrina -2)
 
 Note that if you got the *Golden Axe*, you can no cut trees without
@@ -5015,9 +4718,7 @@ find yourself in a courtyard.
 Friendship Point Choice:
 
 -   Hi Lucha. (Venam +1)
-
 -   You\'re Venam\'s friend? (Venam +2)
-
 -   Have we met? (Neutral)
 
 **Chrysalis Courtyard Encounters** **(Grassy Terrain)**
@@ -5095,17 +4796,13 @@ them. Very useful for replays.]</u>
 Friendship Point Choice:
 
 -   Yeah, I am. (Marianette -1)
-
 -   It was nothing\... (Marianette +2)
-
 -   You flatter me\... (Marianette +1)
-
 -   Say it again. (Marianette -2)
 
 Now gave to fight a servant with that annoying Dusknoir.
 
 **Servant Moya (Grassy Terrain). Story Mode**
-
 -   Dusknoir, Level 28. 2 Shields.
 
     -   Shadow Punch
@@ -5128,7 +4825,6 @@ Now gave to fight a servant with that annoying Dusknoir.
     -   Thunderpunch
 
 **Servant Moya (Grassy Terrain). Classic Mode**
-
 -   Dusknoir, Level 30. @ Dusknoir Crest. 2 Shields.
 
     -   Shadow Punch
@@ -5154,21 +4850,15 @@ You have Marianette's help, and this shouldn't be a difficult battle if
 you got super effective moves.
 
 **Friendship Point Choice:**
-
 -   It was cool. (Neutral)
-
 -   Calm down. (Marianette -3)
-
 -   You were a great help! (Marianette +3)
 
 Go through the northern entrance to save Luca.
 
 **Friendship Point Choice:**
-
 -   You\'re growing. (Marianette +2)
-
 -   Yeah, you are. (Marianette -2)
-
 -   You can change that! (Marianette +3)
 
 Go back to the labyrinth. While returning, we will be getting the items
@@ -5180,7 +4870,6 @@ bifurcation again, go north. You will already see the maid, speak with
 her for a battle.
 
 **Servant Lara (Grassy Terrain). Story Mode**
-
 -   Herdier, Level 25
 
 -   Sliggoo, Level 25
@@ -5188,7 +4877,6 @@ her for a battle.
 -   Doublade, Level 25
 
 **Servant Lara (Grassy Terrain). Classic Mode**
-
 -   Herdier, Level 25
 
 -   Sliggoo, Level 25
@@ -5223,7 +4911,6 @@ Continue up to fin another maid of the optional trial hiding on the left
 corner, half-covered by a tree.
 
 **Servant Yara (Grassy Terrain). Story Mode**
-
 -   Nosepass, Level 26
 
 -   Togetic, Level 26
@@ -5231,7 +4918,6 @@ corner, half-covered by a tree.
 -   Misdreavus, Level 26
 
 **Servant Yara (Grassy Terrain). Classic Mode**
-
 -   Nosepass, Level 25
 
 -   Togetic, Level 26
@@ -5253,11 +4939,8 @@ Right, Up, Up, Right, Up.
 You can now save Lenny.
 
 **Friendship Point Choice:**
-
 -   To instill fear. (Marianette +2)
-
 -   Who knows? (Marianette -1)
-
 -   It\'s a fun hobby! (Marianette -3)
 
 Now, go back to the mansion and left through the southern gate, which
@@ -5266,7 +4949,6 @@ going to the mansion. Between the two flower gardens of the left side on
 the south there is the last maid you were looking for.
 
 **Servant Deandra (Grassy Terrain). Story Mode**
-
 -   Arbok, Level 26
 
 -   Ribombee, Level 25
@@ -5274,7 +4956,6 @@ the south there is the last maid you were looking for.
 -   Hypno, Level 26
 
 **Servant Deandra (Grassy Terrain). Classic Mode**
-
 -   Arbok, Level 24
 
 -   Cutiefly, Level 25
@@ -5304,11 +4985,8 @@ the Absol statues.
 This trial will be timed, but you will see the timer.
 
 **Friendship Point Choice:**
-
 -   I\'ll be fine! (Marianette +1)
-
 -   HURRY AND FREE ME! (Marianette -4)
-
 -   It\'s okay, stay calm (Marianette +4)
 
 The first two rooms are easy, and you can get a ***Max Repel*** on the
@@ -5324,9 +5002,7 @@ the respective tile without getting caught by Tangrowth, then guide
 Tangrowth to its own tile.
 
 **Friendship Point Choice:**
-
 -   You did well. (Marianette +4)
-
 -   You cut it kinda close\... (Marianette -2)
 
 Go north to find the final soul, Venam's soul, you will get some
@@ -5334,9 +5010,7 @@ additional dialogue and a choice only if you have at least 5 Friendship
 Points with Marianette.
 
 **Friendship Point Choice:**
-
 -   It\'s okay Marianette. (Marianette +8)
-
 -   I don\'t know\... (Marianette -12)
 
 ## Normality Badge
@@ -5376,7 +5050,6 @@ mons there. Once you won the next fight, you won't be able to
 anymore.]</u>
 
 **Child of Light Marianette (Blessed Field). Story Mode**
-
 -   Hisuian Zorua, Level 25. @ Focus Band
 
     -   Hyper Beam
@@ -5394,7 +5067,6 @@ anymore.]</u>
     -   Future Sight
 
     -   Multipulse (Fighting)
-
     -   Wish
 
 -   Chatot, Level 26. @ Earth Plate
@@ -5404,7 +5076,6 @@ anymore.]</u>
     -   Nasty Plot
 
     -   Multipulse (Earth)
-
     -   Roost
 
 -   Bewear, Level 27.
@@ -5418,7 +5089,6 @@ anymore.]</u>
     -   Brutal Swing
 
 **Child of Light Marianette (Blessed Field). Classic Mode**
-
 -   Delcatty, Level 27. @ Splash Plate.
 
     -   Cosmic Power
@@ -5428,7 +5098,6 @@ anymore.]</u>
     -   Hyper Voice
 
     -   Multipulse (Water)
-
 -   Indeedee, Level 27. @ Fist Plate.
 
     -   Draining Kiss
@@ -5436,7 +5105,6 @@ anymore.]</u>
     -   Psyshock
 
     -   Multipulse (Fighting)
-
     -   Magical Leaf
 
 -   Stantler, Level 27. @ Icicle Plate.
@@ -5446,7 +5114,6 @@ anymore.]</u>
     -   Work Up
 
     -   Multipulse (Ice)
-
     -   Stomping Tantrum
 
 -   Hisuian Zorua, Level 28. @ Focus Sash
@@ -5466,7 +5133,6 @@ anymore.]</u>
     -   Nasty Plot
 
     -   Multipulse (Steel)
-
     -   Hyper Voice
 
 -   Bewear, Level 29. @ Leftovers
@@ -5589,7 +5255,6 @@ Your teams will be one of the following based on your starter choice:
 -   Croconaw 16. Growlithe 16. Phanpy 16.
 
 **Gym Leader Bugsy (Glitch Field). Story Mode.**
-
 -   Ariados, Level 13.
 
     -   Night Shade
@@ -5615,7 +5280,6 @@ Your teams will be one of the following based on your starter choice:
     -   Pursuit
 
 **Gym Leader Bugsy (Glitch Field). Classic Mode.**
-
 -   Ariados, Level 14.
 
     -   Night Shade
@@ -5670,7 +5334,6 @@ On the southern part, you will see a couple of characters with Throh and
 Sawk. Speak with them, and you will have to fight.
 
 **Battle Girl Janelle (Forest Field). Story Mode.**
-
 -   Sandslash, Level 30.
 
     -   Crush Claw
@@ -5712,7 +5375,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Brick Break
 
 **Battle Girl Janelle (Forest Field). Classic Mode.**
-
 -   Sandslash, Level 32.
 
     -   Crush Claw
@@ -5829,7 +5491,6 @@ Your team depending on what you chose as starter:
 -   Croconaw 22. Growlithe 21. Phanpy 21.
 
 **Gym Leader Whitney (Glitch Field). Story Mode**
-
 -   Clefairy, Level 17.
 
     -   Double Slap
@@ -5857,7 +5518,6 @@ Your team depending on what you chose as starter:
     -   Attract
 
 **Gym Leader Whitney (Glitch Field). Classic Mode**
-
 -   Clefairy, Level 19.
 
     -   Double Slap
@@ -5909,7 +5569,6 @@ Your team depending on what you chose as starter:
 -   Croconaw 25. Growlithe 25. Donphan 25. Eevee 25.
 
 **Gym Leader Morty (Glitch Field). Story Mode**
-
 -   Misdreavus, Level 20.
 
     -   Confuse Ray
@@ -5951,7 +5610,6 @@ Your team depending on what you chose as starter:
     -   Night Shade
 
 **Gym Leader Morty (Glitch Field). Classic Mode**
-
 -   Misdreavus, Level 22.
 
     -   Confuse Ray
@@ -6146,7 +5804,6 @@ that Golden Lantern works, so no need to teach the move if you have it,
 but the TM must be owned. Use it and battle will begin.
 
 **Furious Crobat (Cave Field)**
-
 -   Crobat, Level 38. 4 HP Bars. @ Flying Gem
 
     -   Cross Poison
@@ -6245,9 +5902,7 @@ Everything here requires daytime. Speak with Aelita during the day for
 an event.
 
 **Friendship Point Choice:**
-
 -   I\'m starving\... (Aelita +2)
-
 -   No distractions! (Neutral)
 
 The first option isn't only Friendship Point, you will also get
@@ -6445,17 +6100,13 @@ Interact with Aelita since you can't enter, now go to the campfire we
 saw earlier (northeast) and interact with the tent.
 
 **Friendship Point Choice:**
-
 -   A Gym Battle! (Ren +1)
-
 -   Wanna see the sights\~ (Ren +1)
-
 -   No reason\... (Ren -2)
 
 Now you have to talk with Alita for a battle.
 
 **Student Aelita (Forest Field) Story Mode**
-
 -   Staravia, Level 27.
 
     -   Aerial Ace
@@ -6497,7 +6148,6 @@ Now you have to talk with Alita for a battle.
     -   Night Slash
 
 **Student Aelita (Forest Field) Classic Mode**
-
 -   Gligar, Level 29.
 
     -   Aerial Ace
@@ -6843,7 +6493,6 @@ He will fight you before entrusting you to deal with the Dimensional
 Rift though. It is a 3vs3, so you will have to choose.
 
 **International Police \"C\" (No Field). Story Mode**
-
 -   Orbeetle, Level 29.
 
     -   Struggle Bug
@@ -6875,7 +6524,6 @@ Rift though. It is a 3vs3, so you will have to choose.
     -   Bug Bite
 
 **International Police \"C\" (No Field). Classic Mode.**
-
 -   Orbeetle, Level 30.
 
     -   Signal Beam
@@ -6973,7 +6621,6 @@ Now go down to where the lake used to be and a cutscene will trigger and
 you will have to fight Rift Gyarados.
 
 **Dimensional Rift Gyarados (Forest Field). Story Mode.**
-
 -   Rift Gyarados, Level 31. Type: Water/Ghost. 3 HP Bars.
 
     -   Phantom Force
@@ -7007,7 +6654,6 @@ you will have to fight Rift Gyarados.
     -   Screech
 
 **Dimensional Rift Gyarados (Forest Field). Classic Mode.**
-
 -   Rift Gyarados, Level 35. Type: Water/Ghost. 3 HP Bars.
 
     -   Phantom Force
@@ -7050,9 +6696,7 @@ us and we will get a Mystery Egg and +1 Karma.
 The Mystery Egg can be one of the following:
 
 -   **Sizzlipede**
-
 -   **Joltik**
-
 -   **Blipbug**
 
 All of them can be gotten later, so nothing is missable. Like the
@@ -7078,20 +6722,15 @@ the right of a flower, there is a hidden ***Bold Mint***. Now enter the
 tower since we can't do anything else here.
 
 **Friendship Point Choice:**
-
 -   I accept! (Aelita +2, Narcissa +4)
-
 -   I dunno\... (Aelita -1, Narcissa -2)
 
 Return to Goldenleaf Town and speak with Aelita inside the Pokémon
 Center.
 
 **Friendship Point Choice:**
-
 -   It was nothing. (Ren +2, Aelita +2)
-
 -   Kinda uncomfortable. (Ren +1, Aelita +1)
-
 -   Uhh what\'s happening? (Neutral)
 
 You will end up in a battle against Ghost Girl Saria again, nothing to
@@ -7110,11 +6749,8 @@ After the fight you get introduced to Mosely, who you met the first time
 you put foot on the town.
 
 **Friendship Point Choice:**
-
 -   How\'d you know? (Neutral)
-
 -   I want to go home. (Mosely -2)
-
 -   Time to whoop ass! (Neutral)
 
 Time to return to Wispy Tower. Once inside, go through the newly
@@ -7152,18 +6788,14 @@ machine next to the other door to continue. Inside, interact with the
 black and white screen.
 
 **Friendship Point Choice:**
-
 -   Gregory? (Neutral)
-
 -   Sirius hid this. (Neutral)
-
 -   You seriously didn't know? (Mosely -2, Narcissa -2)
 
 Return to the main room, and go north though the way just opened and
 prepare to fight a double battle.
 
 **Team Xen Eli and Sharon (Short Circuit Field). Story Mode**
-
 -   Honchkrow, Level 30.
 
     -   Night Slash
@@ -7205,7 +6837,6 @@ prepare to fight a double battle.
     -   Knock Off
 
 **Team Xen Eli and Sharon (Short Circuit Field). Classic Mode**
-
 -   Tangela, Level 31. @ Eviolite.
 
     -   Giga Drain
@@ -7254,39 +6885,25 @@ We will be having another battle, so heal first before continuing
 upwards.
 
 **Renegade Giratina (Short Circuit Field). Story Mode**
-
 -   Giratina, Level 33. 3HP Bars.
-
     -   Shadow Claw
-
     -   Dragon Breath
-
     -   Slash
-
     -   Scary Face
-
 -   After you finish 1HP Bar, Giratina will heal stat changes and lower
     your Attack.
-
 -   After you finish 2HP bars, Giratina will lower everyone's Defense
     and Special Defense, but Giratina will get them lowered twos stages
     while you only one.
 
 **Renegade Giratina (Short Circuit Field). Classic Mode**
-
 -   Giratina, Level 35. 3HP Bars.
-
     -   Shadow Claw
-
     -   Dragon Breath
-
     -   Slash
-
     -   Icy Wind
-
 -   After you finish 1HP Bar, Giratina will heal stat changes and lower
     your Attack and Special Attack.
-
 -   After you finish 2HP bars, Giratina will lower everyone's Defense
     and Special Defense.
 
@@ -7299,107 +6916,57 @@ Now time to fight Geara, it is a double battle. You will be healed
 before fortunately.
 
 **Xen Executive Geara (Short Circuit Field). Story Mode**
-
 -   Clefairy, Level 32.
-
     -   Light Screen
-
     -   Gravity
-
     -   Icy Wind
-
     -   Dazzling Gleam
-
 -   Persian, Level 30.
-
     -   Dig
-
     -   Covet
-
     -   Aerial Ace
-
     -   Taunt
-
 -   Morgrem, Level 30.
-
     -   Reflect
-
     -   Assurance
-
     -   Fake Out
-
     -   Foul Play
-
 -   Haunter, Level 32.
-
     -   Hex
-
     -   Sucker Punch
-
     -   Spite
-
     -   Venoshock
 
 **Xen Executive Geara (Short Circuit Field). Classic Mode**
-
 -   Persian, Level 31. @ Normal Gem.
-
     -   Dig
-
     -   Covet
-
     -   Aerial Ace
-
     -   Seed Bomb
-
 -   Alolan Marowak, Level 32. @ Thick Club.
-
     -   Bonemerang
-
     -   Shadow Bone
-
     -   Fire Punch
-
     -   Will-o-Wisp
-
 -   Masquerain, Level 32. @ Charti Berry.
-
     -   Struggle Bug
-
     -   Shadow Ball
-
     -   Bubblebeam
-
     -   Air Slash
-
 -   Morgrem, Level 33. @ Light Clay.
-
     -   Reflect
-
     -   Light Screen
-
     -   Dazzling Gleam
-
     -   Foul Play
-
 -   Clefairy, Level 34. @ Eviolite.
-
     -   Thunder Wave
-
     -   Follow Me
-
     -   Icy Wind
-
     -   Dazzling Gleam
-
 -   Haunter, Level 34. @ Wise Glasses.
-
     -   Shadow Ball
-
     -   Sucker Punch
-
     -   Will-o-Wisp
-
     -   Clear Smog
 
 Geara is quite strong, but the most troublesome one is Eviolite
@@ -7418,11 +6985,8 @@ Once you enter the gym, or rather the Goldenleaf Theatre, you will get
 into a cutscene.
 
 **Friendship Point Choice:**
-
 -   This will work. (Ren +2)
-
 -   I\'m unsure\... (Ren +1)
-
 -   It\'s a stupid idea. (Ren -2)
 
 Go up and enter the left door once you can.
@@ -7455,123 +7019,66 @@ PC before continuing. God moment to save. Proceed to the north until Ren
 stops you when you interact with a back mirror.
 
 **Friendship Point Choice:**
-
 -   Go ahead, Ren. (Ren +4)
-
 -   No. (Ren -4)
 
 **Pokémon Trainer Ren. (Haunted Field). Story Mode**
-
 -   Sableye, Level 30.
-
     -   Recover
-
     -   Confuse Ray
-
     -   Night Shade
-
     -   Secret Power
-
 -   Growlithe, Level 31.
-
     -   Howl
-
     -   Flame Charge
-
     -   Double Kick
-
     -   Thunder Fang
-
 -   Cacturne, Level 31.
-
     -   Needle Arm
-
     -   Secret Power
-
     -   Leech Seed
-
     -   Spiky Shield
-
 -   Frogadier, Level 32. @ Mystic Water.
-
     -   Water Pledge
-
     -   Icy Wind
-
     -   Lick
-
     -   Hidden Power Electric
-
 -   Corvisquire, Level 35. @ Eviolite.
-
     -   Frill Peck
-
     -   Rock Smash
-
     -   Pluck
-
     -   Spite
 
 **Pokémon Trainer Ren. (Haunted Field). Classic Mode**
-
 -   Sableye, Level 33. @ Leftovers.
-
     -   Recover
-
     -   Confuse Ray
-
     -   Night Shade
-
     -   Secret Power
-
 -   Arcanine, Level 33. @ Sitrus Berry.
-
     -   Howl
-
     -   Flamethrower
-
     -   Hidden Power Ghost
-
     -   Thunder Fang
-
 -   Cacturne, Level 34. @ Occa Berry.
-
     -   Needle Arm
-
     -   Secret Power
-
     -   Leech Seed
-
     -   Spiky Shield
-
 -   Vibrava, Level 33.
-
     -   Ominous Wind
-
     -   Bulldoze
-
     -   Dragon Pulse
-
     -   Rock Tomb
-
 -   Frogadier, Level 34. @ Mystic Water.
-
     -   Water Pledge
-
     -   Icy Wind
-
     -   Secret Power
-
     -   Hidden Power Ghost
-
 -   Corvisquire, Level 35. @ Eviolite.
-
     -   Spite
-
     -   Roost
-
     -   Take Down
-
     -   Drill Peck
 
 I feel bad for Ren, but he isn't a challenge here. When you defeat him,
@@ -7586,107 +7093,57 @@ Potion***, ***Rawst Berry***, and ***Rare Candy***.
 Go to your spot in the battlefield to begin the battle.
 
 **Actress Narcissa (Haunted Field over Forest Field). Story Mode**
-
 -   Aevian Mismagius, Level 31.
-
     -   Spectral Scream
-
     -   Magical Leaf
-
     -   Forest Curse
-
     -   Confuse Ray
-
 -   Mimikyu, Level 30.
-
     -   Copycat
-
     -   Curse
-
     -   Shadow Claw
-
     -   Slash
-
 -   Lampent, Level 32.
-
     -   Flame Charge
-
     -   Confuse Ray
-
     -   Night Shade
-
     -   Fire Spin
-
 -   Dusclops, Level 35. @ Leftovers.
-
     -   Spectral Scream
-
     -   Night Shade
-
     -   Spite
-
     -   Will-o-Wisp
 
 **Actress Narcissa (Haunted Field over Forest Field). Classic Mode**
-
 -   Drifblim, Level 32. @ Kasi Berry.
-
     -   Spectral Scream
-
     -   Night Shade
-
     -   Hidden Power Fighting
-
     -   Icy Wind
-
 -   Mimikyu, Level 32.
-
     -   Shadow Claw
-
     -   Copycat
-
     -   Play Rough
-
     -   Shadow Sneak
-
 -   Polteageist, Level 33. @ Colbur Berry.
-
     -   Will-o-Wisp
-
     -   Spectral Scream
-
     -   Mega Drain
-
     -   Psyshock
-
 -   Lampent, Level 34. @ Magical Seed
-
     -   Confuse Ray
-
     -   Fire Spin
-
     -   Spectral Scream
-
     -   Hidden Power Grass
-
 -   Aevian Mismagius, Level 34. @ Spooky Plate.
-
     -   Hone Claws
-
     -   Shadow Sneak
-
     -   Shadow Claw
-
     -   Seed Bomb
-
 -   Dusclops, Level 35. @ Sitrus Berry.
-
     -   Night Shade
-
     -   Will-o-Wisp
-
     -   Spectral Scream
-
     -   Pain Split
 
 Spectral Scream: Ghost \| Special \| 65 power \| 100% accuracy \| 60%
@@ -7749,107 +7206,57 @@ Luck with Sensei Keta. The recommended level is 45, and we are 40, but
 it will be quite long until we get our fifth badge and can return here.
 
 **Sensei Keta (Blessed Field). Story Mode**
-
 -   Ninetales, Level 41.
-
     -   Flamethrower
-
     -   Confuse Ray
-
     -   Hex
-
     -   Extrasensory
-
 -   Krookodile, Level 40.
-
     -   Crunch
-
     -   Earthquake
-
     -   Hone Claws
-
     -   Outrage
-
 -   Lapras, Level 41. @Sitrus Berry
-
     -   Surf
-
     -   Dragon Pulse
-
     -   Freeze Dry
-
     -   Ancient Power
-
 -   Gallade, Level 42. @Sitrus Berry
-
     -   Sacred Sword
-
     -   Zen Headbutt
-
     -   Shadow Sneak
-
     -   Slash
 
 **Sensei Keta (Blessed Field). Classic Mode**
-
 -   Espeon, Level 44.
-
     -   Calm Mind
-
     -   Psyshock
-
     -   Dazzling Gleam
-
     -   Hyper Voice
-
 -   Roserade, Level 44. @Icicle Plate
-
     -   Magical Leaf
-
     -   Nature Power
-
     -   Sludge Bomb
-
     -   Stun Spore
-
 -   Ninetales, Level 44. @Magical Seed
-
     -   Mystical Fire
-
     -   Will-O-Wisp
-
     -   Hex
-
     -   Extrasensory
-
 -   Krookodile, Level 43. @Dragon Gem
-
     -   Crunch
-
     -   Earthquake
-
     -   Hone Claws
-
     -   Outrage
-
 -   Lapras, Level 44. @Sitrus Berry
-
     -   Surf
-
     -   Psychic
-
     -   Freeze Dry
-
     -   Ancient Power
-
 -   Gallade, Level 44. @Black Belt
-
     -   Sacred Sword
-
     -   Psycho Cut
-
     -   Bulk Up
-
     -   Leaf Blade
 
 This time, the difference between Classic Mode and Story Mode can be the
@@ -7902,35 +7309,20 @@ you can defeat the Culvier Clan member who has the Level 10 Abra, Level
 in the 3rd Floor of the Aqua Building in East Gearen City.
 
 **Challenger Mercury (No Field)**
-
 -   Abra, Level 10. @ Focus Sash
-
     -   Light Screen
-
     -   Thunderwave
-
     -   Trick Room
-
     -   Reflect
-
 -   Kadabra, Level 45. @ Red Card
-
     -   Psychic
-
     -   Energy Ball
-
     -   Shadow Ball
-
     -   Calm Mind
-
 -   Alakazam, Level 85. @ Twisted Spoon
-
     -   Psychic
-
     -   Dazzling Gleam
-
     -   Toxic
-
     -   Recover
 
 No difference between modes here.
@@ -8048,47 +7440,26 @@ you create the save. Some can be gotten earlier than others, but on this
 version, you can get them all later.
 
 **Route 2 Mystery Egg:**
-
 -   **Azurill**
-
 -   **Aron**
-
 -   **Absol**
-
 -   **Togepi**
-
 -   **Sneasel**
-
 -   **Dhelmise**
-
 -   **Aevian Litwick**
-
 -   **Axew**
-
 -   **Mienfoo**
-
 -   **Pawniard**
-
 -   **Trapinch**
-
 -   **Hippopotas**
-
 -   **Cottonee**
-
 -   **Darumaka**
-
 -   **Hatenna**
-
 -   **Starly**
-
 -   **Tyrunt**
-
 -   **Larvesta**
-
 -   **Mareanie**
-
 -   **Stufful**
-
 -   **Rookidee**
 
 Of these, **Azurill** is the only one you have to breed on purpose since
@@ -8164,16 +7535,13 @@ Walk to Erin in the League Administration Area to begin the Karma Files.
 Friendship Point Choice:
 
 -   Do what? (No change)
-
 -   Time to awaken Adrest. (No change)
-
 -   Your hair is nice today. (Erin +1)
 
 Then you are given another choice.
 
 -   I need time... (Let's you go to your destination Obelisk on your
     own)
-
 -   Let's walk. (Moves you directly to the Obelisk)
 
 Once you are into the Obelisk map, talk with it and select Yes to
@@ -8191,7 +7559,6 @@ have positive Karma. If you touch them your soul will be Rejuvenated.
 Continue upwards and you will be thrown into a battle.
 
 **Interceptor Crescent (Deep Earth Field)**
-
 -   Aevian Bronzong. Level 86. @Leftovers.
 
     -   Iron Defense
@@ -8266,7 +7633,6 @@ effect.
 Friendship Point Choice:
 
 -   You good? (No change)
-
 -   Still Crying? (Crescent -1)
 
 Now go to talk to the dormant Adrest again and select Yes. The next
@@ -8318,7 +7684,6 @@ Move forward to get a choice.
 Friendship Point Choice:
 
 -   Aelita (Aelita +2)
-
 -   Ren (Ren +2)
 
 Now you can speak about your friends. You can choose to speak with them
@@ -8334,7 +7699,6 @@ but the second does.
 Friendship Point Choice:
 
 -   It's not fair. (Crescent +1)
-
 -   I'm sorry. (Nothing)
 
 Continue with the story and you get your eighth stamp on Somniam Mall
@@ -8348,9 +7712,7 @@ the reply, but the second one has friendship points.
 Friendship Point Choice:
 
 -   They are like your old Friends (Crescent -1)
-
 -   Just give them time. (Crescent +1)
-
 -   Sometimes it can't work (Nothing)
 
 Now, you are in control again, so go to speak with Erin, Kanon is with
@@ -8359,9 +7721,7 @@ her.
 Friendship Point Choice:
 
 -   They like you. (Crescent -1)
-
 -   That was rough. (Nothing)
-
 -   Why so hesitant? (Crescent +1)
 
 Once you can move again, go up to talk with Aelita who is making a fuss
@@ -8372,9 +7732,7 @@ would be dead.
 Friendship Point Choice:
 
 -   Something wrong? (Crescent +1)
-
 -   Aelita's nice. (Crescent -1)
-
 -   Why so hesitant? (Crescent -2)
 
 Go down to the table where your friends are and talk with Melia to
@@ -8392,9 +7750,7 @@ Now you have to go to the Night Market and approach Ren.
 Friendship Point Choice:
 
 -   You look great! (Ren +3)
-
 -   I miss Robo-Ren (Nothing)
-
 -   Yikes. (Ren -2)
 
 There is another choice, but this one only changes the reply. Once
@@ -8411,9 +7767,7 @@ points.
 Friendship Point Choice:
 
 -   We can do this... (Melia +2)
-
 -   Maybe we're screwed... (Melia -2)
-
 -   No idea. (Nothing)
 
 Leave Zeight and you will find yourself at The Silent Grove. The choice
@@ -8433,9 +7787,7 @@ Go up and the story will continue.
 Friendship Point Choice:
 
 -   How are things, Huey? (Huey +2, Lavender +2, Reina +3)
-
 -   Sup. (Nothing)
-
 -   (Ignore) (Huey -2, Lavender -2, Reina -4)
 
 Now we got dragged into investigating the 7 Wonders of Grand Deam City.
@@ -8444,7 +7796,6 @@ First, we have to go to Somniam Mall and interact with fountain in front
 of Ren.
 
 **Shooting Star (Water Surface)**
-
 -   Starmie. Boss Level 88. 2 Hp Bars. @Petaya Berry.
 
     -   Surf
@@ -8474,7 +7825,6 @@ Ince the battle is over you continue with the story.
 Friendship Point Choice:
 
 -   Do it anyway! (Nothing)
-
 -   Robo-Ren would break. (Ren +2)
 
 Once you can move again, your new objective will be to take the subway
@@ -8485,18 +7835,14 @@ the station.
 Friendship Point Choice:
 
 -   Not cool, Ren! (Nothing)
-
 -   Okay, you got me. (Ren +2)
-
 -   I wasn't scared... (Ren +1)
-
 -   You're an idiot. (Ren -2)
 
 Go down and into the graveyard. The grave you need to talk to is the one
 under the old woman, which have candles with blue fire instead of red.
 
 **Old Lady Haggie (City Field)**
-
 -   Stoutland. Level 87 (78 shown in the game but 87 on files.).
 
 -   Arcanine. Level 90 (81 shown in the game but 90 on files).
@@ -8508,9 +7854,7 @@ She isn't hard to defeat.
 Friendship Point Choice:
 
 -   Me too... (Ren +2)
-
 -   So there's no ghost? (Nothing)
-
 -   We should take the Zinc. (Ren -2)
 
 Go south to the Judicial District. Go up in the small garden left of the
@@ -8540,11 +7884,8 @@ Field. Defeat it or catch it to continue.
 Friendship Point Choice:
 
 -   Oof... My Stomach... (Ren +3)
-
 -   It wasn't that bad. (Ren +1)
-
 -   I liked it. (Ren -1)
-
 -   Rumbly Tumbly... (Nothing)
 
 After this we already have six of the seven wonders, so just one more to
@@ -8555,7 +7896,6 @@ Gym's test, and the seven wonder is to fight him. You already have his
 badge, so Talon says it is a battle for fun.
 
 **Cartographer Talon (Sky Field)**
-
 -   Noivern. Level 87. @Life Orb.
 
     -   Flamethrower
@@ -8583,7 +7923,6 @@ badge, so Talon says it is a battle for fun.
     -   Hurricane
 
     -   Hidden Power (Grass)
-
     -   Tailwind
 
 -   Butterfree. Level 89. @Butterfreenite.
@@ -8626,7 +7965,6 @@ Friendship Point Choice (Venam must be have at least 10 Friendship
 Points):
 
 -   I haven't noticed? (Venam +3)
-
 -   Yeah, I have... (Nothing)
 
 Now we are taking a detour, if you want to skip it talk with Lavender
@@ -8699,7 +8037,6 @@ Movie World, so unless you think you will need them, you can ignore
 them. Choices here are inconsequential.
 
 Firebrand Enya (No Field)
-
 -   Togedemaru. Level 10 (12 in script).
 
     -   Tackle
@@ -8810,7 +8147,6 @@ premiers to get a gift.
 Go back to your director chair to enter the final filming session.
 
 **Mayor Lucile (No Field)**
-
 -   Joltik. Level 11.
 
     -   String Shot
@@ -8866,7 +8202,6 @@ Cross the opened door to use the elevator to reach a new floor, advance
 though the only way to trigger another cutscene.
 
 **Splicer Admin Sierra (Factory Field)**
-
 -   Cubone. Level 18.
 
     -   Bone Club
@@ -8983,7 +8318,6 @@ you are paired with Aelita who also choses three. Your opponents are
 Venam and Amber.
 
 **Music Enthusiast Amber and Punk Girl Venam (Volcanic Top Field)**
-
 -   **Amber**
 
     -   Camerupt. Level 76 (85 in script). @Solid Rock.
@@ -9035,7 +8369,6 @@ Venam and Amber.
         -   Sludge Bomb
 
         -   Hidden Power (Fire)
-
     -   Seviper. Level 85. @Seviper Crest.
 
         -   Sludge Wave
@@ -9052,7 +8385,6 @@ broken the Air Ballons.
 Friendship Point Choice:
 
 -   They're just coping. (Aelita +2)
-
 -   Sore losers, both of em... (Nothing)
 
 You are asked to check Venam, so leave the house, or try it, because
@@ -9109,9 +8441,7 @@ being the lead.
 Friendship Point Choice:
 
 -   You're right... (Venam +2)
-
 -   Hm... (Nothing)
-
 -   I'm not so sure... (Aelita +2)
 
 Return to the entrance of the route and talk with Crawli. Next choice
@@ -9131,7 +8461,6 @@ You are thrown into a battle in a strange setting almost immediately.
 You will face consecutive battles, and they all are double battles.
 
 **Inevitable Grief 01010010 01110110 (Deep Earth Field)**
-
 -   Silvally. Level 81.
 
     -   Swords Dance
@@ -9176,7 +8505,6 @@ It is quite an easy fight, but you will be thrown into another
 immediately, and no heals in the middle of course.
 
 **Inevitable Grief 01000001 01000101 (Deep Earth Field)**
-
 -   Cherrim. Level 81. @Cherrim Crest
 
     -   Helping Hand
@@ -9220,7 +8548,6 @@ immediately, and no heals in the middle of course.
 Again, the enemies aren't that strong, but this isn't the last battle.
 
 **Inevitable Grief 01001101 (Deep Earth Field)**
-
 -   Zoroark. Level 81. @Zoroark Crest
 
     -   Psychic
@@ -9307,7 +8634,6 @@ You are now in the Crystal Queendom, and you must free Alice from the
 one controlling her. Move up.
 
 **Ice Soldier (Frozen Dimension Field)**
-
 -   Guardian Regice. Level 90. Ice/Ghost.
 
     -   Hail
@@ -9369,11 +8695,8 @@ with just change in direct reply.
 Friendship Point Choice:
 
 -   Extreme sadness. (Nothing)
-
 -   Hopelessness (Nothing)
-
 -   Happiness! (Crescent +1)
-
 -   What is this question?! (Crescent -2)
 
 Honestly the only option to increase friendship is quite against common
@@ -9383,7 +8706,6 @@ aren't like that though.
 Friendship Point Choice:
 
 -   It is okay to remember... (Crescent +2)
-
 -   Don't forget them... (Crescent -2)
 
 Now go back inside and enter the central room to go to the second floor.
@@ -9399,7 +8721,6 @@ Return to Erin's room.
 Friendship Point Choice:
 
 -   Is it handwritten? (Erin +2)
-
 -   Can you tell who wrote it? (Nothing)
 
 Now you have some options, you will proceed once you select "done", but
@@ -9467,16 +8788,13 @@ You are now at the rooftop of the Central Building. Talk to Amber.
 Friendship Point Choice:
 
 -   They'd support you. (Amber +1)
-
 -   They'd probably laugh (Amber -2)
-
 -   Maybe they'd cringe (Amber +2)
 
 You will be not at Amberette Town. Once you can control your character
 go to the Time Gate.
 
 **Tiempa (Deep Earth)**
-
 -   Dialga. 2 Hp Bars. Level 85. @Adamant Orb
 
     -   Earth Power
@@ -9500,7 +8818,6 @@ go to the Time Gate.
 You will be fully healed before the next boos fight.
 
 **Spacea (Deep Earth)**
-
 -   Palkia. 3 Hp Bars. Level 85. @Lustrous Orb
 
     -   Surf
@@ -9561,9 +8878,7 @@ Crescent.
 Friendship Point Choice:
 
 -   You are not and outlier... (Nothing)
-
 -   Is this really okay? (Crescent -2)
-
 -   It was a good idea. (Crecent +1)
 
 With this the Chapter 0 of the Paragon Route is complete.
@@ -9580,11 +8895,9 @@ This information is taken from the game files.
 Stone.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Eevee -\> Leafeon
 
 **Maps to evolve:**
-
 -   Great Terajuma Falls
 
 ### Icy Rock Evolution Environment
@@ -9593,11 +8906,9 @@ Stone.]</u>
 Stone.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Eevee -\> Glaceon
 
 **Maps to evolve:**
-
 -   Evergreen Cave \[North\], only the map where the Ice Rock is.
 
 ### Magnetic Evolution Environment
@@ -9606,7 +8917,6 @@ Stone.]</u>
 Thunderstone.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Magneton -\> Magnezone
 
 -   Nosepass -\> Probopass
@@ -9614,7 +8924,6 @@ Thunderstone.]</u>
 -   Charjabug -\> Vikavolt
 
 **Maps to evolve:**
-
 -   Terajuma Excavation Site
 
 -   West Gearen Generator Room
@@ -9622,13 +8931,10 @@ Thunderstone.]</u>
 ### Cold Evolution Environment
 
 **Pokémon with evolution on this location:**
-
 -   Crabrawler -\> Crabominable
 
 **Maps to evolve:**
-
 -   Valor Mountain (Ice)
-
 -   Evergreen Cave \[North\]
 
 -   Evergreen Cave \[South\]
@@ -9651,11 +8957,9 @@ Thunderstone.]</u>
 this evolution form anyway.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Cubone -\> Alolan Marowak
 
 **Maps to evolve:**
-
 -   Mr. Luck\'s Tent
 
 -   Goldenwood Forest
@@ -9665,7 +8969,6 @@ this evolution form anyway.]</u>
 -   Den of Verity
 
 -   Route 3 (South)
-
 -   Wispy Path
 
 -   Wispy Tower
@@ -9683,7 +8986,6 @@ this evolution form anyway.]</u>
 -   Nightmare Toy Box
 
 -   New Game (Puppet Master's Map)
-
 -   Darchlight Manor
 
 -   Darchlight Woods
@@ -9691,11 +8993,9 @@ this evolution form anyway.]</u>
 ### Galarian Weezing Evolution Environment
 
 **Pokémon with evolution on this location:**
-
 -   Koffing -\> Alolan Weezing
 
 **Maps to evolve:**
-
 -   West Gearen City
 
 -   West Gearen Power Plant
@@ -9714,11 +9014,9 @@ this evolution form anyway.]</u>
 are in Terajuma.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Exeggcute -\> Alolan Exeggutor
 
 **Maps to evolve:**
-
 -   Sheridan Village
 
 -   Terajuma Shipyard
@@ -9732,7 +9030,6 @@ are in Terajuma.]</u>
 -   Ranger HQ
 
 -   Help Plaza (Kakori Village)
-
 -   Kakori Gym
 
 -   Parks and Rec. Center
@@ -9786,9 +9083,7 @@ are in Terajuma.]</u>
 -   Cutscene World
 
 -   Kristiline Town (unfrozen only)
-
 -   Help Plaza (Kristiline Village)
-
 -   Hiyoshi City
 
 -   Dream
@@ -9801,15 +9096,12 @@ are in Terajuma.]</u>
 environment.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Petilil -\> Hisuian Lilligant
 
 **Maps to evolve:**
-
 -   Sheridan Village
 
 -   Help Plaza (Sharidan Village)
-
 -   Spring of Purification
 
 -   Sensei\'s House
@@ -9819,9 +9111,7 @@ environment.]</u>
 -   Texen\'s House
 
 -   Sheridan Village (past)
-
 -   Spring of Purification (past)
-
 -   Route 9
 
 -   Rose Theatre
@@ -9831,21 +9121,15 @@ environment.]</u>
 ### Hisuian Braviary Evolution Environment
 
 **Pokémon with evolution on this location:**
-
 -   Rufflet -\> Hisuian Braviary
 
 **Maps to evolve:**
-
 -   Valor Mountain (Ice)
-
 -   Terajuma Beach (map with blue water only)
-
 -   Mirimura Cave
 
 -   Jyannobi Pass (inside the buildings only)
-
 -   Tyluric Temple (outside only)
-
 -   Evergreen Island
 
 -   Evergreen Forest
@@ -9859,17 +9143,14 @@ environment.]</u>
 -   Seabound Cave
 
 -   Zeight (Diamond Route-related map only)
-
 -   3rd HQ (Den of Souls 3rd Layer)
 
 ### Hisuian Sliggoo Evolution Environment
 
 **Pokémon with evolution on this location:**
-
 -   Goomy -\> Hisuian Sliggoo
 
 **Maps to evolve:**
-
 -   Kingdom of Goomidra
 
 -   Castle of Goomidra
@@ -9880,11 +9161,9 @@ environment.]</u>
 Stone.]</u>
 
 **Pokémon with evolution on this location:**
-
 -   Bergmite -\> Hisuian Avalugg
 
 **Maps to evolve:**
-
 -   Mt. Terajuma
 
 ## Complete the V13.5 Dex (Pending to Update properly)
@@ -10188,9 +9467,7 @@ You can only get at most one of these lines, when selecting your starter
 evolutionary line being starter only):
 
 -   **Torchic**
-
 -   **Combusken** (evolve Torchic level 16)
-
 -   **Blaziken** (evolve Combusken level 36)
 
 ### Aevian Forms:
@@ -10217,37 +9494,21 @@ You can\'t get any of the following Pokémon yet under any circumstances
 (updated based on dev's words):
 
 -   **Drilbur**
-
 -   **Excadrill**
-
 -   **Galarian Darumaka**
-
 -   **Galarian Darmanitan**
-
 -   **Ferroseed**
-
 -   **Ferrothorn**
-
 -   **Honedge**
-
 -   **Doublade**
-
 -   **Aegislash**
-
 -   **Dracozolt**
-
 -   **Arctozolt**
-
 -   **Dracovish**
-
 -   **Arctovish**
-
 -   **Dreepy**
-
 -   **Drakloak**
-
 -   **Dragapult**
-
 -   **Ursaluna**
 
 ### Unobtainable Legendaries Paragon Route:
@@ -10257,161 +9518,83 @@ Paragon Route (a couple that are exclusive from Renegade are marked as
 such):
 
 -   **Galarian Articuno**
-
 -   **Galarian Zapdos**
-
 -   **Galarian Moltres**
-
 -   **Mewtwo**
-
 -   **Mew**
-
 -   **Lugia**
-
 -   **Ho-oh**
-
 -   **Celebi**
-
 -   **Latias**
-
 -   **Latios**
-
 -   **Kyogre**
-
 -   **Groudon**
-
 -   **Rayquaza**
-
 -   **Jirachi**
-
 -   **Deoxys**
-
 -   **Dialga**
-
 -   **Palkia**
-
 -   **Regigigas**
-
 -   **Heatran**
-
 -   **Giratina**
-
 -   **Cresselia**
-
 -   **Manaphy**
-
 -   **Darkrai**
-
 -   **Shaymin Sky Form** (Shaymin can be obtained but not the flower)
-
 -   **Arceus**
-
 -   **Victini**
-
 -   **Cobalion**
-
 -   **Virizion**
-
 -   **Terrakion**
-
 -   **Tornadus**
-
 -   **Thundurus**
-
 -   **Reshiram**
-
 -   **Zekrom**
-
 -   **Landorus**
-
 -   **Kyurem**
-
 -   **Keldeo**
-
 -   **Meloetta**
-
 -   **Genesect** (It can be gotten in Renegade Route)
-
 -   **Xerneas**
-
 -   **Yveltal**
-
 -   **Diancie** (It can be gotten in Renegade Route)
-
 -   **Hoopa**
-
 -   **Volcanion**
-
 -   **Tapu Koko**
-
 -   **Tapu Lele**
-
 -   **Tapu Bulu**
-
 -   **Tapu Fini**
-
 -   **Cosmog**
-
 -   **Cosmoem**
-
 -   **Solgaleo**
-
 -   **Lunala**
-
 -   **Nihilego**
-
 -   **Buzzwole**
-
 -   **Pheromosa**
-
 -   **Xurkitree**
-
 -   **Celesteela**
-
 -   **Kartana**
-
 -   **Guzzlord**
-
 -   **Magearna**
-
 -   **Marshadow**
-
 -   **Poipole**
-
 -   **Naganadel**
-
 -   **Stakataka**
-
 -   **Blacephalon**
-
 -   **Zeraora**
-
 -   **Meltan**
-
 -   **Melmetal**
-
 -   **Zacian**
-
 -   **Zamazenta**
-
 -   **Eternatus**
-
 -   **Kubfu**
-
 -   **Urshifu**
-
 -   **Zarude**
-
 -   **Regieleki**
-
 -   **Regidrago**
-
 -   **Glastrier**
-
 -   **Spectrier**
-
 -   **Calyrex**
-
 -   **Enamorus**
 
 ### Legendaries Renegade Route:
@@ -10865,13 +10048,9 @@ Find the ex-boyfriend on The Black Alley and trach him as lesson. The
 choices don't matter, you will have to fight him anyway.
 
 **Cool Trainer Guy (City Field)**
-
 -   Scrafty. Level 66.
-
 -   Obstagoon. Level 67.
-
 -   Staraptor. Level 66.
-
 -   Machamp. Level 67.
 
 Beating him increases your GDC reputation by 20, but then he spreads
@@ -10904,22 +10083,17 @@ get a Zygarde Cell and a Fighting Memory.
 
 Try to enter the Tyluric temple to start the quest.
 
-Friendship Point Choice:
-
--   Why are you so interested (Talon +2)
-
+Friendship Point Choice:**
+**-   Why are you so interested (Talon +2)
 -   What is in for you? (Talon +1)
-
 -   No thanks. (Talon -1, Flora +2)
 
 Continua advancing, once you are in big outside area, surf the water
 downwards to proceed. Crossing an area at the north with tornadoes,
 leads to a zone with some static Grookey and Slakoth.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   I'm not afraid (Talon +3, Florin+1, Flora+1)
-
 -   Hell no. (Talon -2, Florin+1, Flora+2)
 
 Go down and then right. On the new map go up until the mural.
@@ -10933,12 +10107,9 @@ when being on the panel reached its target.
 You need to move them all once except for the one on the top left, which
 has to remain without moving. Interact with the new mural.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   How petty... (Talon +2, Florin+1)
-
 -   I would do the same. (Talon +1, Florin+2)
-
 -   This is boring me to tears (Talon -2, Florin -1)
 
 Go though the newly opened door and read the new mural. Now go back
@@ -10949,39 +10120,23 @@ teach another part of the map. Go left until finding a door. Enter.
 Accept to proceed further to enter a new cutscene.
 
 **Rift Carnivine. 3 Hp Bars. Grass/Dragon.**
-
 -   Carnivine. Level 40.
-
     -   Dragon Dance
-
     -   Seed Bomb
-
     -   Dragon Pulse
-
     -   Flame Bursh
-
 -   I can call Rift Tangela and Tangrowth as supports.
-
 -   After finishing the first HP bar, type changes to Grass/Steel, and
     the moves are:
-
     -   Shift Gear
-
     -   Seed Bomb
-
     -   Iron head
-
     -   Knock Off
-
 -   After finishing the second Hp bar, type changes to Grass/Bug, and
     the moves are:
-
     -   Quiver Dance
-
     -   Seed Bomb
-
     -   Pollen Puff
-
     -   Knock Off
 
 The quest will be completed after you defeat Rift Carnivine.
@@ -10999,23 +10154,15 @@ to advance forward.
 Now you can face a boss.
 
 **Wacky Lizard. 2 Hp Bar.**
-
 -   Keckleon. Level 80. @Sitrus Berry.
-
     -   Play Rough
-
     -   Thunderpunch
-
     -   Bounce
-
     -   Earthquake
-
 -   It will start changing types among those of Tornadus, Thundurus,
     Landorus and Enamorus. After Losing the @Sitrus Berry it will gain
     a @Life Orb.
-
 -   After losing an Hp bar, any drop in stats will be cured.
-
 -   You must defeat it when it is type is Fairy/Flying like Enamorus.
 
 A chest will appear after defeating the boss, and from there you will
