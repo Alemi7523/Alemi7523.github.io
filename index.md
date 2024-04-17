@@ -91,7 +91,8 @@
 - [Chapter 5: Imprisoned](#chapter-5-imprisoned)
   - [Wispy Ruins](#wispy-ruins)
     - [Mystery Egg ](#mystery-egg)
-
+  - [Route 4](#route-4)
+  
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -6489,6 +6490,7 @@ You will trigger a cutscene as soon as you reach this route. As you are told, th
 There are a lot of scattered items, and they refresh once a day. Good way to farm them.
 Each spawn item point has four possible options, and they are chosen randomly each day. 
 These items are shown as white sparkles on the ground, you will see one at your right as you regain control.
+
 This point can have ONE of the following four each day: ***Tiny Mushroom***, ***Cheri Berry***, ***Poké Ball***, ***Energy Root***.
 
 
