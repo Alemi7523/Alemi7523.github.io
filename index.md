@@ -8100,11 +8100,58 @@ will appear in the future.
 Return to Wispy Ruins and continue north from the room where you fell
 down previously.
 
-Follow the path until you reach a larger room. Hop your way past all the
-rocks on the right, then you\'ll enter a double battle against some Wild
-Pokémon. This is an easy fight if you have strong and fast Pokémon.
+Follow the path until you reach a larger room, you will see a trainer here. 
+You can’t go to the left, which is a shortcut to an earlier part of Wispy 
+Ruins when you have Rock Climb, so go left. On the leftmost area,
+continue north hopping trough the platforms, and on the other side,
+you will trigger a cutscene and have to fight.
 
-Proceed to Route 4!
+**PokeGang Banette and PokeGang Scrafty (Haunted Field). Story Mode.**
+- Shuppet, Level 31. (PokeGang Banette)
+- Duskull, Level 32. (PokeGang Banette)
+- Lampent, Level 32. (PokeGang Banette)
+- Banette, Level 35. (PokeGang Banette)
+- Scraggy, Level 31. (PokeGang Scrafty)
+- Scraggy, Level 31. (PokeGang Scrafty)
+- Pancham, Level 32. (PokeGang Scrafty)
+- Gurdurr, Level 33. (PokeGang Scrafty)
+- Scrafty, Level 35. (PokeGang Scrafty)
+
+**PokeGang Banette and PokeGang Scrafty (Haunted Field). Classic Mode.**
+- Shuppet, Level 36. (PokeGang Banette)
+  - Shadow Sneak
+  - Phantom Force
+  - Knock Off
+  - Night Shade
+- Lampent, Level 36. (PokeGang Banette)
+  - Flame Burst
+  - Clear Smog
+  - Hex
+  - Confuse Ray
+- Banette, Level 37. (PokeGang Banette)
+  - Knock Off
+  - Double Team
+  - Cotton Guard
+  - Shadow Claw
+- Scraggy, Level 36. (PokeGang Scrafty)
+  - Feint Attack
+  - Brick Break
+  - Chip Away
+  - Wake-Up Slap
+- Gurdurr, Level 36. (PokeGang Scrafty)
+  - Rock Slide
+  - Bulk Up
+  - Chip Away
+  - Scary Face
+- Scrafty, Level 37. (PokeGang Scrafty)
+  - Brick Break
+  - Crunch
+  - Poison Jab
+  - Work Up
+
+Story mode has one mon extra per team, but far lower levels and not predefined moves on the script. Either way, this shouldn’t be a difficult fight if you are at the level cap or have super effective moves.
+Now, you are free to advance to Route 4.
+
 
 **The guide is still work-in progress, so from Route 4 onwards isn't available yet, except for the Karma files and some 13.5 new quests, they are done.**
 
