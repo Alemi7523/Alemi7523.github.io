@@ -92,6 +92,9 @@
   - [Wispy Ruins](#wispy-ruins)
     - [Mystery Egg ](#mystery-egg)
   - [Route 4](#route-4)
+  - [Before Helping Old Man in Akuwa Town](#before-elping-old-man-in-akuwa-town)
+    - [Quest 30: Lost Souls](#quest_30_lost_souls)
+  - [Akuwa Town](#akuwa-town)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -6725,6 +6728,103 @@ Now try to enter Akuwa Town, and you will have to fight Nim.
 She is stronger than in our previous fight, but she isn’t strong enough to be an issue if you keep your team at the level cap and have some variety of moves.
 
 Story points to Akuwa Tows, but we have other things to do, so we will just enter the town, see the scene with the old man and leave again.
+
+
+## Before Helping Old Man in Akuwa Town
+
+It is important to do these things now, but if you still want to go though the story, feel free to jump to the Akuwa Town section. 
+Just before leaving Akuwa Town, under the trees on the right side, there is a hidden ***Super Repel***.
+
+Back in route 4, go west though the bridge close to Akuwa Town, and follow the way until seeing a hole in a fence. 
+Cross it and we will reach Maman’s Garden.
+
+### Quest 30: Lost Souls
+
+We will find Mosely here and she will introduce us to Mama, Bridgette Maman. 
+The choice here doesn’t matter. She will mention 11 lost souls on Floria Island, children in need of a home, and she will ask us to send them to her place if we find them since she will provide them with food and shelter.
+
+The quest will begin automatically once we regain control. 
+You can talk to her as long as it isn’t night for clues about the location of the children, but that is what we will be doing in this guide now. 
+We can only find six od them at this point of the story.
+
+For the first one, let’s go to Akuwa Town, go north until seeing the gym, which doubles as aquarium, and go to the right to find a girl hidden by a tree. 
+You will see her easily thanks to the exclamation mark on her head. 
+She is Jessibelle a girl who doesn’t understand the current situation of Akuwa Town. 
+Send her to the Lost Camp, which is how the game is calling Maman’s place now.
+
+Good thing that the Truck Guy came to Akuwa Town after the incident happened, so he can move us through the island without issues.
+
+Go to Goldenleaf Town and leave to Wispy Path. 
+Here go to the playground we found Espurr. 
+There is one kids we need to find on the north of the tables, Marissa. 
+Send her to the Lost Camp.
+
+Now return to Goldenleaf Town and leave for Route 3. 
+Go north a bit to see bridge with a kid, Matthew, wanting to be freed of the Bidoof. 
+Send him to the Lost Camp. 
+This kid will set an evolution stone store in Maman’s Garden after upgrading, and until now, we couldn’t buy any of those stones, but we will go back after having three more kids.
+
+Go north to the place you traded the Mystery Egg to find another kid, Cybur. 
+Send him to the Lost Camp.
+
+Go to Sheridan village and enter the Spring of Purification to find yet another kid, James, on the easternmost side. 
+Send him to the Lost Camp.
+
+The sixth one is on the Abandoned Sewers, so ask the Truck Guy to bring you to East Gearen City and go south to the Abandoned Sewers. 
+Cross one bridge to the north, once to the west, and one to the south to find the sixth kid, Andrew, who will open a shop of berries that reduce EVs.
+Send him to the Lost Camp.
+
+Small detour before returning to Maman’s Garden. 
+Since we are in East Gearen City, buy any golden items you have yet to buy, specifically the Golden Surfboard is good to buy now, and we can’t return here after just being able to use Surf. 
+Golden Claws are the next one we will need after Golden Surfboard.
+
+Now, go to Route 2, to show the Emolga we got to the painter and finish his side quest. 
+You will get a ***Magnet*** and ***TM96 Nature Power***.
+
+Now, you can go to Maman’s Garden to enjoy the shops. You can find Andrew on the left side on Maman.
+
+**Lost Camp: Andrew Shop**
+
+|**Item**       |**Price** |
+|---------------|----------|
+|*Pomeg Berry*  |$600      |
+|*Kelpsy Berry* |$600      |
+|*Qualot Berry* |$600      |
+|*Hondew Berry* |$600      |
+|*Grepa Berry*  |$600      |
+|*Tamato Berry* |$600      |
+
+For the three last items of Andrew and unlocking the Stone Store, you need to upgrade the camp first, talk with Maman having at least 3 kids and she will start accepting money from you. 
+Donate $5000 for the upgrade, we will see a scene, the choice here is irrelevant, but asking Maman about the lost souls gives some lore.  
+Enter the new house for another scene, Matthew is here to sell the evolution stones.
+
+**Lost Camp: Matthew Shop**
+
+|**Item**      |**Price** |
+|--------------|----------|
+|*Water Stone* |$2100     |
+|*Fire Stone*  |$2100     |
+|*Leaf Stone*  |$2100     |
+
+Andrew in now on the right side on the outside, running close to the new house.
+
+You can upgrade again for $7000 if you speak with Maman, do it and donate it all to get another scene, choice doesn’t matter, but you learn that she is of Garufan descent. 
+Second choice changes if you hear the full story or not, personally I think it is good lore. 
+
+An Eevee appeared in the middle of the garden interact with it for a chance to catch it. 
+
+If you change maps, the Eevee will be back, so get as many as you want. 
+Now, Leafeon and Glaceon can be obtained with Leaf Stone and Ice Stone respectively, not only on certain places, so it is possible to get all evolutions immediately. 
+Ice Stones can be sold at Kecleon Shop, remember the wares change each in-game day, while the Water Stone, Fire Stone and Leaf Stone stones are sold in the camp itself. 
+Espeon and Umbreon are with happiness during day or night as always and Sylveon requires happiness while knowing a Fairy move. 
+The issue is Jolteon as there is no renewable source of Thunderstone yet, but we have gotten one at least, so if you hadn’t used it, you can get a Jolteon too.
+
+This quest can’t progress more for now, so time to go back to Akuwa Town.
+
+## Akuwa Town
+
+Back to the town we just visited in passing very quickly until now, we just got that hidden item before leaving the first time, but even in an empty town, that is not all there is to do before continuing the story. 
+Time to explore it.
 
 
 
