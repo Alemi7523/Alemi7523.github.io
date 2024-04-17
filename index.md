@@ -514,7 +514,6 @@ talk to the rainbow-colored machine on the right side, it will randomly
 choose for you among the 24 starters.
 
 Starter Choices (You can only pick one):
-
 -   **Bulbasaur**
 -   **Charmander**
 -   **Squirtle**
@@ -560,16 +559,12 @@ This is one you can win or lose.
 
 **League Scout Amanda (No Field). Story Mode.**
 -   Hatenna. Level 4.
-
     -   Tackle
-
     -   Play Nice
 
 **League Scout Amanda (No Field). Classic Mode.**
 -   Hatenna. Level 5.
-
     -   Tackle
-
     -   Play Nice
 
 Note that in this game you can press \"S\" to check the stats of all the
@@ -588,16 +583,12 @@ you can lose.
 
 **Pokémon Trainer Ren (No Field). Story Mode.**
 -   Froakie, Level 4.
-
     -   Pound
-
     -   Growl
 
 **Pokémon Trainer Ren (No Field). Classic Mode.**
 -   Froakie, Level 5.
-
     -   Pound
-
     -   Growl
 
 After the fight with Ren, Jenner asks you to visit Route 1 to help his
@@ -624,7 +615,6 @@ mons you would have the stat maxed, but the trainers have 6 anyway.
 
 There are also items in the training rooms that are specific to gain EVs
 of such stat more quickly:
-
 -   HP Room: ***Power Weight***
 -   Attack Room: ***Power Bracer***
 -   Defense Room: ***Power Belt***
@@ -691,7 +681,6 @@ one of them.
 
 **Gang Member Den (City Field)**
 -   Story Mode: Wimpod level 7, and Grubbin level 8.
-
 -   Classic Mode: Wimpod level 8, and Grubbin level 9.
 
 It is always raining when I do this fight, but I am not certain if this
@@ -991,7 +980,6 @@ the floor though.
 On the Velvet Apartments Floor 1. Talk with the woman in the middle to
 get a ball that is better to catch certain types depending on your
 choice:
-
 -   Left: ***Mineral Ball*** (Rock, Steel and Ground)
 -   Right: ***Steam Ball*** (Fire and Water)
 
@@ -1016,7 +1004,6 @@ have to defeat a trainer.
 
 **Prima Donna Stella (Factory Field)**
 -   Story Mode: Loppuny level 17.
-
 -   Classic Mode: Loppuny level 19.
 
 It should be easy if you picked Torchic and has evolved into Combusken,
@@ -1155,24 +1142,16 @@ another. Remember that you are still on City Field.
 
 **Pride King (City Field). 2HP Bars. Story Mode.**
 -   Pyroar. Level 15.
-
     -   Take Down
-
     -   Noble Roar
-
     -   Fire Fang
-
     -   Roar
 
 **Pride King (City Field). 2HP Bars. Classic Mode.**
 -   Pyroar. Level 20.
-
     -   Take Down
-
     -   Noble Roar
-
     -   Fire Fang
-
     -   Roar
 
 He has two HP bars and when only one is remaining, he will call a Litleo
@@ -1228,98 +1207,53 @@ Talk with the white-haired girl, Novae, to start a battle.
 
 **Wanderer Novae (City Field). Story Mode.**
 -   Trumbeak, Level 15.
-
     -   Pluck
-
     -   Supersonic
-
     -   Rock Smash
-
     -   Fury Attack
-
 -   Charjabug, Level 15.
-
     -   Spark
-
     -   Bug Bite
-
     -   Bite
-
     -   Mud Slap
-
 -   Sandygast, Level 16.
-
     -   Sand Tomb
-
     -   Mega Drain
-
     -   Sand Attack
-
     -   Astonish
-
 -   Passimian, Level 17.
-
     -   Rock Smash
-
     -   Tackle
 
 **Wanderer Novae (City Field). Classic Mode.**
 -   Trumbeak, Level 16.
-
     -   Pluck
-
     -   Supersonic
-
     -   Rock Smash
-
     -   Fury Attack
-
 -   Charjabug, Level 17.
-
     -   Spark
-
     -   Bug Bite
-
     -   Bite
-
     -   Mud Slap
-
 -   Rockruff, Level 17.
-
     -   Rock Throw
-
     -   Bite
-
     -   Leer
-
     -   Sand Attack
-
 -   Steenee, Level 18.
-
     -   Double Slap
-
     -   Razor Leaf
-
     -   Play Rough
-
     -   Synthesis
-
 -   Sandygast, Level 18.
-
     -   Sand Tomb
-
     -   Mega Drain
-
     -   Sand Attack
-
     -   Astonish
-
 -   Passimian, Level 20.
-
     -   Rock Smash
-
     -   Tackle
-
     -   Smack Down
 
 This is a tough battle on Classic Mode before having your first badge.
@@ -1336,74 +1270,41 @@ basement.
 
 **Dance Prodigy Rorim B (No Field). Story Mode.**
 -   Spinda, Level 14.
-
     -   Teeter Dance
-
     -   Dizzy Punch
-
     -   Psybeam
-
 -   Vivillon, Level 15.
-
     -   Quiver Dance
-
     -   Signal Beam
-
     -   Draining Kiss
-
 -   Pa\'u Style Oricorio, Level 15.
-
     -   Feather Dance
-
     -   Teeter Dance
-
     -   Revelation Dance
-
 -   Ludicolo, Level 16.
-
     -   Teeter Dance
-
     -   Rain Dance
-
     -   Bubble Beam
 
 **Dance Prodigy Rorim B (No Field) Classic Mode.**
 -   Spinda, Level 15.
-
     -   Teeter Dance
-
     -   Hypnosis
-
     -   Dizzy Punch
-
     -   Psybeam
-
 -   Vivillon, Level 16. @ Kee Berry.
-
     -   Supersonic
-
     -   Signal Beam
-
     -   Draining Kiss
-
     -   Psybeam
-
 -   Pa\'u Style Oricorio, Level 16.
-
     -   Feather Dance
-
     -   Teeter Dance
-
     -   Air Cutter
-
 -   Lombre, Level 17.
-
     -   Teeter Dance
-
     -   Rain Dance
-
     -   Bubble Beam
-
     -   Knock Off
 
 Be sure to have leveled your mons for this fight, but if you did the
@@ -1663,24 +1564,15 @@ went into for a long cutscene and a battle.
 
 **Garbage Menace. 3HP Bars. (No Field) Story Mode.**
 -   Garbodor. Level 10.
-
     -   Pound
-
     -   Acid Spray
-
     -   Double Slap
-
     -   Attract
-
 **Garbage Menace. 3HP Bars. (No Field) Classic Mode.**
 -   Garbodor. Level 12.
-
     -   Pound
-
     -   Acid Spray
-
     -   Double Slap
-
     -   Attract
 
 This is another boss battle, we are told that this kind of mons are
@@ -1824,102 +1716,56 @@ Now return to the Gym and prepare yourself for your first Gym battle.
 
 **Punk Girl Venam (Concert Venue Field) Story Mode**
 -   Toxel. Level 11. @Oran Berry.
-
     -   Nuzzle
-
     -   Venam\'s Kiss
-
     -   Power Punch
-
     -   Tearful Look
-
 -   Croagunk. Level 12. @Oran Berry.
-
     -   Fake Out
-
     -   Encore
-
     -   Vacuum Wave
-
     -   Venam's Kiss
-
 -   Alolan Grimer. Level 12.
-
     -   Bite
-
     -   Harden
-
     -   Poison Fang
-
     -   Shadow Sneak
-
 -   Seviper. Level 13.
-
     -   Bite
-
     -   Round
-
     -   Venam\'s Kiss
 
 **Punk Girl Venam (Concert Venue Field) Classic Mode**
 -   Trubbish. Level 13. @Oran Berry.
-
     -   Rock Blast
-
     -   Venam\'s Kiss
-
     -   Thief
-
     -   Spikes
 
 -   Croagunk. Level 14. @Normal Gem.
-
     -   Fake Out
-
     -   Encore
-
     -   Venam's Kiss
-
     -   Sucker Punch
-
 -   Ivysaur. Level 14. @Oran Berry.
-
     -   Venam's Kiss
-
     -   Poison Powder
-
     -   Razor Leaf
-
     -   Leech Seed
-
 -   Alolan Grimer, Level 14. @Oran Berry.
-
     -   Bite
-
     -   Acid Armor
-
     -   Acid Spray
-
     -   Screech
-
 -   Whirlipede. Level 15.
-
     -   Twineedle
-
     -   Rollout
-
     -   Defense Curl
-
     -   Venoshock
-
 -   Seviper. Level 16.
-
     -   Snarl
-
     -   Rollout
-
     -   Glare
-
     -   Venam\'s Kiss
 
 Here you see a big difference between modes since she has full team on
@@ -2052,45 +1898,28 @@ aren't Aevium Badges.
 
 Your first battle is against Falkner. These would be your team members
 based on your starter choice:
-
 -   Chikorita 14. Mareep 12.
-
 -   Cyndaquil 14. Onix 12.
-
 -   Totodile 14. Phanpy 12
 
 **Gym Leader Falkner (Glitch Field). Story Mode.**
 -   Hoothoot, Level 10.
-
     -   Confusion
-
     -   Peck
-
     -   Growl
-
 -   Noctowl, Level 11.
-
     -   Confusion
-
     -   Peck
-
     -   Echoed Voice
 
 **Gym Leader Falkner (Glitch Field). Classic Mode.**
 -   Hoothoot, Level 11.
-
     -   Confusion
-
     -   Peck
-
     -   Growl
-
 -   Noctowl, Level 12.
-
     -   Confusion
-
     -   Peck
-
     -   Echoed Voice
 
 I have only ever done this quest with Cyndaquil, which has Onix as
@@ -2259,64 +2088,36 @@ an Aevian Leavanny at the side. Prepare for the fight.
 
 **Culvier Clan Mars (Cave Field). Story Mode.**
 -   Aevian Sewaddle, Level 13.
-
     -   Struggle Bug
-
     -   Bug Bite
-
     -   Breaking Swipe
-
     -   Reflect
-
 -   Aevian Swadloon, Level 15.
-
     -   Camouflage
-
     -   Iron Defense
-
     -   Scale Shot
-
     -   Bug Bite
-
 -   Aevian Leavanny, Level 17.
-
     -   Slash
-
     -   Struggle Bug
-
     -   Agility
-
     -   Me First
 
 **Culvier Clan Mars (Cave Field). Classic Mode.**
 -   Aevian Sewaddle, Level 15.
-
     -   Struggle Bug
-
     -   Bug Bite
-
     -   Breaking Swipe
-
     -   Reflect
-
 -   Aevian Swadloon, Level 18.
-
     -   Camouflage
-
     -   Iron Defense
-
     -   Scale Shot
-
     -   Bug Bite
-
 -   Aevian Leavanny, Level 20.
-
     -   Slash
-
     -   Struggle Bug
-
     -   Agility
-
     -   Me First
 
 Note that the Aevian versions of the Sewaddle family are all Bug/Dragon.
@@ -2361,84 +2162,46 @@ Go there and fight.
 
 **Pre-Leader Melia (Forest Field) Story Mode.**
 -   Buneary, Level 13.
-
     -   Fake Out
-
     -   Double Hit
-
     -   Fire Punch
-
     -   Baby Doll Eyes
-
 -   Wooloo, Level 14.
-
     -   Double Kick
-
     -   Tackle
-
     -   Defense Curl
-
     -   Copycat
-
 -   Stufful, Level 15.
-
     -   Tackle
-
     -   Leer
-
     -   Roar
-
     -   Brutal Swing
-
 -   Togepi, Level 15.
-
     -   Ancient Power
-
     -   Echoed Voice
-
     -   Yawn
-
     -   Metronome
 
 **Pre-Leader Melia (Forest Field) Classic Mode.**
 -   Buneary, Level 15.
-
     -   Fake Out
-
     -   Double Hit
-
     -   Fire Punch
-
     -   Baby Doll Eyes
-
 -   Wooloo, Level 15.
-
     -   Double Kick
-
     -   Tackle
-
     -   Defense Curl
-
     -   Copycat
-
 -   Stufful, Level 16.
-
     -   Tackle
-
     -   Leer
-
     -   Roar
-
     -   Brutal Swing
-
 -   Togepi, Level 17. @Oran Berry.
-
     -   Ancient Power
-
     -   Echoed Voice
-
     -   Yawn
-
     -   Metronome
 
 Given that the level cap is already 25, I don't think this is a hard
@@ -2493,64 +2256,37 @@ with you.
 
 **Misfortunate Duo Eli and Sharon (Forest Field). Story Mode.**
 -   Murkrow, Level 15.
-
     -   Wing Attack
-
     -   Pursuit
-
     -   Confuse Ray
-
     -   Astonish
-
 -   Misdreavus, Level 15.
-
     -   Shadow Sneak
-
     -   Psywave
-
     -   Spite
-
     -   Growl
 
 **Misfortunate Duo Eli and Sharon (Forest Field). Classic Mode.**
 -   Murkrow, Level 16.
-
     -   Wing Attack
-
     -   Pursuit
-
     -   Confuse Ray
-
     -   Haze
 
 -   Misdreavus, Level 16.
-
     -   Shadow Sneak
-
     -   Psywave
-
     -   Spite
-
     -   Growl
-
 -   Glameow, Level 15.
-
     -   Feint Attack
-
     -   Scratch
-
     -   Hypnosis
-
     -   Attract
-
 -   Stunky, Level 15.
-
     -   Poison Gas
-
     -   Smokescreen
-
     -   Fury Swipes
-
     -   Bite
 
 Defeat them and advance forward to get into another battle. Alone this
@@ -2558,94 +2294,51 @@ time.
 
 **Xen Executive Zetta (Forest Field). Story Mode.**
 -   Minior. Level 13.
-
     -   Rollout
-
     -   Defense Curl
-
     -   Confuse Ray
-
     -   Self-Destruct
-
 -   Quilava. Level 14.
-
     -   Flame Wheel
-
     -   Quick Attack
-
     -   Aerial Ace
-
     -   Smokescreen
-
 -   **Shadow Snorunt**. Level 14.
-
     -   Nature Power
-
     -   Stealth Rock
-
     -   Shadow Sneak
-
     -   Icy Wind
-
 -   Type: Null. Level 15.
-
     -   Pursuit
-
     -   Double Hit
-
     -   Hidden Power: Fighting
-
     -   Aerial Ace
 
 **Xen Executive Zetta (Forest Field). Classic Mode.**
 -   **Shadow Snorunt**. Level 14.
-
     -   Nature Power
-
     -   Stealth Rock
-
     -   Shadow Sneak
-
     -   Icy Wind
-
 -   Minior. Level 16.
-
     -   Rollout
-
     -   Defense Curl
-
     -   Confuse Ray
-
     -   Self-Destruct
-
 -   Quilava. Level 17.
-
     -   Flame Wheel
-
     -   Quick Attack
-
     -   Aerial Ace
-
     -   Smokescreen
-
 -   Galarian Meowth. Level 16.
-
     -   Metal Claw
-
     -   Pay Day
-
     -   Fake Out
-
     -   Hone Claws
-
 -   Type: Null. Level 18.
-
     -   Pursuit
-
     -   Double Hit
-
     -   Hidden Power: Fighting
-
     -   Aerial Ace
 
 Remember to catch the **Shadow Snorunt** as it is the first Snorunt you
@@ -2668,29 +2361,19 @@ Go north to see a Magikarp evolve into Rift Gyarados. Time to fight.
 
 **Rift Gyarados (Dimensional Field). 2 HP Bars. Story Mode.**
 -   Rift Gyarados. Level 18. Type: Water/Ghost.
-
     -   Shadow Sneak
-
     -   Bite
-
     -   Water Pulse
-
     -   Leer
-
 -   After clearing 1 Hp bar, all stat drops will be healed, the attack
     will drop, and the defense will increase.
 
 **Rift Gyarados (Dimensional Field). 2 HP Bars. Classic Mode.**
 -   Rift Gyarados. Level 20. Type: Water/Ghost.
-
     -   Shadow Sneak
-
-    -   Bite
-
+    -   Bit
     -   Water Pulse
-
     -   Screech
-
 -   After clearing 1 Hp bar, all stat drops will be healed, and the
     defense will increase.
 
@@ -2710,22 +2393,15 @@ fight while being Melia.
 
 **Xen Executive Madelis (No Field). Story Mode.**
 -   Houndoom. Level 18.
-
     -   Ember
-
     -   Nasty Plot
-
     -   Snarl
 
 **Xen Executive Madelis (No Field). Classic Mode.**
 -   Houndoom. Level 20.
-
     -   Incinerate
-
     -   Nasty Plot
-
     -   Snarl
-
     -   Smog
 
 Story Mode: You have a level 18 Togepi, and a Level 17 Buneary. With
@@ -2834,70 +2510,40 @@ You can team with either Ren or Venam
 
 **Mad Scientist Dr. Jenkel (Factory Field). Story Mode**
 -   Munna, Level 18. @ Elemental Seed.
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Moonlight
-
     -   Light Screen
-
 -   Munna, Level 19. @ Elemental Seed.
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Shock Wave
-
     -   Reflect
-
 -   Musharna, Level 18. @ PULSE Plus. Typing: Psychic/Fairy. Ability:
     Pastel Veil.
-
     -   Psybeam
-
     -   Disarming Voice
-
     -   Charge Beam
-
     -   Sweet Scent
-
         -   After finishing 1HP bar, it will trigger Misty Terrain.
 
 **Mad Scientist Dr. Jenkel (Factory Field). Classic Mode**
 -   Munna, Level 18. @ Elemental Seed.
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Moonlight
-
     -   Light Screen
-
 -   Munna, Level 19. @ Elemental Seed.
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Shock Wave
-
     -   Reflect
-
 -   Musharna, Level 20. @ PULSE Plus. Typing: Psychic/Fairy. Ability:
     Pastel Veil.
-
     -   Psybeam
-
     -   Disarming Voice
-
     -   Charge Beam
-
     -   Sweet Scent
-
         -   After finishing 1HP bar, it will trigger Misty Terrain.
 
 Not a difficult fight even on Classic as long as you aren't under
@@ -3208,84 +2854,46 @@ Galvantula. You can choose either Ren or Venam to fight at your side.
 
 **Rift Galvantula (Dimensional Field). 3HP Bars. Story Mode.**
 -   Galvantula, Level 22. Ability: Parental Bond. Type: Poison/Electric.
-
     -   Electroweb
-
     -   Bug Bite
-
     -   Cross Poison
-
     -   Toxic Thread
-
--   On finishing 1Hp bar:
-
+-   On finishing 1HP bar:
     -   Galvantula breaks out the egg:
-
         -   Ability change to Unnerve
-
         -   Moveset update:
-
             -   Electroweb
-
             -   Lunge
-
             -   Cross Poison
-
             -   Venoshock
-
     -   SOS call Joltik:
-
         -   Joltik, Level 17.
-
             -   Electroweb
-
             -   String Shot
-
             -   Struggle Bug
-
     -   Your side gets broken eggshell (Toxic Spikes) in the ground.
-
     -   Rift Galvantula restores any stats dropped.
 
 **Rift Galvantula (Dimensional Field). 3HP Bars. Classic Mode.**
 -   Galvantula, Level 25. Ability: Parental Bond. Type: Poison/Electric.
-
     -   Electroweb
-
     -   Bug Bite
-
-    -   Cross Poison
-
+    -   Cross Pison
     -   Toxic Thread
-
--   On finishing 1Hp bar:
-
+-   On finishing 1HP bar:
     -   Galvantula breaks out the egg:
-
         -   Ability changes to Unnerve
-
         -   Moveset update:
-
             -   Electroweb
-
             -   Lunge
-
             -   Cross Poison
-
             -   Venoshock
-
     -   SOS call Joltik:
-
         -   Joltik, Level 20.
-
             -   Electroweb
-
             -   String Shot
-
             -   Struggle Bug
-
     -   Your side gets broken eggshell (Toxic Spikes) in the ground.
-
     -   Rift Galvantula restores any stats dropped.
 
 Again, the partner doesn't matter, so whoever you like the most. It
@@ -3413,7 +3021,6 @@ double battle.
 
 **Apprentice Nim (Psychic Terrain). Story Mode**
 -   Inkay, Level 16.
-
     -   Psywave
 
     -   Feint Attack
@@ -3423,7 +3030,6 @@ double battle.
     -   Swagger
 
 -   Darumaka, Level 16.
-
     -   Fire Fang
 
     -   Bite
@@ -3433,7 +3039,6 @@ double battle.
     -   Taunt
 
 -   Lunatone, Level 18. @ Passho Berry.
-
     -   Rock Slide
 
     -   Ancient Power
@@ -3443,7 +3048,6 @@ double battle.
     -   Confusion
 
 -   Solrock, Level 18. @ Rindo Berry.
-
     -   Rock Slide
 
     -   Fire Spin
@@ -3454,7 +3058,6 @@ double battle.
 
 **Apprentice Nim (Psychic Terrain). Classic Mode**
 -   Inkay, Level 20.
-
     -   Psywave
 
     -   Feint Attack
@@ -3464,7 +3067,6 @@ double battle.
     -   Swagger
 
 -   Darumaka, Level 20.
-
     -   Fire Fang
 
     -   Bite
@@ -3474,7 +3076,6 @@ double battle.
     -   Taunt
 
 -   Lunatone, Level 21. @ Passho Berry.
-
     -   Rock Slide
 
     -   Ancient Power
@@ -3484,7 +3085,6 @@ double battle.
     -   Confusion
 
 -   Solrock, Level 21. @ Rindo Berry.
-
     -   Rock Slide
 
     -   Fire Spin
@@ -3953,7 +3553,6 @@ him (double battle).
 
 **Sensei Keta (Forest Field). Story Mode**
 -   Combusken, Level 22.
-
     -   Double Kick
 
     -   Flame Charge
@@ -3963,7 +3562,6 @@ him (double battle).
     -   Protect
 
 -   Galarian Farfetch\'d, Level 23.
-
     -   Steel Wing
 
     -   Sand Attack
@@ -3973,7 +3571,6 @@ him (double battle).
     -   Protect
 
 -   Machoke, Level 23.
-
     -   Chip Away
 
     -   Low Sweep
@@ -3983,7 +3580,6 @@ him (double battle).
     -   Focus Energy
 
 -   Lucario, Level 22.
-
     -   Howl
 
     -   Poison Sweep
@@ -3994,7 +3590,6 @@ him (double battle).
 
 **Sensei Keta (Forest Field). Classic Mode**
 -   Pignite, Level 23.
-
     -   Flame Charge
 
     -   Arm Thrust
@@ -4014,7 +3609,6 @@ him (double battle).
     -   Headbutt
 
 -   Galarian Farfetch\'d, Level 23. @ Eviolite.
-
     -   Gale Strike
 
     -   Brutal Swing
@@ -4024,7 +3618,6 @@ him (double battle).
     -   Quick Attack
 
 -   Combusken, Level 22. @ Charcoal.
-
     -   Cut
 
     -   Double Kick
@@ -4034,7 +3627,6 @@ him (double battle).
     -   Flame Burst
 
 -   Machoke, Level 23. @ Coba Berry.
-
     -   Knock Off
 
     -   Gale Strike
@@ -4167,7 +3759,6 @@ double battle with Keta aiding you.
             but Defense and Special Defense go down.
 
 -   Floette, Level 20.
-
     -   Sunny Day
 
     -   Aromatherapy
@@ -4177,7 +3768,6 @@ double battle with Keta aiding you.
     -   Protect
 
 -   Salandit, Level 20.
-
     -   Poison Gas
 
     -   Flame Burst
@@ -4187,7 +3777,6 @@ double battle with Keta aiding you.
     -   Protect
 
 -   Golbat, Level 21.
-
     -   Wing Attack
 
     -   Confuse Ray
@@ -4197,7 +3786,6 @@ double battle with Keta aiding you.
     -   Venoshock
 
 -   Cufant, Level 21.
-
     -   Stomp
 
     -   Bulldoze
@@ -4207,7 +3795,6 @@ double battle with Keta aiding you.
     -   Flash Cannon
 
 -   Houndoom, Level 21.
-
     -   Snarl
 
     -   Fire Fang
@@ -4225,7 +3812,6 @@ double battle with Keta aiding you.
             but Defense and Special Defense go down.
 
 -   Cufant, Level 24.
-
     -   Iron Head
 
     -   Stomp
@@ -4235,7 +3821,6 @@ double battle with Keta aiding you.
     -   Rollout
 
 -   Houndoom, Level 25.
-
     -   Snarl
 
     -   Flamethrower
@@ -4255,7 +3840,6 @@ double battle with Keta aiding you.
     -   Protect
 
 -   Salandit, Level 23.
-
     -   Poison Gas
 
     -   Flame Burst
@@ -4265,7 +3849,6 @@ double battle with Keta aiding you.
     -   Protect
 
 -   Golbat, Level 24.
-
     -   Wing Attack
 
     -   Confuse Ray
@@ -4306,7 +3889,6 @@ do anything, but the other two branch the story a bit.
 
 -   Shut Down, lets you input as code to shutting Volcanion down, you
     don't know the code if you are playing normally, but it exists.
-
     -   XE089321
 
 -   Transfer will send the Volcanion to the Carotos Mountain, despite
@@ -4331,7 +3913,6 @@ have to gith it to free it from its pain.
 
 **Rift Volcanion (Dimensional Field). 3HP Bars. Story Mode**
 -   Volcanion, Level 24. Ability: Water Absorb.
-
     -   Steam Eruption
 
     -   Flamethrower
@@ -4364,7 +3945,6 @@ have to gith it to free it from its pain.
 
 **Rift Volcanion (Dimensional Field). 3HP Bars. Classic Mode**
 -   Volcanion, Level 28. Ability: Water Absorb.
-
     -   Steam Eruption
 
     -   Flamethrower
@@ -4435,7 +4015,6 @@ fight Crescent's Gothitelle.
 
 **Crescent\'s Gothitelle (No Field). 2 HP Bars. Story Mode.**
 -   Gothitelle, Level 32.
-
     -   Fake Tears
 
     -   Psychic
@@ -4448,7 +4027,6 @@ fight Crescent's Gothitelle.
 
 **Crescent\'s Gothitelle (No Field). 2 HP Bars. Classic Mode.**
 -   Gothitelle, Level 35.
-
     -   Fake Tears
 
     -   Psychic
@@ -4566,7 +4144,6 @@ Amanda, who is blocking the entrance. You will battle her.
 
 **League Scout Amanda (City Field). Story Mode**
 -   Bronzor, Level 21. @ Heat Rock.
-
     -   Sunny Day
 
     -   Gyro Ball
@@ -4576,7 +4153,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Psywave
 
 -   Weepinbell, Level 23. @ Miracle Seed.
-
     -   Razor Leaf
 
     -   Knock Off
@@ -4586,7 +4162,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Hidden Power Fire
 
 -   Miltank, Level 22.
-
     -   Stomp
 
     -   Milk Drink
@@ -4596,7 +4171,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Stacking Shot
 
 -   Hatenna, Level 24. @ Twisted Spoon.
-
     -   Psybeam
 
     -   Draining Kiss
@@ -4607,7 +4181,6 @@ Amanda, who is blocking the entrance. You will battle her.
 
 **League Scout Amanda (City Field). Classic Mode**
 -   Bronzor, Level 24. @ Heat Rock.
-
     -   Sunny Day
 
     -   Gyro Ball
@@ -4617,7 +4190,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Psywave
 
 -   Weepinbell, Level 25. @ Miracle Seed.
-
     -   Razor Leaf
 
     -   Knock Off
@@ -4627,7 +4199,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Hidden Power Fire
 
 -   Miltank, Level 24.
-
     -   Stomp
 
     -   Milk Drink
@@ -4637,7 +4208,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Stacking Shot
 
 -   Hatenna, Level 25. @ Twisted Spoon.
-
     -   Psybeam
 
     -   Draining Kiss
@@ -4647,7 +4217,6 @@ Amanda, who is blocking the entrance. You will battle her.
     -   Aromatherapy
 
 -   Druddigon, Level 26. @ Charcoal.
-
     -   Fire Punch
 
     -   Dragon Tail
@@ -4715,8 +4284,7 @@ find yourself in a courtyard.
 
 ## Chrysalis Courtyard
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Hi Lucha. (Venam +1)
 -   You\'re Venam\'s friend? (Venam +2)
 -   Have we met? (Neutral)
@@ -4793,8 +4361,7 @@ cleared the trial, so no need to do it right now.
 trials will allow you to skip them if you have a save where you beat
 them. Very useful for replays.]</u>
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Yeah, I am. (Marianette -1)
 -   It was nothing\... (Marianette +2)
 -   You flatter me\... (Marianette +1)
@@ -4804,7 +4371,6 @@ Now gave to fight a servant with that annoying Dusknoir.
 
 **Servant Moya (Grassy Terrain). Story Mode**
 -   Dusknoir, Level 28. 2 Shields.
-
     -   Shadow Punch
 
     -   Will-o-Wisp
@@ -4815,7 +4381,6 @@ Now gave to fight a servant with that annoying Dusknoir.
 
 -   After clearing 1 HP bar, Dusknoir will heal any stat drop, get new
     moves and increase Attack.
-
     -   Shadow Punch
 
     -   Will-o-Wisp
@@ -4826,7 +4391,6 @@ Now gave to fight a servant with that annoying Dusknoir.
 
 **Servant Moya (Grassy Terrain). Classic Mode**
 -   Dusknoir, Level 30. @ Dusknoir Crest. 2 Shields.
-
     -   Shadow Punch
 
     -   Will-o-Wisp
@@ -4837,7 +4401,6 @@ Now gave to fight a servant with that annoying Dusknoir.
 
 -   After clearing 1 HP bar, Dusknoir will heal any stat drop, get new
     moves and increase Attack and Defense.
-
     -   Shadow Punch
 
     -   Will-o-Wisp
@@ -5061,7 +4624,6 @@ anymore.]</u>
     -   Sucker Punch
 
 -   Indeedee, Level 26. @ Fist Plate.
-
     -   Round
 
     -   Future Sight
@@ -5079,7 +4641,6 @@ anymore.]</u>
     -   Roost
 
 -   Bewear, Level 27.
-
     -   Strength
 
     -   Brick Break
@@ -5090,7 +4651,6 @@ anymore.]</u>
 
 **Child of Light Marianette (Blessed Field). Classic Mode**
 -   Delcatty, Level 27. @ Splash Plate.
-
     -   Cosmic Power
 
     -   Baton Pass
@@ -5099,7 +4659,6 @@ anymore.]</u>
 
     -   Multipulse (Water)
 -   Indeedee, Level 27. @ Fist Plate.
-
     -   Draining Kiss
 
     -   Psyshock
@@ -5108,7 +4667,6 @@ anymore.]</u>
     -   Magical Leaf
 
 -   Stantler, Level 27. @ Icicle Plate.
-
     -   Facade
 
     -   Work Up
@@ -5247,7 +4805,6 @@ Talk with the girl in the PC near the entrance to continue the Virtual
 League. Next fight is against Bugsy.
 
 Your teams will be one of the following based on your starter choice:
-
 -   Bayleef 16. Gastly 16. Flaaffy 16.
 
 -   Quilava 16. Qwilfish 16. Onix 16.
@@ -5256,7 +4813,6 @@ Your teams will be one of the following based on your starter choice:
 
 **Gym Leader Bugsy (Glitch Field). Story Mode.**
 -   Ariados, Level 13.
-
     -   Night Shade
 
     -   Poison Sting
@@ -5264,7 +4820,6 @@ Your teams will be one of the following based on your starter choice:
     -   Constrict
 
 -   Ledian, Level 13.
-
     -   Knock Off
 
     -   Mach Punch
@@ -5272,7 +4827,6 @@ Your teams will be one of the following based on your starter choice:
     -   Comet Punch
 
 -   Scyther, Level 14.
-
     -   Quick Attack
 
     -   Wing Attack
@@ -5281,7 +4835,6 @@ Your teams will be one of the following based on your starter choice:
 
 **Gym Leader Bugsy (Glitch Field). Classic Mode.**
 -   Ariados, Level 14.
-
     -   Night Shade
 
     -   Poison Sting
@@ -5289,7 +4842,6 @@ Your teams will be one of the following based on your starter choice:
     -   Constrict
 
 -   Ledian, Level 14.
-
     -   Knock Off
 
     -   Psybeam
@@ -5297,7 +4849,6 @@ Your teams will be one of the following based on your starter choice:
     -   Comet Punch
 
 -   Scyther, Level 15.
-
     -   Quick Attack
 
     -   Wing Attack
@@ -5335,7 +4886,6 @@ Sawk. Speak with them, and you will have to fight.
 
 **Battle Girl Janelle (Forest Field). Story Mode.**
 -   Sandslash, Level 30.
-
     -   Crush Claw
 
     -   Magnitude
@@ -5345,7 +4895,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Stealth Rock
 
 -   Ninjask, Level 30.
-
     -   Protect
 
     -   Aerial Ace
@@ -5355,7 +4904,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Baton Pass
 
 -   Sneasel, Level 30.
-
     -   Metal Claw
 
     -   Hone Claws
@@ -5376,7 +4924,6 @@ Sawk. Speak with them, and you will have to fight.
 
 **Battle Girl Janelle (Forest Field). Classic Mode.**
 -   Sandslash, Level 32.
-
     -   Crush Claw
 
     -   Earthquake
@@ -5386,7 +4933,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Stealth Rock
 
 -   Ninjask, Level 32.
-
     -   Protect
 
     -   Aerial Ace
@@ -5396,7 +4942,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Baton Pass
 
 -   Rampardos, Level 32.
-
     -   Rock Slide
 
     -   Zen Headbutt
@@ -5406,7 +4951,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Rock Polish
 
 -   Zangoose, Level 33.
-
     -   Quick Attack
 
     -   Shadow Claw
@@ -5416,7 +4960,6 @@ Sawk. Speak with them, and you will have to fight.
     -   Swords Dance
 
 -   Sneasel, Level 33.
-
     -   Metal Claw
 
     -   Hone Claws
@@ -5483,7 +5026,6 @@ side, but most likely you don't need her. Speak with the man in the
 right to attempt the third gym of the Virtual League.
 
 Your team depending on what you chose as starter:
-
 -   Bayleef 22.Gastly 21. Flaaffy 21.
 
 -   Quilava 22. Qwilfish 21. Onix 21.
@@ -5492,7 +5034,6 @@ Your team depending on what you chose as starter:
 
 **Gym Leader Whitney (Glitch Field). Story Mode**
 -   Clefairy, Level 17.
-
     -   Double Slap
 
     -   Metronome
@@ -5500,7 +5041,6 @@ Your team depending on what you chose as starter:
     -   Soft-Boiled
 
 -   Jigglypuff, Level 18.
-
     -   Headbutt
 
     -   Sing
@@ -5508,7 +5048,6 @@ Your team depending on what you chose as starter:
     -   Bubble Beam
 
 -   Miltank, Level 20.
-
     -   Milk Drink
 
     -   Tackle
@@ -5519,7 +5058,6 @@ Your team depending on what you chose as starter:
 
 **Gym Leader Whitney (Glitch Field). Classic Mode**
 -   Clefairy, Level 19.
-
     -   Double Slap
 
     -   Metronome
@@ -5527,7 +5065,6 @@ Your team depending on what you chose as starter:
     -   Soft-Boiled
 
 -   Jigglypuff, Level 20.
-
     -   Headbutt
 
     -   Sing
@@ -5537,7 +5074,6 @@ Your team depending on what you chose as starter:
     -   Attract
 
 -   Miltank, Level 21.
-
     -   Milk Drink
 
     -   Stomp
@@ -5561,7 +5097,6 @@ This time we can speak with the guy again to get the next badge, no need
 to get another badge ourselves.
 
 Your team depending on what you chose as starter:
-
 -   Bayleef 25.Haunter 25. Flaaffy 25. Eevee 25.
 
 -   Quilava 25. Qwilfish 25. Onix 25. Eevee 25.
@@ -5570,7 +5105,6 @@ Your team depending on what you chose as starter:
 
 **Gym Leader Morty (Glitch Field). Story Mode**
 -   Misdreavus, Level 20.
-
     -   Confuse Ray
 
     -   Mean Look
@@ -5580,7 +5114,6 @@ Your team depending on what you chose as starter:
     -   Perish Song
 
 -   Haunter, Level 20.
-
     -   Curse
 
     -   Night Shade
@@ -5590,7 +5123,6 @@ Your team depending on what you chose as starter:
     -   Mean Look
 
 -   Mismagius, Level 22.
-
     -   Me First
 
     -   Night Shade
@@ -5600,7 +5132,6 @@ Your team depending on what you chose as starter:
     -   Shock Wave
 
 -   Gengar, Level 25.
-
     -   Hypnosis
 
     -   Dream Eater
@@ -5611,7 +5142,6 @@ Your team depending on what you chose as starter:
 
 **Gym Leader Morty (Glitch Field). Classic Mode**
 -   Misdreavus, Level 22.
-
     -   Confuse Ray
 
     -   Mean Look
@@ -5621,7 +5151,6 @@ Your team depending on what you chose as starter:
     -   Perish Song
 
 -   Haunter, Level 23.
-
     -   Curse
 
     -   Night Shade
@@ -5631,7 +5160,6 @@ Your team depending on what you chose as starter:
     -   Mean Look
 
 -   Mismagius, Level 24.
-
     -   Me First
 
     -   Night Shade
@@ -5641,7 +5169,6 @@ Your team depending on what you chose as starter:
     -   Charge Beam
 
 -   Gengar, Level 25. @ Wide Lens.
-
     -   Hypnosis
 
     -   Dream Eater
@@ -6076,7 +5603,6 @@ defense. You may need priority moves though.
 It seems the Hiker himself was the Zoroark. Now interact with **Zorua**
 to get it and finish the quest. It can come with three different set of
 moves:
-
 -   Memento, Detect
 
 -   Extrasensory, Counter
@@ -6108,7 +5634,6 @@ Now you have to talk with Alita for a battle.
 
 **Student Aelita (Forest Field) Story Mode**
 -   Staravia, Level 27.
-
     -   Aerial Ace
 
     -   Take Down
@@ -6138,7 +5663,6 @@ Now you have to talk with Alita for a battle.
     -   Detect
 
 -   Combusken, Level 28. @ Charcoal.
-
     -   Blaze Kick
 
     -   Bulk Up
@@ -6149,7 +5673,6 @@ Now you have to talk with Alita for a battle.
 
 **Student Aelita (Forest Field) Classic Mode**
 -   Gligar, Level 29.
-
     -   Aerial Ace
 
     -   Bulldoze
@@ -6159,7 +5682,6 @@ Now you have to talk with Alita for a battle.
     -   U-Turn
 
 -   Staravia, Level 29.
-
     -   Aerial Ace
 
     -   Take Down
@@ -6169,7 +5691,6 @@ Now you have to talk with Alita for a battle.
     -   U-Turn
 
 -   Hawlucha, Level 31. @ Flying Gem.
-
     -   Brick Break
 
     -   Gale Strike
@@ -6189,7 +5710,6 @@ Now you have to talk with Alita for a battle.
     -   Power Up Punch
 
 -   Combusken, Level 31. @ Charcoal.
-
     -   Blaze Kick
 
     -   Bulk Up
@@ -6494,7 +6014,6 @@ Rift though. It is a 3vs3, so you will have to choose.
 
 **International Police \"C\" (No Field). Story Mode**
 -   Orbeetle, Level 29.
-
     -   Struggle Bug
 
     -   Hypnosis
@@ -6504,7 +6023,6 @@ Rift though. It is a 3vs3, so you will have to choose.
     -   Confuse Ray
 
 -   Golisopod, Level 28. @ Poison Barb.
-
     -   First Impression Sneak
 
     -   Swords Dance
@@ -6514,7 +6032,6 @@ Rift though. It is a 3vs3, so you will have to choose.
     -   Slash
 
 -   Galvantula, Level 30. @ Magnet.
-
     -   Thunder Wave
 
     -   Sticky Web
@@ -6525,7 +6042,6 @@ Rift though. It is a 3vs3, so you will have to choose.
 
 **International Police \"C\" (No Field). Classic Mode.**
 -   Orbeetle, Level 30.
-
     -   Signal Beam
 
     -   Hypnosis
@@ -6535,7 +6051,6 @@ Rift though. It is a 3vs3, so you will have to choose.
     -   Confuse Ray
 
 -   Ariados, Level 31. @ Poison Barb.
-
     -   Shadow Sneak
 
     -   Bug Bite
@@ -6545,7 +6060,6 @@ Rift though. It is a 3vs3, so you will have to choose.
     -   Swords Dance
 
 -   Galvantula, Level 32. @ Magnet.
-
     -   Thunderbolt
 
     -   Hidden Power Grass
@@ -6622,7 +6136,6 @@ you will have to fight Rift Gyarados.
 
 **Dimensional Rift Gyarados (Forest Field). Story Mode.**
 -   Rift Gyarados, Level 31. Type: Water/Ghost. 3 HP Bars.
-
     -   Phantom Force
 
     -   Waterfall
@@ -6633,7 +6146,6 @@ you will have to fight Rift Gyarados.
 
 -   After clearing 1HP Bar, Gyarados will become Water/Dragon. Field
     Change to Water Surface.
-
     -   Dragon Breath
 
     -   Waterfall
@@ -6644,7 +6156,6 @@ you will have to fight Rift Gyarados.
 
 -   After clearing the 2HP Bars, Gyarados will become Fire/Dragon and
     heal stat drops. Field Change to Infernal.
-
     -   Dragon Breath
 
     -   Lava Plume
@@ -6655,7 +6166,6 @@ you will have to fight Rift Gyarados.
 
 **Dimensional Rift Gyarados (Forest Field). Classic Mode.**
 -   Rift Gyarados, Level 35. Type: Water/Ghost. 3 HP Bars.
-
     -   Phantom Force
 
     -   Waterfall
@@ -6666,7 +6176,6 @@ you will have to fight Rift Gyarados.
 
 -   After clearing 1HP Bar, Gyarados will become Water/Dragon. Field
     Change to Water Surface.
-
     -   Dragon Rush
 
     -   Waterfall
@@ -6677,7 +6186,6 @@ you will have to fight Rift Gyarados.
 
 -   After clearing the 2HP Bars, Gyarados will become Fire/Dragon and
     heal stat drops. Field Change to Infernal.
-
     -   Dragon Rush
 
     -   Lava Plume
@@ -6694,7 +6202,6 @@ After winning, Gyarados will be able to rest in peace and "C" will thank
 us and we will get a Mystery Egg and +1 Karma.
 
 The Mystery Egg can be one of the following:
-
 -   **Sizzlipede**
 -   **Joltik**
 -   **Blipbug**
@@ -6797,7 +6304,6 @@ prepare to fight a double battle.
 
 **Team Xen Eli and Sharon (Short Circuit Field). Story Mode**
 -   Honchkrow, Level 30.
-
     -   Night Slash
 
     -   Swagger
@@ -6807,7 +6313,6 @@ prepare to fight a double battle.
     -   Thunder Wave
 
 -   Mismagius, Level 30.
-
     -   Mystical Fire
 
     -   Shadow Ball
@@ -6817,7 +6322,6 @@ prepare to fight a double battle.
     -   Calm Mind
 
 -   Tangela, Level 30.
-
     -   Giga Drain
 
     -   Bulldoze
@@ -6827,7 +6331,6 @@ prepare to fight a double battle.
     -   Knock Off
 
 -   Lickitung, Level 30.
-
     -   Icy Wind
 
     -   Body Slam
@@ -6838,7 +6341,6 @@ prepare to fight a double battle.
 
 **Team Xen Eli and Sharon (Short Circuit Field). Classic Mode**
 -   Tangela, Level 31. @ Eviolite.
-
     -   Giga Drain
 
     -   Stun Spore
@@ -6848,7 +6350,6 @@ prepare to fight a double battle.
     -   Knock Off
 
 -   Lickitung, Level 31. @ Leftovers.
-
     -   Icy Wind
 
     -   Body Slam
@@ -6858,7 +6359,6 @@ prepare to fight a double battle.
     -   Knock Off
 
 -   Honchkrow, Level 32. @ Sitrus Berry.
-
     -   Feint Attack
 
     -   Swagger
@@ -6868,7 +6368,6 @@ prepare to fight a double battle.
     -   Thunder Wave
 
 -   Mismagius, Level 32. @ Sitrus Berry.
-
     -   Mystical Fire
 
     -   Hex
@@ -7532,8 +7031,7 @@ Now, you are free to advance to Route 4.
 
 Walk to Erin in the League Administration Area to begin the Karma Files.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Do what? (No change)
 -   Time to awaken Adrest. (No change)
 -   Your hair is nice today. (Erin +1)
@@ -7560,7 +7058,6 @@ Continue upwards and you will be thrown into a battle.
 
 **Interceptor Crescent (Deep Earth Field)**
 -   Aevian Bronzong. Level 86. @Leftovers.
-
     -   Iron Defense
 
     -   Body Press
@@ -7570,7 +7067,6 @@ Continue upwards and you will be thrown into a battle.
     -   Terrain Pulse
 
 -   Weavile. Level 87. @Life Orb.
-
     -   Low Kick
 
     -   Icicle Crash
@@ -7580,7 +7076,6 @@ Continue upwards and you will be thrown into a battle.
     -   Psycho Cut
 
 -   Metagross. Level 88. @Metagrossite.
-
     -   Zen Headbutt
 
     -   Gyro ball
@@ -7590,7 +7085,6 @@ Continue upwards and you will be thrown into a battle.
     -   Earthquake
 
 -   Garchomp. Level 87. @Focus Sash.
-
     -   Earthquake
 
     -   Dragon Rush
@@ -7630,8 +7124,7 @@ changes small dialogue.
 After changing map, you will get another choice, this time it has
 effect.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   You good? (No change)
 -   Still Crying? (Crescent -1)
 
@@ -7681,8 +7174,7 @@ choose Let's go, to move to continue with the story.
 
 Move forward to get a choice.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Aelita (Aelita +2)
 -   Ren (Ren +2)
 
@@ -7696,8 +7188,7 @@ words.
 Now you are alone with Crescent, the first choice here doesn't matter,
 but the second does.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   It's not fair. (Crescent +1)
 -   I'm sorry. (Nothing)
 
@@ -7709,8 +7200,7 @@ them. Both got new outfits and hairstyle, Venam's purple hair is just a
 wig though. There are two choices to make, the first is just change in
 the reply, but the second one has friendship points.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   They are like your old Friends (Crescent -1)
 -   Just give them time. (Crescent +1)
 -   Sometimes it can't work (Nothing)
@@ -7718,8 +7208,7 @@ Friendship Point Choice:
 Now, you are in control again, so go to speak with Erin, Kanon is with
 her.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   They like you. (Crescent -1)
 -   That was rough. (Nothing)
 -   Why so hesitant? (Crescent +1)
@@ -7729,8 +7218,7 @@ because she can't but where she wants and the staff is a total jerk.
 Crecent almost murder's him, well without Aelita stopping her, the jerk
 would be dead.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Something wrong? (Crescent +1)
 -   Aelita's nice. (Crescent -1)
 -   Why so hesitant? (Crescent -2)
@@ -7747,8 +7235,7 @@ different dialogue that if it is less when she leaves.
 
 Now you have to go to the Night Market and approach Ren.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   You look great! (Ren +3)
 -   I miss Robo-Ren (Nothing)
 -   Yikes. (Ren -2)
@@ -7764,8 +7251,7 @@ dialogue is affected by it.
 You will be back to Zeight and given a choice that can give friendship
 points.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   We can do this... (Melia +2)
 -   Maybe we're screwed... (Melia -2)
 -   No idea. (Nothing)
@@ -7784,8 +7270,7 @@ there. After being teleported, enter the house.
 
 Go up and the story will continue.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   How are things, Huey? (Huey +2, Lavender +2, Reina +3)
 -   Sup. (Nothing)
 -   (Ignore) (Huey -2, Lavender -2, Reina -4)
@@ -7797,24 +7282,15 @@ of Ren.
 
 **Shooting Star (Water Surface)**
 -   Starmie. Boss Level 88. 2 Hp Bars. @Petaya Berry.
-
     -   Surf
-
     -   Thunderbolt
-
     -   Recover
-
     -   Psychic
-
 -   Lowered stats restored after finishing 1 Hp Bar, change to Rainbow
     Field, and the moves change.
-
     -   Tri Attack
-
     -   Dazzling Gleam
-
     -   Cosmic Power
-
     -   Psyshock
 
 It isn't a hard fight. Starmie hits hard, but its defenses aren't high
@@ -7822,8 +7298,7 @@ enough.
 
 Ince the battle is over you continue with the story.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Do it anyway! (Nothing)
 -   Robo-Ren would break. (Ren +2)
 
@@ -7832,8 +7307,7 @@ to the District of Hope. You will need three Zinc bottles, which you can
 but at the mall if you don't have enough. Ren will be waiting for you at
 the station.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Not cool, Ren! (Nothing)
 -   Okay, you got me. (Ren +2)
 -   I wasn't scared... (Ren +1)
@@ -7844,15 +7318,12 @@ under the old woman, which have candles with blue fire instead of red.
 
 **Old Lady Haggie (City Field)**
 -   Stoutland. Level 87 (78 shown in the game but 87 on files.).
-
 -   Arcanine. Level 90 (81 shown in the game but 90 on files).
-
 -   Samurott. Level 91 (81 shown in the game but 91 on files).
 
 She isn't hard to defeat.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Me too... (Ren +2)
 -   So there's no ghost? (Nothing)
 -   We should take the Zinc. (Ren -2)
@@ -7881,8 +7352,7 @@ least once, you will be able to continue the story once you talk to her.
 This will come to a battle against a level 90 Sinistea on a Dimensional
 Field. Defeat it or catch it to continue.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Oof... My Stomach... (Ren +3)
 -   It wasn't that bad. (Ren +1)
 -   I liked it. (Ren -1)
@@ -7897,62 +7367,34 @@ badge, so Talon says it is a battle for fun.
 
 **Cartographer Talon (Sky Field)**
 -   Noivern. Level 87. @Life Orb.
-
     -   Flamethrower
-
     -   Defog
-
     -   Hurricane
-
     -   Dragon Pulse
-
 -   Drifblim. Level 87. @Elemental Seed.
-
     -   Acrobatics
-
     -   Tailwind
-
     -   Explosion
-
     -   Will-O-Wisp
-
 -   Oricorio. Level 88. @ Oricorio Crest.
-
     -   Revelation Dance
-
     -   Hurricane
-
     -   Hidden Power (Grass)
     -   Tailwind
-
 -   Butterfree. Level 89. @Butterfreenite.
-
     -   Sleep Powder
-
     -   Hurricane
-
     -   Quiver Dance
-
     -   Bug Buzz
-
 -   Salamence. Level 89. @Elemental Seed.
-
     -   Dragon Dance
-
     -   Dragon Claw
-
     -   Fly
-
     -   Aqua Tail
-
 -   Braviary. Level 90. @Life Orb
-
     -   Sky Attack
-
     -   Crush Claw
-
     -   Close Combat
-
     -   Fly
 
 He isn't too strong. If you have a full team at the current level cap,
@@ -7961,9 +7403,8 @@ long as you play normally.
 
 You will be at Rhodea's apartment. Talk with Venam.
 
-Friendship Point Choice (Venam must be have at least 10 Friendship
+**Friendship Point Choice** (Venam must have at least 10 Friendship
 Points):
-
 -   I haven't noticed? (Venam +3)
 -   Yeah, I have... (Nothing)
 
@@ -8038,33 +7479,19 @@ them. Choices here are inconsequential.
 
 Firebrand Enya (No Field)
 -   Togedemaru. Level 10 (12 in script).
-
     -   Tackle
-
     -   Thunder Shock
-
     -   Defense Curl
-
     -   Rollout
-
 -   Frillish. Level 10 (12 in script).
-
     -   Absorb
-
     -   Bubble
-
     -   Water Sport
-
     -   Night Shade
-
 -   Snorunt. Level 11 (13 in script).
-
     -   Powder Snow
-
     -   Astonish
-
     -   Headbutt
-
     -   Leer
 
 Your Pokémon are Meditite Level 12. Sandygast Level 12, and Shinx Level
@@ -8111,15 +7538,10 @@ Once you are ready go to the stairs. Advance until triggering a
 cutscene.
 
 -   **Monstrosity Boss. 2 Hp Bar. Level 16. Poison/Dark.**
-
     -   Poison Fang
-
     -   Bite
-
     -   Tail Whip
-
     -   Secret Power
-
 -   After clearing 1 Hp Bar, its attack increased, but the defense and
     special defense decrease
 
@@ -8148,43 +7570,24 @@ Go back to your director chair to enter the final filming session.
 
 **Mayor Lucile (No Field)**
 -   Joltik. Level 11.
-
     -   String Shot
-
     -   Electroweb
-
     -   Signal Beam
-
     -   Cross Poison
-
 -   Chinchou. Level 12.
-
     -   Confuse Ray
-
     -   Bubble Beam
-
     -   Thunder Wave
-
     -   Electro Ball
-
 -   Helioptile. Level 13.
-
     -   Quick Attack
-
     -   Charge
-
     -   Thunder Wave
-
     -   Thunder Shock
-
 -   Morpeko. Level 14.
-
     -   Tickle
-
     -   Bite
-
     -   Quick Attack
-
     -   Spark
 
 Set up Toxic Spikes at the beginning and the battle is very easy due to
@@ -8203,63 +7606,34 @@ though the only way to trigger another cutscene.
 
 **Splicer Admin Sierra (Factory Field)**
 -   Cubone. Level 18.
-
     -   Bone Club
-
     -   Leer
-
     -   Headbutt
-
     -   Focus Energy
-
 -   Ponyta. Level 19.
-
     -   Flame Wheel
-
     -   Ember
-
     -   Stomp
-
     -   Leer
-
 -   Magnemite. Level 20.
-
     -   Thunder Shock
-
     -   Supersonic
-
     -   Mirror Shot
-
     -   Thunder Wave
-
 -   Galarian Darumaka. Level 19.
-
     -   Avalanche
-
     -   Work Up
-
     -   Bite
-
     -   Taunt
-
 -   Ferroseed Level 20.
-
     -   Mirror Shot
-
     -   Acid Spray
-
     -   Thunderbolt
-
     -   Metal Claw
-
 -   Metang Level 22.
-
     -   Confusion
-
     -   Metal Claw
-
     -   Bullet Punch
-
     -   Icy Wind
 
 This is a double battle with Adelinde's help, but Adelinde's mons will
@@ -8319,71 +7693,41 @@ Venam and Amber.
 
 **Music Enthusiast Amber and Punk Girl Venam (Volcanic Top Field)**
 -   **Amber**
-
     -   Camerupt. Level 76 (85 in script). @Solid Rock.
-
         -   Fever Pitch
-
         -   Hidden Power (Electric)
-
         -   Magnitude
-
         -   Stealth Rock
-
     -   Aevian Gyarados Level 77 (86 in script). @Air Balloon
-
         -   Fever Pitch
-
         -   Scald
-
         -   Work Up
-
     -   Aevian Toxtricity. Level 77 (86in script). @Air Balloon.
-
         -   Fever Pitch
-
         -   Acid Spray
-
         -   Hyper Voice
-
         -   Draco Meteor
-
 -   **Venam**
-
     -   Scolipede. Level 84 (86 in script). @Tellutic Seed.
-
         -   Venam's Kiss
-
         -   Mega Horn
-
         -   Rock Slide
-
         -   Protect
-
     -   Toxtricity. Level 85 (87 in script). @Elemental Seed.
-
         -   Overdrive
-
         -   Hyper Voice
-
         -   Sludge Bomb
-
         -   Hidden Power (Fire)
     -   Seviper. Level 85. @Seviper Crest.
-
         -   Sludge Wave
-
         -   Giga Drain
-
         -   Flame Thrower
-
         -   Dark Pulse
 
 Not a difficult fight. Having earth moves is recommended once you have
 broken the Air Ballons.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   They're just coping. (Aelita +2)
 -   Sore losers, both of em... (Nothing)
 
@@ -8438,8 +7782,7 @@ powerful but not resistant, if you are fast, you can one hit Toxtricity
 and Silvally (ground), while Togekiss, is the more resistant despite
 being the lead.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   You're right... (Venam +2)
 -   Hm... (Nothing)
 -   I'm not so sure... (Aelita +2)
@@ -8462,43 +7805,24 @@ You will face consecutive battles, and they all are double battles.
 
 **Inevitable Grief 01010010 01110110 (Deep Earth Field)**
 -   Silvally. Level 81.
-
     -   Swords Dance
-
     -   Multi Attack
-
     -   Zen Headbutt
-
     -   Iron Head
-
 -   Corviknight. Level 82. @Leftovers
-
     -   Roost
-
     -   Brave Bird
-
     -   Iron Head
-
     -   U-Turn
-
 -   Charizard. Level 81. @Charizardite X
-
     -   Fire Punch
-
     -   Dragon Claw
-
     -   Thunderpunch
-
     -   Will-O-Wisp
-
 -   Seviper. Level 82. @Seviper Crest
-
     -   Sludge Wave
-
     -   Sludge Bomb
-
     -   Flame Thrower
-
     -   Dark Pulse
 
 It is quite an easy fight, but you will be thrown into another
@@ -8506,86 +7830,48 @@ immediately, and no heals in the middle of course.
 
 **Inevitable Grief 01000001 01000101 (Deep Earth Field)**
 -   Cherrim. Level 81. @Cherrim Crest
-
     -   Helping Hand
-
     -   Giga Drain
-
     -   Nature Power
-
     -   Synthesis
-
 -   Hawlucha. Level 82. @Telluric Seed
-
     -   Swords Dance
-
     -   Close Combat
-
     -   Acrobatics
-
     -   X-Scissor
-
 -   Absol. Level 82. @Absolite
-
     -   Throat Chop
-
     -   Ice Beam
-
     -   Flame Thrower
-
     -   Night Slash
-
 -   Zangoose. Level 81. @Zangoose Crest
-
     -   Facade
-
     -   Close Combat
-
     -   Quick Attack
-
     -   Giga Drain
 
 Again, the enemies aren't that strong, but this isn't the last battle.
 
 **Inevitable Grief 01001101 (Deep Earth Field)**
 -   Zoroark. Level 81. @Zoroark Crest
-
     -   Psychic
-
     -   Nasty Plot
-
     -   Dark Pulse
-
     -   Sludge Bomb
-
 -   Mimikyu. Level 81. @Spooky Plate
-
     -   Hone Claws
-
     -   Play Rough
-
     -   Shadow Claw
-
     -   Shadow Sneak
-
 -   Snorlax. Level 82. @Snorlaxite
-
     -   Return
-
     -   Earthquake
-
     -   Crunch
-
     -   Heavy Slam
-
 -   Togekiss. Level 82. @Babiri Berry
-
     -   Aura Sphere
-
     -   Glided Helix
-
     -   Nasty Plot
-
     -   Heat Wave
 
 Again, not a big deal if your party is balanced and variety of attacks.
@@ -8635,18 +7921,12 @@ one controlling her. Move up.
 
 **Ice Soldier (Frozen Dimension Field)**
 -   Guardian Regice. Level 90. Ice/Ghost.
-
     -   Hail
-
     -   Surf
-
     -   Psychic
-
     -   Cold Truth
-
 -   After the first HP bar is finished, Glitch Field will happen, and
     will get Hyper Beam. Item is now @Leftovers.
-
 -   It can summon Mega Spiritomb and Sableye as support.
 
 This one Hits VERY hard, especially with the Hyper Beam. Mega Sableye is
@@ -8692,8 +7972,7 @@ Texen there.
 Now to the right and approach Crescent. First two choices are irrelevant
 with just change in direct reply.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Extreme sadness. (Nothing)
 -   Hopelessness (Nothing)
 -   Happiness! (Crescent +1)
@@ -8703,8 +7982,7 @@ Honestly the only option to increase friendship is quite against common
 sense for most people, but we are talking of Crescent. Next answers
 aren't like that though.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   It is okay to remember... (Crescent +2)
 -   Don't forget them... (Crescent -2)
 
@@ -8718,8 +7996,7 @@ girl, Konatsu, to proceed.
 
 Return to Erin's room.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   Is it handwritten? (Erin +2)
 -   Can you tell who wrote it? (Nothing)
 
@@ -8785,8 +8062,7 @@ Finish it when you want and continue through the cutscene.
 
 You are now at the rooftop of the Central Building. Talk to Amber.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   They'd support you. (Amber +1)
 -   They'd probably laugh (Amber -2)
 -   Maybe they'd cringe (Amber +2)
@@ -8796,56 +8072,34 @@ go to the Time Gate.
 
 **Tiempa (Deep Earth)**
 -   Dialga. 2 Hp Bars. Level 85. @Adamant Orb
-
     -   Earth Power
-
     -   Flash Cannon
-
     -   Power Gem
-
     -   Dragon Pulse
 
 -   After the 1st HP bar.
-
     -   Earth Power
-
     -   Flash Canon
-
     -   Power Gem
-
     -   Dragon Pulse
 
 You will be fully healed before the next boos fight.
 
 **Spacea (Deep Earth)**
 -   Palkia. 3 Hp Bars. Level 85. @Lustrous Orb
-
     -   Surf
-
     -   Thunderbolt
-
     -   Dragon Pulse
-
     -   Flamethrower
-
 -   After the 1st HP bar.
-
     -   Thunder
-
     -   Fire Blast
-
     -   Spatial Rend
-
     -   Hydro Pump
-
 -   After the 2nd HP Bar.
-
     -   Change forms to Origin
-
     -   Boosts defense and Sp. Attack
-
     -   Cures status and stat drops.
-
 -   Spacea can summon a Minior as aid and can also steal your Pokémon
     turning them to her side, but if you defeat it, it will return to
     you alive.
@@ -8875,8 +8129,7 @@ are finished.
 Once you are in control, go up and follow the only path and talk with
 Crescent.
 
-Friendship Point Choice:
-
+**Friendship Point Choice:**
 -   You are not and outlier... (Nothing)
 -   Is this really okay? (Crescent -2)
 -   It was a good idea. (Crecent +1)
@@ -8918,14 +8171,11 @@ Thunderstone.]</u>
 
 **Pokémon with evolution on this location:**
 -   Magneton -\> Magnezone
-
 -   Nosepass -\> Probopass
-
 -   Charjabug -\> Vikavolt
 
 **Maps to evolve:**
 -   Terajuma Excavation Site
-
 -   West Gearen Generator Room
 
 ### Cold Evolution Environment
@@ -8936,19 +8186,12 @@ Thunderstone.]</u>
 **Maps to evolve:**
 -   Valor Mountain (Ice)
 -   Evergreen Cave \[North\]
-
 -   Evergreen Cave \[South\]
-
 -   Tower of Theolia
-
 -   Crystal Fairytale
-
 -   Tower Cellar
-
 -   Battlefield of the Gods
-
 -   Spring of Preservation
-
 -   Seabound Cave
 
 ### Alolan Marowak Evolution Environment
@@ -8961,33 +8204,20 @@ this evolution form anyway.]</u>
 
 **Maps to evolve:**
 -   Mr. Luck\'s Tent
-
 -   Goldenwood Forest
-
 -   The Silent Grove
-
 -   Den of Verity
-
 -   Route 3 (South)
 -   Wispy Path
-
 -   Wispy Tower
-
 -   Goldenleaf Theatre
-
 -   Backstage Theatre
-
 -   Forsaken Laboratory
-
 -   Blacksteeple Castle
-
 -   Celgearn Castle
-
 -   Nightmare Toy Box
-
 -   New Game (Puppet Master's Map)
 -   Darchlight Manor
-
 -   Darchlight Woods
 
 ### Galarian Weezing Evolution Environment
@@ -8997,15 +8227,10 @@ this evolution form anyway.]</u>
 
 **Maps to evolve:**
 -   West Gearen City
-
 -   West Gearen Power Plant
-
 -   West Gearen Generator Room
-
 -   West Gearen Sewage Management
-
 -   Blakeory Manor
-
 -   Route Z
 
 ### Alolan Exeggutor Evolution Environment
@@ -9018,76 +8243,42 @@ are in Terajuma.]</u>
 
 **Maps to evolve:**
 -   Sheridan Village
-
 -   Terajuma Shipyard
-
 -   I.N.K.
-
 -   Kakori Village
-
 -   Kakori Depths
-
 -   Ranger HQ
-
 -   Help Plaza (Kakori Village)
 -   Kakori Gym
-
 -   Parks and Rec. Center
-
 -   Botanical Garden
-
 -   Terajuma Lighthouses
-
 -   Terajuma Jungle
-
 -   Deep Terajuma Jungle
-
 -   Great Terajuma Falls
-
 -   Jirukala Cavern
-
 -   Temple Outskirts
-
 -   Darchlight Village
-
 -   Mt. Terajuma
-
 -   Weather Institute
-
 -   Valor Cliffside
-
 -   Valor Summit
-
 -   Route 5
-
 -   Aquamarine Cave
-
 -   Aquamarine Depths
-
 -   Aquamarine Chamber
-
 -   Secluded Shore
-
 -   Route 6
-
 -   Stange Shack
-
 -   Teila Resort
-
 -   Tesla\'s Villa
-
 -   Club S.T.F.U.
-
 -   Mynori Sea
-
 -   Cutscene World
-
 -   Kristiline Town (unfrozen only)
 -   Help Plaza (Kristiline Village)
 -   Hiyoshi City
-
 -   Dream
-
 -   PokeStar Studios
 
 ### Hisuian Lilligant Evolution Environment
@@ -9100,22 +8291,15 @@ environment.]</u>
 
 **Maps to evolve:**
 -   Sheridan Village
-
 -   Help Plaza (Sharidan Village)
 -   Spring of Purification
-
 -   Sensei\'s House
-
 -   Sensei\'s Garden
-
 -   Texen\'s House
-
 -   Sheridan Village (past)
 -   Spring of Purification (past)
 -   Route 9
-
 -   Rose Theatre
-
 -   Forlorned Cavern
 
 ### Hisuian Braviary Evolution Environment
@@ -9127,21 +8311,14 @@ environment.]</u>
 -   Valor Mountain (Ice)
 -   Terajuma Beach (map with blue water only)
 -   Mirimura Cave
-
 -   Jyannobi Pass (inside the buildings only)
 -   Tyluric Temple (outside only)
 -   Evergreen Island
-
 -   Evergreen Forest
-
 -   Spring of Preservation
-
 -   Evergreen Cave \[North\]
-
 -   Evergreen Cave \[South\]
-
 -   Seabound Cave
-
 -   Zeight (Diamond Route-related map only)
 -   3rd HQ (Den of Souls 3rd Layer)
 
@@ -9152,7 +8329,6 @@ environment.]</u>
 
 **Maps to evolve:**
 -   Kingdom of Goomidra
-
 -   Castle of Goomidra
 
 ### Hisuian Avalugg Evolution Environment
@@ -9465,7 +8641,6 @@ Evolution Locations for details.]</u>
 You can only get at most one of these lines, when selecting your starter
 (13.5 marks Torchic as the obvious choice since it is the only
 evolutionary line being starter only):
-
 -   **Torchic**
 -   **Combusken** (evolve Torchic level 16)
 -   **Blaziken** (evolve Combusken level 36)
@@ -9492,7 +8667,6 @@ Larvesta** at level 59.
 
 You can\'t get any of the following Pokémon yet under any circumstances
 (updated based on dev's words):
-
 -   **Drilbur**
 -   **Excadrill**
 -   **Galarian Darumaka**
@@ -9516,7 +8690,6 @@ You can\'t get any of the following Pokémon yet under any circumstances
 At the moment, none of the following legendries are available either in
 Paragon Route (a couple that are exclusive from Renegade are marked as
 such):
-
 -   **Galarian Articuno**
 -   **Galarian Zapdos**
 -   **Galarian Moltres**
@@ -10083,8 +9256,8 @@ get a Zygarde Cell and a Fighting Memory.
 
 Try to enter the Tyluric temple to start the quest.
 
-Friendship Point Choice:**
-**-   Why are you so interested (Talon +2)
+**Friendship Point Choice:**
+-   Why are you so interested (Talon +2)
 -   What is in for you? (Talon +1)
 -   No thanks. (Talon -1, Flora +2)
 
