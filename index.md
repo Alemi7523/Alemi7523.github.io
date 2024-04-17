@@ -6545,8 +6545,9 @@ On the other side of the bride, there is a different area of Route 4, the centra
 |Plusle             |2     |Minun          |2     |                 |      |            |       |
 |**Nuzleaf**        |2     |**Nuzleaf**    |2     |                 |      |            |       |
 
-Soon after reaching the central area, you will see an overworld Emolga. We need one to show the painter, so catch one. 
-There are also a couple of overworld Flabebe here and an item that can be ONE of the following: ***Great Ball***, ***Rawst Berry***, ***Potion***, ***Awakening***. 
+Soon after reaching the central area, you will see an overworld **Emolga**, which doesn’t respawn like the other overworld encounters on Route 4. 
+We need one to show the painter, so catch one. 
+There are also a couple of overworld **Flabebe** here and an item that can be ONE of the following: ***Great Ball***, ***Rawst Berry***, ***Potion***, ***Awakening***. 
 The Flabebe, regardless of how they are seen overworld, they can be any flower color.
 There is also a couple of overworld Pidove, and an overworld Hoot-hoot, but they are more to the east, and for now, let’s go west.
 
@@ -6605,6 +6606,26 @@ We don't get to see the conservation as the scene turns back to our main charact
 |                   |      |Nuzleaf        |2     |                 |      |            |       |
 
 Again, the encounters are a most the same as the rest of Route 4, but this time on the mornings, there is Emolga, who existed only as an overworld encounter on previous parts of Route 4.
+
+Go through the eastern bridge, to reach the northeast area.
+
+**Route 4 Northeast Area Encounters (Grassy Terrain)**
+
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** | **%** |
+|-------------------|------|---------------|------|-----------------|------|------------|-------|
+|Bounsweet          |20    |Bounsweet      |49    |Bounsweet        |42    |Finneon     | 100   |
+|Sunflora           |20    |Sunflora       |15    |Meowth           |30    |            |       |
+|Sunkern            |20    |Fletchinder    |12    |Emolga           |10    |            |       |
+|Meowth             |17    |Emolga         |10    |Tranquill        |9     |            |       |
+|Tranquill          |10    |Meowth         |5     |Togedemaru       |5     |            |       |
+|Togedemaru         |5     |Togedemaru     |5     |Plusle           |2     |            |       |
+|Emolga             |12    |Minun          |2     |Nuzleaf          |2     |            |       |
+|Plusle             |2     |Nuzleaf        |2     |                 |      |            |       |
+|Nuzleaf            |2     |               |      |                 |      |            |       |
+
+Again, just a small change on what appears in this area and nothing new this time.
+On the overworld encounters though, you can find a Wooloo at night close to the southern lake, which is new for us.
+
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
