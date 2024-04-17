@@ -6514,13 +6514,13 @@ Go the westernmost side to find an overworld Kircketot if it is day, and a Zygar
 
 <img src="assets/media/image36.png"/>
 
-There is also an item that can be ONE of the following choices:  Tiny Mushroom, Honey, Persim Berry, Poké Ball. 
-There is also a chance, you can see a Ranger who will gift you 2 Blue Shards if you speak with him, but his appearance is as random as the items.
+There is also an item that can be ONE of the following choices: ***Tiny Mushroom***, ***Honey***, ***Persim Berry***, ***Poké Ball***. 
+There is also a chance, you can see a Ranger who will gift you 2 **Blue Shards** if you speak with him, but his appearance is as random as the items.
 
 Go through the northern stars and then west and through more stairs. 
-Here there is an overworld Misdreavus if it is night, and a hidden Leaf Stone in the southern flowers.
+Here there is an overworld Misdreavus if it is night, and a hidden ***Leaf Stone*** in the southern flowers.
 
-Go back a bit and this time pick the stairs at the east side to find TM100 Confide.
+Go back a bit and this time pick the stairs at the east side to find ***TM100 Confide***.
 You can now go back to the southern part and follow the way to progress with the story.
 
 You will se a scene with Aelita and Nim, continue north after it, and pick another Zygarde Cell.
@@ -6530,9 +6530,10 @@ You will se a scene with Aelita and Nim, continue north after it, and pick anoth
 <img src="assets/media/image37.png"/>
 
 Try to cross the bridge or talk to Nim and she will start following you. 
-On the other side of the bride, there is a different area of Route 4 with encounter that though similar, aren’t identical.
+On the other side of the bride, there is a different area of Route 4, the central one, with encounters that though similar, aren’t identical.
 
 **Route 4 Central/East Area Encounters (Grassy Terrain)**
+
 |**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** | **%** |
 |-------------------|------|---------------|------|-----------------|------|------------|-------|
 |Bounsweet          |20    |Bounsweet      |49    |Bounsweet        |42    |Finneon     | 100   |
@@ -6543,6 +6544,16 @@ On the other side of the bride, there is a different area of Route 4 with encoun
 |Togedemaru         |5     |Togedemaru     |5     |**Nuzleaf**      |2     |            |       |
 |Plusle             |2     |Minun          |2     |                 |      |            |       |
 |**Nuzleaf**        |2     |**Nuzleaf**    |2     |                 |      |            |       |
+
+Soon after reaching the central area, you will see an overworld Emolga. We need one to show the painter, so catch one. 
+There are also a couple of overworld Flabebe here. Regardless of how they are seen overworld, they can be any flower color. 
+There is also a couple of overworld Pidove, and an overworld Hoot-hoot, but they are more to the east, and for now, let’s go west.
+
+It is possible find a ranger that gift you a ***Persim Berry***, but it is random if she appears or not.
+
+Continue west to find another of the items that can be several things. This is ONE of the following: ***Poké Ball***, ***Leppa Berry***, ***Super Potion***, ***Full Heal***. 
+Now go up and talk with the girl in front of the blocked bridge.
+
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
