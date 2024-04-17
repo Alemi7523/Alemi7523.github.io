@@ -6664,6 +6664,67 @@ I don’t recommend buying things until having gotten Chespin. Buy Fragments to 
 If you already have Chespin, go the Red Essence Shop, and buy at least the Bike Voucher, but it doesn’t harm having as many crests as possible in case we want to use them in the future. 
 Crests go to the enhancements pocket of your bag.
 
+Leave the house and go north until you can go east, here there are some overworld Duskull at night, and some Wooloo when it isn't night.
+
+Now try to enter Akuwa Town, and you will have to fight Nim.
+
+**Apprentice Nim (Psychic Terrain). Story Mode.**
+- Stonjourner, Level 32. 
+  - Rock Tomb
+  - Gravity
+  - Stealth Rock
+  - Heavy Slam
+- Darmanitan, Level 31.
+  - Fire Punch
+  - Facade
+  - Yawn
+  - Hammer Arm
+- Lunatone, Level 38. 
+  - Protect
+  - Ancient Power
+  - Cosmic Power
+  - Psychic
+- Solrock, Level 38. 
+  - Rock Tomb
+  - Flamethrower
+  - Psychic
+  - Heal Block
+
+**Apprentice Nim (Psychic Terrain). Classic Mode.**
+- Stonjourner, Level 37. 
+  - Rock Slide
+  - Stealth Rock
+  - Heavy Slam
+  - Body Press
+- Darmanitan, Level 36. @ Kee Berry. 
+  - U-Turn
+  - Psychic
+  - Flamethrower
+  - Fire Punch
+- Malamar, Level 36. @ Twisted Spoon. 
+  - Giga Impact
+  - Psycho Cut
+  - Night Slash
+  - Aerial Ace
+- Duosion, Level 35. @ Eviolite. 
+  - Psychic
+  - Energy Ball 
+  - Thunder Wave
+  - Shadow Ball
+- Lunatone, Level 38. @ Passho Berry. 
+  - Rock Slide
+  - Ancient Power
+  - Icy Wind
+  - Psychic
+- Solrock, Level 38. @ Twisted Spoon. 
+  - Explosion
+  - Flamethrower
+  - Zen Headbutt
+  - Stone Edge
+
+She is stronger than in our previous fight, but she isn’t strong enough to be an issue if you keep your team at the level cap and have some variety of moves.
+
+Story points to Akuwa Tows, but we have other things to do, so we will just enter the town, see the scene with the old man and leave again.
 
 
 
