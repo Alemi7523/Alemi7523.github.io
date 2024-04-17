@@ -92,7 +92,8 @@
   - [Wispy Ruins](#wispy-ruins)
     - [Mystery Egg ](#mystery-egg)
 
-**Contents in middle pending to finish.**
+**Contents in middle pending to finish. The contents after this point may also be incomplete.**
+
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
   - [Awakening Adrest](#awakening-adrest)
   - [December 6th \| A Light of Determination](#december-6th-a-light-of-determination)
@@ -720,7 +721,7 @@ now available, so we can catch some new mons.
 **Left East Gearen City Encounters (City Field)**
 
 |**Grass: Morning**   |**%**   |**Grass: Day**   |**%**   |**Grass: Night**    |**%**  |
-|-------------------- |------- |---------------- |------- |------------------- |-------|
+|---------------------|--------|-----------------|--------|--------------------|-------|
 |**Wurmple**          |27      |**Wurmple**      |27      |**Wurmple**         |27     |
 |**Alolan Rattata**   |25      |**Bidoof**       |25      |**Alolan Rattata**  |25     |
 |**Pidgey**           |15      |**Pidove**       |15      |**Poochyena**       |15     |
@@ -761,7 +762,7 @@ cleared patch of grass.
 **Right East Gearen City Encounters (City Field)**
 
   |**Grass: Morning**   |**%**   |**Grass: Day** |**%**   |**Grass: Night**   |**%**  |
-  |-------------------- |------- |-------------- |------- |------------------ |-------|
+  |---------------------|--------|---------------|--------|-------------------|-------|
   |Alolan Rattata       |30      |Bidoof         |30      |Alolan Rattata     |30     |
   |**Paras**            |28      |**Paras**      |28      |**Jigglypuff**     |28     |
   |Patrat               |25      |Patrat         |25      |Poochyena          |25     |
@@ -2982,16 +2983,12 @@ Go past Karrina and speak with the Gang Leader.
 
 **Gang Member Charly (Crystal Cavern Field). Story Mode**
 -   Cufant, Level 21
-
 -   Vigoroth, Level 23
-
 -   Mankey, Level 21
 
 **Gang Member Charly (Crystal Cavern Field). Classic Mode**
 -   Cufant, Level 23
-
 -   Vigoroth, Level 24
-
 -   Mankey, Level 24
 
 Once you win, you will receive a **Houndour** from Karrina.
@@ -3022,75 +3019,44 @@ double battle.
 **Apprentice Nim (Psychic Terrain). Story Mode**
 -   Inkay, Level 16.
     -   Psywave
-
     -   Feint Attack
-
     -   Hypnosis
-
     -   Swagger
-
 -   Darumaka, Level 16.
     -   Fire Fang
-
     -   Bite
-
     -   Headbutt
-
     -   Taunt
-
 -   Lunatone, Level 18. @ Passho Berry.
     -   Rock Slide
-
     -   Ancient Power
-
     -   Cosmic Power
-
     -   Confusion
-
 -   Solrock, Level 18. @ Rindo Berry.
     -   Rock Slide
-
     -   Fire Spin
-
     -   Psywave
-
     -   Cosmic Power
-
 **Apprentice Nim (Psychic Terrain). Classic Mode**
 -   Inkay, Level 20.
     -   Psywave
-
     -   Feint Attack
-
     -   Hypnosis
-
     -   Swagger
-
 -   Darumaka, Level 20.
     -   Fire Fang
-
     -   Bite
-
     -   Headbutt
-
     -   Taunt
-
 -   Lunatone, Level 21. @ Passho Berry.
     -   Rock Slide
-
     -   Ancient Power
-
     -   Cosmic Power
-
     -   Confusion
-
 -   Solrock, Level 21. @ Rindo Berry.
     -   Rock Slide
-
     -   Fire Spin
-
     -   Psywave
-
     -   Cosmic Power
 
 Remember that priority attacks won't work on grounded mons because the
@@ -3121,7 +3087,7 @@ go solve that issue quickly, but not without some exploration first.
 **Sheridan Village Encounters (Forest Field)**
 
 |**Grass: Morning/Day** |**%** | **Grass: Night** |**%** |**Old Rod** |**%** |**Rock Smash** |**%** |
-|-----------------------|------| ---------------- |------|---------   |------|---------------|------|
+|-----------------------|------| -----------------|------|------------|------|---------------|------|
 |**Zigzagoon**          |32    | **Zigzagoon**    |32    |Goldeen     |70    |Geodude        |50    |
 |**Makuhita**           |29    | **Makuhita**     |29    |Finneon     |30    |Diglett        |7     |
 |Spearow                |15    | Chingling        |21    |            |      |               |      |
@@ -3255,7 +3221,7 @@ Above the left tree there is a hidden ***Moon Ball***.
 **Amethyst Grotto Encounters (Blessed Field)**
  
 |**Grass**     |**%** |
-|--------------|---   |
+|--------------|------|
 |**Dunsparce** |37    |
 |Meowth        |27    |
 |Jigglypuff    |27    |
@@ -3434,94 +3400,56 @@ her again (double battle).
 **Dance Prodigy Rorim B and Wanderer Novae (Forest Field). Story Mode.**
 -   Oricorio Sensu, Level 23 @Maranga Berry. (Rorim B)
     -   Feather Dance
-
     -   Teeter Dance
-
     -   Revelation Dance
-
     -   Pluck
-
 -   Lombre, Level 24. (Rorim B)
     -   Mega Drain
-
     -   Rain Dance
-
     -   Bubble Beam
-
     -   Knock Off
-
 -   Charjabug, Level 22. (Novae)
     -   Spark
-
     -   Acrobatics
-
     -   Dig
-
     -   Crunch
-
 -   Passimian, Level 24. (Novae)
     -   Rock Tomb
-
     -   Bulldoze
-
     -   Rock Smash
-
     -   Work Up
 
 **Dance Prodigy Rorim B and Wanderer Novae (Forest Field). Classic
 Mode.**
 -   Galarian Mr. Mime, Level 24. (Rorim B)
     -   Teeter Dance
-
     -   Icy Wind
-
     -   Disarming Voice
-
     -   Psybeam
-
 -   Oricorio Sensu, Level 23 @Maranga Berry. (Rorim B)
     -   Feather Dance
-
     -   Teeter Dance
-
     -   Revelation Dance
-
     -   Pluck
-
 -   Lombre, Level 25. @ Mystic Water. (Rorim B)
     -   Mega Drain
-
     -   Rain Dance
-
     -   Bubble Beam
-
     -   Knock Off
-
 -   Charjabug, Level 24. (Novae)
     -   Spark
-
     -   Charge
-
     -   Dig
-
     -   Crunch
-
 -   Trumbeak, Level 23. (Novae)
     -   Fury Attack
-
     -   Rock Smash
-
     -   Pluck
-
     -   Rock Blast
-
 -   Passimian, Level 25. (Novae)
     -   Rock Tomb
-
     -   Bulldoze
-
     -   Low Sweep
-
     -   Work Up
 
 This time there is quite a difference between mode, on Classic, this
@@ -3554,95 +3482,55 @@ him (double battle).
 **Sensei Keta (Forest Field). Story Mode**
 -   Combusken, Level 22.
     -   Double Kick
-
     -   Flame Charge
-
     -   Cut
-
     -   Protect
-
 -   Galarian Farfetch\'d, Level 23.
     -   Steel Wing
-
     -   Sand Attack
-
     -   Gale Strike
-
     -   Protect
-
 -   Machoke, Level 23.
     -   Chip Away
-
     -   Low Sweep
-
     -   Leer
-
     -   Focus Energy
-
 -   Lucario, Level 22.
     -   Howl
-
     -   Poison Sweep
-
     -   Extreme Speed
-
     -   Gale Strike
 
 **Sensei Keta (Forest Field). Classic Mode**
 -   Pignite, Level 23.
     -   Flame Charge
-
     -   Arm Thrust
-
     -   Protect
-
     -   Fire Punch
-
 -   Scraggy, Level 22
-
     -   Brutal Swing
-
     -   Gale Strike
-
     -   Fake Out
-
     -   Headbutt
-
 -   Galarian Farfetch\'d, Level 23. @ Eviolite.
     -   Gale Strike
-
     -   Brutal Swing
-
     -   Pluck
-
     -   Quick Attack
-
 -   Combusken, Level 22. @ Charcoal.
     -   Cut
-
     -   Double Kick
-
     -   Protect
-
     -   Flame Burst
-
 -   Machoke, Level 23. @ Coba Berry.
     -   Knock Off
-
     -   Gale Strike
-
     -   Rock Tomb
-
     -   Bullet Punch
-
 -   Lucario, Level 24. @ Black Belt
-
     -   Gale Strike
-
     -   Poison Sweep
-
     -   Aerial Ace
-
     -   Bullet Punch
 
 Gale Strike: Fighting \| Physical \| 60 power \| 100% accuracy \|
@@ -3671,7 +3559,7 @@ Aelita will team up with you.
 **Carotos Mountain Encounters (Volcanic Field)**
 
 |**Cave**     |**%** |**Old Rod** |**%** |
-|-------------|---   |----------- |------|
+|-------------|------|------------|------|
 |**Numel**    |40    |**Numel**   |70    |
 |**Slugma**   |30    |**Slugma**  |30    |
 |Onix         |19    |            |      |
@@ -3752,109 +3640,64 @@ double battle with Keta aiding you.
 
 **Xen Executive Madelis (No Field). Story Mode.**
 -   Shadow Mewtwo, Level 27. 2HP Bars
-
     -   Shadow Beam (20 base damage)
-
         -   After finishing 1 HP bar, Attack and Special Attack go up,
             but Defense and Special Defense go down.
-
 -   Floette, Level 20.
     -   Sunny Day
-
     -   Aromatherapy
-
     -   Dazzling Gleam
-
     -   Protect
-
 -   Salandit, Level 20.
     -   Poison Gas
-
     -   Flame Burst
-
     -   Venoshock
-
     -   Protect
-
 -   Golbat, Level 21.
     -   Wing Attack
-
     -   Confuse Ray
-
     -   Double Team
-
     -   Venoshock
-
 -   Cufant, Level 21.
     -   Stomp
-
     -   Bulldoze
-
     -   Growl
-
     -   Flash Cannon
-
 -   Houndoom, Level 21.
     -   Snarl
-
     -   Fire Fang
-
     -   Protect
-
     -   Nasty Plot
 
 **Xen Executive Madelis (No Field). Classic Mode.**
 -   Shadow Mewtwo, Level 30. 2HP Bars
-
     -   Shadow Beam (40 base damage)
-
         -   After finishing 1 HP bar, Attack and Special Attack go up,
             but Defense and Special Defense go down.
-
 -   Cufant, Level 24.
     -   Iron Head
-
     -   Stomp
-
     -   Growl
-
     -   Rollout
-
 -   Houndoom, Level 25.
     -   Snarl
-
     -   Flamethrower
-
     -   Thunder Fang
-
     -   Crunch
-
 -   Floette, Level 24. @ Wise Glasses
-
     -   Magical Leaf
-
     -   Draining Kiss
-
     -   Dazzling Gleam
-
     -   Protect
-
 -   Salandit, Level 23.
     -   Poison Gas
-
     -   Flame Burst
-
     -   Venoshock
-
     -   Protect
-
 -   Golbat, Level 24.
     -   Wing Attack
-
     -   Confuse Ray
-
     -   Double Team
-
     -   Venoshock
 
 You can lose this fight, but winning gives you +1 Friendship Point with
@@ -3868,7 +3711,7 @@ You will be teleported to another area with Aelita.
 
 **Friendship Point Choice:**
 -   Thanks, Aelita. (Aelita +2)
--   I can handle myself. (Aelita -- 2)
+-   I can handle myself. (Aelita - 2)
 
 Advance a bit for another choice.
 
@@ -3890,7 +3733,6 @@ do anything, but the other two branch the story a bit.
 -   Shut Down, lets you input as code to shutting Volcanion down, you
     don't know the code if you are playing normally, but it exists.
     -   XE089321
-
 -   Transfer will send the Volcanion to the Carotos Mountain, despite
     saying initially that would go to the Throne Room, which is the
     place you faced Madelis.
@@ -3914,65 +3756,39 @@ have to gith it to free it from its pain.
 **Rift Volcanion (Dimensional Field). 3HP Bars. Story Mode**
 -   Volcanion, Level 24. Ability: Water Absorb.
     -   Steam Eruption
-
     -   Flamethrower
-
     -   Scorching Sands
-
     -   Rock Slide
-
 -   After clearing the first HP Bar, all stats will be lowered and the
     moveset will change:
-
     -   Scald
-
     -   Incinerate
-
     -   Mud Shot
-
     -   Rock Tomb
-
 -   After clearing the second HP Bar, all stats will be lowered and the
     moveset will change:
-
     -   Water Gun
-
     -   Ember
-
     -   Mud Slap
-
     -   Rock Throw
 
 **Rift Volcanion (Dimensional Field). 3HP Bars. Classic Mode**
 -   Volcanion, Level 28. Ability: Water Absorb.
     -   Steam Eruption
-
     -   Flamethrower
-
     -   Scorching Sands
-
     -   Rock Slide
-
 -   After clearing the first HP Bar, all stats will be lowered and the
     moveset will change:
-
     -   Scald
-
     -   Incinerate
-
     -   Mud Shot
-
     -   Rock Tomb
-
 -   After clearing the second HP Bar, all stats will be lowered and the
     moveset will change:
-
     -   Water Gun
-
     -   Ember
-
     -   Mud Slap
-
     -   Rock Throw
 
 It will become weaker the further you progress. It isn't a hard fight
@@ -4016,25 +3832,17 @@ fight Crescent's Gothitelle.
 **Crescent\'s Gothitelle (No Field). 2 HP Bars. Story Mode.**
 -   Gothitelle, Level 32.
     -   Fake Tears
-
     -   Psychic
-
     -   Flatter
-
     -   Dark Pulse
-
 -   After clearing 1 HP bar, Defense increase.
 
 **Crescent\'s Gothitelle (No Field). 2 HP Bars. Classic Mode.**
 -   Gothitelle, Level 35.
     -   Fake Tears
-
     -   Psychic
-
     -   Flatter
-
     -   Dark Pulse
-
 -   After clearing 1 HP bar, Defense and Special Defense increase.
 
 The level is high, so you may suffer a bit, but it isn't especially hard
@@ -4145,84 +3953,50 @@ Amanda, who is blocking the entrance. You will battle her.
 **League Scout Amanda (City Field). Story Mode**
 -   Bronzor, Level 21. @ Heat Rock.
     -   Sunny Day
-
     -   Gyro Ball
-
     -   Confuse Ray
-
     -   Psywave
-
 -   Weepinbell, Level 23. @ Miracle Seed.
     -   Razor Leaf
-
     -   Knock Off
-
     -   Sleep Powder
-
     -   Hidden Power Fire
-
 -   Miltank, Level 22.
     -   Stomp
-
     -   Milk Drink
-
     -   Thunder Wave
-
     -   Stacking Shot
-
 -   Hatenna, Level 24. @ Twisted Spoon.
     -   Psybeam
-
     -   Draining Kiss
-
     -   Nuzzle
-
     -   Aromatherapy
 
 **League Scout Amanda (City Field). Classic Mode**
 -   Bronzor, Level 24. @ Heat Rock.
     -   Sunny Day
-
     -   Gyro Ball
-
     -   Confuse Ray
-
     -   Psywave
-
 -   Weepinbell, Level 25. @ Miracle Seed.
     -   Razor Leaf
-
     -   Knock Off
-
     -   Sleep Powder
-
     -   Hidden Power Fire
-
 -   Miltank, Level 24.
     -   Stomp
-
     -   Milk Drink
-
     -   Thunder Wave
-
     -   Stacking Shot
-
 -   Hatenna, Level 25. @ Twisted Spoon.
     -   Psybeam
-
     -   Draining Kiss
-
     -   Nuzzle
-
     -   Aromatherapy
-
 -   Druddigon, Level 26. @ Charcoal.
     -   Fire Punch
-
     -   Dragon Tail
-
     -   Sunny Day
-
     -   Metal Claw
 
 If you are on the level cap, you shouldn't have problems even on
@@ -4372,41 +4146,28 @@ Now gave to fight a servant with that annoying Dusknoir.
 **Servant Moya (Grassy Terrain). Story Mode**
 -   Dusknoir, Level 28. 2 Shields.
     -   Shadow Punch
-
     -   Will-o-Wisp
-
     -   Infestation
-
     -   Payback
-
 -   After clearing 1 HP bar, Dusknoir will heal any stat drop, get new
     moves and increase Attack.
     -   Shadow Punch
-
     -   Will-o-Wisp
-
     -   Icy Wind
-
     -   Thunderpunch
 
 **Servant Moya (Grassy Terrain). Classic Mode**
 -   Dusknoir, Level 30. @ Dusknoir Crest. 2 Shields.
     -   Shadow Punch
-
     -   Will-o-Wisp
-
     -   Infestation
-
     -   Payback
 
 -   After clearing 1 HP bar, Dusknoir will heal any stat drop, get new
     moves and increase Attack and Defense.
     -   Shadow Punch
-
     -   Will-o-Wisp
-
     -   Ice Punch
-
     -   Thunderpunch
 
 You have Marianette's help, and this shouldn't be a difficult battle if
@@ -4434,16 +4195,12 @@ her for a battle.
 
 **Servant Lara (Grassy Terrain). Story Mode**
 -   Herdier, Level 25
-
 -   Sliggoo, Level 25
-
 -   Doublade, Level 25
 
 **Servant Lara (Grassy Terrain). Classic Mode**
 -   Herdier, Level 25
-
 -   Sliggoo, Level 25
-
 -   Doublade, Level 26
 
 Once you defeat her, continue west, go down, west again and north to
@@ -4475,16 +4232,12 @@ corner, half-covered by a tree.
 
 **Servant Yara (Grassy Terrain). Story Mode**
 -   Nosepass, Level 26
-
 -   Togetic, Level 26
-
 -   Misdreavus, Level 26
 
 **Servant Yara (Grassy Terrain). Classic Mode**
 -   Nosepass, Level 25
-
 -   Togetic, Level 26
-
 -   Misdreavus, Level 26
 
 Strange the higher level on Story Mode, but that is how it is.
@@ -4513,16 +4266,12 @@ the south there is the last maid you were looking for.
 
 **Servant Deandra (Grassy Terrain). Story Mode**
 -   Arbok, Level 26
-
 -   Ribombee, Level 25
-
 -   Hypno, Level 26
 
 **Servant Deandra (Grassy Terrain). Classic Mode**
 -   Arbok, Level 24
-
 -   Cutiefly, Level 25
-
 -   Hypno, Level 26
 
 Again, the levels are lower on Classic, and there is even one mon
@@ -4587,9 +4336,7 @@ You can get an item if you tell the truth (failing won't let you retry).
 The correct answers are the following:
 
 1.  It's fine.
-
 2.  Sheridan is fine.
-
 3.  It's destroyed.
 
 She will give us ***Anju\'s Pendant***. We don't have use for it at this
@@ -4614,93 +4361,56 @@ anymore.]</u>
 
 **Child of Light Marianette (Blessed Field). Story Mode**
 -   Hisuian Zorua, Level 25. @ Focus Band
-
     -   Hyper Beam
-
     -   Confuse Ray
-
     -   U-Turn
-
     -   Sucker Punch
-
 -   Indeedee, Level 26. @ Fist Plate.
     -   Round
-
     -   Future Sight
-
     -   Multipulse (Fighting)
     -   Wish
-
 -   Chatot, Level 26. @ Earth Plate
-
     -   Chatter
-
     -   Nasty Plot
-
     -   Multipulse (Earth)
     -   Roost
-
 -   Bewear, Level 27.
     -   Strength
-
     -   Brick Break
-
     -   Aerial Ace
-
     -   Brutal Swing
 
 **Child of Light Marianette (Blessed Field). Classic Mode**
 -   Delcatty, Level 27. @ Splash Plate.
     -   Cosmic Power
-
     -   Baton Pass
-
     -   Hyper Voice
-
     -   Multipulse (Water)
 -   Indeedee, Level 27. @ Fist Plate.
     -   Draining Kiss
-
     -   Psyshock
-
     -   Multipulse (Fighting)
     -   Magical Leaf
-
 -   Stantler, Level 27. @ Icicle Plate.
     -   Facade
-
     -   Work Up
-
     -   Multipulse (Ice)
     -   Stomping Tantrum
-
 -   Hisuian Zorua, Level 28. @ Focus Sash
-
     -   Hyper Beam
-
     -   Will-o-Wisp
-
     -   Bitter Malice
-
     -   Extrasensory
-
 -   Chatot, Level 27. @ Iron Plate
-
     -   Chatter
-
     -   Nasty Plot
-
     -   Multipulse (Steel)
     -   Hyper Voice
-
 -   Bewear, Level 29. @ Leftovers
-
     -   Strength
-
     -   Brick Break
-
     -   Aerial Ace
-
     -   Brutal Swing
 
 Multipulse: Type is the same as the user\'s held Plate (like Judgment)
@@ -4806,55 +4516,36 @@ League. Next fight is against Bugsy.
 
 Your teams will be one of the following based on your starter choice:
 -   Bayleef 16. Gastly 16. Flaaffy 16.
-
 -   Quilava 16. Qwilfish 16. Onix 16.
-
 -   Croconaw 16. Growlithe 16. Phanpy 16.
 
 **Gym Leader Bugsy (Glitch Field). Story Mode.**
 -   Ariados, Level 13.
     -   Night Shade
-
     -   Poison Sting
-
     -   Constrict
-
 -   Ledian, Level 13.
     -   Knock Off
-
     -   Mach Punch
-
     -   Comet Punch
-
 -   Scyther, Level 14.
     -   Quick Attack
-
     -   Wing Attack
-
     -   Pursuit
 
 **Gym Leader Bugsy (Glitch Field). Classic Mode.**
 -   Ariados, Level 14.
     -   Night Shade
-
     -   Poison Sting
-
     -   Constrict
-
 -   Ledian, Level 14.
     -   Knock Off
-
     -   Psybeam
-
     -   Comet Punch
-
 -   Scyther, Level 15.
     -   Quick Attack
-
     -   Wing Attack
-
     -   Pursuit
-
     -   Fury Cutter
 
 If you went with Cyndaquil as a starter, this is very easy with Quilava
@@ -4887,95 +4578,55 @@ Sawk. Speak with them, and you will have to fight.
 **Battle Girl Janelle (Forest Field). Story Mode.**
 -   Sandslash, Level 30.
     -   Crush Claw
-
     -   Magnitude
-
     -   Hone Claws
-
     -   Stealth Rock
-
 -   Ninjask, Level 30.
     -   Protect
-
     -   Aerial Ace
-
     -   Bug Bite
-
     -   Baton Pass
-
 -   Sneasel, Level 30.
     -   Metal Claw
-
     -   Hone Claws
-
     -   Ice Shard
-
     -   Punishment
-
 -   Galarian Farfetch'd, Level 30
-
     -   Leaf Blade
-
     -   Slam
-
     -   Night Slash
-
     -   Brick Break
 
 **Battle Girl Janelle (Forest Field). Classic Mode.**
 -   Sandslash, Level 32.
     -   Crush Claw
-
     -   Earthquake
-
     -   Hone Claws
-
     -   Stealth Rock
-
 -   Ninjask, Level 32.
     -   Protect
-
     -   Aerial Ace
-
     -   Bug Bite
-
     -   Baton Pass
-
 -   Rampardos, Level 32.
     -   Rock Slide
-
     -   Zen Headbutt
-
     -   Fire Punch
-
     -   Rock Polish
-
 -   Zangoose, Level 33.
     -   Quick Attack
-
     -   Shadow Claw
-
     -   Crush Claw
-
     -   Swords Dance
-
 -   Sneasel, Level 33.
     -   Metal Claw
-
     -   Hone Claws
-
     -   Ice Shard
-
     -   Knock Off
-
 -   Sirfetch'd, Level 35
-
     -   Leaf Blade
-
     -   Slash
-
     -   Night Slash
-
     -   Brick Break
 
 Win and you will be given a chance to catch **Throh**. You can trade a
@@ -5027,59 +4678,38 @@ right to attempt the third gym of the Virtual League.
 
 Your team depending on what you chose as starter:
 -   Bayleef 22.Gastly 21. Flaaffy 21.
-
 -   Quilava 22. Qwilfish 21. Onix 21.
-
 -   Croconaw 22. Growlithe 21. Phanpy 21.
 
 **Gym Leader Whitney (Glitch Field). Story Mode**
 -   Clefairy, Level 17.
     -   Double Slap
-
     -   Metronome
-
     -   Soft-Boiled
-
 -   Jigglypuff, Level 18.
     -   Headbutt
-
     -   Sing
-
     -   Bubble Beam
-
 -   Miltank, Level 20.
     -   Milk Drink
-
     -   Tackle
-
     -   Rollout
-
     -   Attract
 
 **Gym Leader Whitney (Glitch Field). Classic Mode**
 -   Clefairy, Level 19.
     -   Double Slap
-
     -   Metronome
-
     -   Soft-Boiled
-
 -   Jigglypuff, Level 20.
     -   Headbutt
-
     -   Sing
-
     -   Thunderpunch
-
     -   Attract
-
 -   Miltank, Level 21.
     -   Milk Drink
-
     -   Stomp
-
     -   Rollout
-
     -   Attract
 
 If you played the original Johto games, this battle might give you fear,
@@ -5098,83 +4728,51 @@ to get another badge ourselves.
 
 Your team depending on what you chose as starter:
 -   Bayleef 25.Haunter 25. Flaaffy 25. Eevee 25.
-
 -   Quilava 25. Qwilfish 25. Onix 25. Eevee 25.
-
 -   Croconaw 25. Growlithe 25. Donphan 25. Eevee 25.
 
 **Gym Leader Morty (Glitch Field). Story Mode**
 -   Misdreavus, Level 20.
     -   Confuse Ray
-
     -   Mean Look
-
     -   Protect
-
     -   Perish Song
-
 -   Haunter, Level 20.
     -   Curse
-
     -   Night Shade
-
     -   Rest
-
     -   Mean Look
-
 -   Mismagius, Level 22.
     -   Me First
-
     -   Night Shade
-
     -   Will-O-Wisp
-
     -   Shock Wave
-
 -   Gengar, Level 25.
     -   Hypnosis
-
     -   Dream Eater
-
     -   Shadow Punch
-
     -   Night Shade
 
 **Gym Leader Morty (Glitch Field). Classic Mode**
 -   Misdreavus, Level 22.
     -   Confuse Ray
-
     -   Mean Look
-
     -   Protect
-
     -   Perish Song
-
 -   Haunter, Level 23.
     -   Curse
-
     -   Night Shade
-
     -   Rest
-
     -   Mean Look
-
 -   Mismagius, Level 24.
     -   Me First
-
     -   Night Shade
-
     -   Will-O-Wisp
-
     -   Charge Beam
-
 -   Gengar, Level 25. @ Wide Lens.
     -   Hypnosis
-
     -   Dream Eater
-
     -   Ice Punch
-
     -   Night Shade
 
 First time the Cyndaquil route ends up on the losing side. All parties
@@ -5332,56 +4930,31 @@ but the TM must be owned. Use it and battle will begin.
 
 **Furious Crobat (Cave Field)**
 -   Crobat, Level 38. 4 HP Bars. @ Flying Gem
-
     -   Cross Poison
-
     -   Bite
-
     -   Acrobatics
-
     -   Protect
-
 -   After finishing 2 HP Bars, Tailwind will affect Crobat's side, she
     will get a Sitrus Berry and a moveset update:
-
     -   Brave Bird
-
     -   Cross Poison
-
     -   Protect
-
     -   Leech Life
-
 -   There are three possible helpers Crobat may call:
-
     -   Zubat, Level 32.
-
         -   Confuse Ray
-
         -   Poison Fang
-
         -   Torment
-
         -   Thief
-
     -   Woobat, Level 32.
-
         -   Confusion
-
         -   Charm
-
         -   Helping Hand
-
         -   Air Slash
-
     -   Noibat, Level 32.
-
         -   Super Fang
-
         -   Whirlwind
-
         -   Air Slash
-
         -   Dragon Rush
 
 This is quite a tough fight, especially if you are like me and forgot to
@@ -5604,9 +5177,7 @@ It seems the Hiker himself was the Zoroark. Now interact with **Zorua**
 to get it and finish the quest. It can come with three different set of
 moves:
 -   Memento, Detect
-
 -   Extrasensory, Counter
-
 -   Copycat, Sucker Punch
 
 <u>[Note: This is the only place in the game where you can get a Zorua
@@ -5635,87 +5206,50 @@ Now you have to talk with Alita for a battle.
 **Student Aelita (Forest Field) Story Mode**
 -   Staravia, Level 27.
     -   Aerial Ace
-
     -   Take Down
-
     -   Steel Wing
-
     -   U-Turn
-
 -   Hawlucha, Level 28. @ Black Belt
-
     -   Roost
-
     -   Gale Strike
-
     -   Aerial Ace
-
     -   Bulk Up
-
 -   Clobbopus, Level 26. @ Sitrus Berry
-
     -   Brick Break
-
     -   Feint
-
     -   Sucker Punch
-
     -   Detect
-
 -   Combusken, Level 28. @ Charcoal.
     -   Blaze Kick
-
     -   Bulk Up
-
     -   Thunderpunch
-
     -   Night Slash
 
 **Student Aelita (Forest Field) Classic Mode**
 -   Gligar, Level 29.
     -   Aerial Ace
-
     -   Bulldoze
-
     -   Steel Wing
-
     -   U-Turn
-
 -   Staravia, Level 29.
     -   Aerial Ace
-
     -   Take Down
-
     -   Steel Wing
-
     -   U-Turn
-
 -   Hawlucha, Level 31. @ Flying Gem.
     -   Brick Break
-
     -   Gale Strike
-
     -   Bounce
-
     -   Hone Claws
-
 -   Clobbopus, Level 30. @ Sitrus Berry
-
     -   Sucker Punch
-
     -   Poison Sweep
-
     -   Brick Break
-
     -   Power Up Punch
-
 -   Combusken, Level 31. @ Charcoal.
     -   Blaze Kick
-
     -   Bulk Up
-
     -   Thunderpunch
-
     -   Night Slash
 
 Note that Combusken has Speed Boost. Anyway, this isn't a hard fight
@@ -6015,57 +5549,35 @@ Rift though. It is a 3vs3, so you will have to choose.
 **International Police \"C\" (No Field). Story Mode**
 -   Orbeetle, Level 29.
     -   Struggle Bug
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Confuse Ray
-
 -   Golisopod, Level 28. @ Poison Barb.
     -   First Impression Sneak
-
     -   Swords Dance
-
     -   Struggle Bug
-
     -   Slash
-
 -   Galvantula, Level 30. @ Magnet.
     -   Thunder Wave
-
     -   Sticky Web
-
     -   Cross Poison
-
     -   Bug Bite
 
 **International Police \"C\" (No Field). Classic Mode.**
 -   Orbeetle, Level 30.
     -   Signal Beam
-
     -   Hypnosis
-
     -   Psybeam
-
     -   Confuse Ray
-
 -   Ariados, Level 31. @ Poison Barb.
     -   Shadow Sneak
-
     -   Bug Bite
-
     -   Poison Sweep
-
     -   Swords Dance
-
 -   Galvantula, Level 32. @ Magnet.
     -   Thunderbolt
-
     -   Hidden Power Grass
-
     -   Charge Beam
-
     -   Signal Beam
 
 It is quite an easy battle if you pick the right types, and we know that
@@ -6137,61 +5649,39 @@ you will have to fight Rift Gyarados.
 **Dimensional Rift Gyarados (Forest Field). Story Mode.**
 -   Rift Gyarados, Level 31. Type: Water/Ghost. 3 HP Bars.
     -   Phantom Force
-
     -   Waterfall
-
     -   Bite
-
     -   Screech
-
 -   After clearing 1HP Bar, Gyarados will become Water/Dragon. Field
     Change to Water Surface.
     -   Dragon Breath
-
     -   Waterfall
-
     -   Thunder Fang
-
     -   Screech
-
 -   After clearing the 2HP Bars, Gyarados will become Fire/Dragon and
     heal stat drops. Field Change to Infernal.
     -   Dragon Breath
-
     -   Lava Plume
-
     -   Bite
-
     -   Screech
 
 **Dimensional Rift Gyarados (Forest Field). Classic Mode.**
 -   Rift Gyarados, Level 35. Type: Water/Ghost. 3 HP Bars.
     -   Phantom Force
-
     -   Waterfall
-
     -   Grassy Glide
-
     -   Screech
-
 -   After clearing 1HP Bar, Gyarados will become Water/Dragon. Field
     Change to Water Surface.
     -   Dragon Rush
-
     -   Waterfall
-
     -   Thunder Fang
-
     -   Screech
-
 -   After clearing the 2HP Bars, Gyarados will become Fire/Dragon and
     heal stat drops. Field Change to Infernal.
     -   Dragon Rush
-
     -   Lava Plume
-
     -   Crunch
-
     -   Screech
 
 This can be done with one more badge, so if you find it too hard, you
@@ -6305,75 +5795,46 @@ prepare to fight a double battle.
 **Team Xen Eli and Sharon (Short Circuit Field). Story Mode**
 -   Honchkrow, Level 30.
     -   Night Slash
-
     -   Swagger
-
     -   Drill Peck
-
     -   Thunder Wave
-
 -   Mismagius, Level 30.
     -   Mystical Fire
-
     -   Shadow Ball
-
     -   Power Gem
-
     -   Calm Mind
-
 -   Tangela, Level 30.
     -   Giga Drain
-
     -   Bulldoze
-
     -   Ancient Power
-
     -   Knock Off
-
 -   Lickitung, Level 30.
     -   Icy Wind
-
     -   Body Slam
-
     -   Rock Slide
-
     -   Knock Off
 
 **Team Xen Eli and Sharon (Short Circuit Field). Classic Mode**
 -   Tangela, Level 31. @ Eviolite.
     -   Giga Drain
-
     -   Stun Spore
-
     -   Ancient Power
-
     -   Knock Off
 
 -   Lickitung, Level 31. @ Leftovers.
     -   Icy Wind
-
     -   Body Slam
-
     -   Rock Tomb
-
     -   Knock Off
-
 -   Honchkrow, Level 32. @ Sitrus Berry.
     -   Feint Attack
-
     -   Swagger
-
     -   Drill Peck
-
     -   Thunder Wave
-
 -   Mismagius, Level 32. @ Sitrus Berry.
     -   Mystical Fire
-
     -   Hex
-
     -   Magical Leaf
-
     -   Psywave
 
 Their main issue is that they can slow you down and paralyze, so the
@@ -7022,8 +6483,16 @@ you will trigger a cutscene and have to fight.
 Story mode has one mon extra per team, but far lower levels and not predefined moves on the script. Either way, this shouldn’t be a difficult fight if you are at the level cap or have super effective moves.
 Now, you are free to advance to Route 4.
 
+## Route 4
 
-**The guide is still work-in progress, so from Route 4 onwards isn't available yet, except for the Karma files and some 13.5 new quests, they are done.**
+You will trigger a cutscene as soon as you reach this route. As you are told, this is a massive Reservoir.
+There are a lot of scattered items, and they refresh once a day. Good way to farm them.
+Each spawn item point has four possible options, and they are chosen randomly each day. 
+These items are shown as white sparkles on the ground, you will see one at your right as you regain control.
+This point can have ONE of the following four each day: ***Tiny Mushroom***, ***Cheri Berry***, ***Poké Ball***, ***Energy Root***.
+
+
+**The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
 # Karma Files (Paragon Route Chapter 0)
 
@@ -7059,58 +6528,33 @@ Continue upwards and you will be thrown into a battle.
 **Interceptor Crescent (Deep Earth Field)**
 -   Aevian Bronzong. Level 86. @Leftovers.
     -   Iron Defense
-
     -   Body Press
-
     -   Heavy Slam
-
     -   Terrain Pulse
-
 -   Weavile. Level 87. @Life Orb.
     -   Low Kick
-
     -   Icicle Crash
-
     -   Throat Chop
-
     -   Psycho Cut
-
 -   Metagross. Level 88. @Metagrossite.
     -   Zen Headbutt
-
     -   Gyro ball
-
     -   Grass Knot
-
     -   Earthquake
-
 -   Garchomp. Level 87. @Focus Sash.
     -   Earthquake
-
     -   Dragon Rush
-
     -   Iron Tail
-
     -   Stone Edge
-
 -   Malamar. Level 88. @Iron Ball
-
     -   Superpower
-
     -   Fling
-
     -   Rock Slide
-
     -   Psycho Cut
-
 -   Crescent\'s Gothitelle. Boss Level 90. @Gothitelle Crest
-
     -   Gravity
-
     -   Grass Knot
-
     -   Psychic
-
     -   Thunderbolt
 
 She is quite strong, makes full use of the field, and when Gothitelle
