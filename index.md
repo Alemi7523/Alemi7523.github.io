@@ -6499,7 +6499,7 @@ Before continuing south to progress the story, we shall take up the stairs  at t
 
 |**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** | **%** |
 |-------------------|------|---------------|------|-----------------|------|------------|-------|
-|**Bounsweet**      |20    |**Bounsweet**  |49    |**Bounsweet**    |42    |**Finneon** | 100   |
+|**Bounsweet**      |20    |**Bounsweet**  |49    |**Bounsweet**    |42    |Finneon     | 100   |
 |**Sunflora**       |20    |**Sunflora**   |15    |Meowth           |30    |            |       |
 |Sunkern            |20    |Fletchinder    |12    |Tranquill        |19    |            |       |
 |Meowth             |17    |Tranquill      |10    |**Togedemaru**   |5     |            |       |
@@ -6509,7 +6509,13 @@ Before continuing south to progress the story, we shall take up the stairs  at t
 |Linoone            |2     |Linoone        |2     |                 |      |            |       |
 
 Go the westernmost side to find an overworld Kircketot if it is day, and a Zygarde Cell at night.
-There is also an item that can be ONE of the following choices:  Tiny Mushroom, Honey, Persim Berry, Poké Ball. There is also a chance, you can see a Ranger who will gift you 2 Blue Shards if you speak with him, but his appearance is as random as the items.
+
+**ZCell 029: Route 4 (Nighttime)**
+
+<img src="assets/media/image36.png"/>
+
+There is also an item that can be ONE of the following choices:  Tiny Mushroom, Honey, Persim Berry, Poké Ball. 
+There is also a chance, you can see a Ranger who will gift you 2 Blue Shards if you speak with him, but his appearance is as random as the items.
 
 Go through the northern stars and then west and through more stairs. 
 Here there is an overworld Misdreavus if it is night, and a hidden Leaf Stone in the southern flowers.
@@ -6517,7 +6523,26 @@ Here there is an overworld Misdreavus if it is night, and a hidden Leaf Stone in
 Go back a bit and this time pick the stairs at the east side to find TM100 Confide.
 You can now go back to the southern part and follow the way to progress with the story.
 
+You will se a scene with Aelita and Nim, continue north after it, and pick another Zygarde Cell.
 
+**ZCell 030: Route 4**
+
+<img src="assets/media/image37.png"/>
+
+Try to cross the bridge or talk to Nim and she will start following you. 
+On the other side of the bride, there is a different area of Route 4 with encounter that though similar, aren’t identical.
+
+**Route 4 Central/East Area Encounters (Grassy Terrain)**
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** | **%** |
+|-------------------|------|---------------|------|-----------------|------|------------|-------|
+|Bounsweet          |20    |Bounsweet      |49    |Bounsweet        |42    |Finneon     | 100   |
+|Sunflora           |20    |Sunflora       |15    |Meowth           |30    |            |       |
+|Sunkern            |20    |Fletchinder    |12    |Tranquill        |19    |            |       |
+|Meowth             |17    |Tranquill      |10    |Togedemaru       |5     |            |       |
+|Tranquill          |14    |Meowth         |5     |Plusle           |2     |            |       |
+|Togedemaru         |5     |Togedemaru     |5     |**Nuzleaf**      |2     |            |       |
+|Plusle             |2     |Minun          |2     |                 |      |            |       |
+|**Nuzleaf**        |2     |**Nuzleaf**    |2     |                 |      |            |       |
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
