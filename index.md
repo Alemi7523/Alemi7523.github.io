@@ -6624,7 +6624,47 @@ Go through the eastern bridge, to reach the northeast area.
 |Nuzleaf            |2     |               |      |                 |      |            |       |
 
 Again, just a small change on what appears in this area and nothing new this time.
-On the overworld encounters though, you can find a Wooloo at night close to the southern lake, which is new for us.
+On the overworld encounters though, you can find a **Wooloo** at night close to the southern lake, which is new for us.
+There is also a new Rift Den.
+
+RIFT DEN 2 (< 8 Badges): The common encounters in this second den are Tranquill, **Wailmer**, Dunsparce, and **Vullaby**. The rare ones are **Chatot**, Snorunt, and Cacnea.
+
+Continue east and go down to find ***TM45 Attract***. 
+North from here there is an item that can be ONE of the following: ***Exp. Candy S***, ***Exp. Candy M***, ***Rare Candy***, ***Exp. Candy XS***. 
+Now enter the house, which is Cairo’s Den.
+
+If you speak with the **Chespin** and you have at least ten thousand of Red Essence (you can check on the Gather Cube), it won’t be consumed, he will gift it to you. 
+It was originally a shadow mon Cairo rescued. It is also the first starter we can get without being chosen as a starter. 
+Try to get a female one if you want to breed before getting Ditto. You may have to soft reset a lot of time though.
+
+Speak with some Red Essence at hand to unlock his shop.
+
+**Cairo's Shop (<8 Badges)**
+
+|**Item**            |**Price**        |
+|--------------------|-----------------|
+|*Joy Scent (10)*    |$5000            |
+|*Excite Scent (10)* |$8500            |
+|*Vivid Scent (10)*  |$11000           |
+|*Bike Voucher*      |250 Red Essences |
+|*Noctowl Crest*     |2000 Red Essences|
+|*Simisage Crest*    |2000 Red Essences|
+|*Simisear Crest*    |2000 Red Essences|
+|*Simipour Crest*    |2000 Red Essences|
+|*Fragments (5)*     |$4956            |
+|*Fragments (10)*    |$14868           |
+|*Fragments (25)*    |$24780           |
+
+The scents are used to lower the heart gauge of shadow mons, while the crests are unique held items for specific mons that give them unique strengths to make them better and are usually given to species that are bad and need the boost. 
+There is a list at the end with all crests, their effects, and their locations. 
+The shop here will update with more crests as we get more badges, but this isn’t the only source of crests. 
+
+I don’t recommend buying things until having gotten Chespin. Buy Fragments to activate dens and catch the mon inside to maximize the gain. Remember that rare dens give double and that catching it double than defeating/not fighting.
+
+If you already have Chespin, go the Red Essence Shop, and buy at least the Bike Voucher, but it doesn’t harm having as many crests as possible in case we want to use them in the future. 
+Crests go to the enhancements pocket of your bag.
+
+
 
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
@@ -6642,19 +6682,15 @@ Walk to Erin in the League Administration Area to begin the Karma Files.
 
 Then you are given another choice.
 
--   I need time... (Let's you go to your destination Obelisk on your
-    own)
+-   I need time... (Let's you go to your destination Obelisk on your own)
 -   Let's walk. (Moves you directly to the Obelisk)
 
-Once you are into the Obelisk map, talk with it and select Yes to
-continue.
+Once you are into the Obelisk map, talk with it and select Yes to continue.
 
-You will be in Zeight, go thought the only way and in the next room talk
-to the sleeping Adrest and select Yes.
+You will be in Zeight, go thought the only way and in the next room talk to the sleeping Adrest and select Yes.
 
-You will be interrupted and given another choice. This time, it is just
-the text that changes based on what you say, so choose freely. Theres
-another choice, but whatever you say, there is no change.
+You will be interrupted and given another choice. This time, it is just the text that changes based on what you say, so choose freely. 
+There is another choice, but whatever you say, there is no change.
 
 Go on your way and you will find some blue butterflies as long as you
 have positive Karma. If you touch them your soul will be Rejuvenated.
