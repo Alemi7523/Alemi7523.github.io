@@ -6546,7 +6546,8 @@ On the other side of the bride, there is a different area of Route 4, the centra
 |**Nuzleaf**        |2     |**Nuzleaf**    |2     |                 |      |            |       |
 
 Soon after reaching the central area, you will see an overworld Emolga. We need one to show the painter, so catch one. 
-There are also a couple of overworld Flabebe here. Regardless of how they are seen overworld, they can be any flower color. 
+There are also a couple of overworld Flabebe here and an item that can be ONE of the following: ***Great Ball***, ***Rawst Berry***, ***Potion***, ***Awakening***. 
+The Flabebe, regardless of how they are seen overworld, they can be any flower color.
 There is also a couple of overworld Pidove, and an overworld Hoot-hoot, but they are more to the east, and for now, let’s go west.
 
 It is possible find a ranger that gift you a ***Persim Berry***, but it is random if she appears or not.
