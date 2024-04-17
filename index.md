@@ -6555,6 +6555,31 @@ It is possible find a ranger that gift you a ***Persim Berry***, but it is rando
 Continue west to find another of the items that can be several things. This is ONE of the following: ***Poké Ball***, ***Leppa Berry***, ***Super Potion***, ***Full Heal***. 
 Now go up and talk with the girl in front of the blocked bridge.
 
+This girl is the one that sell us drinks in Sheridan Village some days, if you have talked to her before, she will recognize you, otherwise, she will introduce herself and give you the Moomoo Milk gift of first time meeting her.
+
+We have to go east to find the guy in charge of the reservoir to help us clear the blockage on the bridge.
+
+Cross the bridge on the east, and you will find some overworld Cubone, continue east for a scene. 
+Check the place Nim asks you to from the lower side, and you will be stopped by Cairo, a guy that lives in the Route 4 Reservoir.
+
+The thing you just interacted with is a Rift Den, result of Team Xen’s experiments with Shadow mons. 
+When local mons fell inside, they re-emerge as shadow mons. 
+You will be gifted 5 ***Rift Fragments***. Use them in a Rift them to activate them and make a shadow mon appear to fight. 
+You can catch it only after there is a single HP bar left. Rifts may be active even without using them.
+
+Cairo happens to be the guy we needed to clear the path, so task cleared.
+
+You can now interact with the Rift Den. There are common and rare ones, with differing encounters, rare have blue light. 
+Not fighting or defeating the shadow mon gives 250/500 Red Essence for common/rare dens respectively, while catching gives 500/1000 Red Essence respectively. 
+This Red Essence can be used to buy things soon.
+
+RIFT DEN 1 (< 8 Badges): The common encounters in this den are Graveler, Nuzleaf, **Solosis**, and **Tropius**. The rare ones are Finneon, Bonsly, Meowth, and **Elektrike**.
+
+You can try now to get some. 
+If you cancel an encounter without clearing the Den, you can get another encounter from the list, so good way to refresh until getting the ones you want.
+
+Note that right now, Nim will fight with you, which may be undesired since she can knock out the opponent before being able to catch it.
+
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
