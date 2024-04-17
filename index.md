@@ -92,7 +92,7 @@
   - [Wispy Ruins](#wispy-ruins)
     - [Mystery Egg ](#mystery-egg)
   - [Route 4](#route-4)
-  
+
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -6252,12 +6252,12 @@ resist.
 
 This may fail if an opponent uses a move that is not of direct damage.
 If your Mightyena is defeated, you can try with the rest of your party
-if they gor priority moves or reset to hope better luck the next one. I
+if they got priority moves or reset to hope better luck the next one. I
 think the IA focuses on damage since they can certainly 1HKO Mightyena
 with their attacks.
 
 Defeating him gives you, Blue Shard, Red Shard, Green Shard, Black
-Prism, Exp. Candy L, and ***MT17 Protect***, this last one is really
+Prism, Exp. Candy L, and ***TM17 Protect***, this last one is really
 useful and the main reason it would be good to get it as soon as
 possible. You can fight once per day in game. The rewards will be the
 same except the TM.
@@ -6492,6 +6492,31 @@ Each spawn item point has four possible options, and they are chosen randomly ea
 These items are shown as white sparkles on the ground, you will see one at your right as you regain control.
 
 This point can have ONE of the following four each day: ***Tiny Mushroom***, ***Cheri Berry***, ***Poké Ball***, ***Energy Root***.
+
+Before continuing south to progress the story, we shall take up the stairs  at the right of the item to reach the Adventurer’s Cliff, a part of Route 4 South Area with some things to pick.
+
+**Route 4 South Area Encounters (Grassy Terrain)**
+
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** | **%** |
+|-------------------|------|---------------|------|-----------------|------|------------|-------|
+|**Bounsweet**      |20    |**Bounsweet**  |49    |**Bounsweet**    |42    |**Finneon** | 100   |
+|**Sunflora**       |20    |**Sunflora**   |15    |Meowth           |30    |            |       |
+|Sunkern            |20    |Fletchinder    |12    |Tranquill        |19    |            |       |
+|Meowth             |17    |Tranquill      |10    |**Togedemaru**   |5     |            |       |
+|Tranquill          |14    |Meowth         |5     |Plusle           |2     |            |       |
+|**Togedemaru**     |5     |**Togedemaru** |5     |Linoone          |2     |            |       |
+|Plusle             |2     |Minun          |2     |                 |      |            |       |
+|Linoone            |2     |Linoone        |2     |                 |      |            |       |
+
+Go the westernmost side to find an overworld Kircketot if it is day, and a Zygarde Cell at night.
+There is also an item that can be ONE of the following choices:  Tiny Mushroom, Honey, Persim Berry, Poké Ball. There is also a chance, you can see a Ranger who will gift you 2 Blue Shards if you speak with him, but his appearance is as random as the items.
+
+Go through the northern stars and then west and through more stairs. 
+Here there is an overworld Misdreavus if it is night, and a hidden Leaf Stone in the southern flowers.
+
+Go back a bit and this time pick the stairs at the east side to find TM100 Confide.
+You can now go back to the southern part and follow the way to progress with the story.
+
 
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
