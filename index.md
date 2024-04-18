@@ -104,6 +104,10 @@
     - [Night 3 - Bittersweet Reunion](#night-3-–-bittersweet-reunion)
     - [Day 4 - Union](#day-4---union)
   - [Xen Battleship](#xen-battleship)
+  - [Terajuma Shore](#terajuma-shore)
+  - [Terajuma Jungle](#terajuma-jungle)
+
+
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -7630,7 +7634,30 @@ You can lose, but losing means -3 Friendship Points with Melia, while winning me
 
 They are strong, but certainly not at a level they should cause trouble to you, and you far outnumber them in terms of mons.
 
+After winning, the ship is moved to a dockyard. You will finally regain the control after some scenes, but Saki is missing since she was sent flying before.
 
+Return to the ship and enter it though the entrance on the left side, the one that leads to Capitan Augustus. Continue up to reach the top of the ship and find ***TM136 Assurance***. 
+This wasn’t there while we were moving though the sea. 
+
+Leave the ship again. Time to start exploring the first area of Terajuma we can explore.
+
+<u>Note: For those who played previous versions, Terajuma has changed A LOT on V13.5.</u>
+
+No grass here, but we can fish with our Old Rod.
+
+**Terajuma Shipyard Encounters**
+
+|Old Rod  |% |
+|---------|--|
+|Carvanha |60|
+|Krabby   |20|
+|Wailmer  |20|
+
+Two new ones and one that could only be caught on Rift Den, not bad.
+
+We can’t do more here for now, so go north to Terajuma Jungle.
+
+## Terajuma Jungle
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
