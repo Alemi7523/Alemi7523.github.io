@@ -6941,7 +6941,7 @@ We are in control outside of Neved’s office, so go back downstairs and go nort
 You can now leave and go to the battle room which is the right exit we took for a previous cutscene. 
 Now we can enter freely and if we exit to the right, we can reach a small area with grass and wild mons.
 
-**Blacksteeple Castle Encounters (No Field)**
+**Blacksteeple Castle Encounters (No Field, Permanent Hail)**
 
 | Grass         | %  |
 |---------------|----|
@@ -6962,6 +6962,113 @@ There is nothing more you can do on this day, so return to your cell and go slee
 You will see a scene in which a hooded girl reaches Blacksteeple Castle floating on a Wailmer. She will introduce herself as Emma to Naved and offer to help him, which Naved will only accept if she accomplishes a task.
 
 ## Day 2 - Blacksteeple Battalion
+
+Leave your cell for a scene in which you are told of the new person in Blacksteeple Castle who appeared by mistake rather than being abducted. 
+Follow Saki upstairs for a scene with your friends and Emma, or Emmalie, the new girl.
+
+Once you can move, go through the southwest door, and talk to the left guard to access the shop.
+
+**Blacksteeple Castle Shop**
+
+|Item          |Price|
+|--------------|-----|
+|*Poke Ball*   |$200 |
+|*Great Ball*  |$600 |
+|*Ultra Ball*  |$1200|
+|*Super Potion*|$700 |
+|*GourmetTreat*|$1500|
+|*Repel*       |$350 |
+|*Super Repel* |$500 |
+|*Escape Rope* |$550 |
+
+The right guard is the one selling Mining Kit, but they don’t have any remaining since  a kid, a School Boy, got the last one. 
+Go to the Castle Courtyard and you will find the kid. 
+If you leave through the southern door, go up the stairs on either side and the kid is just between the door we left and the door of the upper-level. 
+You will have to battle him for the ***Mining Kit***.
+
+**Schoolboy Billy (No Field, Permanent Hail)**
+- Story Mode: Vaporeon 32, Flareon 33, Jolteon 35.
+- Classic Mode: Vaporeon 34, Flareon 34, Jolteon 36.
+
+Not a hard battle on either mode due to the difference in level.
+
+Once  you have won, you can go to the mines and talk to Adam for a scene.
+
+**Friendship Point Choice:**
+- I won it. (Neutral)
+- I stole it. (Adam -1)
+
+Regardless of what we replied, Adam will fill the quota of the poor Billy, so he doesn’t starve.
+
+Now, you can mine the glowing rocks you should have already seen before.
+Mining still leaves some rock behind, so you need to use Blast Powder to destroy them completely, which also gives and additional missing change on the rock. 
+If you followed this guide, you should have found one before.
+
+The minigame should be familiar to you from gen 4.
+
+**Mining Probabilities**
+
+|Item Name      |Chance|
+|---------------|------|
+|Helix Fossil   |0.6%  |
+|Root Fossil    |0.4%  |
+|Claw Fossil    |0.4%  |
+|Dome Fossil    |0.4%  |
+|Skull Fossil   |0.4%  |
+|Armor Fossil   |0.4%  |
+|Sun Stone      |0.6%  |
+|Shiny Stone    |0.6%  |
+|Dawn Stone     |0.6%  |
+|Ice Stone      |0.6%  |
+|Dusk Stone     |0.6%  |
+|Thunderstone   |0.6%  |
+|Fire Stone     |0.6%  |
+|Thunderstone   |0.6%  |
+|Water Stone    |0.6%  |
+|Leaf Stone     |0.6%  |
+|Moon Stone     |0.6%  |
+|Oval Stone     |1.0%  |
+|Everstone      |1.0%  |
+|Star Piece     |1.5%  |
+|Rare Bone      |1.0%  |
+|Revive         |1.5%  |
+|Max Revive     |0.5%  |
+|Light Clay     |1.0%  |
+|Hard Stone     |1.0%  |
+|Heart Scale    |8.5%  |
+|Iron Ball      |1.0%  |
+|Odd Keystone   |0.5%  |
+|Heat Rock      |1.0%  |
+|Damp Rock      |1.0%  |
+|Smooth Rock    |1.0%  |
+|Icy Rock       |1.0%  |
+|Amplified Rock |1.0%  |
+|Red Shard      |4.0%  |
+|Green Shard    |4.0%  |
+|Yellow Shard   |4.0%  |
+|Blue Shard     |4.0%  |
+|Insect Plate   |0.2%  |
+|Dread Plate    |0.2%  |
+|Draco Plate    |0.2%  |
+|Zap Plate      |0.2%  |
+|Fist Plate     |0.2%  |
+|Flame Plate    |0.2%  |
+|Meadow Plate   |0.2%  |
+|Earth Plate    |0.2%  |
+|Icicle Plate   |0.2%  |
+|Toxic Plate    |0.2%  |
+|Mind Plate     |0.2%  |
+|Stone Plate    |0.2%  |
+|Sky Plate      |0.2%  |
+|Spooky Plate   |0.2%  |
+|Iron Plate     |0.2%  |
+|Splash Plate   |0.2%  |
+|Pixie Plate    |0.2%  |
+
+You can save in front of s rock and soft reset wit F12 until you get what you want. 
+Lots of things useful here, and we will be able to revive fossils in the future, but there is time until then.
+
+After breaking all rocks, Adam will gift you ***Blast Powder*** to use, so use it and talk to him again.
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
