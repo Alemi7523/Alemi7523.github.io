@@ -7020,6 +7020,7 @@ The minigame should be familiar to you from gen 4.
 |Shiny Stone    |0.6%  |
 |Dawn Stone     |0.6%  |
 |Ice Stone      |0.6%  |
+|Black Prism    |1.0%  |
 |Dusk Stone     |0.6%  |
 |Thunderstone   |0.6%  |
 |Fire Stone     |0.6%  |
