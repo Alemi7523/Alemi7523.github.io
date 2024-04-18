@@ -97,6 +97,7 @@
   - [Akuwa Town](#akuwa-town)
   - [Blacksteeple Castle](#blacksteeple-castle)
     - [Day 1](#day-1)
+    - [Day 2](#day-2)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -6935,9 +6936,29 @@ Approach for a scene.
 - Where's Aelita? (Neutral)
 - Are we done here? (Aelita -1)
 
+We are in control outside of Neved’s office, so go back downstairs and go north to the colorful door leading to the throne room, enter for a scene.
+You can now leave and go to the battle room which is the right exit we took for a previous cutscene. 
+Now we can enter freely and if we exit to the right, we can reach a small area with grass and wild mons.
 
+**Blacksteeple Castle Encounters (No Field)**
 
-**The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
+| Grass         | %  |
+|---------------|----|
+| **Tangela**   | 30 |
+| Teddiursa     | 15 |
+| **Cramorant** | 15 |
+| **Abomasnow** | 10 |
+| **Ursaring**  | 6  |
+| **Delibird**  | 5  |
+
+While this is a place, we don’t be able to return after having left Blacksteeple Castle, all the mons can also be obtained on other places. 
+Still, it is a good idea to get all of them now.
+
+There is nothing more you can do on this day, so return to your cell and go sleep.
+
+### Day 2
+
+**The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
 # Karma Files (Paragon Route Chapter 0)
 
