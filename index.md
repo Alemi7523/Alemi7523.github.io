@@ -7012,60 +7012,60 @@ The minigame should be familiar to you from gen 4.
 
 |Item Name      |Chance|
 |---------------|------|
-|Helix Fossil   |1,1%  |
-|Root Fossil    |0,8%  |
-|Claw Fossil    |0,8%  |
-|Dome Fossil    |0,8%  |
-|Skull Fossil   |0,8%  |
-|Armor Fossil   |0,8%  |
-|Sun Stone      |1,1%  |
-|Shiny Stone    |1,1%  |
-|Dawn Stone     |1,1%  |
-|Ice Stone      |1,1%  |
-|Black Prism    |1,9%  |
-|Dusk Stone     |1,1%  |
-|Thunderstone   |1,1%  |
-|Fire Stone     |1,1%  |
-|Water Stone    |1,1%  |
-|Leaf Stone     |1,1%  |
-|Moon Stone     |1,1%  |
-|Oval Stone     |1,9%  |
-|Everstone      |1,9%  |
-|Star Piece     |2,9%  |
-|Rare Bone      |1,9%  |
-|Revive         |2,9%  |
-|Max Revive     |1,0%  |
-|Light Clay     |1,9%  |
-|Hard Stone     |1,9%  |
-|Heart Scale    |16,2% |
-|Iron Ball      |1,9%  |
-|Odd Keystone   |1,0%  |
-|Heat Rock      |1,9%  |
-|Damp Rock      |1,9%  |
-|Smooth Rock    |1,9%  |
-|Icy Rock       |1,9%  |
-|Amplified Rock |1,9%  |
-|Red Shard      |7,6%  |
-|Green Shard    |7,6%  |
-|Yellow Shard   |7,6%  |
-|Blue Shard     |7,6%  |
-|Insect Plate   |0,4%  |
-|Dread Plate    |0,4%  |
-|Draco Plate    |0,4%  |
-|Zap Plate      |0,4%  |
-|Fist Plate     |0,4%  |
-|Flame Plate    |0,4%  |
-|Meadow Plate   |0,4%  |
-|Earth Plate    |0,4%  |
-|Icicle Plate   |0,4%  |
-|Toxic Plate    |0,4%  |
-|Mind Plate     |0,4%  |
-|Stone Plate    |0,4%  |
-|Sky Plate      |0,4%  |
-|Spooky Plate   |0,4%  |
-|Iron Plate     |0,4%  |
-|Splash Plate   |0,4%  |
-|Pixie Plate    |0,4%  |
+|*Helix Fossil*   |1,1%  |
+|*Root Fossil*    |0,8%  |
+|*Claw Fossil*    |0,8%  |
+|*Dome Fossil*    |0,8%  |
+|*Skull Fossil*   |0,8%  |
+|*Armor Fossil*   |0,8%  |
+|*Sun Stone*      |1,1%  |
+|*Shiny Stone*    |1,1%  |
+|*Dawn Stone*     |1,1%  |
+|*Ice Stone*      |1,1%  |
+|*Black Prism*    |1,9%  |
+|*Dusk Stone*     |1,1%  |
+|*Thunderstone*   |1,1%  |
+|*Fire Stone*     |1,1%  |
+|*Water Stone*    |1,1%  |
+|*Leaf Stone*     |1,1%  |
+|*Moon Stone*     |1,1%  |
+|*Oval Stone*     |1,9%  |
+|*Everstone*      |1,9%  |
+|*Star Piece*     |2,9%  |
+|*Rare Bone*      |1,9%  |
+|*Revive*         |2,9%  |
+|*Max Revive*     |1,0%  |
+|*Light Clay*     |1,9%  |
+|*Hard Stone*     |1,9%  |
+|*Heart Scale*    |16,2% |
+|*Iron Ball*      |1,9%  |
+|*Odd Keystone*   |1,0%  |
+|*Heat Rock*      |1,9%  |
+|*Damp Rock*      |1,9%  |
+|*Smooth Rock*    |1,9%  |
+|*Icy Rock*       |1,9%  |
+|*Amplified Rock* |1,9%  |
+|*Red Shard*      |7,6%  |
+|*Green Shard*    |7,6%  |
+|*Yellow Shard*   |7,6%  |
+|*Blue Shard*     |7,6%  |
+|*Insect Plate*   |0,4%  |
+|*Dread Plate*    |0,4%  |
+|*Draco Plate*    |0,4%  |
+|*Zap Plate*      |0,4%  |
+|*Fist Plate*     |0,4%  |
+|*Flame Plate*    |0,4%  |
+|*Meadow Plate*   |0,4%  |
+|*Earth Plate*    |0,4%  |
+|*Icicle Plate*   |0,4%  |
+|*Toxic Plate*    |0,4%  |
+|*Mind Plate*     |0,4%  |
+|*Stone Plate*    |0,4%  |
+|*Sky Plate*      |0,4%  |
+|*Spooky Plate*   |0,4%  |
+|*Iron Plate*     |0,4%  |
+|*Splash Plate*   |0,4%  |
+|*Pixie Plate*    |0,4%  |
 
 You can save in front of s rock and soft reset wit F12 until you get what you want. 
 Lots of things useful here, and we will be able to revive fossils in the future, but there is time until then.
