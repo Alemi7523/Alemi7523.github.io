@@ -95,6 +95,8 @@
   - [Before Helping Old Man in Akuwa Town](#before-elping-old-man-in-akuwa-town)
     - [Quest 30: Lost Souls](#quest_30_lost_souls)
   - [Akuwa Town](#akuwa-town)
+  - [Blacksteeple Castle](#blacksteeple-castle)
+    - [Day 1](#day-1)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -6889,6 +6891,50 @@ You can only go through the left door, so enter and talk to Aelita for a scene.
 The choice here doesn't matter. 
 After a while you will be thrown into a battle that you don’t need to win, and you won’t be able to unless you use some special strategy since the mons are 80-82 on Classic Mode and 75-78 on Story Mode. 
 There is no benefit on winning, nor it is tracked, so don’t waste tour items and time here.
+
+## Blacksteeple Castle
+
+We reach a very story driven part of the game, but it is very good. 
+This area is one we won’t ever be able to return later, on 13.5 at least, so I will point everything we can do so there is nothing missing. 
+I will be following the following nomenclature:
+- Outdoor middle section will be called Castle Courtyard
+- The east section Castle Quarry
+- The left section Castle Garden.
+
+### Day 1
+
+Once you can move, go to sleep unless you want to use the PC for something. 
+This will trigger a scene with our neighbor.
+
+**Friendship Point Choice:**
+- How did you? (Neutral)
+- You know, the usual. (Saki +1)
+
+Leave though the left side, the only way you can and continue until triggering another scene with Saki.
+
+Go down following Saki to reach the Castle Courtyard and leave through the right exit to reach the Castle Quarry. 
+You can explore some other places and talk to people before, but there is nothing important. 
+Continue the only way until reaching the mines, and approach to Saki once you find her for a scene. 
+The choice here doesn’t matter.
+
+Accept the fast travel, and leave through the right door to trigger another scene. 
+You will be back on the mine, talk to everyone. After that, the bottom area will open. 
+You will have to beat a trainer.
+
+**Optimist Zizi (Cave Field)**
+- Both Modes: Machoke 33, Graveler 34, Tentacruel 34
+
+Easy fight. 
+Mentioned only because it is one related to story progress. 
+You get a choice after the battle, but it doesn’t matter. 
+
+Go east and north to find your new friends surrounding a sigil. 
+Approach for a scene.
+
+**Friendship Point Choice:**
+- Where's Aelita? (Neutral)
+- Are we done here? (Aelita -1)
+
 
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
