@@ -96,9 +96,10 @@
     - [Quest 30: Lost Souls](#quest_30_lost_souls)
   - [Akuwa Town](#akuwa-town)
   - [Blacksteeple Castle](#blacksteeple-castle)
-    - [Day 1](#day-1)
+    - [Day 1 - Imprisoned](#day-1---imprisoned)
     - [Night 1 - The Hooded Girl](#night-1---the-hooded-girl)
     - [Day 2 - Blacksteeple Battalion](#day-2---blacksteeple-battalion)
+    - [Night 2 - Prestigious Secret](#night-2---prestigious-secret)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -6902,8 +6903,9 @@ I will be following the following nomenclature:
 - Outdoor middle section will be called Castle Courtyard
 - The east section Castle Quarry
 - The left section Castle Garden.
+- The place where battles for the Prestige Room happen is the Battleground.
 
-### Day 1
+### Day 1 - Imprisoned
 
 Once you can move, go to sleep unless you want to use the PC for something. 
 This will trigger a scene with our neighbor.
@@ -6938,7 +6940,7 @@ Approach for a scene.
 - Are we done here? (Aelita -1)
 
 We are in control outside of Neved’s office, so go back downstairs and go north to the colorful door leading to the throne room, enter for a scene.
-You can now leave and go to the battle room which is the right exit we took for a previous cutscene. 
+You can now leave and go to the Battleground which is the right exit we took for a previous cutscene. 
 Now we can enter freely and if we exit to the right, we can reach a small area with grass and wild mons.
 
 **Blacksteeple Castle Encounters (No Field, Permanent Hail)**
@@ -7070,6 +7072,27 @@ You can save in front of s rock and soft reset wit F12 until you get what you wa
 Lots of things useful here, and we will be able to revive fossils in the future, but there is time until then.
 
 After breaking all rocks, Adam will gift you ***Blast Powder*** to use, so use it and talk to him again.
+There is a choice here, but it doesn’t matter.
+You can’t mine more after this, but don’t worry we will be able to mine more in the future.
+
+Now follow Adam and talk to him for a scene.
+
+**Friendship Point Choice:**
+- Calm down. (Adam +1)
+- You're useless! (Adam -2)
+
+Time to fight this unreasonable person.
+
+**Prima Donna Jona (Cave Field)**
+
+- Story Mode: Stunkfisk 33, Dugtrio 34, Lopunny 33.
+- Classic Mode: Stunkfisk 35, Dugtrio 35, Lopunny 35.
+
+Again, an easy fight. After defeating her, go to the Battleground for a scene and ending the day.
+
+### Night 2 - Prestigious Secret
+
+
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
