@@ -7481,6 +7481,156 @@ We begin with a scene a few days after boarding the ship.
 
 Once you regain control pick the ball on the table is a **Mawile**, who is a child of a Mawile Mom owed and wished for us to have if something happened to her.
 
+There is a Breeder in the room you start. Perfect farm candied.
+ He gives you 5 ***Exp. Candy M*** each time. 
+ The field here is Factory Field if you have to fight him.
+
+Leave the room and go to the right and downstairs to find a ***Dull Key***, which will have use later, and a shop.
+
+**Xen Battleship Shop**
+
+|Item           |Price|
+|---------------|-----|
+|*Poke Ball*    |$200 |
+|*Great Ball*   |$600 |
+|*Potion*       |$300 |
+|*Super Potion* |$700 |
+|*Antidote*     |$100 |
+|*Ice Heal*     |$250 |
+|*GourmetTreat* |$1500|
+|*Super Repel*  |$500 |
+|*Reverse Candy*|$50  |
+
+Return upstairs and this time leave though the southern exit, go right for a scene. 
+The first choice her doesn’t matter, but it will keep repeating until you say Hello. 
+Second one does.
+
+**Friendship Point Choice:**
+- It's okay. (Melia +2)
+- I don't know... (Melia -1)
+- ... (Melia -1)
+
+Melia tells us that Saki fixed the Snag Machine while we were out. 
+Now return inside and go north and climb the stairs and continue until a battle room to fight Melia.
+
+**Enigma Melia (Factory Field). Story Mode.**
+- Zoroark, Level 35.
+  - Gilded Arrow
+  - Nasty Plot
+  - U-Turn
+  - Shadow Ball
+- Snorlax, Level 35.
+  - Body Slam
+  - Defense Curl
+  - Rollout
+  - Crunch
+- Azumarill, Level 37.
+  - Aqua Jet
+  - Aqua Ring
+  - Bounce
+  - Play Rough
+- Togekiss, Level 39. @ Sitrus Berry. 
+  - Aura Sphere
+  - Aerial Ace
+  - Metronome
+  - Extremespeed
+
+**Enigma Melia (Factory Field). Classic Mode.**
+- Zoroark, Level 37. @ Dread Plate. 
+  - Gilded Arrow
+  - Nasty Plot
+  - Flamethrower
+  - Shadow Ball
+- Azumarill, Level 37.
+  - Aqua Jet
+  - Iron Tail
+  - Whirlpool
+  - Play Rough
+- Meganium, Level 38. @ Leftovers. 
+  - Leech Seed
+  - Nature Power
+  - Stomping Tantrum
+  - Petal Blizzard
+- Snorlax, Level 38. @ Silk Scarf. 
+  - Body Slam
+  - Curse
+  - Crunch
+  - High Horsepower
+- Doublade, Level 38. 
+  - Brick Break
+  - Iron Head
+  - Shadow Claw
+  - Shadow Sneak
+- Togekiss, Level 39. @ Sitrus Berry. 
+  - Aura Sphere
+  - Gilded Arrow
+  - Thunder Wave
+  - Flamethrower
+
+Gilded Arrow: Type is the same as the user's secondary type, unless the user is single-typed or their secondary type is Dragon or Fairy, in which case the type is the user's primary type | Special | 80 power | 100% accuracy | Increased critical hit rate.
+
+She is stronger than before, but compared to the last battles we had, she shouldn’t be trouble. 
+Remember that Zoroark is disguised with an illusion.
+
+After the fight, you will wake up the next day same place as the previous one. 
+Go out to the deck and talk to Melia. 
+The choice here doesn’t matter. 
+
+## Terajuma Shore
+
+Anyway, after an accident, you reached shore, literally, the ship isn’t fully on water, so it can’t move and with the weather you clearly aren’t where you wanted to be
+You have reached a beach of Terajuma Island, so you can’t return to any of our previously known locations since they are of Floria Island.
+
+The rangers mistake you for Team Xen, so you have to battle them. 
+You can lose, but losing means -3 Friendship Points with Melia, while winning means +3 Friendship Points with Melia.
+
+**Pokémon Ranger Sam and Pokémon Ranger Alex. Story Mode.**
+- Pelipper, Level 36. (Sam)
+  - Air Cutter
+  - Water Pulse
+  - U-Turn
+  - Roost
+- Ampharos, Level 36. (Sam)
+  - Thunder
+  - Cotton Guard
+  - Confuse Ray
+  - Dragon Pulse
+- Golisopod, Level 36. (Alex)
+  - First Impression
+  - Aqua Jet
+  - Protect
+  - Sucker Punch
+- Machamp, Level 36. (Alex)
+  - Strength
+  - Knock Off
+  - Brick Break
+  - Rock Slide
+
+**Pokémon Ranger Sam and Pokémon Ranger Alex. Classic Mode.**
+- Pelipper, Level 37. @ Wacan Berry (Sam)
+  - Hurricane
+  - Water Pulse
+  - U-Turn
+  - Roost
+- Ampharos, Level 38. @ Shuca Berry (Sam)
+  - Thunder
+  - Power Gem
+  - Confuse Ray
+  - Dragon Pulse
+- Golisopod, Level 37. @Waca Berry (Alex)
+  - First Impression
+  - Aqua Jet
+  - Protect
+  - Sucker Punch
+- Machamp, Level 38. @Coba Berry. (Alex)
+  - Strength
+  - Knock Off
+  - Brick Break
+  - Rock Slide
+
+They are strong, but certainly not at a level they should cause trouble to you, and you far outnumber them in terms of mons.
+
+
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
