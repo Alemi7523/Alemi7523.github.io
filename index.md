@@ -103,7 +103,7 @@
     - [Day 3 - A New Friend](#day-3---a-new-friend)
     - [Night 3 - Bittersweet Reunion](#night-3-–-bittersweet-reunion)
     - [Day 4 - Union](#day-4---union)
-
+  - [Xen Battleship](#xen-battleship)
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -6964,7 +6964,7 @@ There is nothing more you can do on this day, so return to your cell and go slee
 
 ## Night 1 - The Hooded Girl
 
-You will see a scene in which a hooded girl reaches Blacksteeple Castle floating on a Wailmer. She will introduce herself as Emma to Naved and offer to help him, which Naved will only accept if she accomplishes a task.
+You will see a scene in which a hooded girl reaches Blacksteeple Castle floating on a Wailmer. She will introduce herself as Emma to Neved and offer to help him, which Neved will only accept if she accomplishes a task.
 
 ## Day 2 - Blacksteeple Battalion
 
@@ -7094,7 +7094,7 @@ Again, an easy fight. After defeating her, go to the Battleground for a scene an
 
 ### Night 2 - Prestigious Secret
 
-New Emma scene this night and it is clear that she isn’t really planning to help Naved despite what she said to him. 
+New Emma scene this night and it is clear that she isn’t really planning to help Neved despite what she said to him. 
 This time, we will get to control her after the scene ended.
 
 You have a Togekiss at level 39, an Azumarill at level 38, and a Meganium at level 39 and all shiny. 
@@ -7140,7 +7140,7 @@ A couple of hits each at most, although Lilligant will fall on a single one.
 
 Put the robot on its place and you will trigger a scene in which you reach the other side thanks to the minecart we made move.
 
-Enter the room, and after the scene of Emma’s Zoroark eating and scaring Naved away, we see another scene. 
+Enter the room, and after the scene of Emma’s Zoroark eating and scaring Neved away, we see another scene. 
 Once you can move, interact with the machine that controls the Sigils at the north. 
 It certainly isn't working well, but it looks like sabotage.
 
@@ -7195,7 +7195,7 @@ Try to have a super effective move for each of the three and she won’t pose a 
 A poison type works great for Azumarill and Meganium, while fighting or fairy should work great for Zoroark.
 
 Once we have won, Emma will ask us to look underneath the candelabra in the Prestige Room, but that is for later, now we need to go to upstairs and enter the central door to reach the Castle Library. 
-Here, read a book on the purple bookshelf. There is a not for you here, so time to visit the Castle Garden at the west. You will see a scene with Naved and Emma.
+Here, read a book on the purple bookshelf. There is a not for you here, so time to visit the Castle Garden at the west. You will see a scene with Neved and Emma.
 
 On the Castle Garden go up until you can go left, and up the first time you can, walk to the single tree at the top, the one that seems to be blocking the way. 
 It doesn’t actually block it, so you will reach the secret area and trigger a scene with Saki.
@@ -7232,7 +7232,7 @@ Now we are back controlling Emma, who again used her Zoroark as a double.
 Same team as when we controlled her before, but the level reset if they went up. 
 Go south until you reach the Battleship for a scene.
 
-Now, we have to  sneak around until reaching Naved’s room, it is upstairs from the dinner hall. 
+Now, we have to  sneak around until reaching Neved’s room, it is upstairs from the dinner hall. 
 Be careful to not get caught by the guards or you will have to begin again. 
 You will see a scene once you enter the room.
 
@@ -7259,7 +7259,214 @@ Air Slash for Machamp, if it didn’t fall in one hit, it will fall in two.
 
 ### Day 4 - Union
 
+You wake up with a note telling you to go to the secret place. 
+So go to the secret area in the Castle Garden and enter the hut.
 
+You will see a lot of scenes where plans don’t go exactly as expected. 
+There is a choice here that doesn’t matter. 
+Once you can move again, return to the secret area and this time go through the stairs that appeared behind the waterfall.
+
+Advance until reaching a wall, interact with it and push it. 
+After a scene, go right and cross another wall. Advance until seeing a scene.
+
+**Friendship Point Choice:**
+- We're getting out. (PianoLady +2)
+- I'm here to help. (PianoLady +1)
+- We're screwed. (PianoLady -1)
+
+After the scene, pick the ***Focus Sash***. This item is missable although we can get more later, it will be a long while, and it is a consumable. 
+Moreover, we are going to need it soon due to the existence of an enemy we aren’t supposed to defeat, but that can be defeat with some strategies, most of which require this item.
+
+<u>Note: This battle I just mentioned will be tracked if you win, so there will be some dialogue changes if you do. 
+  You will also get +1 karma. 
+  You will need to combine this with Endeavor and a priority move or a mon with Destiny Bond to fall together. 
+  Check if you have any of those or try to prepare, but since we are in this place, our range of action is limited.</u>
+
+Leave though the south and then exit the cell and to the right to reach the room with the machine controlling the Sigil.
+
+You can use the PC and heal here before going up, once you do, you will find Valarie, Saki, and Braixen knocked out.
+
+We have a fight to win. We are dealing with Madelis while Mom is dealing with Nastasia.
+
+**Xen Executive Madelis (Cave Field). Story Mode.**
+- Cinccino, Level 33. 
+  - Bullet Seed
+  - Wake-Up Slap
+  - Tail Slap
+  - Encore
+- Tsareena, Level 33. 
+  - Trop Kick
+  - Bounce
+  - Nature Power
+  - Aromatherapy
+- Salazzle, Level 34. 
+  - Flamethrower
+  - Sludge Bomb
+  - Foul Play
+  - Toxic
+- Houndoom, Level 36. @ Wise Glasses. 
+  - Flamethrower
+  - Dark Pulse
+  - Nasty Plot
+  - Sludge Bomb
+
+**Xen Executive Madelis (Cave Field). Classic Mode.**
+- Cinccino, Level 35. 
+  - Bullet Seed
+  - Rock Blast
+  - Tail Slap
+  - Encore
+- Tsareena, Level 36. 
+  - Trop Kick
+  - Bounce
+  - Nature Power
+  - Low Sweep
+- Sharpedo, Level 36. @ Focus Sash. 
+  - Bounce
+  - Crunch
+  - Psychic Fangs
+  - Waterfall
+- Florges, Level 35. 
+  - Nature Power
+  - Dazzling Gleam
+  - Synthesis
+  - Giga Drain
+- Salazzle, Level 36. 
+  - Flamethrower
+  - Sludge Bomb
+  - Foul Play
+  - Toxic
+- Houndoom, Level 37. @ Wise Glasses. 
+  - Flamethrower
+  - Dark Pulse
+  - Nasty Plot
+  - Sludge Bomb
+
+Rock Blast is the most dangerous move in this battle because it is boosted by the field and will hit up to five times. 
+If we are lucky, it might be only 2 though. 
+Others can also hit hard, but fortunately, they aren’t bulky, so go with speed and power to beat them as quick as you can.
+
+The choice after the fight doesn’t matter. Talk to Mom to proceed. 
+You can use the pc here, and Mom is tagging along. 
+She has a Level 65 Sylveon, which is great help on any battle. 
+Beat the guards as you advance. 
+You will be healed after each battle.
+
+You have to go to the Castle Courtyard for a scene. 
+The choice here doesn’t matter. 
+After it, go to Neved’s office. 
+All other ways are blocked, so you can’t get lost.
+
+**Friendship Point Choice:**
+- Are you okay? (Aelita +3)
+- I looked for you... (Aelita +2)
+- We gotta get to the top! (Aelita +1)
+- No time to catch up! (Aelita -1)
+
+After the scenes, leave through the northern door and continue through the only way until you find the thing you can use as a PC and use it if you need to prepare for the upcoming fight in which Aelita will join you, and the impossible one after it. 
+
+<u>Note: The impossible battle will be immediately afterwards, you will get healed, but no time to switch order of your mons nor anything like that. 
+  Put the mons you will need in your team, and if you want them leading your team, switch them out immediately to prevent the Focus Sash being wasted on the fight before the impossible one. 
+
+As a reminder, there are several ways to win. 
+Endeavor with Focus Sash and a priority move afterward, or Destiny Bond with Focus Sash are among the easiest to accomplish, but feel free to experiment. 
+
+You can lose if you don’t want to break your head. 
+You are intended to lose, so winning is just a bonus Karma and dialogue mentioning it later in the game since it is tracked.</u>
+
+Before reaching the room, there are some butterflies with color depending on your karma. How many you have picked is tracked, and the blue butterflies heal you.
+
+**Xen Executive Neved (No Field). Story Mode.**
+- Crabominable, Level 37.
+  - Ice Punch
+  - Close Combat
+  - Rock Slide
+  - Crabhammer
+- Aevian Palossand (Ice), Level 38. 
+  - Ice Beam
+  - Shadow Ball
+  - Thunder Wave
+  - Moonlight
+- Manectric, Level 38. 
+  - Thunderbolt
+  - Hidden Power Ice
+  - Volt Switch
+  - Flamethrower
+- Barbaracle, Level 41. 
+  - Shell Smash
+  - Night Slash
+  - Razor Shell
+  - Stone Edge
+
+**Xen Executive Neved (No Field). Classic Mode.**
+- Crabominable, Level 40.
+  - Ice Punch
+  - Brick Break
+  - Rock Tomb
+  - Crabhammer
+- Tentacruel, Level 40.
+  - Sludge Bomb
+  - Dazzling Gleam
+  - Hex
+  - Scald
+- Vikavolt, Level 41. 
+  - Discharge
+  - Bug Buzz
+  - Air Slash
+  - Thunder Wave
+- Manectric, Level 42. @ Magnet. 
+  - Discharge
+  - Hidden Power Ice
+  - Hyper Voice
+  - Flamethrower
+- Aevian Palossand (Ice), Level 43. 
+  - Aurora Beam
+  - Shadow Ball
+  - Giga Drain
+  - Protect
+- Barbaracle, Level 44. @ Sitrus Berry. 
+  - Slash
+  - Protect
+  - Razor Shell
+  - Rock Slide
+
+Although he has been nerfed from previous version, he still has mons over the level cap and even the weakest are at our level cap on Classic Mode. 
+Far easier on Story Mode with only 4 mons and only one of them being a level ahead of the level cap with the others being weaker.
+
+Anyway, we are in a 12 vs 6 in Classic Mode and 12 vs 4 in Story Mode, so it isn’t excessively hard if you are quite to take out some mons because Aelita’s won’t last for long.
+
+As you finish, you get a scene and quickly into the next fight, the one you aren’t supposed to win.
+
+**Madame X (No Field). Both Modes.**
+- Yveltal, Level 75.
+  - Decimation
+  - Hurricane
+  - Focus Blast
+
+The only change between modes are EVs and IVs, and depending on your passwords, even that may not change. They are useless for our strategies anyway.
+
+Decimation petrifies you, which is basically a 1HKO and has priority. In this version it has other moves and Yveltal’s level is far lower than before.
+
+If you are using Destiny Bond with focus sash, just use destiny bond two turns straight in case for some reason the opponent fails a move the second one, but other than that it is very simple.
+
+If you are using the Endeavor with focus sash plus a priority move. Be sure to time your priority move the turn after Yveltal priority move, it uses it each other turn.
+
+There are other means like Perish Song, Toxic and Protect, Curse, etc. 
+Direct damage methods aren’t a good idea with the huge level difference, but indirect methods work very well. 
+You can always abuse items to make it easier.
+
+The game will proceed regardless of the outcome, but there are variations if you won, and the +1 Karma of course.
+
+The choice in the next scene doesn’t matter, so pick whatever you want. Next one is different though.
+
+**Friendship Point Choice:**
+- You came to save me? (Neutral)
+- Thank you... (Neutral)
+- I could've done it myself. (Aelita -1)
+
+Now continue watching the scenes and eventually, you will bid farewell to Blacksteeple Castle.
+
+## Xen Battleship
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
