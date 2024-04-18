@@ -101,6 +101,7 @@
     - [Day 2 - Blacksteeple Battalion](#day-2---blacksteeple-battalion)
     - [Night 2 - Prestigious Secret](#night-2---prestigious-secret)
     - [Day 3 - A New Friend](#day-3---a-new-friend)
+    - [Night 3 - Bittersweet Reunion](#night-3-–-bittersweet-reunion)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -7146,6 +7147,78 @@ Now, go through the west exit to trigger another scene.
 
 ### Day 3 - A New Friend
 
+Leave your cell to trigger a scene. 
+You are told to go to the library upstairs and investigate a purple book. 
+Leave through the stairs and advance to get stopped by Valarie. 
+The choice here doesn't matter.
+
+Change of plans thanks to Emma’s taunt. 
+You are now signed up for the Battleground. 
+These are 3vs3 battles, so you have to choose three members of your team when you speak to the guard.
+
+No comments for the first two battles, they are easy, but have the teams here if you want to know them beforehand. 
+The last battle is against Emma.
+
+**Technician Smith  (No Field).**
+- Story Mode: Klang 34, Forretress 34, Metang 34.
+- Classic Mode: Klang 35, Forretress 35, Metang 35.
+
+**Tourist Mannie  (No Field).**
+- Story Mode: Quilladin 34, Frogadier 33, Braixen 34.
+- Classic Mode: Quilladin 35, Frogadier 35, Braixen 35.
+
+**Hooded Girl Emma (No Field). Story Mode.**
+- Zoroark, Level 35. 
+- Azumarill, Level 34. 
+- Meganium, Level 34. 
+
+**Hooded Girl Emma (No Field). Classic Mode.**
+- Zoroark, Level 37. 
+  - Dark Pulse
+  - Flamethrower
+  - Shadow Ball
+  - Grass Knot
+- Azumarill, Level 38. 
+  - Aqua Jet
+  - Liquidation
+  - Play Rough
+  - Bounce
+- Meganium, Level 39. 
+  - Nature Power
+  - Magical Leaf
+  - Leech Seed
+  - Poison Powder
+
+She is certainly tougher than the others, but if you are following this guide, Zoroark can’t trick you due to the obvious difference on level, so use appropriate moves. 
+Try to have a super effective move for each of the three and she won’t pose a threat. 
+A poison type works great for Azumarill and Meganium, while fighting or fairy should work great for Zoroark.
+
+Once we have won, Emma will ask us to look underneath the candelabra in the Prestige Room, but that is for later, now we need to go to upstairs and enter the central door to reach the Castle Library. 
+Here, read a book on the purple bookshelf. There is a not for you here, so time to visit the Castle Garden at the west. You will see a scene with Naved and Emma.
+
+On the Castle Garden go up until you can go left, and up the first time you can, walk to the single tree at the top, the one that seems to be blocking the way. 
+It doesn’t actually block it, so you will reach the secret area and trigger a scene with Saki.
+
+**Friendship Point Choice:**
+- It was barely a riddle. (Neutral)
+- I was stumped. (Saki +1)
+
+The encounters are the same on the whole castle, so nothing to note in the grass here.
+
+Now, enter the hut at the northwest for another scene. 
+There is a talking Braixen here. 
+The choice here doesn’t matter, but it gives you Braixen’s background. 
+She can talk because of a device Saki made, and Saki put her on a ball when they were kidnapped, but Braixen doenst have a trainer and doesn’t want one. 
+The sigils were also harming her, so she is in that hut separated.
+
+Now leave the hut for another scene. 
+Return to the Castle Garden and go upstairs on the wall to reach the malfunctioning Sigil. 
+Speak with Braixen for a scene.
+
+Time to go to the dining hall, so return inside the castle by going right from the malfunctioning sigil and continue right upstairs to reach it. 
+Now talk to Valarie.
+
+### Night 3 - Bittersweet Reunion
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
