@@ -37,7 +37,7 @@
   - [Goldenwood Cave](#goldenwood-cave)
     - [Quest 16: Culvier Clan Quest (1st Member)](#quest-16-culvier-clan-quest-1st-member)
   - [The Ruins](#the-ruins)
-    - [The Silent Grove [40](#the-silent-grove)](#the-silent-grove)
+    - [The Silent Grove](#the-silent-grove)
   - [Goldenwood Xen Attack](#goldenwood-xen-attack)
 - [Chapter 2: Redemption](#chapter-2-redemption)
   - [Unlocked on Chapter 2 Start](#unlocked-on-chapter-2-start)
