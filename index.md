@@ -100,6 +100,7 @@
     - [Night 1 - The Hooded Girl](#night-1---the-hooded-girl)
     - [Day 2 - Blacksteeple Battalion](#day-2---blacksteeple-battalion)
     - [Night 2 - Prestigious Secret](#night-2---prestigious-secret)
+    - [Day 3 - A New Friend](#day-3---a-new-friend)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -7091,6 +7092,59 @@ Again, an easy fight. After defeating her, go to the Battleground for a scene an
 
 ### Night 2 - Prestigious Secret
 
+New Emma scene this night and it is clear that she isn’t really planning to help Naved despite what she said to him. 
+This time, we will get to control her after the scene ended.
+
+You have a Togekiss at level 39, an Azumarill at level 38, and a Meganium at level 39 and all shiny. 
+They aren’t yours so you can’t keep them. 
+You don’t have your items either, but Emma has 4 Full Heal, 6 Max Potion, 4 Revive, and a Max Revive.
+
+Advance through the only way until you trigger a scene with three characters we know very well. 
+After the scene go up for another scene. After the scene advance all way to the east until triggering another scene making a minecart go. 
+We need to replicate this to advance forward.
+
+Now go west and  climb a hill. 
+Talk to the robot here for a battle.
+
+**Security Bot Purple Stripe (Cave Field)**
+- Story Mode: Venomoth 34, Weezing 35.
+- Classic Mode: Amoongus 35, Venomoth 36, Weezing 35.
+
+All poison types and all of Emma’s mons weak to poison. 
+Flamethrower from Togekiss can finish Amoongus in a couple of hits, same for Weezing, and Venomoth can be done in one hit. 
+Air Slash got weakened due to Cave Field  and less base power so not recommended although it has STAB and if the opponent flinches it is great, but that depends on luck. 
+It isn't hard on its own, but you may get poisoned and Togekiss fall short of HP. 
+You can go to heal at the beginning of the area for free though, and Togekiss will likely reach level 40.
+
+You can now push this robot to the purple spot in the ground. 
+Time to battle the gold robot we can see on the left.
+
+**Security Bot Gold Stripe (Cave Field)**
+- Story Mode: Manectric 34, Raichu 33.
+- Classic Mode: Manectric 35, Raichu 36.
+
+Less mons, but they hit hard anyway, and Manectric can Roar you into changing to someone else. 
+Flamethrower with Togekiss, Aqua Jet with Azumarill and Magical Leaf with Meganium seem the beast choice for each of them.
+
+Go heal and return to position the robot on it is place on the east side. 
+From here go to the southern part before going west again, you will be asked if you want to fly over, agree to reach the green robot.
+
+**Security Bot Green Stripe (Cave Field)**
+- Story Mode: Tropius 34, Venusaur 36.
+- Classic Mode: Tropius 36, Lilligant 36, Venusaur 37.
+
+They are all weak to Flamethrower this time, so use Togekiss all the way with Flamethrower to defeat them. 
+A couple of hits each at most, although Lilligant will fall on a single one.
+
+Put the robot on its place and you will trigger a scene in which you reach the other side thanks to the minecart we made move.
+
+Enter the room, and after the scene of Emma’s Zoroark eating and scaring Naved away, we see another scene. 
+Once you can move, interact with the machine that controls the Sigils at the north. 
+It certainly isn't working well, but it looks like sabotage.
+
+Now, go through the west exit to trigger another scene.
+
+### Day 3 - A New Friend
 
 
 
