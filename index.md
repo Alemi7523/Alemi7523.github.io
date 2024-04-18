@@ -6826,6 +6826,56 @@ This quest can’t progress more for now, so time to go back to Akuwa Town.
 Back to the town we just visited in passing very quickly until now, we just got that hidden item before leaving the first time, but even in an empty town, that is not all there is to do before continuing the story. 
 Time to explore it.
 
+**Akuwa Town Encounters**
+
+| Grass: Morning | %  | Grass: Day    | %  | Grass: Night   | %    | Old Rod        | %        |
+|----------------|----|---------------|--- |----------------|------|----------------|----------|
+| Buizel         | 30 | Girafarig     | 40 | Buizel         | 32   | Buizel         | 70       |
+| Girafarig      | 15 | Buizel        | 32 | Girafarig      | 15   | Seel           | 30       |
+| Blitzle        | 15 | Blitzle       | 15 | Noctowl        | 15   |                |          |
+| Skitty         | 15 | **Audino**    | 6  | Illumise       | 15   |                |          |
+| **Delcatty**   | 10 | **Floatzel**  | 5  | Volbeat        | 10   |                |          |
+| **Audino**     | 6  | **Lickitung** | 2  | **Audino**     | 6    |                |          |
+| **Floatzel**   | 5  |               |    | **Lickitung**  | 5    |                |          |
+| **Lickitung**  | 2  |               |    | **Floatzel**   | 2    |                |          |
+
+There are some new ones, and Seel was available only on casino, so here you can get it for free. 
+Buizel, we only had the event one and the same goes for Blitzle since we could only get the one in Junction bridge until now.
+If you got female ones, maybe you already breed them though.
+
+Enter the Pokémon Center and go to the back to pick a ***Defibrillator***. 
+Speak with Aelita again to use it on the old man.
+
+You can find a **Ducklett** egg on the southeastern corner of the town. 
+If you are lucky to get a female one, you can breed it to get more, otherwise, you are struck with the one you get until Ditto.
+
+Go to where the gym is and on the left side of it there is a ***Modest Mint***.
+
+Now, enter the house to the north of the Truck Guy to find a Zygarde Cell.
+
+**ZCell 031: Akuwa Town**
+
+<img src="assets/media/image38.png"/>
+
+There are also overworld **Clauncher** in the beach.
+Here there is also ***TM135 Brine***. 
+Go north and hidden on a rock there is a hidden ***Soda Pop***. 
+Continue north and go up though the ladder.
+
+Speak to Aelita to discover that the old man was wrong, so the place is likely the gym. 
+Before going to the gym, pick the Zygarde Cell here.
+
+**ZCell 032: Akuwa Town**
+
+<img src="assets/media/image39.png"/>
+
+<u>Note: If we progress any further, we won’t be able to come back to Floria Island for a quite a while, so if there is anything you want to do here, do it before continuing.</u>
+
+Go to the gym, which as mentioned doubles as an Aquarium, and into the northern door for a scene. 
+You can only go through the left door, so enter and talk to Aelita for a scene. 
+The choice here doesn't matter. 
+After a while you will be thrown into a battle that you don’t need to win, and you won’t be able to unless you use some special strategy since the mons are 80-82 on Classic Mode and 75-78 on Story Mode. 
+There is no benefit on winning, nor it is tracked, so don’t waste tour items and time here.
 
 
 **The guide is still work-in progress, so from here onwards, iy isn't available yet, but thee Karma files and some 13.5 new quests are available although may not be complete with all details.**
