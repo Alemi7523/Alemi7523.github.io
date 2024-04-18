@@ -97,7 +97,8 @@
   - [Akuwa Town](#akuwa-town)
   - [Blacksteeple Castle](#blacksteeple-castle)
     - [Day 1](#day-1)
-    - [Day 2](#day-2)
+    - [Night 1 - The Hooded Girl](#night-1---the-hooded-girl)
+    - [Day 2 – Blacksteeple Battalion](#day-2---blacksteeple-battalion)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -6956,7 +6957,12 @@ Still, it is a good idea to get all of them now.
 
 There is nothing more you can do on this day, so return to your cell and go sleep.
 
-### Day 2
+## Night 1 – The Hooded Girl
+
+You will see a scene in which a hooded girl reaches Blacksteeple Castle floating on a Wailmer. She will introduce herself as Emma to Naved and offer to help him, which Naved will only accept if she accomplishes a task.
+
+## Day 2 – Blacksteeple Battalion
+
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
