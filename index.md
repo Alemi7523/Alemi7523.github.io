@@ -102,6 +102,7 @@
     - [Night 2 - Prestigious Secret](#night-2---prestigious-secret)
     - [Day 3 - A New Friend](#day-3---a-new-friend)
     - [Night 3 - Bittersweet Reunion](#night-3-–-bittersweet-reunion)
+    - [Day 4 - Union](#day-4---union)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -7208,7 +7209,7 @@ The encounters are the same on the whole castle, so nothing to note in the grass
 Now, enter the hut at the northwest for another scene. 
 There is a talking Braixen here. 
 The choice here doesn’t matter, but it gives you Braixen’s background. 
-She can talk because of a device Saki made, and Saki put her on a ball when they were kidnapped, but Braixen doenst have a trainer and doesn’t want one. 
+She can talk because of a device Saki made, and Saki put her on a ball when they were kidnapped, but Braixen doesn’t have a trainer and doesn’t want one. 
 The sigils were also harming her, so she is in that hut separated.
 
 Now leave the hut for another scene. 
@@ -7219,6 +7220,45 @@ Time to go to the dining hall, so return inside the castle by going right from t
 Now talk to Valarie.
 
 ### Night 3 - Bittersweet Reunion
+
+We are in the Prestige room. 
+Interact with the candelabra on the table from the upper side to find a note under it. 
+Obey the note and interact with the bookshelf behind to find another note. 
+We will follow its instructions immediately and open the hidden door. 
+We will automatically reach the cell where Mom is. 
+The choice here doesn’t matter.
+
+Now we are back controlling Emma, who again used her Zoroark as a double. 
+Same team as when we controlled her before, but the level reset if they went up. 
+Go south until you reach the Battleship for a scene.
+
+Now, we have to  sneak around until reaching Naved’s room, it is upstairs from the dinner hall. 
+Be careful to not get caught by the guards or you will have to begin again. 
+You will see a scene once you enter the room.
+
+Now, leave through the door in the right to trigger a scene. 
+We finally know what has been happening to Aelita, Neved has been electrocuting her because of Keta. 
+Emma rescues her and puts her back on her cell.
+
+Now, we have to go to the library, remember upper level of the Castle Courtyard, central door. 
+You have to interact with the wide blue bookshelf on the left. 
+Now, interact with the big central bookshelf.
+
+A girl we dealt with before Cici, will appear and threaten to rat to the Warden, so time to shut her mouth.
+
+**Optimist Cici (No Field)**
+• Story Mode: Graveler 34, Machoke 33, Tentacruel 34, Steelix 32.
+• Classic Mode: Graveler 37, Machoke 38, Tentacruel 37, Steelix 38.
+
+Aura Sphere to Graveler is a 1HKO. 
+You don't have super effective for Tentacruel, and it is super effective for all Emma’s team. 
+Thunder Wave first turn and hope to not be poisoned by Poison Jab. 
+Now Air Slash, hopping Tentacruel will get paralyzed at some moment. 
+For Steelix, if Togekiss is still alive Flamethrower if a 1HKO, if not, Try Magical Leaf of Meganium or resurrect Togekiss. 
+Air Slash for Machamp, if it didn’t fall in one hit, it will fall in two.
+
+### Day 4 - Union
+
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
