@@ -7464,9 +7464,23 @@ The choice in the next scene doesn’t matter, so pick whatever you want. Next o
 - Thank you... (Neutral)
 - I could've done it myself. (Aelita -1)
 
-Now continue watching the scenes and eventually, you will bid farewell to Blacksteeple Castle.
+Now continue watching the scenes until you regain control, but after going down a little bit, you will see another scene. 
+The choice here doesn’t matter.
+
+The scenes will continue until you bid farewell to Blacksteeple Castle.
+
 
 ## Xen Battleship
+
+We begin with a scene a few days after boarding the ship.
+
+**Friendship Point Choice:**
+- ... (Neutral)
+- Don't feel guilty. (Adam +1)
+- Maybe so. (Adam +2)
+
+Once you regain control pick the ball on the table is a **Mawile**, who is a child of a Mawile Mom owed and wished for us to have if something happened to her.
+
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
