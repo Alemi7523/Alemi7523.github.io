@@ -6846,9 +6846,6 @@ If you got female ones, maybe you already breed them though.
 Enter the Pokémon Center and go to the back to pick a ***Defibrillator***. 
 Speak with Aelita again to use it on the old man.
 
-You can find a **Ducklett** egg on the southeastern corner of the town. 
-If you are lucky to get a female one, you can breed it to get more, otherwise, you are struck with the one you get until Ditto.
-
 Go to where the gym is and on the left side of it there is a ***Modest Mint***.
 
 Now, enter the house to the north of the Truck Guy to find a Zygarde Cell.
@@ -6868,6 +6865,22 @@ Before going to the gym, pick the Zygarde Cell here.
 **ZCell 032: Akuwa Town**
 
 <img src="assets/media/image39.png"/>
+
+At night, you can find another Zygarde Cell close to the Truck Guy.
+
+**ZCell 033: Akuwa Town (Nighttime)**
+
+<img src="assets/media/image40.png"/>
+
+You can find a **Ducklett** egg on the southeastern corner of the town. 
+If you are lucky to get a female one, you can breed it to get more, otherwise, you are struck with the one you get until Ditto.
+There is also a Zygarde Cell here at night.
+
+**ZCell 034: Akuwa Town (Nighttime)**
+
+<img src="assets/media/image41.png"/>
+
+We can now go to the gym to progress with the story.
 
 <u>Note: If we progress any further, we won’t be able to come back to Floria Island for a quite a while, so if there is anything you want to do here, do it before continuing.</u>
 
