@@ -111,6 +111,11 @@
     - [Quest 32: The Kakori Monster](#quest-32-the-kakori-monster)
   - [Detour Before Dewdrop Badge](#detour-before-dewdrop-badge)
     - [Quest 33: Building Bridges](#quest-33-building-bridges)
+    - [Deep Terajuma Jungle (North) and Terajuma Excavation Site](#deep-terajuma-jungle-north-and-terajuma-excavation-site)
+    - [Temple Outskirts](#temple-outskirts)
+    - [Quest 34: Tantalizing Temple (Start)](#quest-34-tantalizing-temple-start)
+  - [Dewdrop Badge](#dewdrop-badge)
+- [Chapter 6: Nimpossible Predicament](#chapter-6-nimpossible-predicament)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -6792,7 +6797,7 @@ Cross one bridge to the north, once to the west, and one to the south to find th
 Send him to the Lost Camp.
 
 Small detour before returning to Maman’s Garden. 
-Since we are in East Gearen City, buy any golden items you have yet to buy, specifically the Golden Surfboard is good to buy now, and we can’t return here after just being able to use Surf. 
+Since we are in East Gearen City, buy any golden items you have yet to buy, specifically the Golden Surfboard is good to buy now. 
 Golden Claws are the next one we will need after Golden Surfboard.
 
 Now, go to Route 2, to show the Emolga we got to the painter and finish his side quest. 
@@ -7866,7 +7871,9 @@ Now you are in forced Day, so you can get mons that you couldn't while forced ni
 
 Go south to Terajuma Jungle and on the southern part go west and then south to enter Terajuma Beach. 
 This place is empty at nights. 
-Right here we can get some mons and find a Zygarde Cell on the east side.
+Activate the Noctowl Statue.
+
+Right now, we can get some mons and find a Zygarde Cell on the east side.
 
 **ZCell 036: Terajuma Beach (Daytime)**
 
@@ -7893,7 +7900,9 @@ Notice that there are berries you can pick from their trees, and plant berries t
 
 Go north and up two sets of stairs on the northernmost tile possible, there is a hidden **Star Piece**.
 
-Return south and cross the bridge to the west area. Enter the house since it will trigger a quest.
+Return south and cross the bridge to the west area. 
+On the middle of the bridge, there is a Noctowl Statue we can’t activate yet. 
+Enter the house to trigger a quest.
 
 ### Quest 33: Building Bridges
 
@@ -7933,7 +7942,7 @@ Ask Gurdurr a couple of questions and you will begin therapy. The choice here ar
 Gurdurr will evolve into Conkeldurr, and we will have to approach it to fight once you are ready. 
 This may be a bit hard before defeating Valarie, but by no means impossible.
 
-**Strained Worked (Forest Field). Story Mode.**
+**Strained Worker (Forest Field). Story Mode.**
 - Conkeldurr, Level 45. 3 HP Bars.
   - Chip Away
   - Ice Punch
@@ -7948,7 +7957,7 @@ This may be a bit hard before defeating Valarie, but by no means impossible.
     - Rock Throw
     - Hammer Arm
 
-**Strained Worked (Forest Field). Classic Mode.**
+**Strained Worker (Forest Field). Classic Mode.**
 - Conkeldurr, Level 50. 3 HP Bars.
   - Frustration
   - Ice Punch
@@ -7973,12 +7982,205 @@ After winning, you get introduced to Team Anti-Assist, who hates you helping oth
 
 With this the quest is completed and a bridge to the Tyluric Temple is repaired, which will let us begin another quest later.
 
+### Deep Terajuma Jungle (North) and Terajuma Excavation Site
+
 For now, let’s go to the northern part of the map and use the exit to reach the northern part of Deep Terajuma Jungle.
+
+**Deep Terajuma Jungle (North) Encounters (Forest Field)**
+
+|Grass: Morning |% |Grass: Day |% |Grass: Night |% |Old Rod  |%  |
+|---------------|--|-----------|--|-------------|--|---------|---|
+|Grubbin        |32|Bibarel    |42|Morelull     |32|Carvanha |100|
+|Trumbeak       |29|Beedrill   |17|Hoothoot     |15|         |   |
+|Weepinbell     |15|Exeggcute  |15|Gloom        |15|         |   |
+|Bibarel        |12|Foongus    |10|Spinarak     |10|         |   |
+|Charjabug      |12|Amoonguss  |10|Venonat      |10|         |   |
+|               |  |Butterfree |6 |Ariados      |6 |         |   |
+|               |  |           |  |Kricketune   |5 |         |   |
+|               |  |           |  |Shiinotic    |5 |         |   |
+|               |  |           |  |Noctowl      |2 |         |   |
+
 
 Check the wall just up the yellow flowers you can see from the entrance to find a hidden ***Dusk Ball***.
 
+You will see an overworld Mankey here. Continue east though the bridge to reach the Terajuma Excavation Site before we explore this area more.
 
+**Terajuma Excavation Site Encounters (Forest Field)**
 
+|Grass: Morning/Day |% |Grass: Night  |% |
+|-------------------|--|--------------|--|
+|Nosepass           |25|Nosepass      |25|
+|Grubbin            |20|Grubbin       |20|
+|Voltorb            |20|Voltorb       |20|
+|**Electrode**      |15|**Electrode** |15|
+|**Ditto**          |12|**Ditto**     |10|
+|**Oranguru**       |5 |Elgyem        |5 |
+|**Pincurchin**     |5 |Slandit       |5 |
+
+Finally **Ditto** here. 
+The day encounters are better than the night one in terms on new mons, so I left this area for the forced day rather than having come here earlier at forced night.
+
+This is also one of the two Magnetic Evolution Environments we can find, and the first one available. 
+You don’t have any of the Magnemite line yet, but you should have Nosepass and Charjabug to evolve, if not, their lines are certainly on this same map.
+
+<u>Note: They can also evolve with a Thunderstone on V13.5, but those are limited right now, so better to save them for mons that need it to evolve and have no alternative.</u>
+
+Go north and then west, on the northernmost part here, there is a hidden ***Star Piece***.
+
+Now go east, and you will find a small black rock between two trees. 
+There is a hidden ***Red Shard*** on it.
+
+Go down though the stairs, and on the southern brown rock there is a hidden ***Stardust***.
+
+The next item is only available at night, so you would have to come back later if you came here on forced day. 
+Go to the house area and advance through the eastern bridge there. 
+Go downstairs and on the eastern side, you will find a floating rock if it is night, you can push it to the side. 
+There is a hidden ***Exp. Candy L*** on the rock behind it.
+
+Return to Deep Terajuma Jungle.
+
+This time go west and upstairs, cross the bridge and on a solitary rock here, there is a hidden ***Lemonade***. 
+Go back to map entrance and this time go north, passing under the bridge. 
+You will reach the Temple Outskirts.
+
+### Temple Outskirts
+
+**Temple Outskirts Encounters (Forest Field)**
+
+|Grass               |% |
+|--------------------|--|
+|**Oricorio (Pa’u)** |25|
+|Trumbeak            |20|
+|**Shelmet**         |15|
+|Grubbin             |15|
+|Charjabug           |10|
+|**Toucannon**       |10|
+|Oranguru            |5 |
+
+There is a new form of **Oricorio (Pa’u)** here we couldn’t get before as we neither got the nectar nor the mon. 
+**Shelmet** is new of this area, and Trumbeak and **Toucannon** shouldn't have been accessible until now due to being Morning only on other maps and us being time-locked since we reached Terajuma on either night or day.
+
+### Quest 34: Tantalizing Temple (Start)
+
+Try to enter the Tyluric Temple at north to start another Quest. We can’t do much of this quest at the moment due to lacking surf, but we can get it started and get encounters.
+
+<u>Note: You can only enter the Tyluric Temple if you completed the Building Bridges Quest.</u>
+
+**Friendship Point Choice:**
+- Why are you so interested (Talon +2)
+- What is in for you? (Talon +1)
+- No thanks. (Talon -1, Flora +2)
+
+You will end up travelling with them in the Tyluric Temple anyway. Now enter the Tyluric Temple.
+
+After a scene, you can move, and as told, there are wild mons here.
+
+**Tyluric Temple (Lower) Encounters (Grassy Terrain)**
+
+|Grass        |% |
+|-------------|--|
+|Voltorb      |35|
+|Woobat       |15|
+|Tangela      |15|
+|**Vigoroth** |10|
+|Spinarak     |10|
+|Ariados      |10|
+|**Swoobat**  |5 |
+
+Vigoroth line is new for us.
+
+<u>Note: Some wild mons here may be over the level cap. Remember that they won’t listen to you unless you lower your level with Reverse Candy or win the next badge.</u>
+
+There are overworld Woobat here, this that is as much as you can do until we get Surf.
+
+Time to return to Mynori sea, north of Kakori Village.
+
+## Dewdrop Badge
+
+Go north until finding Valarie. 
+Talk to her and agree to move to the place of the gym battle. Go right until being into the opposite site to Valarie to trigger the scene prior the battle. 
+Your result against Madame X will be mentioned here and you can gamble money on the result, which is an easy way to win money as long as you don’t lose. 
+The dialogues after the battle also change depending on if you win in one try or not.
+
+**Water Show Performer Valarie (Water Surface). Story Mode.**
+
+- Qwilfish, Level 35.
+  - Deluge
+  - Rain Dance
+  - Toxic
+  - Explosion
+- Lumineon, Level 36. @ Elemental Seed. 
+  - Aquabatics
+  - Bunce
+  - Whirlpool
+  - Tickle
+- Octillery, Level 36.
+  - Aquabatics
+  - Octazooka
+  - Bullet Seed
+  - Psybeam
+- Primarina, Level 40. @ Sitrus Berry. 
+  - Aquabatics
+  - Moonblast
+  - Aqua Jet
+  - Encore
+
+**Water Show Performer Valarie (Water Surface). Classic Mode.**
+
+- Qwilfish, Level 38. @ Poison Barb. 
+  - Deluge
+  - Poison Jab
+  - Bounce
+  - Aqua Jet
+- Lanturn, Level 37. @ Leftovers. 
+  - Thunderbolt
+  - Whirlpool
+  - Hidden Power Grass
+  - Aquabatics
+- Dewgong, Level 37. @ Elemental Seed. 
+  - Toxic
+  - Stockpile
+  - Whirlpool
+  - Disable
+- Floatzel, Level 38. @ Muscle Band. 
+  - Brick Break 
+  - Aqua Jet
+  - Ice Punch
+  - Waterfall
+- Seaking, Level 38. @ Rindo Berry. 
+  - Megahorn
+  - Waterfall
+  - Poison Jab
+  - Bounce
+- Primarina, Level 40. @ Wacan Berry. 
+  - Sparkling Aria
+  - Aquabatics
+  - Dazzling Gleam
+  - Psychic
+
+Aquabatics: Water | Status | Raises the user's Special Attack and Speed by 1 stage each.
+
+She is though, especially on Classic Mode. 
+Remember ground moves don’t work for Qwilfish and Lanturn due to Water Surface, although you cab abuse the same with an electric type as long as it isn’t against Lanturn who has Volt Absorb. 
+Grass moves may be good for some, but they also have moves super effective to grass mons, so hard to say a grass type will last a lot, although a Chesnaught with Spiky Shield counters well the Bounces. 
+Poison and steel types resist Primarina very well and also deal lots of damage.
+
+Remember that her Aquabatics is basically a Dragon Dance but for special attack, so don’t let her boost herself too much.
+
+You will be on a scene after winning. Melia and Aelita  won some money from Sakki, so they are going  to spend it on a date at Dartreaux Izakaya at night. 
+You also get your bet if you gambled before the battle.
+
+**Friendship Point Choice:**
+- You're strong... (Valarie +2)
+- It was pretty even. (Neutral)
+- Ez. (Valarie -2)
+
+You finally receive your fifth badge, so now you level cap has gone up to 45 and you will be able to use Surf outside battle, but only if you own the HM first of course.
+
+Scenes will continue and Nim disappeared. 
+With this, the chapter will end.
+
+# Chapter 6: Nimpossible Predicament
 
 
 
