@@ -7872,6 +7872,7 @@ Now you are in forced Day, so you can get mons that you couldn't while forced ni
 Go south to Terajuma Jungle. Talk with the lady in white and then to **Growlithe**. 
 You can play with it. 
 Same as with the Espurr back then, You have to play with it and when it reached at least 1000 points of friendship and you try to leave, it will come with you.
+You also get +1 Karma.
 
 Now go to the southern part go west and then south to enter Terajuma Beach. 
 This place is empty at nights. 
