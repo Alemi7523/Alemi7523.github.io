@@ -7251,8 +7251,8 @@ Now, interact with the big central bookshelf.
 A girl we dealt with before Cici, will appear and threaten to rat to the Warden, so time to shut her mouth.
 
 **Optimist Cici (No Field)**
-• Story Mode: Graveler 34, Machoke 33, Tentacruel 34, Steelix 32.
-• Classic Mode: Graveler 37, Machoke 38, Tentacruel 37, Steelix 38.
+- Story Mode: Graveler 34, Machoke 33, Tentacruel 34, Steelix 32.
+- Classic Mode: Graveler 37, Machoke 38, Tentacruel 37, Steelix 38.
 
 Aura Sphere to Graveler is a 1HKO. 
 You don't have super effective for Tentacruel, and it is super effective for all Emma’s team. 
