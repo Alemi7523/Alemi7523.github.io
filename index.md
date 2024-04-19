@@ -7115,10 +7115,10 @@ Talk to the robot here for a battle.
 
 **Security Bot Purple Stripe (Cave Field)**
 - Story Mode: Venomoth 34, Weezing 35.
-- Classic Mode: Amoongus 35, Venomoth 36, Weezing 35.
+- Classic Mode: Amoonguss 35, Venomoth 36, Weezing 35.
 
 All poison types and all of Emma’s mons weak to poison. 
-Flamethrower from Togekiss can finish Amoongus in a couple of hits, same for Weezing, and Venomoth can be done in one hit. 
+Flamethrower from Togekiss can finish Amoonguss in a couple of hits, same for Weezing, and Venomoth can be done in one hit. 
 Air Slash got weakened due to Cave Field  and less base power so not recommended although it has STAB and if the opponent flinches it is great, but that depends on luck. 
 It isn't hard on its own, but you may get poisoned and Togekiss fall short of HP. 
 You can go to heal at the beginning of the area for free though, and Togekiss will likely reach level 40.
@@ -7705,10 +7705,45 @@ Now, go through the northern exit to Kakori Village.
 
 ## Kakori Village
 
+We will get a scene. 
+Now we can go to the east house to rest for the night, but let's pick up thing first.
 
+**Friendship Point Choice:**
+- You’re our friend. (Nim +6)
+- About that house… (Neutral)
+- She’s right, we don’t. (Nim -4, Adam -4, Aelita -4, Melia -7, Valarie -4, Braixen -4)
 
+Here there is a bit of text variation from Braixen if it is raining on the neutral choice, but choosing the one giving +6 to Nim is the best.
 
+**Kakori Village Encounters (Forest Field)**
 
+|Grass: Morning  |% |Grass: Day    |% |Grass: Night  |% |
+|----------------|--|--------------|--|--------------|--|
+|Grubbin         |32|Beedrill      |42|Morelull      |30|
+|Trumbeak        |20|Exeggcute     |15|Hoothoot      |15|
+|Weepinbell      |15|Bibarel       |12|Gloom         |15|
+|Charjabug       |12|Foongus       |10|Spinarak      |10|
+|Bibarel         |12|**Amoonguss** |10|Venonat       |10|
+|Paras           |9 |Butterfree    |6 |Salandit      |10|
+|                |  |              |  |Kricketune    |5 |
+|                |  |              |  |**Shiinotic** |5 |
+
+**Salandit** only evolves if female, and females are rare, but we will be able to get one evolved soon in a Quest, so don’t stress yourself looking for one.
+
+Once you can move, go left, and on a n empty space between yellow flowers and grass, there is a hidden ***X Attack***.
+
+Now go east to the right side of the platform Valarie is. 
+On a small rock in the right side, there is a hidden **Green Shard**.
+
+Interact with the Noctowl Statue in the house south of there. 
+This is what we will use to fast travel on Terajuma Island instead of the Truck Guy. 
+This house is the one you have to rest, but we haven’t finished picking things up.
+
+Go south from here, and between the lower gras and a small tree there is a hidden **Hyper Potion**. You can also find a Zygarde Cell here.
+
+**ZCell 035: Kakori Village**
+
+<img src="assets/media/image42.png"/>
 
 
 
