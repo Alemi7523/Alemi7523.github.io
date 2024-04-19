@@ -106,6 +106,7 @@
   - [Xen Battleship](#xen-battleship)
   - [Terajuma Shore](#terajuma-shore)
   - [Terajuma Jungle](#terajuma-jungle)
+  - [Kakori Village](#kakori-village)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -7659,6 +7660,64 @@ We can’t do more here for now, so go north to Terajuma Jungle.
 
 ## Terajuma Jungle
 
+You will see a scene at Blacksteeple Castle with Madame X which will show Ren joining Team Xen.
+
+You will be back on Terajuma Jungle with a scene.
+
+**Friendship Point Choice:**
+- Everything okay? (Aelita +1, Melia +1)
+- Huh? (Neutral)
+- Where do we go? (Neutral)
+- I can handle myself. (Melia -1, Aelita -2)
+
+After the scene we have to go to Kakori Village just north, but we can explore Terajuma a bit first. You can skip to Kakori Village section if you don’t want to explore now, we can do this later.
+
+**Terajuma Jungle and Deep Terajuma Jungle (South) Encounters (Forest Field)**
+
+|Grass: Morning |% |Grass: Day    |% |Grass: Night |% |Old Rod |%  |
+|---------------|--|--------------|--|-------------|--|--------|---|
+|**Grubbin**    |42|Bibarel       |47|**Morelull** |37|Carvanha|100|
+|**Trumbeak**   |29|**Foongus**   |35|Hoothoot     |15|        |   |
+|**Weepinbell** |15|**Exeggcute** |10|Spinarak     |10|        |   |
+|Bibarel        |12|Butterfree    |6 |Oddish       |10|        |   |
+|**Charjabug**  |2 |Beedrill      |2 |**Venonat**  |10|        |   |
+|               |  |              |  |**Ariados**  |6 |        |   |
+|               |  |              |  |**Gloom**    |5 |        |   |
+|               |  |              |  |Kricketune   |5 |        |   |
+|               |  |              |  |Noctowl      |2 |        |   |
+
+Quite a lot of variety. Notice that **Exeggcute** will evolve to normal or Alolan Form depending on location and Terajuma is Alolan Form, you can find all the maps that trigger Alolan Form for this evolution on the Appendices.
+
+Notice that the time of the day is locked in for story reasons right now.
+
+Pick a hidden ***Tiny Mushroom*** on the grass right of where you start, it on the second empty tile of the two consecutive empty tiles in the grass area.
+
+Go west and after the bridge, on the easternmost tile without grass in the grass area you will find here there is a hidden ***Yellow Shard***. 
+Now check the rock on the northwest to find a hidden ***Pecha Berry***.
+
+We will leave further exploration for after Kakori Village, so return east and go north.
+
+Three tile south of the R letter of the west most blue container on the right side, there is a hidden ***Ultra Ball***. 
+Now go to the left side to find ***TM131 Bullet Seed***. 
+There is a hidden ***Potion*** just north of the TM.
+
+Now, go through the northern exit to Kakori Village.
+
+## Kakori Village
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
 
 # Karma Files (Paragon Route Chapter 0)
@@ -8066,7 +8125,7 @@ how she replies.
 Next talk with Erin, again the choice isn't relevant, just story fluff.
 
 Move to the right and near the bathroom, speak with Kai. The choice
-doesn\'t mater.
+doesn't mater.
 
 Talk to the bathroom again, but it is still occupied. Now go to the
 dressing room and speak with Wran. Finally, speak with Melia on the same
@@ -8251,7 +8310,7 @@ ones though. Luxio's Spark is boosted by the field, so although it isn't
 super effective on any, it is very useful.
 
 The film finished, and now you have to talk to Kai. Agree to enter a new
-cutscene. The choice doesn\'t matter.
+cutscene. The choice doesn't matter.
 
 You get Quest Complete, although this didn't appear in the quest menu at
 all. Now you can go to the dressing room to receive your gift, which is
