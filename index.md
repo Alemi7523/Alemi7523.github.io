@@ -7869,7 +7869,11 @@ Leave the house for another scene. Valarie wants to fight you in a gym battle at
 There are still things we can do before the badge, so let’s do them. 
 Now you are in forced Day, so you can get mons that you couldn't while forced night before.
 
-Go south to Terajuma Jungle and on the southern part go west and then south to enter Terajuma Beach. 
+Go south to Terajuma Jungle. Talk with the lady in white and then to **Growlithe**. 
+You can play with it. 
+Same as with the Espurr back then, You have to play with it and when it reached at least 1000 points of friendship and you try to leave, it will come with you.
+
+Now go to the southern part go west and then south to enter Terajuma Beach. 
 This place is empty at nights. 
 Activate the Noctowl Statue.
 
