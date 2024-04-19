@@ -6850,17 +6850,17 @@ Time to explore it.
 
 **Akuwa Town Encounters**
 
-| Grass: Morning | %  | Grass: Day    | %  | Grass: Night   | %    | Old Rod        | %        |
-|----------------|----|---------------|--- |----------------|------|----------------|----------|
-| Buizel         | 30 | Girafarig     | 40 | Buizel         | 32   | Buizel         | 70       |
-| Girafarig      | 15 | Buizel        | 32 | Girafarig      | 15   | Seel           | 30       |
-| Blitzle        | 15 | Blitzle       | 15 | Noctowl        | 15   |                |          |
-| Skitty         | 15 | **Audino**    | 6  | Illumise       | 15   |                |          |
-| **Delcatty**   | 10 | **Floatzel**  | 5  | Volbeat        | 10   |                |          |
-| **Audino**     | 6  | **Lickitung** | 2  | **Audino**     | 6    |                |          |
-| **Floatzel**   | 5  |               |    | **Lickitung**  | 5    |                |          |
-| **Lickitung**  | 2  |               |    | **Floatzel**   | 2    |                |          |
-
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** |**%** |
+|-------------------|------|---------------|------|-----------------|------|------------|------|
+|Buizel             |30    |Girafarig      | 40   | Buizel          | 32   | Buizel     | 70   |
+|Girafarig          |15    |Buizel         | 32   | Girafarig       | 15   | Seel       | 30   |
+|Blitzle            |15    |Blitzle        | 15   | Noctowl         | 15   |            |      |
+|Skitty             |15    |**Audino**     | 6    | Illumise        | 15   |            |      |
+|**Delcatty**       |10    |**Floatzel**   | 5    | Volbeat         | 10   |            |      |
+|**Audino**         |6     |**Lickitung**  | 2    | **Audino**      | 6    |            |      |
+|**Floatzel**       |5     |               |      | **Lickitung**   | 5    |            |      |
+|**Lickitung**      |2     |               |      | **Floatzel**    | 2    |            |      |
+ 
 There are some new ones, and Seel was available only on casino, so here you can get it for free. 
 Buizel, we only had the event one and the same goes for Blitzle since we could only get the one in Junction bridge until now.
 If you got female ones, maybe you already breed them though.
@@ -6962,14 +6962,14 @@ Now we can enter freely and if we exit to the right, we can reach a small area w
 
 **Blacksteeple Castle Encounters (No Field, Permanent Hail)**
 
-| Grass         | %  |
-|---------------|----|
-| **Tangela**   | 30 |
-| Teddiursa     | 15 |
-| **Cramorant** | 15 |
-| **Abomasnow** | 10 |
-| **Ursaring**  | 6  |
-| **Delibird**  | 5  |
+|**Grass**     |**%** |
+|--------------|------|
+|**Tangela**   |30    |
+|Teddiursa     |15    |
+|**Cramorant** |15    |
+|**Abomasnow** |10    |
+|**Ursaring**  |6     |
+|**Delibird**  |5     |
 
 While this is a place, we don’t be able to return after having left Blacksteeple Castle, all the mons can also be obtained on other places. 
 Still, it is a good idea to get all of them now.
@@ -6989,16 +6989,16 @@ Once you can move, go through the southwest door, and talk to the left guard to 
 
 **Blacksteeple Castle Shop**
 
-|Item          |Price|
-|--------------|-----|
-|*Poke Ball*   |$200 |
-|*Great Ball*  |$600 |
-|*Ultra Ball*  |$1200|
-|*Super Potion*|$700 |
-|*GourmetTreat*|$1500|
-|*Repel*       |$350 |
-|*Super Repel* |$500 |
-|*Escape Rope* |$550 |
+|**Item**      |**Price**|
+|--------------|---------|
+|*Poke Ball*   |$200     |
+|*Great Ball*  |$600     |
+|*Ultra Ball*  |$1200    |
+|*Super Potion*|$700     |
+|*GourmetTreat*|$1500    |
+|*Repel*       |$350     |
+|*Super Repel* |$500     |
+|*Escape Rope* |$550     |
 
 The right guard is the one selling Mining Kit, but they don’t have any remaining since  a kid, a School Boy, got the last one. 
 Go to the Castle Courtyard and you will find the kid. 
@@ -7027,8 +7027,8 @@ The minigame should be familiar to you from gen 4.
 
 **Mining Probabilities**
 
-|Item Name      |Chance|
-|---------------|------|
+|Item             |Chance|
+|-----------------|------|
 |*Helix Fossil*   |1,1%  |
 |*Root Fossil*    |0,8%  |
 |*Claw Fossil*    |0,8%  |
@@ -7503,17 +7503,17 @@ Leave the room and go to the right and downstairs to find a ***Dull Key***, whic
 
 **Xen Battleship Shop**
 
-|Item           |Price|
-|---------------|-----|
-|*Poke Ball*    |$200 |
-|*Great Ball*   |$600 |
-|*Potion*       |$300 |
-|*Super Potion* |$700 |
-|*Antidote*     |$100 |
-|*Ice Heal*     |$250 |
-|*GourmetTreat* |$1500|
-|*Super Repel*  |$500 |
-|*Reverse Candy*|$50  |
+|**Item**       |**Price**|
+|---------------|---------|
+|*Poke Ball*    |$200     |
+|*Great Ball*   |$600     |
+|*Potion*       |$300     |
+|*Super Potion* |$700     |
+|*Antidote*     |$100     |
+|*Ice Heal*     |$250     |
+|*GourmetTreat* |$1500    |
+|*Super Repel*  |$500     |
+|*Reverse Candy*|$50      |
 
 Return upstairs and this time leave though the southern exit, go right for a scene. 
 The first choice her doesn’t matter, but it will keep repeating until you say Hello. 
@@ -7655,13 +7655,13 @@ Leave the ship again. Time to start exploring the first area of Terajuma we can 
 
 No grass here, but we can fish with our Old Rod.
 
-**Terajuma Shipyard Encounters**
+**Terajuma Shipyard Encounters (Beach Field)**
 
-|Old Rod  |% |
-|---------|--|
-|Carvanha |60|
-|Krabby   |20|
-|Wailmer  |20|
+|**Old Rod** |**%** |
+|------------|------|
+|Carvanha    |60    |
+|Krabby      |20    |
+|Wailmer     |20    |
 
 Two new ones and one that could only be caught on Rift Den, not bad.
 
@@ -7683,17 +7683,17 @@ After the scene we have to go to Kakori Village just north, but we can explore T
 
 **Terajuma Jungle and Deep Terajuma Jungle (South) Encounters (Forest Field)**
 
-|Grass: Morning |% |Grass: Day    |% |Grass: Night |% |Old Rod |%  |
-|---------------|--|--------------|--|-------------|--|--------|---|
-|**Grubbin**    |42|Bibarel       |47|**Morelull** |37|Carvanha|100|
-|**Trumbeak**   |29|**Foongus**   |35|Hoothoot     |15|        |   |
-|**Weepinbell** |15|**Exeggcute** |10|Spinarak     |10|        |   |
-|Bibarel        |12|Butterfree    |6 |Oddish       |10|        |   |
-|**Charjabug**  |2 |Beedrill      |2 |**Venonat**  |10|        |   |
-|               |  |              |  |**Ariados**  |6 |        |   |
-|               |  |              |  |**Gloom**    |5 |        |   |
-|               |  |              |  |Kricketune   |5 |        |   |
-|               |  |              |  |Noctowl      |2 |        |   |
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** |**%** |
+|-------------------|------|---------------|------|-----------------|------|------------|------|
+|**Grubbin**        |42    |Bibarel        |47    |**Morelull**     |37    |Carvanha    |100   |
+|**Trumbeak**       |29    |**Foongus**    |35    |Hoothoot         |15    |            |      |
+|**Weepinbell**     |15    |**Exeggcute**  |10    |Spinarak         |10    |            |      |
+|Bibarel            |12    |Butterfree     |6     |Oddish           |10    |            |      |
+|**Charjabug**      |2     |Beedrill       |2     |**Venonat**      |10    |            |      |
+|                   |      |               |      |**Ariados**      |6     |            |      |
+|                   |      |               |      |**Gloom**        |5     |            |      |
+|                   |      |               |      |Kricketune       |5     |            |      |
+|                   |      |               |      |Noctowl          |2     |            |      |
 
 Quite a lot of variety. Notice that **Exeggcute** will evolve to normal or Alolan Form depending on location and Terajuma is Alolan Form, you can find all the maps that trigger Alolan Form for this evolution on the Appendices. 
 The Ship is a place where it won't.
@@ -7727,16 +7727,16 @@ Here there is a bit of text variation from Braixen if it is raining on the neutr
 
 **Kakori Village Encounters (Forest Field)**
 
-|Grass: Morning  |% |Grass: Day    |% |Grass: Night  |% |
-|----------------|--|--------------|--|--------------|--|
-|Grubbin         |32|Beedrill      |42|Morelull      |30|
-|Trumbeak        |20|Exeggcute     |15|Hoothoot      |15|
-|Weepinbell      |15|Bibarel       |12|Gloom         |15|
-|Charjabug       |12|Foongus       |10|Spinarak      |10|
-|Bibarel         |12|**Amoonguss** |10|Venonat       |10|
-|Paras           |9 |Butterfree    |6 |Salandit      |10|
-|                |  |              |  |Kricketune    |5 |
-|                |  |              |  |**Shiinotic** |5 |
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |
+|-------------------|------|---------------|------|-----------------|------|
+|Grubbin            |32    |Beedrill       |42    |Morelull         |30    |
+|Trumbeak           |20    |Exeggcute      |15    |Hoothoot         |15    |
+|Weepinbell         |15    |Bibarel        |12    |Gloom            |15    |
+|Charjabug          |12    |Foongus        |10    |Spinarak         |10    |
+|Bibarel            |12    |**Amoonguss**  |10    |Venonat          |10    |
+|Paras              |9     |Butterfree     |6     |Salandit         |10    |
+|                   |      |               |      |Kricketune       |5     |
+|                   |      |               |      |**Shiinotic**    |5     |
 
 **Salandit** only evolves if female, and females are rare, but we will be able to get one evolved soon in a Quest, so don’t stress yourself looking for one.
 
@@ -7768,17 +7768,17 @@ On the north side of the village there is the gym, which doubles as Ranger HQ an
 
 **Ranger HQ Shop**
 
-|Item            |Price |
-|----------------|------|
-|*Poké Ball*     |$200  |
-|*Great Ball*    |$600  |
-|*Nest Ball*     |$1000 |
-|*Net Ball*      |$1000 |
-|*Escape Rope*   |$550  |
-|*Spice Powder*  |$850  |
-|*GourmetTreat*  |$1500 |
-|*Super Repel*   |$500  |
-|*Reverse Candy* |$50   |
+|**Item**        |**Price** |
+|----------------|----------|
+|*Poké Ball*     |$200      |
+|*Great Ball*    |$600      |
+|*Nest Ball*     |$1000     |
+|*Net Ball*      |$1000     |
+|*Escape Rope*   |$550      |
+|*Spice Powder*  |$850      |
+|*GourmetTreat*  |$1500     |
+|*Super Repel*   |$500      |
+|*Reverse Candy* |$50       |
 
 Buy some ***Spice Powder*** as we will need it to move mons blocking the way later.
 
@@ -7814,13 +7814,13 @@ It will be a quick visit.
 
 **Mynori Sea Encounters (Beach Field)**
 
-|Grass       |%  |Old Rod  |% |
-|------------|---|---------|--|
-|Crabrawler  |25 |Carvanha |80|
-|**Taillow** |25 |Remoraid |20|
-|**Binacle** |15 |         |  |    
-|Cloboppus   |12 |         |  |    
-|**Swellow** |12 |         |  |    
+|**Grass**   |**%** |**Old Rod** |**%** |
+|------------|------|------------|------|
+|Crabrawler  |25    |Carvanha    |80    |
+|**Taillow** |25    |Remoraid    |20    |
+|**Binacle** |15    |            |      |    
+|Cloboppus   |12    |            |      |    
+|**Swellow** |12    |            |      |    
 
 Go east to find ***Berry Juice***. Now go west, and up, hidden almost all by a tree, there is a ***Red Shard***.
 
@@ -7886,14 +7886,14 @@ Right now, we can get some mons and find a Zygarde Cell on the east side.
 
 **Terajuma Beach Encounters (Beach Field)**
 
-|Grass         |%  |Old Rod  |% |
-|--------------|---|---------|--|
-|Krabby        |25 |Carvanha |60|
-|Dustox        |25 |Krabby   |20|
-|**Beautifly** |25 |Wailmer  |20|
-|Exeggcute     |10 |         |  |   
-|**Pyukumuku** |10 |         |  |   
-|**Sandygast** |5  |         |  | 
+|**Grass**     |**%** |**Old Rod** |**%** |
+|--------------|------|------------|------|
+|Krabby        |25    |Carvanha    |60    |
+|Dustox        |25    |Krabby      |20    |
+|**Beautifly** |25    |Wailmer     |20    |
+|Exeggcute     |10    |            |      |   
+|**Pyukumuku** |10    |            |      |   
+|**Sandygast** |5     |            |      | 
 
 Time to go to Deep Terajuma Jungle which is the north exit just north of the one leading to Terajuma Beach.
 
@@ -7993,17 +7993,17 @@ For now, let’s go to the northern part of the map and use the exit to reach th
 
 **Deep Terajuma Jungle (North) Encounters (Forest Field)**
 
-|Grass: Morning |% |Grass: Day |% |Grass: Night |% |Old Rod  |%  |
-|---------------|--|-----------|--|-------------|--|---------|---|
-|Grubbin        |32|Bibarel    |42|Morelull     |32|Carvanha |100|
-|Trumbeak       |29|Beedrill   |17|Hoothoot     |15|         |   |
-|Weepinbell     |15|Exeggcute  |15|Gloom        |15|         |   |
-|Bibarel        |12|Foongus    |10|Spinarak     |10|         |   |
-|Charjabug      |12|Amoonguss  |10|Venonat      |10|         |   |
-|               |  |Butterfree |6 |Ariados      |6 |         |   |
-|               |  |           |  |Kricketune   |5 |         |   |
-|               |  |           |  |Shiinotic    |5 |         |   |
-|               |  |           |  |Noctowl      |2 |         |   |
+|**Grass: Morning** |**%** |**Grass: Day** |**%** |**Grass: Night** |**%** |**Old Rod** |**%** |
+|-------------------|------|---------------|------|-----------------|------|------------|------|
+|Grubbin            |32    |Bibarel        |42    |Morelull         |32    |Carvanha    |100   |
+|Trumbeak           |29    |Beedrill       |17    |Hoothoot         |15    |            |      |
+|Weepinbell         |15    |Exeggcute      |15    |Gloom            |15    |            |      |
+|Bibarel            |12    |Foongus        |10    |Spinarak         |10    |            |      |
+|Charjabug          |12    |Amoonguss      |10    |Venonat          |10    |            |      |
+|                   |      |Butterfree     |6     |Ariados          |6     |            |      |
+|                   |      |               |      |Kricketune       |5     |            |      |
+|                   |      |               |      |Shiinotic        |5     |            |      |
+|                   |      |               |      |Noctowl          |2     |            |      |
 
 
 Check the wall just up the yellow flowers you can see from the entrance to find a hidden ***Dusk Ball***.
@@ -8012,15 +8012,15 @@ You will see an overworld Mankey here. Continue east though the bridge to reach 
 
 **Terajuma Excavation Site Encounters (Forest Field)**
 
-|Grass: Morning/Day |% |Grass: Night  |% |
-|-------------------|--|--------------|--|
-|Nosepass           |25|Nosepass      |25|
-|Grubbin            |20|Grubbin       |20|
-|Voltorb            |20|Voltorb       |20|
-|**Electrode**      |15|**Electrode** |15|
-|**Ditto**          |12|**Ditto**     |10|
-|**Oranguru**       |5 |Elgyem        |5 |
-|**Pincurchin**     |5 |Slandit       |5 |
+|**Grass: Morning/Day** |**%** |**Grass: Night** |**%** |
+|-----------------------|------|-----------------|------|
+|Nosepass               |25    |Nosepass         |25    |
+|Grubbin                |20    |Grubbin          |20    |
+|Voltorb                |20    |Voltorb          |20    |
+|**Electrode**          |15    |**Electrode**    |15    |
+|**Ditto**              |12    |**Ditto**        |10    |
+|**Oranguru**           |5     |Elgyem           |5     |
+|**Pincurchin**         |5     |Slandit          |5     |
 
 Finally **Ditto** here. 
 The day encounters are better than the night one in terms on new mons, so I left this area for the forced day rather than having come here earlier at forced night.
@@ -8052,15 +8052,15 @@ You will reach the Temple Outskirts.
 
 **Temple Outskirts Encounters (Forest Field)**
 
-|Grass               |% |
-|--------------------|--|
-|**Oricorio (Pa’u)** |25|
-|Trumbeak            |20|
-|**Shelmet**         |15|
-|Grubbin             |15|
-|Charjabug           |10|
-|**Toucannon**       |10|
-|Oranguru            |5 |
+|**Grass**           |**%** |
+|--------------------|------|
+|**Oricorio (Pa’u)** |25    |
+|Trumbeak            |20    |
+|**Shelmet**         |15    |
+|Grubbin             |15    |
+|Charjabug           |10    |
+|**Toucannon**       |10    |
+|Oranguru            |5     |
 
 There is a new form of **Oricorio (Pa’u)** here we couldn’t get before as we neither got the nectar nor the mon. 
 **Shelmet** is new of this area, and Trumbeak and **Toucannon** shouldn't have been accessible until now due to being Morning only on other maps and us being time-locked since we reached Terajuma on either night or day.
@@ -8082,15 +8082,15 @@ After a scene, you can move, and as told, there are wild mons here.
 
 **Tyluric Temple (Lower) Encounters (Grassy Terrain)**
 
-|Grass        |% |Any Rod           |%  |
-|-------------|--|------------------|---|
-|Voltorb      |35|Basculin Red/Blue |100|
-|Woobat       |15|                  |   |
-|Tangela      |15|                  |   |
-|**Vigoroth** |10|                  |   |
-|Spinarak     |10|                  |   |
-|Ariados      |10|                  |   |
-|**Swoobat**  |5 |                  |   |
+|**Grass**    |% |**Any Rod**       |**%** |
+|-------------|--|------------------|------|
+|Voltorb      |35|Basculin Red/Blue |100   |
+|Woobat       |15|                  |      |
+|Tangela      |15|                  |      |
+|**Vigoroth** |10|                  |      |
+|Spinarak     |10|                  |      |
+|Ariados      |10|                  |      |
+|**Swoobat**  |5 |                  |      |
 
 **Vigoroth** line is new for us.
 
@@ -8189,9 +8189,115 @@ With this, the chapter will end.
 
 The chapter starts with a cutscene of Team Xen as it has already become habitual.
 
-Next scene, we are in Terajuma Jungle and our objective is the Terajuma Beach, so go there.
+Next scene, we are in Terajuma Jungle and our objective is the Terajuma Beach, so go there, but first, remember to level up to the new level cap.
 
+Go the right area and speak to Nim for a scene. 
+Your choice here doesn’t matter. 
+Nim will have become stone and Geara, Zetta, and Jenner will be back. 
+Again, choice doesn’t matter.
 
+You will have to fight Geara.
+
+**Xen Executive Geara (Beach Field/ Permanent Hail). Story Mode.**
+
+- Clefable, Level 40. 
+  - Dazzling Gleam
+  - Seismic Toss
+  - Thunderwave
+  - Metronome
+- Grimmsnarl, Level 40. @ Dread Plate
+  - Bulk Up
+  - Torment
+  - False Surrender
+  - Spirit Break
+- Krookodile, Level 41. @ Muscle Band
+  - Stomping Tantrum
+  - Crunch
+  - Cut
+  - Dragon Tail
+- Gengar, Level 42. @ Wise Glasses 
+  - Sludge Bomb
+  - Sucker Punch
+  - Will-O-Wisp
+  - Venoshock
+
+**Xen Executive Geara (Beach Field/ Permanent Hail). Classic Mode.**
+
+- Persian, Level 39. @ Muscle Band
+  - Night Slash
+  - Return
+  - Fake Out
+  - U-Turn
+- Clefable, Level 42. @ Pixie Plate
+  - Dazzling Gleam
+  - Flamethrower
+  - Thunderwave
+  - Psychic
+- Alolan Marowak, Level 40. @ Thick Club
+  - Bonemerang
+  - Shadoe Bone
+  - Flame Charge
+  - Flare Blitz
+- Grimmsnarl, Level 40. @ Dread Plate
+  - Bulk Up
+  - Sucker Punch
+  - False Surrender
+  - Spirit Break
+- Krookodile, Level 41. @ Muscle Band
+  - Earthquake
+  - Crunch
+  - Fire Fang
+  - Rock Slide
+- Gengar, Level 42. @ Wise Glasses 
+  - Shadow Ball
+  - Curse
+  - Dazzling Gleam
+  - Sludge Wave
+
+Strong trainer compared to those before out fifth badge given the levels, similar to Neved. 
+The difference is that we can be at 45, so relatively speaking, it isn’t hard to defeat this Geara if we leveled up.
+Scenes will continue after winning, and a shadow that is likely Giratina rescues the trio plus took Nim’s statue.
+
+We are automatically on the next day, and we get a choice that doesn’t matter, so reply as you wish.
+
+You will regain control at the Ranger HQ, go to the northern part for a scene and you will see a transmission from Team Xen.
+
+Team Xen arrived Terajuma, built a stronghold on Valor Mountain, and plan to seize the whole island in 20 days, which means the total destruction of Terajuma, and they place a bounty on our heads, so people catch us to prevent it. 
+Note that if you defeated Madam X, you are high priority as Melia, otherwise Melia is the only high priority.
+
+To make it worse, they have Nim and will dispose of her if we don’t surrender before the time limit.
+
+On the next scene it will still show variation depending on your victory on Madame X.
+
+To access Valor Mountain, we need the three relics, which are obtained in the Terajuma Trial nowadays, so the solution would be to face it, but the Ocean Relic is on Kristiline Town, which is also having issues.
+We don’t get the details because Crawli has to run to Jynnobi Pass. 
+We are asked to go there too, so that is out next objective to progress story. 
+This place is east of Mynori Sea, but you need to go surfing, so you will be gifted the HM03 Surf.
+
+## Surf Detour
+
+No way we aren’t making a detour now that we can surf. 
+Moreover, we aren’t time locked anymore.
+
+There are also encounters in the water in areas we visited previously that will be shown when we pass through them.
+
+The game code has encounters for water in Kakori Village, but we can’t surf anywhere here, the water only allows to fish. Go south to Terajuma Jungle.
+
+**Terajuma Jungle and Deep Terajuma Jungle (South) Encounters (Water Surface)**
+
+|**Water**    |**%** |
+|-------------|------|
+|Carvanha     |50    |
+|Lotad        |30    |
+|**Lombre**   |10    |
+|**Sharpedo** |10    |
+
+A couple of new evolutions on the wild, but you may have gotten them by usual evolution.
+
+Notice that Water Surface will be something we will when surfing, remember it from Valarie’s battle, our ground type moves won’t work and there is a boost to electric and water ones. 
+Look on the txt for more details. Fishing while surfing will also give this field.
+
+Continue south for Terajuma Shipyard.
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
@@ -8875,9 +8981,9 @@ broken the Air Ballons.
 
 You are asked to check Venam, so leave the house, or try it, because
 Crawli will enter just at that moment blocking you. Change of plans, go
-to Jyannobi.
+to Jynnobi.
 
-Enter the temple, east of Jyannobi and go up for a cutscene.
+Enter the temple, east of Jynnobi and go up for a cutscene.
 
 Go up to Route 6 and talk with Aelita.
 
@@ -9453,7 +9559,7 @@ environment.]</u>
 -   Valor Mountain (Ice)
 -   Terajuma Beach (map with blue water only)
 -   Mirimura Cave
--   Jyannobi Pass (inside the buildings only)
+-   Jynnobi Pass (inside the buildings only)
 -   Tyluric Temple (outside only)
 -   Evergreen Island
 -   Evergreen Forest
@@ -10377,13 +10483,13 @@ trains in GDC becomes cheaper.
 
 ### A Souvenir for Mom
 
-Talk to a girl in Jyannobi Pass with an exclamation mark on her head.
+Talk to a girl in Jynnobi Pass with an exclamation mark on her head.
 She will ask for Souvenir for her mom.
 
 At Terajuma Beach talk with the man on the Politoed Stall to receive a
 souvenir.
 
-Return to Jyannobi Pass and speak with the girl again, but she didn't
+Return to Jynnobi Pass and speak with the girl again, but she didn't
 think her mother would like that souvenir, so she asks you to try to buy
 one a Teila Resort.
 
