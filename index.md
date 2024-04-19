@@ -8293,11 +8293,92 @@ The game code has encounters for water in Kakori Village, but we can’t surf an
 |**Sharpedo** |10    |
 
 A couple of new evolutions on the wild, but you may have gotten them by usual evolution.
+It is the same for both Deep Terajuma Jungle maps and Terajuma Jungle.
 
 Notice that Water Surface will be something we will when surfing, remember it from Valarie’s battle, our ground type moves won’t work and there is a boost to electric and water ones. 
 Look on the txt for more details. Fishing while surfing will also give this field.
 
 Continue south for Terajuma Shipyard.
+
+**Terajuma Shipyard Encounters (Water Surface)**
+
+|**Water**   |**%** |
+|------------|------|
+|**Mantyke** |50    |
+|Krabby      |25    |
+|Wailmer     |15    |
+|Carvanha    |10    |
+
+**Mantyke** for the first time. 
+We can get its evolution on Mynori Sea easily thanks to Magnetic Lure, so there is no need bother evolving one of these. 
+Remember that we can’t get Mantyke by breeding due to lacking the incense.
+
+Use surf under the green ship and go right to the sand area. 
+There are a couple of overworld Pyukumuku here and a Zygarde Cell.
+
+**ZCell 037: Terajuma Shipyard**
+
+<img src="assets/media/image44.png"/>
+
+Now go south to find a Red Shard. Here you will be able to find overworld Staryu after you fixed the lighthouses.
+
+Continue south to find the place where your ship appeared last time. On the southern area with grass, you can find ***TM76 Bug Bite***.
+
+**Terajuma Shipyard Encounters (Beach Field)**
+
+|**Grass**  |**%** |
+|-----------|------|
+|Krabby     |25    |
+|Dustox     |25    |
+|Beautifly  |25    |
+|Exeggcute  |10    |
+|Pyukumuku  |10    |
+|Pincurchin |5     |
+
+We can’t do more on this map, so return to Terajuma Jungle and go west before leaving for the north exit to Deep Terajuma Jungle.
+
+Cross the bridge to the house and go south. Use surf on the beach and go east. There are overworld Surskit here. On the right rock in the small island there is a hidden ***Stardust***. There is also a Zygarde Cell here.
+
+**ZCell 038: Deep Terajuma Jungle**
+
+<img src="assets/media/image45.png"/>
+
+Continue north to reach the northern area of Deep Terajuma Jungle.
+
+If it is night, it may be a good moment to go find the hidden Exp. Candy L we couldn’t get on forced day earlier. Check the section of our visit to Terajuma Excavation Site.
+
+From the northern part of the Deep Terajuma Jungle, crossing the bridge and using surf, we can access Mirimura Cave, although just a very small part of it, but we can get the encounters of the grass and there is a hidden **Elemental Seed** on the pink flowers on the right.
+
+**Mirimura Cave Encounters (Cave Field)**
+
+Grass %
+Geodude 20
+Venipede  20
+Exeggcute 15
+Graveler  15
+Whirlipede  10
+Nincada 10
+Carnivine 10
+
+<u>Note: The wild mons here can be above your current level cap.</u>
+
+Now return to the previous map and go through the northern exit to the Temple Outskirts, and enter the temple.
+
+### Quest 34: Tantalizing Temple (Continuation)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
