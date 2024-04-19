@@ -116,6 +116,9 @@
     - [Quest 34: Tantalizing Temple (Start)](#quest-34-tantalizing-temple-start)
   - [Dewdrop Badge](#dewdrop-badge)
 - [Chapter 6: Nimpossible Predicament](#chapter-6-nimpossible-predicament)
+  - [Surf Detour](#surf-detour)
+    - [Quest 34: Tantalizing Temple (Continuation)](#quest-34-tantalizing-temple-continuation)
+  - [To Jynnobi Pass](#to-jynnobi-pass)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -7785,6 +7788,13 @@ Buy some ***Spice Powder*** as we will need it to move mons blocking the way lat
 There is a guy here who changes an Up-Grade for ***Scope Lens***. 
 We only got a single Up-Grade until now, but we will get more later, so feel free to make the change.
 
+Go through the western for and then though the first one in the north, you can pick 3 ***Max Repels*** here. 
+
+On the southern door there is an ***Up-Grade***. 
+We get it back quite quickly. 
+Go back outside the Ranger HQ.
+
+
 Go right of the Ranger HQ, and in front of the leftmost window, there is a hidden ***Swift Wing***.
 
 Now go west, and on the big rock close to the entrance of the Cable Car place, there is a hidden ***Super Repel*** on the left side of it.
@@ -8366,6 +8376,165 @@ Now return to the previous map and go through the northern exit to the Temple Ou
 
 ### Quest 34: Tantalizing Temple (Continuation)
 
+Go to the water blocking your path previously, top-right, and use surf to progress. 
+There are only Basculin with Red or Blue stripe here when surfing, same as when fishing.
+
+Once you reach the other end of the water, leave though the only exit and you will trigger a scene on the new area.
+
+We can’t do much here before going inside again, but the encounters here are different.
+
+**Tyluric Temple (Upper) Encounters (Forest Field)**
+
+|**Grass**           |**%** |
+|--------------------|------|
+|**Hisuian Voltorb** |35    |
+|Mawile              |15    |
+|Tangela             |15    |
+|Vigoroth            |10    |
+|Spinarak            |10    |
+|Ariados             |10    |
+|Chatot              |5     |
+
+Inside again, we have to surf once more to continue. 
+Soon we will be back outside.
+
+Go left while being a step down from the wall. Walk six steps from the green line to find a hidden ***Berry Juice***.
+
+Go north to the lower part of the stairs and turn back to the left. 
+In diagonal with the green area there, there is a hidden ***Sitrus Berry***.
+
+Now, if you are able to cross the area with the tornadoes upstairs on the right, you will reach a small area with some overworld **Slakoth**. 
+There is also a hidden ***Funnel Cake*** on the top rock on the right.
+
+<u>Note: Here, after the 12th badge, there will also be overworld Grookey.</u>
+
+To progress with the Quest, we must use surf on the water south of the place we reached the map. 
+Land on the right side and walk two steps down to find a hidden ***Sitrus Berry***.
+
+Go west and south and when you see a green area with grass on the right go there and inspect a tile down of the northernmost tree on the right to find a hidden ***Lichi Berry***.
+
+Go the southwest corner, and walk two steps north and one east. Interact for a hidden ***Mago Berry***.
+
+Go north to enter inside again. Go downstairs for a scene.
+
+**Friendship Point Choice:**
+- I’m not afraid (Flora+1, Florin+1, Talon +3)
+- Hell no. (Florin+1, Talon -2, Flora+2)
+
+You will have tea time, after which everyone falls asleep and when you wake up Flora isn’t there since she is the one who put everyone to sleep.
+
+<u>Note: There is something to do here once we can go through magma, but I will point it out then.</u>
+
+Go down and then right. 
+On the new map go up until the mural and interact with it. 
+We get a longer scene if we have the book to translate Garufan. 
+Remember that even if you gave it up, it can be bought again in the Keckleon Bazaar.
+
+A tornado activated in the room, touch them until a big tornado appears in the top. On the instance there are two small tornadoes, go to the upper one. 
+Now walk into the big one that appeared on the top.
+ We will reach another part of the temple.
+
+Here, we need to move the panels so that the ball emitted when we are on the blue tile reached its target. 
+We have to move them all except for the one on the top left that must remain unmoved.
+
+A new mural appeared, interact for a scene. 
+Again, it is longer if you can read Garufan thanks to the book, the following choice is also only available if you can read it.
+
+**Friendship Point Choice:**
+- How petty… (Talon +2, Florin+1)
+- I would do the same. (Florin+2, Talon +1)
+- This is boring me to tears (Talon -2, Florin -1)
+
+Go through the newly opened door and read the new mural. 
+Once again, extra text if you can read Garufan. 
+Now go back to the outside area since a new tornado appeared there.
+
+We will see scene of Flora an Carnivine before being able to move again.
+
+Once outside go north crossing the water again, then west and south. Go the only way until seeing stairs. 
+Go though them and ride the tornado that appeared to reach another part of the map. 
+
+Go west. Here we will see overworld Spinarak and Ariados after going downstairs. 
+Diagonal up-right from the northernmost grass tile on the left side, there is a hidden ***Leaf Stone***. 
+
+We shall go south and to proceed with the Quest, but let’s explore a bit more before.
+Continue west, and you will find a big rock and two small rocks. On the tile between the big rock and the left small rock, there is a hidden **Oran Berry**.
+
+Now you can go south and prepare for a boss battle before going through the door.
+
+Advance to get a scene that will end directly into the fight.
+
+**Corrupted Carnivine (Grassy Field). Story Mode.**
+- Rift Carnivine, Level 40. Grass/Dragon. 3 HP Bars
+  - Dragon Dance
+  - Seed Bomb
+  - Dragon Pulse
+  - Flame Burst
+- After finishing the first HP bar, its type changes to Grass/Steel, Defense increases, Special Attack, Special Defense, and Speed decrease, and on our side, we get a boost on Attack and Defense. The moves also change.
+  - Shift Gear
+  - Seed Bomb
+  - Iron Head
+  - Knock Off
+- After finishing the second HP bar, type changes to Grass/Bug, Attack and Defense decrease, Special Attack, and Special Defense increase, and on our side, we get a boost on Special Attack, Special Defense, and Speed. The moves change.
+  - Quiver Dance
+  - Seed Bomb
+  - Pollen Puff
+  - Knock Off
+- It can call Rift Tangela and Tangrowth as supports.
+  - Rift Tangela, Level 35. Grass/Ghost.
+    - Follow Me
+    - Swagger
+    - Pollen Puff
+    - Petal Dance
+  - Rift Tangrowth, Level 35. Grass/Ghost.
+    - Follow Me
+    - Quash
+    - Pollen Puff
+    - Rock Tomb
+
+**Corrupted Carnivine (Grassy Field). Classic Mode.**
+- Rift Carnivine, Level 45. Grass/Dragon. 3 HP Bars. @ Yache Berry
+  - Dragon Dance
+  - Power Whip
+  - Dragon Pulse
+  - Flamethrower
+- After finishing the first HP bar, its type changes to Grass/Steel, Attack and Defense increase, and Special Attack, Special Defense, and Speed decrease on both sides. Carnivine gets Occa Berry as item and moves change.
+  - Shift Gear
+  - Power Whip
+  - Iron Head
+  - Fire Lash
+- After finishing the second HP bar, type changes to Grass/Bug, Attack and Defense decrease, and Special Attack, Special Defense, and Speed increase on both sides. Carnivine gets Bug Gem as an item and the moves change.
+  - Quiver Dance
+  - Leaf Storm
+  - Pollen Puff
+  - Fiery Dance
+- It can call Rift Tangela and Tangrowth as supports.
+  - Rift Tangela, Level 40. Grass/Ghost. @ Leftovers
+    - Follow Me
+    - Swagger
+    - Pollen Puff
+    - Petal Dance
+  - Rift Tangrowth, Level 40. Grass/Ghost. @ Leftovers
+    - Follow Me
+    - Quash
+    - Pollen Puff
+    - Rock Tomb
+
+Quite hard on Classic, but it isn’t like its type combinations lack weaknesses, so you can exploit them. 
+Ice moves in particular are useful the whole fight, the thing is that it has fire moves, so better to use a mon with ice moves like Ice Fang rather than an ice type.
+
+It hits everyone hard even on non-effective, so you will get some members of your team defeated before finishing it. 
+Flare Blitz is great here due to the field bonus and doubly super effective after the first HP Bar.
+
+The Follow Me of the supports can get very annoying, so moves that hit both opponents are useful too, but ultimately, unless your team is full of weakness to grass or are under the level cap, you should win without excessive trouble.
+
+There will be some scenes, in which Flora will end up stealing the root, and the Quest will finish. 
+You can now find Talon, Florin, and Flora on a house in Kakori Village, the one that is left to the pier with the ship to return to Oceana Pier. 
+Go visit them to their house now.
+
+There will be a small scene once you enter. After it, pick the ***Sharp Beak*** on the right side.
+
+## To Jynnobi Pass
 
 
 
@@ -10581,71 +10750,12 @@ quest progress like with the other souvenir.
 This time the girl accepts the souvenir, and the Quest is completed. You
 get a Zygarde Cell and a Fighting Memory.
 
-### Tantalizing Temple
-
-Try to enter the Tyluric temple to start the quest.
-
-**Friendship Point Choice:**
--   Why are you so interested (Talon +2)
--   What is in for you? (Talon +1)
--   No thanks. (Talon -1, Flora +2)
-
-Continua advancing, once you are in big outside area, surf the water
-downwards to proceed. Crossing an area at the north with tornadoes,
-leads to a zone with some static Grookey and Slakoth.
-
-**Friendship Point Choice:**
--   I'm not afraid (Talon +3, Florin+1, Flora+1)
--   Hell no. (Talon -2, Florin+1, Flora+2)
-
-Go down and then right. On the new map go up until the mural.
-
-A tornado activated in the room, touch them until a big tornado appears
-in the top, walk into it.
-
-On the next room, you need to move the panels so that the ball emitted
-when being on the panel reached its target.
-
-You need to move them all once except for the one on the top left, which
-has to remain without moving. Interact with the new mural.
-
-**Friendship Point Choice:**
--   How petty... (Talon +2, Florin+1)
--   I would do the same. (Talon +1, Florin+2)
--   This is boring me to tears (Talon -2, Florin -1)
-
-Go though the newly opened door and read the new mural. Now go back
-outside since a new tornado appeared there.
-
-Once outside go north crossing the water again and ride the tornado to
-teach another part of the map. Go left until finding a door. Enter.
-Accept to proceed further to enter a new cutscene.
-
-**Rift Carnivine. 3 Hp Bars. Grass/Dragon.**
--   Carnivine. Level 40.
-    -   Dragon Dance
-    -   Seed Bomb
-    -   Dragon Pulse
-    -   Flame Bursh
--   I can call Rift Tangela and Tangrowth as supports.
--   After finishing the first HP bar, type changes to Grass/Steel, and
-    the moves are:
-    -   Shift Gear
-    -   Seed Bomb
-    -   Iron head
-    -   Knock Off
--   After finishing the second Hp bar, type changes to Grass/Bug, and
-    the moves are:
-    -   Quiver Dance
-    -   Seed Bomb
-    -   Pollen Puff
-    -   Knock Off
-
-The quest will be completed after you defeat Rift Carnivine.
+### Tyluric Temple (Magma Drift)
+You can get some overworld **Grookey** now, if you go past the tornadoes.
 
 Return to this temple once you got able to use Magma Drift outside
 battles and surf all the way to the left of the first magma zone you
-fine, south of where you had tea with Talon's group. You will need to
+find, south of where you had tea with Talon's group. You will need to
 have in your time Pokémon of the following types. Ground Flying, Gligar
 and Gliscor work. Electric Flying, Emolga and Zapdos work. Pure Flying,
 only Rookidee and Corvisquire work.
