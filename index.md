@@ -8082,17 +8082,17 @@ After a scene, you can move, and as told, there are wild mons here.
 
 **Tyluric Temple (Lower) Encounters (Grassy Terrain)**
 
-|Grass        |% |
-|-------------|--|
-|Voltorb      |35|
-|Woobat       |15|
-|Tangela      |15|
-|**Vigoroth** |10|
-|Spinarak     |10|
-|Ariados      |10|
-|**Swoobat**  |5 |
+|Grass        |% |Any Rod           |%  |
+|-------------|--|------------------|---|
+|Voltorb      |35|Basculin Red/Blue |100|
+|Woobat       |15|                  |   |
+|Tangela      |15|                  |   |
+|**Vigoroth** |10|                  |   |
+|Spinarak     |10|                  |   |
+|Ariados      |10|                  |   |
+|**Swoobat**  |5 |                  |   |
 
-Vigoroth line is new for us.
+**Vigoroth** line is new for us.
 
 <u>Note: Some wild mons here may be over the level cap. Remember that they won’t listen to you unless you lower your level with Reverse Candy or win the next badge.</u>
 
@@ -8187,6 +8187,9 @@ With this, the chapter will end.
 
 # Chapter 6: Nimpossible Predicament
 
+The chapter starts with a cutscene of Team Xen as it has already become habitual.
+
+Next scene, we are in Terajuma Jungle and our objective is the Terajuma Beach, so go there.
 
 
 
