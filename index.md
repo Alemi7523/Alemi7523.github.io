@@ -107,6 +107,10 @@
   - [Terajuma Shore](#terajuma-shore)
   - [Terajuma Jungle](#terajuma-jungle)
   - [Kakori Village](#kakori-village)
+    - [Quest 31: Xen Ship Tour](#quest-31-xen-ship-tour)
+    - [Quest 32: The Kakori Monster](#quest-32-the-kakori-monster)
+  - [Detour Before Dewdrop Badge](#detour-before-dewdrop-badge)
+    - [Quest 33: Building Bridges](#quest-33-building-bridges)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -7686,7 +7690,8 @@ After the scene we have to go to Kakori Village just north, but we can explore T
 |               |  |              |  |Kricketune   |5 |        |   |
 |               |  |              |  |Noctowl      |2 |        |   |
 
-Quite a lot of variety. Notice that **Exeggcute** will evolve to normal or Alolan Form depending on location and Terajuma is Alolan Form, you can find all the maps that trigger Alolan Form for this evolution on the Appendices.
+Quite a lot of variety. Notice that **Exeggcute** will evolve to normal or Alolan Form depending on location and Terajuma is Alolan Form, you can find all the maps that trigger Alolan Form for this evolution on the Appendices. 
+The Ship is a place where it won't.
 
 Notice that the time of the day is locked in for story reasons right now.
 
@@ -7730,7 +7735,7 @@ Here there is a bit of text variation from Braixen if it is raining on the neutr
 
 **Salandit** only evolves if female, and females are rare, but we will be able to get one evolved soon in a Quest, so don’t stress yourself looking for one.
 
-Once you can move, go left, and on a n empty space between yellow flowers and grass, there is a hidden ***X Attack***.
+Once you can move, go left, and on an empty space between yellow flowers and grass, there is a hidden ***X Attack***.
 
 Now go east to the right side of the platform Valarie is. 
 On a small rock in the right side, there is a hidden **Green Shard**.
@@ -7745,6 +7750,232 @@ Go south from here, and between the lower gras and a small tree there is a hidde
 
 <img src="assets/media/image42.png"/>
 
+We already got 35 Zygarde Cells, but we can’t go to claim the reward due to being unable to return to Floria Island, or so it may seem, but there is a ship here that can take you to Oceana Pier for $3000. 
+With this it is possible to access the content there once again, but it isn’t worth yet. 
+It will be free after the sixth badge, but we only have four as of now. 
+If you got nothing urgent to do there, better to save the money, and the reward for 35 Zygarde Cells isn’t urgent to get.
+
+<u>Note: If you are wondering why isn’t everyone using that ship to go back and how it can go back despite sailing being forbidden on whole Terajuma, which we were told and will be mentioned several times from now on too. 
+This is just a means to let you as a player access early content like the Day Care or the EV Training rooms, otherwise you wouldn’t be able to return there until way later. 
+Just like how it makes no sense for the Truck Guy to drive to Akuwa Town.</u>
+
+On the north side of the village there is the gym, which doubles as Ranger HQ and it is the place to heal and to buy in the shop.
+
+**Ranger HQ Shop**
+
+|Item            |Price |
+|----------------|------|
+|*Poké Ball*     |$200  |
+|*Great Ball*    |$600  |
+|*Nest Ball*     |$1000 |
+|*Net Ball*      |$1000 |
+|*Escape Rope*   |$550  |
+|*Spice Powder*  |$850  |
+|*GourmetTreat*  |$1500 |
+|*Super Repel*   |$500  |
+|*Reverse Candy* |$50   |
+
+Buy some ***Spice Powder*** as we will need it to move mons blocking the way later.
+
+There is a guy here who changes an Up-Grade for ***Scope Lens***. 
+We only got a single Up-Grade until now, but we will get more later, so feel free to make the change.
+
+Go right of the Ranger HQ, and in front of the leftmost window, there is a hidden ***Swift Wing***.
+
+Now go west, and on the big rock close to the entrance of the Cable Car place, there is a hidden ***Super Repel*** on the left side of it.
+
+### Quest 31: Xen Ship Tour
+
+Enter the house that is under yours and talk to the girl to begin this quest after recommending her the Xen Battleship. 
+Follow her to the ship and talk to her.
+
+Now speak with her at the helipad, which is the left side of the dock. Next, the barracks, just enter though the central door to find her. 
+Now, go to the highest point, where we found that MT and speak with her again.
+
+Return to her house and speak with her to receive a ***Destiny Knot***.
+
+### Quest 32: The Kakori Monster
+
+This one can only be accepted and done while it is night, and now it is forced night, so good moment. 
+After you go sleep, it will be forced day, so we won’t be able to do it.
+
+Enter the top left house and speak with the girl with the exclamation mark and go outside. 
+During the night you will find a **Salazzle** in the village. 
+Catch it and return to the girl to complete the quest. 
+You will get a ***Fire Stone***, and 10 ***Dusk Balls***.
+
+Head north from Kakori to visit the Mynori Sea. 
+It will be a quick visit.
+
+**Mynori Sea Encounters (Beach Field)**
+
+|Grass       |%  |Old Rod  |% |
+|------------|---|---------|--|
+|Crabrawler  |25 |Carvanha |80|
+|**Taillow** |25 |Remoraid |20|
+|**Binacle** |15 |         |  |    
+|Cloboppus   |12 |         |  |    
+|**Swellow** |12 |         |  |    
+
+Go east to find ***Berry Juice***. Now go west, and up, hidden almost all by a tree, there is a ***Red Shard***.
+
+On the eastern side there is also Mr. Luck’s Tent, but there is nothing new right now.
+
+Go north on the center and interact with the overworld **Tentacool** in the sea to get a chance to catch it. 
+It will respawn on map change.
+
+You can return now to Kakori Village.
+
+Good time now to go to your house here, remember the one with the Noctowl Statue. 
+It is possible to do more exploration on other areas, but we are leaving that for when we aren’t time locked. Talk with Melia to begin the scene.
+
+Now go to the Ranger HQ and enter though the  right entrance with a Dartrix image to have your dinner with Crawly and Melia. 
+This event is quite different if you beaten Rift Gyarados. 
+You aren't called specifically otherwise although you end up going anyway, and the conversation in the Izakaya doesn’t happen.
+
+If you have beaten Rift Gyarados you will have two opportunities to get Friendship Points.
+
+**Friendship Point Choice:**
+- Don't know him. (Neutral)
+- Agent C…? (Crawli +2)
+
+**Friendship Point Choice:**
+- Cheers! (Crawli +3, Melia +3)
+- I’m not doing that. (Melia -3, Crawli -3)
+
+Luckly in the scene Saki appears, so no need to look for her. 
+Now return to the house and the day will end after a scene.
+
+Try to leave the room for another scene.
+
+**Friendship Point Choice:**
+- Are you really okay? (Gives another choice)
+- You seem worse. (Neutral)
+- Move, please (Nim -2)
+
+**Friendship Point Choice:**
+- I do. (Nim +1)
+- Not really. (Neutral)
+
+Leave the house for another scene. Valarie wants to fight you in a gym battle at Mynori Sea which is north of Kakori Village.
+
+## Detour Before Dewdrop Badge
+
+There are still things we can do before the badge, so let’s do them. 
+Now you are in forced Day, so you can get mons that you couldn't while forced night before.
+
+Go south to Terajuma Jungle and on the southern part go west and then south to enter Terajuma Beach. 
+This place is empty at nights. 
+Right here we can get some mons and find a Zygarde Cell on the east side.
+
+**ZCell 036: Terajuma Beach (Daytime)**
+
+<img src="assets/media/image43.png"/>
+
+**Terajuma Beach Encounters (Beach Field)**
+
+|Grass         |%  |Old Rod  |% |
+|--------------|---|---------|--|
+|Krabby        |25 |Carvanha |60|
+|Dustox        |25 |Krabby   |20|
+|**Beautifly** |25 |Wailmer  |20|
+|Exeggcute     |10 |         |  |   
+|**Pyukumuku** |10 |         |  |   
+|**Sandygast** |5  |         |  | 
+
+Time to go to Deep Terajuma Jungle which is the north exit just north of the one leading to Terajuma Beach.
+
+The southern part has the same encounters as Terajuma Jungle, but there are some overworld encounters like Wurmple, **Vileplume**, Hoppip, **Lotad**, and Mankey. 
+Notice that Hoppip is only on mornings and Lotad only when raining. 
+You can enter and leave the map until it rains.
+
+Notice that there are berries you can pick from their trees, and plant berries to get new trees if you wish so.
+
+Go north and up two sets of stairs on the northernmost tile possible, there is a hidden **Star Piece**.
+
+Return south and cross the bridge to the west area. Enter the house since it will trigger a quest.
+
+### Quest 33: Building Bridges
+
+We need this quest done to do another one, so let’s complete it now despite being one that can be gotten alter at the Help Center. 
+The choice here doesn’t matter.
+
+He mentions that the Gurdurr we need to find is north on a cliff. 
+We will go there while picking items.
+
+Under the tile of grass three steps left of the house, there is a hidden **Chestnut**.
+
+Go north the house and inspect the northernmost tree to find a hidden ***Bug Gem***.
+
+<u>Note: If you continue you will find trainers, and they are quite strong close to your level cap or on it if you are playing on Classic Mode. 
+They are perfectly beatable, but you may prefer to do the exploration after our next badge.</u>
+
+Speak with the flower blocking the way an overworld Vileplume, we can wake it up and fight it with the Spicy Powder we bought, but for guide purposes, I am going to take it as if we didn’t buy the item or just don't want to use it now.
+
+Go south, and after a group of tall grass, be a tile away from the rightmost tree and interact for a hidden ***Dusk Ball***.
+
+After a couple of groups of tall grass, you will see an empty tile between green flowers, normal grass, and tall grass, there is a hidden ***Chestnut*** there.
+
+Go north to find a Bug Boy that doesn't fight, on the southernmost normal grass you can find, there is a hidden ***Chestnut***.
+
+Continue north, and see the green space surrounded by ground, on the diagonal down-left, from it there is a hidden ***Chestnut***.
+
+Go down, where the overworld Mankey is running. 
+Three tiles left of a rock there, there is a hidden ***Chestnut***. 
+Continue down to find the ***Quick Powder*** located in the area blocked by the Vileplume.
+
+Return north and focus on the eastern path. 
+Diagonal-left, rom the almost patch of grass, there is a hidden ***Chestnut***. Go east to find a ***Full Heal***.
+
+East of here it is the cliff in question, climb it, and talk to Gurdurr. 
+Ask Gurdurr a couple of questions and you will begin therapy. The choice here are irrelevant.
+
+Gurdurr will evolve into Conkeldurr, and we will have to approach it to fight once you are ready. 
+This may be a bit hard before defeating Valarie, but by no means impossible.
+
+**Strained Worked (Forest Field). Story Mode.**
+- Conkeldurr, Level 45. 3 HP Bars.
+  - Chip Away
+  - Ice Punch
+  - Fire Punch
+  - Thunderpunch
+- After 1 HP bar, field changes to City and Conkeldurr’s attack is boosted.
+- After 2 HP bars, field changes to Forest and Conkeldurr’s attack is lowered.
+- SOS mon
+  - Timburr, Level 30.
+    - Coaching
+    - Helping Hand
+    - Rock Throw
+    - Hammer Arm
+
+**Strained Worked (Forest Field). Classic Mode.**
+- Conkeldurr, Level 50. 3 HP Bars.
+  - Frustration
+  - Ice Punch
+  - Fire Punch
+  - Thunderpunch
+- After 1 HP bar, field changes to City and Conkeldurr’s attack is boosted.
+- After 2 HP bars, field changes to Forest and Conkeldurr’s attack is lowered.
+- SOS mon
+  - Timburr, Level 40.
+    - Coaching
+    - Helping Hand
+    - Rock Slide
+    - Hammer Arm
+
+Hard fight at our level cap, but nothing super effective moves and a full team can’t solve. 
+You may end with several knocked out, but you should be able to win even on Classic Mode without having to make a special strategy. 
+On Story Mode it is far easier.
+
+Fairy or Psychic types work well here in general as it doesn’t have anything specific against them, while there is Thunderpunch for flying ones. 
+
+After winning, you get introduced to Team Anti-Assist, who hates you helping others.
+
+With this the quest is completed and a bridge to the Tyluric Temple is repaired, which will let us begin another quest later.
+
+For now, let’s go to the northern part of the map and use the exit to reach the northern part of Deep Terajuma Jungle.
+
+Check the wall just up the yellow flowers you can see from the entrance to find a hidden ***Dusk Ball***.
 
 
 
