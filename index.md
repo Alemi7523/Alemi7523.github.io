@@ -3549,8 +3549,8 @@ him (double battle).
     -   Aerial Ace
     -   Bullet Punch
 
-Gale Strike: Fighting \| Physical \| 60 power \| 100% accuracy \|
-Guaranteed critical hit if user is under 50% HP \| On Forest Field,
+Gale Strike: Fighting | Physical | 60 power | 100% accuracy |
+Guaranteed critical hit if user is under 50% HP | On Forest Field,
 power is boosted x1.5 and deals additional Grass-type damage.
 
 Again, quite a bit of difference between modes, but the battle isn't
@@ -4429,8 +4429,8 @@ anymore.]</u>
     -   Aerial Ace
     -   Brutal Swing
 
-Multipulse: Type is the same as the user\'s held Plate (like Judgment)
-\| Special \| 65 power \| 100% accuracy \| On Blessed Field, power is
+Multipulse: Type is the same as the user's held Plate (like Judgment)
+| Special | 65 power | 100% accuracy | On Blessed Field, power is
 boosted x1.3.
 
 Try to use the field to your advantage with special Psychic moves,
@@ -6122,9 +6122,9 @@ Go to your spot in the battlefield to begin the battle.
     -   Spectral Scream
     -   Pain Split
 
-Spectral Scream: Ghost \| Special \| 65 power \| 100% accuracy \| 60%
-chance to raise user\'s Defense by 1 stage \| On Haunted Field, power is
-boosted x1.5 \| Turns Blessed Field into Haunted Field.
+Spectral Scream: Ghost | Special | 65 power | 100% accuracy | 60%
+chance to raise user\'s Defense by 1 stage | On Haunted Field, power is
+boosted x1.5 | Turns Blessed Field into Haunted Field.
 
 Being honest, the Moxie Mightyena and Zoroark I recommended earlier are
 more than enough to clear this gym without issues. Narcissa's team is
@@ -8330,7 +8330,7 @@ Venam and Amber.
         -   Giga Drain
         -   Flame Thrower
         -   Dark Pulse
-
+Venam's Kiss: Poison | Physical | 75 power | 100% accuracy | 10% chance to poison, super-effective against Steel-types.
 Not a difficult fight. Having earth moves is recommended once you have
 broken the Air Ballons.
 
