@@ -8675,6 +8675,7 @@ Go to Mynori Sea and enter Mr. Luck’s tent on the left side.
 There is a new Marshadow working as a Move Tutor on the left side, it has red eyes.
 
 **Marvin (Move Tutor)**
+
 |Super Fang   |3 Red Shards    |
 |Trick        |3 Blue Shards   |
 |Dual Chop    |3 Green Shards  |
@@ -8690,6 +8691,7 @@ Remember that learning the move once allows us to teach it any time from out Cyb
 Now, time to use surf to cross the sea.
 
 **Mynori Sea Encounters (Water Surface)**
+
 |**Water**   |**%** |
 |------------|------|
 |Mantyke     |50    |
@@ -8706,6 +8708,7 @@ Now go surfing to the west die and leave the cavern to find **TM144 Cross Poison
 No new encounters here and very few we can explore, but on a small island on the north there is ***TM130 Sand Tomb*** and a hidden ***Star Piece*** on the tree at the right.
 
 **Mynori Sea Encounters (Water Surface)**
+
 |**Water** |**%** |
 |----------|------|
 |Mantyke   |75    |
@@ -8714,6 +8717,7 @@ No new encounters here and very few we can explore, but on a small island on the
 |Carvanha  |3     |
 
 **Mynori Sea Encounters (Beach Field)**
+
 |**Grass** |**%** |
 |----------|------|
 |Krabby    |35    |
