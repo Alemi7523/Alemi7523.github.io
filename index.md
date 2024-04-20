@@ -107,6 +107,7 @@
   - [Terajuma Shore](#terajuma-shore)
   - [Terajuma Jungle](#terajuma-jungle)
   - [Kakori Village](#kakori-village)
+    - [Quest 12: Virtual League (Fifth & Sixth Gyms)](#quest-12-virtual-league-fifth-sixth-gyms)
     - [Quest 31: Xen Ship Tour](#quest-31-xen-ship-tour)
     - [Quest 32: The Kakori Monster](#quest-32-the-kakori-monster)
   - [Detour Before Dewdrop Badge](#detour-before-dewdrop-badge)
@@ -4706,7 +4707,7 @@ side, but most likely you don't need her. Speak with the man in the
 right to attempt the third gym of the Virtual League.
 
 Your team depending on what you chose as starter:
--   Bayleef 22.Gastly 21. Flaaffy 21.
+-   Bayleef 22. Gastly 21. Flaaffy 21.
 -   Quilava 22. Qwilfish 21. Onix 21.
 -   Croconaw 22. Growlithe 21. Phanpy 21.
 
@@ -4756,7 +4757,7 @@ This time we can speak with the guy again to get the next badge, no need
 to get another badge ourselves.
 
 Your team depending on what you chose as starter:
--   Bayleef 25.Haunter 25. Flaaffy 25. Eevee 25.
+-   Bayleef 25. Haunter 25. Flaaffy 25. Eevee 25.
 -   Quilava 25. Qwilfish 25. Onix 25. Eevee 25.
 -   Croconaw 25. Growlithe 25. Donphan 25. Eevee 25.
 
@@ -7788,12 +7789,144 @@ Buy some ***Spice Powder*** as we will need it to move mons blocking the way lat
 There is a guy here who changes an Up-Grade for ***Scope Lens***. 
 We only got a single Up-Grade until now, but we will get more later, so feel free to make the change.
 
-Go through the western for and then though the first one in the north, you can pick 3 ***Max Repels*** here. 
+Go through the western exit and then through the southern door there is an ***Up-Grade***. 
+We got it back quite quickly. 
 
-On the southern door there is an ***Up-Grade***. 
-We get it back quite quickly. 
-Go back outside the Ranger HQ.
+Now, go though the door just at the north, you can pick 3 ***Max Repels*** here. 
 
+### Quest 12: Virtual League (Fifth & Sixth Gyms)
+
+The girl here will let us continue the Virtual League if we have beaten the previous fur battles.
+
+Your team depending on what you chose as starter:
+- Bayleef 31. Haunter 30. Ampharos 30. Espeon 30.
+- Quilava 31. Qwilfish 30. Steelix 30. Jolteon 30.
+- Croconaw 31. Arcanine 30. Donphan 30. Umbreon 30.
+
+**Gym Leader Chuck (Glitch Field). Story Mode.**
+- Primeape, Level 27. 
+  - Revenge
+  - Focus Energy
+  - Rock Tomb
+  - Meditate
+- Hitmontop, Level 27.
+  - Power-Up-Punch
+  - Foresight
+  - Mach Punch
+  - Triple Kick
+- Heracross, Level 28. @ Occa Berry. 
+  - Pin Missile
+  - Brick Break
+  - Aerial Ace
+  - Toxic
+- Poliwrath, Level 29. @ Wide Lens. 
+  - Ice Punch
+  - Brick Break
+  - Bubble Beam
+  - Sweet Kiss
+
+**Gym Leader Chuck (Glitch Field). Classic Mode.**
+- Primeape, Level 29. @ Rock Gem. 
+  - Revenge
+  - Focus Energy
+  - Rock Tomb
+  - Meditate
+- Hitmontop, Level 29. @ Leftovers. 
+  - Power-Up-Punch
+  - Rock Tomb
+  - Mach Punch
+  - Triple Kick
+- Heracross, Level 30. @ Occa Berry. 
+  - Pin Missile
+  - Brick Break
+  - Rock Tomb
+  - Toxic
+- Poliwrath, Level 31. @ Wide Lens. 
+  - Ice Punch
+  - Focus Blast
+  - Bubble Beam
+  - Sweet Kiss
+
+I never did the Chikorita route, so hard to give precise recommendation, but with Espeon, this fight looks easy except for Heracross while for the other two Heracross looks the easiest one, but you have Fire Punch on Haunter. 
+
+For Cyndaquil Route, trying to set Toxic Spikes as early as possible is a good idea and Jolteon should be able to deal with Poliwrath, Quilava also has Thunderpunch. Also change Quilava on first turn since Primeape with Rock Tomb makes lots of damage to it. Personally, I changed to Qwilfish to set double Toxic Spikes and Venoshock Primeape until defeating it, Qwilfish gets seriously damaged, but she fulfilled her part and the poison will help a lot on everyone else.
+
+Never tried Totodile route, but Donphan has Bounce and Croconaw was Hidden Power Psychic, which should help a lot here.
+
+Talk to her again to the next fight for a Virtual Badge, Jasmine.
+
+Your team depending on what you chose as starter:
+- Meganium 40. Gengar 39. Ampharos 39. Espeon 39. Poliwhirl 39.
+- Typhlosion 40. Qwilfish 39. Steelix 39. Jolteon 39. Miltank 39.
+- Feraligatr 40. Arcanine 39. Donphan 39. Umbreon 39. Porygon2 39.
+
+**Gym Leader Jasmine (Glitch Field). Story Mode.**
+- Magneton, Level 35. 
+  - Thunderbolt
+  - Thunder Wave
+  - Explosion
+  - Magnet Bomb
+- Skarmory, Level 35.
+  - Steel Wing
+  - Spikes
+  - Roost
+  - Aerial Ace
+- Magneton, Level 36. @ Maranga Berry. 
+  - Hidden Power Fire
+  - Thunderbolt
+  - Thunder Wave
+  - Metal Sound
+- Scizor, Level 36.
+  - Bug Bite
+  - Iron Head
+  - Brick Break
+  - Metal Claw
+- Steelix, Level 38. @ Sitrus Berry. 
+  - Dig
+  - Iron Tail
+  - Curse
+  - Rock Tomb
+
+**Gym Leader Jasmine (Glitch Field). Classic Mode.**
+- Magneton, Level 36. 
+  - Thunderbolt
+  - Thunder Wave
+  - Explosion
+  - Flash Cannon
+- Skarmory, Level 37. @Red Card
+  - Steel Wing
+  - Spikes
+  - Roost
+  - Aerial Ace
+- Magneton, Level 38. @ Maranga Berry. 
+  - Hidden Power Fire
+  - Thunderbolt
+  - Thunder Wave
+  - Metal Sound
+- Scizor, Level 39. @ Occa Berry. 
+  - Bug Bite
+  - Iron Head
+  - Brick Break
+  - Bullet Punch
+- Steelix, Level 40. @ Sitrus Berry. 
+  - Earthquake
+  - Iron Tail
+  - Curse
+  - Rock Tomb
+
+We have final evolutions for the starters and a fifth member. On Chikorita route, there is also Gengar. 
+
+For Cyndaquil route, Toxic Spikes are useless here, be aware. 
+
+The first Magneton will try to paralyze you on first turn and explode on the next after resisting with Sturdy, so switch to Steelix to negate paralysis and reduce damage from explosion, or Ampharos, and Donphan in the other routes. You can try to predict an explosion and use Gengar to nullify it on Chikorita route too. 
+
+If you have Steelix, using Curse six times to get boosted while the first Magneton can barely scratch you, and you recover that with leftovers, is a good idea. 
+You can easily get +6 Attack and Defense and put Stealth Rock to break Sturdy on the next mons who have it. 
+This way, Steelix can easily defeat everyone else. 
+Skarmory will fall of a single Gyro Ball without having Sturdy due to the rocks, which prevents it from using Red Card to force you to switch out Steelix. 
+The other Magneton will do some heavy damage with Hidden Power Fire, but it can’t kill you in one hit and the rest hit the physical defense, so they aren’t a danger.
+
+We can’t progress this quest more for now, so go back outside the Ranger HQ.
 
 Go right of the Ranger HQ, and in front of the leftmost window, there is a hidden ***Swift Wing***.
 
@@ -7904,6 +8037,8 @@ Right now, we can get some mons and find a Zygarde Cell on the east side.
 |Exeggcute     |10    |            |      |   
 |**Pyukumuku** |10    |            |      |   
 |**Sandygast** |5     |            |      | 
+
+Be sure to catch a **Pyukumuku**, we will need to have caught it for the PictoZumi Quest.
 
 Time to go to Deep Terajuma Jungle which is the north exit just north of the one leading to Terajuma Beach.
 
@@ -8536,6 +8671,59 @@ There will be a small scene once you enter. After it, pick the ***Sharp Beak*** 
 
 ## To Jynnobi Pass
 
+Go to Mynori Sea and enter Mr. Luck’s tent on the left side. 
+There is a new Marshadow working as a Move Tutor on the left side, it has red eyes.
+
+**Marvin (Move Tutor)**
+|Super Fang   |3 Red Shards    |
+|Trick        |3 Blue Shards   |
+|Dual Chop    |3 Green Shards  |
+|Helping Hand |3 Yellow Shards |
+|Giga Drain   |3 Yellow Shards |
+|Synthesis    |3 Green Shards  |
+|Magnet Rise  |3 Blue Shards   |
+|Uproar       |3 Red Shards    |
+|Telekinesis  |2 Green Shards  |
+
+Remember that learning the move once allows us to teach it any time from out CyberNav.
+
+Now, time to use surf to cross the sea.
+
+**Mynori Sea Encounters (Water Surface)**
+|**Water**   |**%** |
+|------------|------|
+|Mantyke     |50    |
+|Carvanha    |40    |
+|**Mantine** |10    |
+
+There are also overworld Corsola on the sand on the northeastern area and Galarian Corsola on the sea. There are also overworld Tentacool like the one we could pick without surf.
+
+On the northern area, west of the Corsola, there is the place we fought with Valarie, go up to the cave in the beach area here. 
+This is the Jirukala Cavern, which we can’t fully explore yet. There aren’t any encounters in the water, but there is a hidden item. Go north, and on the right side of the waterfall, interact with the rock for a hidden ***Rock Gem***.
+
+Now go surfing to the west die and leave the cavern to find **TM144 Cross Poison**. Return though the cavern and surf to the west to make a small detour to Route 5.
+
+No new encounters here and very few we can explore, but on a small island on the north there is ***TM130 Sand Tomb*** and a hidden ***Star Piece*** on the tree at the right.
+
+**Mynori Sea Encounters (Water Surface)**
+|**Water** |**%** |
+|----------|------|
+|Mantyke   |75    |
+|Krabby    |15    |
+|Wailmer   |7     |
+|Carvanha  |3     |
+
+**Mynori Sea Encounters (Beach Field)**
+|**Grass** |**%** |
+|----------|------|
+|Krabby    |35    |
+|Dustox    |22    |
+|Beautifly |20    |
+|Exeggcute |10    |
+|Pyukumuku |7     |
+|Cramorant |6     |
+
+Now, return to Mynori Sea and go east until reaching Jynnobi Pass.
 
 
 
