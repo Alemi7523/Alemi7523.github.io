@@ -8783,7 +8783,9 @@ This deserves another detour, and this time, we will even go back to Floria Isla
 |--------------|-------|
 | **Tynamo**   | 100   |
 
-Go upstairs right of the Pokémon Center and climb up the stairs to see the scene that progresses the story. Choice doesn't matter.
+Go upstairs right of the Pokémon Center and climb up the stairs to see the scene that progresses the story. Choice doesn't matter. 
+You will be back at your house on Kakori Village.
+Story will progress if you speak to Melia, but let’s do the detour first.
 
 ## Terajuma Good Rod Detour
 
