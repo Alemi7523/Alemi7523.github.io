@@ -120,7 +120,8 @@
   - [Surf Detour](#surf-detour)
     - [Quest 34: Tantalizing Temple (Continuation)](#quest-34-tantalizing-temple-continuation)
   - [To Jynnobi Pass](#to-jynnobi-pass)
-
+  - [Jynnobi Pass](#jynnobi-pass)
+  - [Terajuma Good Rod Detour](#terajuma-good-rod-detour)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -173,7 +174,7 @@
 - [New Quests](#new-quests)
   - [Spiteful Ex](#spiteful-ex)
   - [A Souvenir for Mom](#a-souvenir-for-mom)
-  - [Tantalizing Temple](#tantalizing-temple)
+  - [Tyluric Temple (Magma Drift)](#tyluric-temple-magma-drift)
 
 
 # About this guide
@@ -8729,9 +8730,122 @@ No new encounters here and very few we can explore, but on a small island on the
 
 Now, return to Mynori Sea and go east until reaching Jynnobi Pass.
 
+## Jynnobi Pass
 
+**Jynnobi Pass Encounters (Water Surface)**
 
+|**Water** |**%** |
+|----------|------|
+|Mantyke   |75    |
+|Carvanha  |22    |
+|Mantine   |3     |
 
+**Jynnobi Pass Encounters (Beach Field)**
+
+|**Grass**  |**%** |
+|-----------|------|
+|Binacle    |37    |
+|Mudbray    |25    |
+|Cramorant  |19    |
+|Corphish   |10    |
+|Barbaracle |7     |
+|Crawdaunt  |2     |
+
+There are also a couple of overworld Corphish on the shore.
+
+You will see a Noctowl Statue on the right of the Pokémon Center, activate it.
+
+Go through the left stairs and enter the house there, if you have a Bike Voucher, you will get a ***Bicycle***.
+
+<u>Note: There is a quest we can accept here, but since we can’t complete it until a while later, we are starting it later, after a bunch of other quests.</u>
+
+Go east and south when you can to find a Zygarde Cell.
+
+**ZCell 039: Jynnobi Pass**
+
+<img src="assets/media/image46.png"/>
+
+Go north to find ***TM145 Hex*** behind a tree you can cut. 
+Continue to the right to find another Zygarde Cell.
+
+**ZCell 040: Jynnobi Pass**
+
+<img src="assets/media/image47.png"/>
+
+Go right and climb up the stairs to see the scene that progresses the story.
+
+Now, enter the Pokémon Center and talk with the fished for a ***Good Rod***. 
+This deserves another detour, and this time, we will even go back to Floria Island since we were waiting for this to do it all together. 
+
+Remember that field will be Water Surface if you fish while surfing on in shallow water, the field indicated is the one for fishing in land.
+
+## Terajuma Good Rod Detour
+
+**Jynnobi Pass Encounters (Beach Field)**
+
+| **Good Rod** | **%** |
+|--------------|-------|
+| **Tynamo**   | 100   |
+
+**Mynori Sea Encounters (Beach Field)**
+
+| **Good Rod**  | **%** |
+|---------------|-------|
+| Tynamo        | 30    |
+| Carvanha      | 30    |
+| Remoraid      | 20    |
+| **Octillery** | 10    |
+| **Eelektrik** | 10    |
+
+**Route 5 Encounters (Beach Field)**
+
+| **Good Rod**   | **%** |
+|----------------|-------|
+| Tynamo         | 40    |
+| Carvanha       | 40    |
+| Wailmer        | 10    |
+| **Wishiwashi** | 10    |
+
+**Kakori Village Encounters (Forest Field)**
+
+| **Good Rod**      | **%** |
+|-------------------|-------|
+| Carvanha          | 40    |
+| Basculin Red/Blue | 40    |
+| Sharpedo          | 10    |
+
+**Terajuma Jungle Encounters (Forest Field)**
+
+| **Good Rod** | **%** |
+|--------------|-------|
+| Carvanha     | 100   |
+
+**Deep Terajuma Jungle Encounters (Forest Field)**
+
+| **Good Rod** | **%** |
+|--------------|-------|
+| Carvanha     | 60    |
+| Wishiwashi   | 40    |
+
+**Terajuma Beach/Shipyard Encounters (Beach Field)**
+
+| **Good Rod** | **%** |
+|--------------|-------|
+| Carvanha     | 60    |
+| Wailmer      | 20    |
+| Wishiwashi   | 20    |
+
+This is all since Tyluric Temple has the exact same encounters for any
+rod, not even the levels var like happens on other stances of same mons
+between two rods.
+
+## Floria Island After Surf
+
+Go to Kakori Village, talk with the man of the ship, pay $3000 and
+return to Floria Island. We will track new areas que can access with
+surf, including new items and Zygarde Cells we can get, new mons with
+surf and Good Rod, continue Quests we had pending, and new Quests that
+became available after out fifth badge.
 
 
 
