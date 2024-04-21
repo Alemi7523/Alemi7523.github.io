@@ -126,6 +126,7 @@
     - [Quest 35: Dragonite's Lost Mail](#quest-35-dragonites-lost-mail)
     - [Surfing Goldenwood and Spiritomb](#surfing-goldenwood-and-spiritomb)
     - [Quest 36: Dragonite's Lost Mail 2](#quest-36-dragonites-lost-mail-2)
+    - [River’s End](#rivers-end)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -9034,7 +9035,24 @@ Now go to Goldenleaf Town
 
 We meet Dragonite again, and we have to help again.
 
+Go south from Dragonite to see the first one under a house.
 
+For the second go to the cemetery, after crossing the bridge you will see it on a hill at the south.
+
+Third one is on the right side of the stairs leading to Narcissa’s house, in the middle section.
+
+The last one is on the small garden in the southeast, the one we had to fight a guy to access back when we came here the first time.
+
+Talk to Dragonite to finish the Ques and receive ***TM113 Brutal Swing***.
+
+Go to the Wispy Ruing though the entrance at the statue and advance to the east going through the easternmost gate, which leads to a door with a big 5 on it. 
+We can open it to enter and get a ***Cursed Candle***.
+
+Go to Forgotten Path and surf east to find ***Naughty Mint***.
+
+### River’s End
+
+Go to Route 3 and surf South to reach River’s End.
 
 
 
