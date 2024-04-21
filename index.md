@@ -8957,7 +8957,7 @@ Now go south to find a Wisp and ***TM98 Power-Up Punch***
 
 **Wisp 08: Goldenwood Cave**
 
-<img src="assets/media/image48.png"/>
+<img src="assets/media/image49.png"/>
 
 Continue right to find another Wisp and a Zygarde Cell.
 
