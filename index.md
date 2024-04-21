@@ -123,6 +123,10 @@
   - [Jynnobi Pass](#jynnobi-pass)
   - [Terajuma Good Rod Detour](#terajuma-good-rod-detour)
   - [Floria Island After Surf](#floria-island-after-surf)
+    - [Quest 35: Dragonite's Lost Mail](#quest-35-dragonites-lost-mail)
+    - [Surfing Goldenwood and Spiritomb](#surfing-goldenwood-and-spiritomb)
+    - [Quest 36: Dragonite's Lost Mail 2](#quest-36-dragonites-lost-mail-2)
+
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -4041,15 +4045,19 @@ After beating her you will receive the ***HM01 Cut***.
 -   \... (Neutral)
 -   I\'m kinda scared\... (Karrina -2)
 
-Note that if you got the *Golden Axe*, you can no cut trees without
+Note that if you got the Golden Axe, you can no cut trees without
 needing to teach the move, but you will need the move otherwise.
 
 ## Cut Detour
 
 Before going forward, we are going to explore a bit thanks to or new
-capability to cut trees. Go to the station and return to Route 2.
+capability to cut trees. 
 
-Go east and upstairs, you will se a tree on another set of stairs, cut
+Cut the tree on the left of Magnolia Library, on the right of the northern purple flowers in the grass, there is a hidden Synthetic Seed.
+
+Now, go to the station and return to Route 2.
+
+Go east and upstairs, you will see a tree on another set of stairs, cut
 it. Go the middle pink tree and to its left side, look down and find a
 hidden ***Blue Shard***.
 
@@ -8849,9 +8857,182 @@ Go to Kakori Village, talk with the man of the ship, pay $3000 and
 return to Floria Island. We will track new areas que can access with
 surf, including new items and Zygarde Cells we can get, new mons with
 surf and Good Rod, continue Quests we had pending, and new Quests that
-became available after out fifth badge.
+became available after our fifth badge.
 
 
+### **Quest 35: Dragonite's Lost Mail**
+
+You will see a Dragonite at Oceana Pier, talk to it to begin this quest.
+You will have to find three pieces of missing mail.
+
+Go a bit up and you will see the first one.
+
+In the upper left corner of Oceana Pier, there is the second one.
+
+For the third one, go west from Dragonite and when you see some trees at
+the left of a container go up to find it.
+
+Talk to Dragonite again to receive a ***Thunderstone***.
+
+You can buy a ***Link Heart*** for $10000 form the woman with the cart
+near the gate to Gearen City. Remember that this is the item required to
+evolve mons that usually require trade.
+
+Go to East Gearen City and to the Magnolia Library to talk to Zumi to
+advance our PictoZumi Quest, since we already got a Pyukumuku she will
+give us 6 ***Exp. Candy M**.* Next target to get is Mareep.
+
+Good moment to claim the ***Cell Imprint*** and a ***Soothe Bell*** for
+having at least 35 Zygarde Cells.
+
+The Poké Ball Boutique and the Berry Emporium have new items to sell now
+that we have 5 badges.
+
+***Poké Ball Boutique Shop New Items (5 Badges)***
+
+| **Item**     | **Price** |
+|--------------|-----------|
+| *Timer Ball* | $1000     |
+| *Dive Ball*  | $1000     |
+
+***Berry Emporium Shop New Item (5 Badges)***
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Sitrus Berry* | $750      |
+
+There are things to fish in Abandoned Sewers, but we could have gotten
+all of them already, so nothing new.
+
+**Abandoned Sewers Encounters (No Field)**
+
+| **Good Rod** | **%** |
+|--------------|-------|
+| Grimer       | 60    |
+| Qwilfish     | 20    |
+| Skrelp       | 20    |
+
+Now, go to the Chrisola Hotel and to the basement at night. Talk to the
+deep spot and drop in a Gourmet Treat. A ***Totodile*** will jump out.
+This is the second starter we can get that is not out choice. You can
+also pick a Water Stone in the middle of the pool.
+
+There are also a couple new items in the AP shop.
+
+**AP Shop New Items (5 Badges)**
+
+| **Item**         | **Price** |
+|------------------|-----------|
+| *TM56 Fling*     | 5 AP      |
+| *TM47 Low Sweep* | 5 AP      |
+
+### Surfing Goldenwood and Spiritomb
+
+Take the train to Route 1. Head into Goldenwood Forest.
+
+**Goldenwood Forest/Cave Encounters (Forest Field/Cave Field)**
+
+| **Water**   | **%** | **Good Rod** | **%** |
+|-------------|-------|--------------|-------|
+| Psyduck     | 75    | Goldeen      | 60    |
+| **Golduck** | 25    | **Seaking**  | 40    |
+
+If you go northwest and climb stairs until the highest part, you will
+find water to surf. Go to the right side for a hidden ***Rare Candy***
+on the rightmost part looking up.
+
+Surf north to reach the Den of Verity. Here you can find a Zygarde Cell
+to the north.
+
+**ZCell 041: Den of Verity**
+
+<img src="assets/media/image48.png"/>
+
+Now go to Goldenwood Cave and surf left. Go down though the ladder to
+reach a new area if the cave.
+
+Go right to find a ***Revive***.
+
+Now go south to find a Wisp and ***TM98 Power-Up Punch***
+
+**Wisp 08: Goldenwood Cave**
+
+<img src="assets/media/image48.png"/>
+
+Continue right to find another Wisp and a Zygarde Cell.
+
+**Wisp 09: Goldenwood Cave**
+
+<img src="assets/media/image50.png"/>
+
+**ZCell 042: Goldenwood Cave**
+
+<img src="assets/media/image51.png"/>
+
+Here there is also one of the kids of the Lost Soul Quest, Jorgie. Send
+him to Maman.
+
+We are done here, but if we find a single more Wisp, we will have an
+encounter with the middle rock, as long as we also have an Odd Keystone.
+It can be gotten by mining. If you are lucky, you might have gotten it
+on Blacksteeple Castle.
+
+Leave though the right exit and go to Wispy Tower.
+
+**Wispy Path Encounters (Forest Field)**
+
+| **Water**         | **%** | **Good Rod**      | **%** |
+|-------------------|-------|-------------------|-------|
+| Goldeen           | 50    | Basculin Red/Blue | 100   |
+| Seaking           | 25    |                   |       |
+| Basculin Red/Blue | 15    |                   |       |
+| **Lumineon**      | 7     |                   |       |
+
+**Wispy Tower (Outside) Encounters (Forest Field)**
+
+| **Grass**       | **%** |
+|-----------------|-------|
+| **Donphan**     | 25    |
+| **Stonjourner** | 22    |
+| Cubone          | 20    |
+| Phantump        | 10    |
+| Shuppet         | 10    |
+| **Marowak**     | 7     |
+| Banette         | 5     |
+| **Trevenant**   | 4     |
+| **Shedinja**    | 2     |
+
+Go through the right path that was previously blocked, there are
+encounters and if you go up the rightmost path, a scene with Karen, who
+will gift you ***Berry Ice Cream***.
+
+After the scene you can find ***TM118 Pin Missile***, and the last Wisp.
+
+**Wisp 10: Wispy Tower**
+<img src="assets/media/image52.png"/>
+
+Enter the ruins here, and surf left to get ***TM41 Torment***.
+
+If you have the 10 Wisps and an Odd Keystone, you can return to
+Goldenwood Cave and interact with the monument putting the Odd Keystone
+there to get an encounter with **Spiritomb**. It has to be night, and
+its level 50, so over your level cap.
+
+You can repeat this encounter as long as you get more Odd Keystones.
+
+Now go to Goldenleaf Town
+
+**Goldenleaf Town Encounters (Forest Field)**
+
+| **Water**         | **%** | **Good Rod**      | **%** |
+|-------------------|-------|-------------------|-------|
+| Goldeen           | 65    | Wooper            | 80    |
+| Finneon           | 25    | Basculin Red/Blue | 20    |
+| Basculin Red/Blue | 10    |                   |       |
+
+### Quest 36: Dragonite's Lost Mail 2
+
+We meet Dragonite again, and we have to help again.
 
 
 
