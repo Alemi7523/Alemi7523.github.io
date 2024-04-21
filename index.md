@@ -122,6 +122,7 @@
   - [To Jynnobi Pass](#to-jynnobi-pass)
   - [Jynnobi Pass](#jynnobi-pass)
   - [Terajuma Good Rod Detour](#terajuma-good-rod-detour)
+  - [Floria Island After Surf](#floria-island-after-surf)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 
@@ -8772,20 +8773,29 @@ Continue to the right to find another Zygarde Cell.
 
 <img src="assets/media/image47.png"/>
 
-Go right and climb up the stairs to see the scene that progresses the story.
-
 Now, enter the Pokémon Center and talk with the fished for a ***Good Rod***. 
 This deserves another detour, and this time, we will even go back to Floria Island since we were waiting for this to do it all together. 
 
-Remember that field will be Water Surface if you fish while surfing on in shallow water, the field indicated is the one for fishing in land.
-
-## Terajuma Good Rod Detour
 
 **Jynnobi Pass Encounters (Beach Field)**
 
 | **Good Rod** | **%** |
 |--------------|-------|
 | **Tynamo**   | 100   |
+
+Go upstairs right of the Pokémon Center and climb up the stairs to see the scene that progresses the story. Choice doesn't matter.
+
+## Terajuma Good Rod Detour
+
+Remember that field will be Water Surface if you fish while surfing on in shallow water, the field indicated is the one for fishing in land.
+
+**Kakori Village Encounters (Forest Field)**
+
+| **Good Rod**      | **%** |
+|-------------------|-------|
+| Carvanha          | 40    |
+| Basculin Red/Blue | 40    |
+| Sharpedo          | 10    |
 
 **Mynori Sea Encounters (Beach Field)**
 
@@ -8805,14 +8815,6 @@ Remember that field will be Water Surface if you fish while surfing on in shallo
 | Carvanha       | 40    |
 | Wailmer        | 10    |
 | **Wishiwashi** | 10    |
-
-**Kakori Village Encounters (Forest Field)**
-
-| **Good Rod**      | **%** |
-|-------------------|-------|
-| Carvanha          | 40    |
-| Basculin Red/Blue | 40    |
-| Sharpedo          | 10    |
 
 **Terajuma Jungle Encounters (Forest Field)**
 
