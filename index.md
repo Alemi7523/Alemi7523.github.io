@@ -132,6 +132,7 @@
     - [Quest 26: Move Relearner Quest (Continuation)](#quest-26-move-relearner-quest-continuation)
     - [Quest 38: Poliwag Quest (First and Second)](#quest-38-poliwag-quest-first-and-second)
     - [Route 4 After Surf](#route-4-after-surf)
+  - [Route 11](#route-11)
 
 
 
@@ -9218,7 +9219,7 @@ surf east and find a Zygarde Cell.
 
 Now, you have to enter Phasial Cave from the entrance west of you.
 
-**Phasial Cave/ Moon Field Encounters (Cave Field/???)**
+**Phasial Cave/ Moon Field Encounters (Cave Field/No Field)**
 
 | **Good Rod** | **%** | **Water**    | **%** |
 |--------------|-------|--------------|-------|
@@ -9243,7 +9244,7 @@ their locations.
 
 ### Moon Field
 
-**Moon Field Encounters**
+**Moon Field Encounters (No Field)**
 
 | **Grass**    | **%** |
 |--------------|-------|
@@ -9433,6 +9434,77 @@ There is nothing more to do. Go to a Truck Guy and move to Goldenleaf
 Town. Cross the Wispy Ruins to reach Route 4.
 
 ### Route 4 After Surf
+
+Climb up the Adventurer’s Cliff and use surf on the water to reach the
+northern area. You can find another of the children for the Lost Souls
+Quest here, Teddie.
+
+There is also a Rift Den here.
+
+RIFT DEN 3 (\< 8 Badges): Common encounters are Herdier, Crabrawler,
+Pachirisu, and **Chimecho**. The rare encounters are **Rhyhorn**,
+Vanillite, Ditto and **Purugly**.
+
+Now advance and go northeast until finding water that goes north, cross
+it with surf. On the right side there is a Zygarde Cell, but only at
+night.
+
+**ZCell 050: Route 4 (West) (Nighttime)**
+
+<img src="assets/media/image61.png"/>
+
+We got fifty, so we can claim new reward. In this guide we will be going
+when we are ready to return to Terajuma though.
+
+Surf to the left side to get **TM188 Sleep Talk**. Now surf north for
+another Rift Den.
+
+Head north to cross the leftmost bridge: surfing here leads us to the
+fourth den.
+
+RIFT DEN 4 (\< 8 Badges): The common encounters are Lotad,
+**Gastrodon**, and Noibat. The rare ones are Ponyta and **Frillish.**
+
+Now surf back down and go west. Go north and east to the ranch area and
+surf up to find another Zygarde Cell at night.
+
+**ZCell 050: Route 4 (Northeast) (Nighttime)**
+
+<img src="assets/media/image62.png"/>
+
+## Route 11
+
+Go to Akuwa Town.
+
+**Akuwa Town Encounters (No Field)**
+
+| **Water**     | **%** | **Good Rod**  | **%** |
+|---------------|-------|---------------|-------|
+| Seel          | 50    | **Luvdisc**   | 80    |
+| Finneon       | 25    | **Alomomola** | 20    |
+| Buizel        | 15    |               |       |
+| Remoraid      | 7     |               |       |
+| **Alomomola** | 3     |               |       |
+
+While there is nothing to do on the town itself, we can surf on the
+beach. On the southern side, in front of the right rock, there is a
+hidden ***Poké Ball***.
+
+North from here on the rock there is a hidden ***Health Wing***. On the
+left rock on the island west of this one there is a hidden ***Blast
+Powder***.
+
+Now go east to reach Route 11, out first new area in Floria Island since
+we came back.
+
+**Route 11 Encounters (No Field)**
+
+| **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** | **Rock Smash** | **%** |
+|-----------|-------|-------------|-------|--------------|-------|----------------|-------|
+| Mantyke   | 50    | Seel        | 70    | **Dewgong**  | 60    | Geodude        | 90    |
+| Tentacool | 32    | **Spheal**  | 30    | Luvdisc      | 40    | Binacle        | 10    |
+| Wailmer   | 18    |             |       |              |       |                |       |
+
 
 
 
