@@ -126,7 +126,13 @@
     - [Quest 35: Dragonite's Lost Mail](#quest-35-dragonites-lost-mail)
     - [Surfing Goldenwood and Spiritomb](#surfing-goldenwood-and-spiritomb)
     - [Quest 36: Dragonite's Lost Mail 2](#quest-36-dragonites-lost-mail-2)
-    - [River’s End](#rivers-end)
+    - [Quest 37: The Inconsistency](#quest-37-the-inconsistency)
+    - [Quest 38: Poliwag Quest](#quest-38-poliwag-quest)
+    - [Moon Field](#moon-field)
+    - [Quest 26: Move Relearner Quest (Continuation)](#quest-26-move-relearner-quest-continuation)
+    - [Quest 38: Poliwag Quest (First and Second)](#quest-38-poliwag-quest-first-and-second)
+    - [Route 4 After Surf](#route-4-after-surf)
+
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -4875,17 +4881,19 @@ of the on in the right, and look up. Interact for a hidden Ether.
 
 ### Quest 28: Broken Bell
 
-You will se a hiker in front of a truck, talk with him to begin this
+You will see a hiker in front of a truck, talk with him to begin this
 quest. We need to go to Mirage Town to ring a bell.
 
 Return to the stairs from before and this time leave thought he east
 ones. Continue until seeing a trainer. Defeat her to notice she is an
 illusion too.
 
-There is a blue lower right to the trainer go two steps under it and one
+There is a blue flower right to the trainer go two steps under it and one
 right, interact to get a hidden ***Exp. Candy M***.
 
-Now go west until the end to find a hidden Super Repel in some flowers.
+You can walk between the two trees north of the trainer on the right side to get an ***Ultra Ball***.
+
+Now go west until the end to find a hidden ***Super Repel*** in some flowers.
 Now go up on the previous bifurcation to find a hidden ***Poison Gem***
 on some flowers. Go south to cross a mirage tree and then east top cross
 another, which will allow us to cross a cliff blocking the way.
@@ -4932,7 +4940,7 @@ with the scientist to begin the next quest.
 
 ### Quest 29: Cranky Crobat
 
-Asl with that you can help, and you will begin this quest. We will need
+Ask with what you can help, and you will begin this quest. We will need
 to have Flash for this Quest since it is required to catch the attention
 of the Crobat causing issues to the town, and it will be useful later on
 Phasial Cave too, so if you haven't bought it yet, go to the Casino and
@@ -6468,6 +6476,8 @@ it isn't available on the wild, static encounters, or events. You have
 to breed a Marill/Azumarill with Sea Incense to get one, but of course,
 we have neither the item nor the required parents right now, but they
 will appear in the future.
+*Aevian Litwick* is required for a Quest, so getting it here allows to
+finish that quest earlier.
 
 Return to Wispy Ruins and continue north from the room where you fell
 down previously.
@@ -7801,7 +7811,7 @@ There is a guy here who changes an Up-Grade for ***Scope Lens***.
 We only got a single Up-Grade until now, but we will get more later, so feel free to make the change.
 
 Go through the western exit and then through the southern door there is an ***Up-Grade***. 
-We got it back quite quickly. 
+We got it back quite quickly. We will need it for a Quest soon, so keep it.
 
 Now, go though the door just at the north, you can pick 3 ***Max Repels*** here. 
 
@@ -9050,9 +9060,380 @@ We can open it to enter and get a ***Cursed Candle***.
 
 Go to Forgotten Path and surf east to find ***Naughty Mint***.
 
-### River’s End
+### **Quest 37: The Inconsistency**
 
 Go to Route 3 and surf South to reach River’s End.
+
+**Route 3 Encounters (Forest Field South/No Field North)**
+
+| **Good Rod** | **%** | **Water** | **%** |
+|--------------|-------|-----------|-------|
+| Wooper       | 60    | Quagsire  | 75    |
+| Chewtle      | 20    | Drednaw   | 25    |
+| Quagsire     | 20    |           |       |
+
+**River’s End Encounters (Flower Garden)**
+
+| **Grass**    | **%** | **Old Rod** | **%** | **Good Rod** | **%** | **Water** | **%** |
+|--------------|-------|-------------|-------|--------------|-------|-----------|-------|
+| Shelmet      | 35    | Finneon     | 100   | **Bruxish**  | 80    | Stunkfisk | 65    |
+| **Ribombee** | 31    |             |       | Corphish     | 20    | Golduck   | 32    |
+| **Steenee**  | 25    |             |       |              |       | Lumineon  | 3     |
+| Sunflora     | 5     |             |       |              |       |           |       |
+| **Comfey**   | 4     |             |       |              |       |           |       |
+
+<u>Note: Wild mons her can be over your current level cap.</u>
+
+Go left, where the pink brush is, and interact with the rock for a
+hidden ***Link Heart***. Go four steps down and look left to interact
+and find a hidden ***Hp Up***.
+
+Go down and on a pink flower between an orange and white flowers is a
+hidden ***Revive***.
+
+Continue down and right until the end of the way, on the lower white
+flowers of the two there, there is a hidden ***Green Shard***.
+
+Now, cross the river to the right and go up , to there the pink tree is.
+From the right of the tree, go one step left and one up to interact and
+find a hidden ***Green Shard***.
+
+Go north and on the first tree on the right after the floor changes
+color, there is a hidden ***Fresh Water***. Continue north for ***TM44
+Rest***.
+
+Go down and turn right as soon as you can. On a brush at end of the way,
+there is a hidden ***Cheri Berry***. You can’t enter the house here, but
+you can enter the one under it if you go south.
+
+You will be welcomed by two people, who are Matthew and Eizen. You can
+remember the second one from the weird password. There is a bit of extra
+dialogue if you used that password. As for Matthew, he is Venam’s
+father, absent father specifically given how many years have been since
+he saw her.
+
+Talk to Matthew and ask what he studies to trigger a scene. If you
+answer the questions correctly, you will get an extra reward, so input
+the following answers to get it. Each correct answer gives Eizen
+Friendship Points +1, while giving the “incorrect” answer, which is the
+one that would seem correct if you only eve played 13.5 and didn’t use a
+guide would make you lose a point instead. Here are the correct answers:
+
+-   AKORA SHORE
+
+-   SUMMER
+
+-   EAST
+
+Now you will be asked from what version you have been playing. Any of
+the options are the same, only giving only a change in text when
+referring to the version. Replying a number higher than 13 will just
+loop until the choice again.
+
+This will also trigger some extra dialogue related to Eizen in this
+quest.
+
+You will now be asked to investigate the Team Xen base underneath Wispy
+Tower and receive ***Lab Key***.
+
+Before that we are going to pick the remaining items on this area.
+
+Return to the house at north, now that Eizen Knows, you can enter, those
+are his living quarters. You can get an **Aevian Munna** and
+***Nightmare Fuel***, the item to evolve Aevian Munna, from the table.
+Remember that the entrance to the Eizen’s living quarters is only
+available for those who answered the questions right.
+
+Go south until reaching Route 2 from a point that can only be accessed
+from River’s End. Go right and down, cutting a tree, to find a Zygarde
+Cell.
+
+**ZCell 043: Route 2 (River’s End Access)**
+
+<img src="assets/media/image53.png"/>
+
+Now go to the left side to find ***TM46 Thief***.
+
+**Route 2 Encounters (No Field)**
+
+| **Good Rod** | **%** | **Water**    | **%** |
+|--------------|-------|--------------|-------|
+| Lumineon     | 80    | Surskit      | 50    |
+| Seaking      | 20    | **Slowpoke** | 35    |
+|              |       | Panpour      | 15    |
+
+Return to River’s End and cross the river west.
+
+Go upstairs and on the right tile of the first big purple flower you
+see, there is a hidden ***Ability Capsule***. Two tiles left of the next
+bit purple flower, there is a hidden ***Elixir***.
+
+Go rights though the bridge and on the first space without flowers there
+is a hidden ***Synthetic Seed***. Go to the rightmost extreme and on the
+pink flowers there, there is a hidden ***Yellow Shard***.
+
+Go north. In the space between two blue flowers and a big pink flower,
+there is a hidden ***Elemental Seed***. Continue north, diagonal from
+the two pink flowers at the top there is a hidden ***Tiny Mushroom***.
+
+Now, time to make a quick visit to Wispy Tower and lower and go down to
+the Forsaken Laboratory. Go to the leftmost room and use surf to reach a
+grey door you can open with the Lab Key.
+
+You have to complete the puzzle in the middle to continue.
+
+<img src="assets/media/image54.png"/>
+
+In the next room pick the ball to trigger the scene and you will be back
+on River’s End inside the laboratory.
+
+Talk to Matthew. We need a Poké Ball, an Up-Grade, and a Magnet. We
+should have it all if you followed this guide and didn’t use the
+Up-Grade to evolve a Porygon, there will be more later. Yor will be able
+to get more Magnets after the 6<sup>th</sup> badge in a shop, so don’t
+worry for losing your only Magnet.
+
+Talk again with all the items for a scene and a ***Type: Null*** will
+appear and flee. Go south and cross the river to the east and continue
+east and north to find it. Interact with it and catch it. Try to return
+to the lab for a scene with Eizen. Return to the lab, and you will be
+asked to Evovle Type: Null, which is by friendship.
+
+The Quest will be marked as completed, but if you speak with Mattew
+after having evolved Type: Null into Silvally and having it on your
+party, you will get your reward: Poison Memory.
+
+<u>Note: It is impossible to have a Living Dex with both Type: Null and
+Silvally unless you use a mod to transfer mons between saves and
+transfer the Type: Null from another save.</u>
+
+### **Quest 38: Poliwag Quest**
+
+Go to the northern part of Route 3, and go down from the left side to
+surf east and find a Zygarde Cell.
+
+**ZCell 044: Route 3**
+
+<img src="assets/media/image55.png"/>
+
+Now, you have to enter Phasial Cave from the entrance west of you.
+
+**Phasial Cave/ Moon Field Encounters (Cave Field/???)**
+
+| **Good Rod** | **%** | **Water**    | **%** |
+|--------------|-------|--------------|-------|
+| Wooper       | 60    | **Quagsire** | 90    |
+| Chewtle      | 20    | **Drednaw**  | 10    |
+| Quagsire     | 20    |              |       |
+
+There are also rocks to mine here so feel free to mine them.
+
+Go south as soon as you can and then east all the way. Surf north to get
+***TM146 Razor Shell***.
+
+Now go all the way southwest to find water you can surf to the south
+leading you to a ladder to go down and a ***Data Drive*** on the right
+of it.
+
+Use the ladder and advance north to talk with the lady, Polly, and agree
+to listen to her story. You will receive the ***Troupe Flute***, which
+you will have to use on platforms to gather 6 Poliwag in either Floria
+Island or Terajuma Island. Along with the guide I will be pointing out
+their locations.
+
+### Moon Field
+
+**Moon Field Encounters**
+
+| **Grass**    | **%** |
+|--------------|-------|
+| **Cleffa**   | 32    |
+| **Minior**   | 32    |
+| Solrock      | 25    |
+| Herdier      | 5     |
+| Lunatone     | 4     |
+| **Clefairy** | 2     |
+
+Now go west, climb up the ladder, and exit the cave to reach Moon Field.
+
+Look at your left as you appear outside to find a hidden ***Dusk
+Ball***. Form here you can see the ***TM127 Beat Up***, pick it.
+
+Enter the truck to get a ***Star Piece***.
+
+Go three steps down from the blue flowers you can see on the south and
+interact for a hidden ***Nest Ball***.
+
+On the flowers to tiles left of the truck, there is a hidden ***Star
+Piece***.
+
+On the flower tile floor, you can see a bit to the west, before the next
+blue flowers, there is a hidden ***Dusk Ball***.
+
+On the right of the nethermost blue flowers, there is another hidden
+***Dusk Ball***.
+
+You can see TM58 Sky Drop at the west, and one tile up, one left form
+it, there is a hidden ***Max Repel***.
+
+At night you can also find a Zygarde Cell here.
+
+**ZCell 045: Moon Field (Nighttime)**
+
+<img src="assets/media/image56.png"/>
+
+There are overworld **Clefairy** on the lake on Saturday night, and you
+get a scene if you approach the lake that ends up with you getting a
+***Moonstone***.
+
+### Quest 26: Move Relearner Quest (Continuation)
+
+Return to Route 3 and go north and enter the Mirage Woods.
+
+**Mirage Woods Encounters (Forest Field)**
+
+| **Good Rod** | **%** | **Water**      | **%** |
+|--------------|-------|----------------|-------|
+| Wooper       | 60    | Surskit        | 50    |
+| Chewtle      | 20    | Lumineon       | 32    |
+| Quagsire     | 20    | **Masquerain** | 3     |
+
+Go to Mirage Town. Remember to use the shortcut we opened on the right.
+Go north after using cut to the Mirage Cave, where we had that Crobat
+Quest. There is a Mining Rock here that is we destroy by mining it a
+second time with Blast Powder will give us access to a hidden ***Mild
+Mint*** on its right. There are a couple more mining rocks you can
+access on this cave if you wish to try your luck or soft reset until you
+get what you want. I recommend saving the Blast Powders for mining rocks
+that block the way to something.
+
+Go west behind the waterfall and surf as soon as you can. On the rock
+you can see at your right soon after starting to surf there is a hidden
+***Blue Shard***. Go west surfing and in the lowest tile of flowers
+there is a hidden ***Clever Wing***.
+
+Now, return to shore and go west though the hidden stairs we revealed
+the previous time and surf though the water. Go north to enter another
+part of the Mirage Cave. There is a Mining Rock here and a hidden
+***Exp. Candy M*** two tiles right of the small stones.
+
+Go east and break a rock at the north. If you mine the rock after it and
+use Blast powder to do it again, you can get a hidden Naive Mint on the
+wall behind it.
+
+Go to the tile up from the southernmost breakable rock on the upper
+area, and look right before interacting to find a hidden ***Yellow
+Shard***.
+
+Talk to the girl here, she is the Move Relearner from Sheridan we were
+asked for this Quest. Now she will be back in Sheridan Village, and you
+can use her as a Move Relearner for a Heart Scale.
+
+Now leave and go to Sheridan Village.
+
+**Sheridan Village Encounters (Forest Field)**
+
+| **Good Rod** | **%** | **Water** | **%** |
+|--------------|-------|-----------|-------|
+| Goldeen      | 60    | Lumineon  | 100   |
+| Finneon      | 20    |           |       |
+| Lumineon     | 20    |           |       |
+
+As you enter, go down and then right, to reach the Move Tutor House.
+Inside talk with Smantha, the sister of the Move Tutor, and she will
+gift you a ***Heart Scale***.
+
+Now go north to where the Day Care is. This is a good moment to breed
+your Throh to have an spare one to trade for the **Sawk**.
+
+Surf west on the water in front of the Daycare to find a **Treecko**,
+give it a Gourmet Treat to have a chance to get it. Another starter we
+manage to get. There is also a Zygarde Cell here.
+
+**ZCell 046: Sheridan Village**
+
+<img src="assets/media/image57.png"/>
+
+Now go to the inn and surf down on the rightmost part of the water to
+find ***Timid Mint***. At night, there is also a Zygarde Cell here.
+
+**ZCell 047: Sheridan Village (Nighttime)**
+
+<img src="assets/media/image58.png"/>
+
+Go north to Sheridan Arena and continue until the stairs leading to the
+Sensei’s House. Surf east to find another Zygarde Cell.
+
+**ZCell 048: Sheridan Arena**
+
+<img src="assets/media/image59.png"/>
+
+Surf west to find ***TM87 Swagger.***
+
+**Sheridan Arena Encounters (Forest Field)**
+
+| **Good Rod** | **%** | **Water** | **%** |
+|--------------|-------|-----------|-------|
+| Goldeen      | 60    | Lumineon  | 100   |
+| Finneon      | 40    |           |       |
+
+### Quest 38: Poliwag Quest (First and Second)
+
+Now go to the Spring of Purification to find our first Poliwag for the
+Quest very soon after we start to go up. Agree to catch its attention
+and it will leave.
+
+Go to talk with the Truck Guy and go to Goldenleaf Town, leave west for
+Wispy Path and you should quickly find the second Poliwag. Catch its
+attention and it will leave.
+
+We will continue our exploration, this time to Amethyst Cave. Enter from
+Sheridan Village.
+
+**Amethyst Cave Encounters (Cave Field)**
+
+| **Water**    | **%** | **Good Rod** | **%** |
+|--------------|-------|--------------|-------|
+| Remoraid     | 65    | Seaking      | 60    |
+| Barboach     | 25    | Barboach     | 20    |
+| **Whiscash** | 7     | Octillery    | 20    |
+| Octillery    | 3     |              |       |
+
+Advance until you can surf west, do it, and the tile in front of the
+boxes also under a box, has a hidden ***Red Shard***.
+
+Go upstairs and surf west again, on the box, there is a hidden ***Rare
+Candy***.
+
+Next room surf west to find another panel to activate and a Zygarde
+Cell.
+
+**ZCell 049: Amethyst Cave**
+
+<img src="assets/media/image60.png"/>
+
+Return to the east side you came from and surd on the eastern water. On
+the tile you can land east to the boxes there is a hidden ***Blue
+Shard***. On the box right of the bridge there is a hidden ***Reverse
+Candy***.
+
+GO to the right side and surf the water there. On the north side, left
+of the bridge, there is a hidden ***Red Shard***. Go south and land on
+the place left of where the boy is. On the northern wall there is a
+hidden ***Mineral Ball***.
+
+Leave south and you will see an apparition of Mom asking you to find the
+peak of Amethyst Cave.
+
+Continue until reaching Route 2. This time from the normal side. The
+place on the south with overworld Aipom now has overworld **Ambipom**,
+but only during the day as the Aipom were.
+
+There is nothing more to do. Go to a Truck Guy and move to Goldenleaf
+Town. Cross the Wispy Ruins to reach Route 4.
+
+### Route 4 After Surf
+
 
 
 
