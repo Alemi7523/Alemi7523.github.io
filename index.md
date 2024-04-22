@@ -183,7 +183,6 @@
     - [Legendaries Renegade Route:](#legendaries-renegade-route)
   - [Pickup Table](#pickup-table)
   - [Crest Descriptions](#crest-descriptions)
-- [Eizen Reply](#eizen-reply)
 - [New Quests](#new-quests)
   - [Spiteful Ex](#spiteful-ex)
   - [A Souvenir for Mom](#a-souvenir-for-mom)
@@ -11668,10 +11667,6 @@ The information about Crests has been taken from the [wiki](https://rejuvenation
 - [Zoroark](https://rejuvenation.wiki.gg/wiki/Zoroark_Crest):
   - Grants the ability and STAB of the copied Pokémon to Unovan Zoroark.
   - Location: Garufa Sanctuary - Behind the Hisuan Zorua.
-
-## Eizen Reply
-
-Akora
 
 ## New Quests
 
