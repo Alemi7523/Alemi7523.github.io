@@ -9025,6 +9025,7 @@ will gift you ***Berry Ice Cream***.
 After the scene you can find ***TM118 Pin Missile***, and the last Wisp.
 
 **Wisp 10: Wispy Tower**
+
 <img src="assets/media/image52.png"/>
 
 Enter the ruins here, and surf left to get ***TM41 Torment***.
@@ -9125,9 +9126,7 @@ one that would seem correct if you only eve played 13.5 and didn’t use a
 guide would make you lose a point instead. Here are the correct answers:
 
 -   AKORA SHORE
-
 -   SUMMER
-
 -   EAST
 
 Now you will be asked from what version you have been playing. Any of
@@ -9521,85 +9520,46 @@ them back then on Route 3? Now is the time to use them.
 **Xen Grunt Quentin (No Field/Permanent Hail). Story Mode.**
 
 -   Seaking, Level 44
-
     -   Waterfall
-
     -   Smart Strike
-
     -   Giga Impact
-
     -   Poison Jab
-
 -   Venomoth, Level 43
-
     -   Sleep Powder
-
     -   Psychic
-
     -   Sludge Bomb
-
     -   Bug Buzz
-
 -   Mamoswine, Level 44
-
     -   Earthquake
-
     -   Ice Shard
-
     -   Bite
-
     -   Knock Off
-
 -   Golurk, Level 43
-
     -   Shadow Punch
-
     -   Heavy Slam
-
     -   Stomping Tantrum
-
     -   Night Shade
 
 **Xen Grunt Quentin (No Field/Permanent Hail). Classic Mode.**
-
 -   Seaking, Level 45
-
     -   Waterfall
-
     -   Smart Strike
-
     -   Giga Impact
-
     -   Poison Jab
-
 -   Venomoth, Level 45
-
     -   Sleep Powder
-
     -   Psychic
-
     -   Sludge Bomb
-
     -   Bug Buzz
-
 -   Mamoswine, Level 45
-
     -   Earthquake
-
     -   Ice Shard
-
     -   Bite
-
     -   Knock Off
-
 -   Golurk, Level 45
-
     -   Shadow Punch
-
     -   Heavy Slam
-
     -   Stomping Tantrum
-
     -   Night Shade
 
 He is quite strong, being at the level cap, and the Hail won't help us
