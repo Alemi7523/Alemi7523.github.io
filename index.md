@@ -133,7 +133,12 @@
     - [Quest 38: Poliwag Quest (First and Second)](#quest-38-poliwag-quest-first-and-second)
     - [Route 4 After Surf](#route-4-after-surf)
   - [Route 11](#route-11)
-
+    - [Quest 39: Jynx Quest](#quest-38-jynx-quest)
+    - [Quest 38: Poliwag Quest (Third)](#quest-38-poliwag-quest-third)
+    - [Seabound Cave and Evergreen Cave](#seabound-cave-and-evergreen-cave)
+  - [Evergreen Island](#evergreen-island)
+  - [Back to Terajuma Island](#back-to-terajuma-island)
+    - [Quest 38: Poliwag Quest (Fourth)](#quest-38-poliwag-quest-fourth)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -9467,7 +9472,7 @@ RIFT DEN 4 (\< 8 Badges): The common encounters are Lotad,
 Now surf back down and go west. Go north and east to the ranch area and
 surf up to find another Zygarde Cell at night.
 
-**ZCell 050: Route 4 (Northeast) (Nighttime)**
+**ZCell 051: Route 4 (Northeast) (Nighttime)**
 
 <img src="assets/media/image62.png"/>
 
@@ -9504,6 +9509,384 @@ we came back.
 | Tentacool | 32    | **Spheal**  | 30    | Luvdisc      | 40    | Binacle        | 10    |
 | Wailmer   | 18    |             |       |              |       |                |       |
 
+### Quest 39: Jynx Quest
+
+Stop on the first island you see at north for a hidden ***Dire Hit*** on
+the small rock on the northwest corner and a ***Red Shard*** you can see
+normally. Now talk to the grunt to start this Quest.
+
+You have to give him 10 Sweet Hearts. Remember that I told you to buy
+them back then on Route 3? Now is the time to use them.
+
+**Xen Grunt Quentin (No Field/Permanent Hail). Story Mode.**
+
+-   Seaking, Level 44
+
+    -   Waterfall
+
+    -   Smart Strike
+
+    -   Giga Impact
+
+    -   Poison Jab
+
+-   Venomoth, Level 43
+
+    -   Sleep Powder
+
+    -   Psychic
+
+    -   Sludge Bomb
+
+    -   Bug Buzz
+
+-   Mamoswine, Level 44
+
+    -   Earthquake
+
+    -   Ice Shard
+
+    -   Bite
+
+    -   Knock Off
+
+-   Golurk, Level 43
+
+    -   Shadow Punch
+
+    -   Heavy Slam
+
+    -   Stomping Tantrum
+
+    -   Night Shade
+
+**Xen Grunt Quentin (No Field/Permanent Hail). Classic Mode.**
+
+-   Seaking, Level 45
+
+    -   Waterfall
+
+    -   Smart Strike
+
+    -   Giga Impact
+
+    -   Poison Jab
+
+-   Venomoth, Level 45
+
+    -   Sleep Powder
+
+    -   Psychic
+
+    -   Sludge Bomb
+
+    -   Bug Buzz
+
+-   Mamoswine, Level 45
+
+    -   Earthquake
+
+    -   Ice Shard
+
+    -   Bite
+
+    -   Knock Off
+
+-   Golurk, Level 45
+
+    -   Shadow Punch
+
+    -   Heavy Slam
+
+    -   Stomping Tantrum
+
+    -   Night Shade
+
+He is quite strong, being at the level cap, and the Hail won't help us
+unless we are Ice Type. Still, only four mons and no items, so it
+shouldn’t be hard to defeat.
+
+Now you will have to defeat or catch the **Jynx**, who is the one the
+Grunt was confessing his love to.
+
+You can talk to the Grunt at the shore to realize he didn’t know the
+truth and then the grunt will leave. This is all for this quest.
+
+### **Quest 38: Poliwag Quest** (Third)
+
+Go south and border the island to the right side. until you can stop
+surfing. There is a Zygarde Cell here, and on the rock behind it a
+hidden ***HP Up***.
+
+**ZCell 052: Route11**
+
+<img src="assets/media/image63.png"/>
+
+Surf east and go down as soon as you can. On the island you will find,
+there is a hidden item in each of the two rocks: ***Red Shard*** and
+**Adamant Mint**.
+
+Surf north for another island, on the group of small rocks on the right,
+there is a hidden ***Blue Shard***.
+
+Now, surf east and on the second tile from the left from the first
+island you see, there is a hidden ***Jolly Mint***. Continue east to
+find an island with an ***Ether***.
+
+Go to the southern extreme of the island and surf east again, you will
+find the third Poliwag. Catch its attention and will leave. The
+remaining three are in Terajuma.
+
+### Seabound Cave and Evergreen Cave
+
+Continue south to reach an island with a Zygarde Cell.
+
+**ZCell 053: Route 11**
+
+<img src="assets/media/image64.png"/>
+
+Now, go to the island at the northeast, you can find a ***Max Repel***
+here. Go to the top and on the rocks on the left there is a hidden
+***Ice Heal***. Time to enter the cave to reach the Seabound Cave.
+
+**Seabound Cave/Evergreen Cave Encounters (Icy Field)**
+
+| **Cave**             | **%** | **Water**   | **%** | **Rock Smash** | **%** |
+|----------------------|-------|-------------|-------|----------------|-------|
+| Smoochum             | 32    | Seel        | 50    | Binacle        | 82    |
+| **Alolan Sandshrew** | 25    | Spheal      | 25    | Dunsparce      | 15    |
+| Vanillite            | 15    | **Sealeo**  | 15    | Shuckle        | 3     |
+| **Vanillish**        | 15    | Dewgong     | 7     |                |       |
+| Jynx                 | 6     | **Kingler** | 3     |                |       |
+| **Bergmite**         | 5     |             |       |                |       |
+| **Avalugg**          | 2     |             |       |                |       |
+
+**Seabound Cave Encounters (Icy Field)**
+
+| **Old Rod** | **%** | **Good Rod** | **%** |
+|-------------|-------|--------------|-------|
+| Goldeen     | 100   | Remoraid     | 100   |
+|             |       |              |       |
+|             |       |              |       |
+
+You may want to catch a spare **Alolan Sandshrew** since we will need to
+trade one later on.
+
+Nothing else we can do here for now, leave and surf back west before
+going north to reach Evergreen Island.
+
+**Evergreen Island Encounters (No Field)**
+
+| **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** | **Rock Smash** | **%** |
+|-----------|-------|-------------|-------|--------------|-------|----------------|-------|
+| Mantyke   | 50    | Seel        | 70    | Dewgong      | 60    | Geodude        | 90    |
+| Tentacool | 32    | Spheal      | 30    | Luvdisc      | 40    | Binacle        | 10    |
+| Wailmer   | 18    |             |       |              |       |                |       |
+
+There are overworld Octillery in some islands.
+
+Now enter the Evergreen Cave you will find while continuing north.
+
+**Evergreen Cave Encounters (Icy Field or No Field)**
+
+| **Old Rod** | **%** | **Good Rod** | **%** |
+|-------------|-------|--------------|-------|
+| Spheal      | 70    | Seaking      | 60    |
+| Goldeen     | 30    | Sealeo       | 20    |
+|             |       | Octillery    | 20    |
+|             |       |              |       |
+
+If you don’t have the Remote PC or access in party to mons with
+Blizzard, and then Magnitude, Earthquake, or Bulldoze. You can go north
+outside the cave to reach a place you can access a PC after some scenes,
+we will be covering that later, but if you need to go first, just try to
+enter the forest and you will unlock the PC in the house.
+
+Spheal can learn Blizzard at 41 and you can get them here if you don’t
+have any. Snover can’t be caught here, but it can also learn it at 41.
+Same goes for Hisuian Avalugg, who evolves using a Fire Stone on an
+Avalugg. Those are the most viable options as of now and they don't
+require Rare Candies.
+
+As for the other move, we have Bulldoze as TM, so just teach it to
+someone.
+
+Get the ones you choose in your party and in fight inside Evergreen Cave
+and use Blizzard to freeze the floor outside. The Field will change from
+Water Surface, the default when surfing, to Icy Field.
+
+Now, we have to enter battle again and use Earthquake, this will break
+the ice and give us proper access to the cave. The field will have
+changed to No Field.
+
+Advance and surf on the water. You can find a level 50 **Lapras** with
+Mystic Water here. If you leave the cave and repeat the process of
+freezing and breaking, you can repeat this encounter, item included.
+
+Now surf north to reach the proper Evergreen Island, you can enter the
+northern part of Evergreen Cave here. On the rock right to the entrance
+there is a hidden ***Heart Scale***.
+
+Use Bulldoze, Magnitude or Earthquake in battle to break the floor, now
+you can go through the eastern stairs and floor the eastern way to leave
+the cave. There is a Zygarde Cell here.
+
+**ZCell 054: Evergreen Island**
+
+<img src="assets/media/image65.png"/>
+
+Return to the cave and do down the ladder you will find continuing your
+way west. We can’t use Strength so we can’t do everything here, but we
+can get some items.
+
+<u>Note: The trainers here can be over the level cap.</u>
+
+Advance until a trainer and go north, break the nethermost rock, and
+move to the nethermost position. Look left and interact for a hidden
+***Zinc***. You can also find a minable rock to the west.
+
+Grab an ***X Special*** on the southwest area. Now go east and after the
+double trainer battle break the rock at the left of those trainer to
+find a hidden ***Rare Candy*** on the end of the way behind it.
+
+Continue north and break the rock on the left side, on the northernmost
+tile there is a hidden ***Full Heal***.
+
+Now jump into the southernmost hole to pick ***DeepSeaScale***. Walk to
+the darker tile to fall down again. Go up the ladders a couple of times
+to return to the map with the holes.
+
+Now jump into the northwestern hole to pick a ***DeepSeaTooth***. Walk
+to the deeper color tile and you will fall into the area of the Ice
+Rock. Evolving Eevee to Glaceon doesn’t need an Ice Stone here, only
+leveling up. Also, you can evolve a Crabrawler in Crabominable in the
+whole Evergreen Cave.
+
+Walk to the deep color tile to go down again. Now you can leave as we
+can’t do more without Strength.
+
+## Evergreen Island
+
+Now time to explore the proper Evergreen Island, not just the sea near
+it like before.
+
+Try to enter a forest for a scene. There is text variation in the scene
+depending if you read the sign or not and your answer, but it didn’t
+matter what you choose.
+
+Enter the house. We can now enter the house use the PC and heal. Speak
+with Nana to receive ***Mysterious Emblem***
+
+Now, let’s go to the forest.
+
+**Evergreen Forest Encounters (No Field)**
+
+| **Grass**      | **%** | **Headbutt**     | **%** | **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|----------------|-------|------------------|-------|-----------|-------|-------------|-------|--------------|-------|
+| **Snover**     | 37    | Pineco           | 55    | Seel      | 50    | Goldeen     | 100   | Seaking      | 60    |
+| **Cubchoo**    | 24    | Crabrawler       | 20    | Spheal    | 25    |             |       | Dewgong      | 20    |
+| Vanillite      | 20    | Taillow          | 10    | Buizel    | 15    |             |       | Floatzel     | 20    |
+| **Farfetch'd** | 15    | Swellow          | 5     | Sealeo    | 7     |             |       |              |       |
+| **Furfrou**    | 4     | **Crabominable** | 5     | Dewgong   | 3     |             |       |              |       |
+|                |       | **Snom**         | 4     |           |       |             |       |              |       |
+|                |       | Slakoth          | 1     |           |       |             |       |              |       |
+
+You will also see overworld Swablu flying in the forest. There are also
+some overworld Stantler although the northern one on the hill is only at
+night. There are also several overworld **Buneary** on the eastern side
+of the forest. We can trade a Loppuny for a Shroomish outside, so get a
+spare one to evolve and trade.
+
+Between a big rock, grass and a blue flower, there is a hidden ***Max
+Repel***. Go north, and on the flower tile between two trees on the
+northwest there is a hidden ***Genius Wing***. Now go east and
+downstairs. Continue southwest to find the Buneary.
+
+If you stop on the snowball tiles and interact you can get a
+***Snowball*** in each of them. They respawn on map change.
+
+Once you found the Buneary, continue upstairs as you catch as many as
+you want, just save one to evolve and trade. After the first set of
+stairs, there is a ***Dusk Ball*** on the west. On the flower tile at
+the very top, there is a hidden ***Telluric Seed***.
+
+Go back down and go north as soon as you can, on a rock between trees
+there is a hidden Ice Heal.
+
+Go north a bit and between a grass tile and a flowers tile, there is a
+hidden ***Ice Gem***. Use the Itemfinder if you can’t locate it with
+just the description.
+
+Go south and west and south again until you see a rock on the east.
+There is a hidden ***Paralyze Heal***.
+
+Now, go east, surf and talk to the kid since he is one of the kids we
+need to rescue in Lost Souls, and the last one we can find with our
+current badge number, Mitsudo. On the blue flowers close to him, there
+is a hidden ***Resist Wing***.
+
+Continue surfing east and cut the trees after landing, on the
+easternmost blue flowers there is a hidden ***HP Up***. There are
+overworld Snover on this area.
+
+Now go north and upstairs. Here, on the right of the center blue flower,
+there is a hidden ***Telluric Seed***.
+
+Return down and go west, you will see blue flowers at north between two
+big tress and a small one, there is a hidden ***Rare Candy*** on them.
+
+Return to the water and surf east. Go north and on the bifurcation, go
+west.
+
+Before the next bifurcation, there is a hidden ***Hyper Potion*** on the
+right of a rock.
+
+Continue west on the next bifurcation and under a dried tree there is a
+hidden ***Genius Wing***. Now go north and on the northernmost flower
+tile, which is at the left of a small tree, there is a hidden
+***Zinc***.
+
+Return to the first bifurcation and go east this time. Continue east on
+the next bifurcation and follow the path to the north. On the
+northernmost flower tile on the right of a dried tree, there is a hidden
+***X Special***. Now return to the previous bifurcation and go north.
+
+You can find a ***Max Repel*** here.
+
+Go to the center platform and Anju’s Pendant of the Mysterious Emblem
+will open the door to the Spring of Purification.
+
+Here you can surf in the spring and catch the overworld ***Piplup***.
+Yet another starter we manage to get. The number of Piplup increase the
+more badges you have, after your eleventh an Empoleon will appear. We
+will return here at that time.
+
+We are done here, so leave the forest.
+
+Trade a Loppuny for a **Shroomish** to the girl right of the stairs on
+the beach.
+
+You can pay a guy to bring you back to Akuwa Town, but it costs $2500. I
+feel that going back manually isn’t hard enough to deserve paying that
+much.
+
+Use the Truck Guy to return to East Gearen City and go to the Help Plaza
+to claim your reward for 50 Zygarde Cells a ***Cell Imprint*** and a
+***Macho Brace***.
+
+Now, go to Oceana Pier to pick the ship back to Terajuma Island. This
+time he only asks for $1500.
+
+## Back to Terajuma Island
+
+After disembarking go to Deep Terajuma Jungle.
+
+### **Quest 38: Poliwag Quest** (Fourth)
+
+Go the beach in front of the house and surf to the right. You will see
+the fourth Poliwag. Catch its attention and it will leave.
+
+Now return to Kakori village and talk with Melia in your house.
 
 
 
