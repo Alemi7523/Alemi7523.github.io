@@ -9879,54 +9879,54 @@ walking on shallow water. You will get a text variation later in the
 story for doing this now.
 
 **Wanderer Novae (Beach Field). Story Mode.**
-  -   Toucannon, Level 44. @ Yache Berry.
+-   Toucannon, Level 44. @ Yache Berry.
     -   Beak Blast
     -   Roost
     -   Bullet Seed
     -   Rock Blast
-  -   Lycanroc, Level 46. @ Focus Sash.
+-   Lycanroc, Level 46. @ Focus Sash.
     -   Stone Edge
     -   Crunch
     -   Accelerock
     -   Swords Dance
-  -   Palossand, Level 473. @ Leftovers.
+-   Palossand, Level 473. @ Leftovers.
     -   Shadow Ball
     -   Shore Up
     -   Earth Power
     -   Giga Drain
-  -   Passimian, Level 50. @ Sitrus Berry.
+-   Passimian, Level 50. @ Sitrus Berry.
     -   Iron Head
     -   Close Combat
     -   Brutal Swing
     -   Bulk Up
 
 **Wanderer Novae (Beach Field). Classic Mode.**
-  -   Toucannon, Level 42. @ Yache Berry.
+-   Toucannon, Level 42. @ Yache Berry.
     -   Beak Blast
     -   Roost
     -   Bullet Seed
     -   Rock Blast
-  -   Vikavolt, Level 43. @ Sitrus Berry.
+-   Vikavolt, Level 43. @ Sitrus Berry.
     -   Thunderbolt
     -   Bug Buzz
     -   Air Slash
     -   Roost
-  -   Lycanroc, Level 45. @ Rock Gem.
+-   Lycanroc, Level 45. @ Rock Gem.
     -   Stone Edge
     -   Crunch
     -   Accelerock
     -   Drill Run
-  -   Tsareena, Level 43. @ Grass Gem.
+-   Tsareena, Level 43. @ Grass Gem.
     -   Trop Kick
     -   Knock Off
     -   Play Rough
     -   Acrobatics
-  -   Palossand, Level 43. @ Leftovers.
+-   Palossand, Level 43. @ Leftovers.
     -   Shadow Ball
     -   Shore Up
     -   Earth Power
     -   Giga Drain
-  -   Passimian, Level 45. @ Sitrus Berry.
+-   Passimian, Level 45. @ Sitrus Berry.
     -   Iron Head
     -   Close Combat
     -   Brutal Swing
@@ -9963,12 +9963,12 @@ have to fight a boss. Winning gets tracked, and if you lose, you get 5
 **Exp. Candy M**.
 
 **Thunder Warrior (No Field). 3 HP Bars. Story Mode.**
-  -   Tapu Koko, Level 42
+-   Tapu Koko, Level 42
     -   Steel Wing
     -   Nature Madness
     -   Electric Terrain
     -   Discharge
-  -   After having finished 2 HP Bars, Tapu Koko’s moveset is updated and
+-   After having finished 2 HP Bars, Tapu Koko’s moveset is updated and
     any drop in stats healed.
     -   Electro Ball
     -   Taunt
@@ -9976,12 +9976,12 @@ have to fight a boss. Winning gets tracked, and if you lose, you get 5
     -   Fly
 
 **Thunder Warrior (No Field). 3 HP Bars. Classic Mode.**
-  -   Tapu Koko, Level 50
+-   Tapu Koko, Level 50
     -   Take Down
     -   Noble Roar
     -   Fire Fang
     -   Roar
-  -   After having finished 1HP Bar, Tapu Koko’s moveset is updated and
+-   After having finished 1HP Bar, Tapu Koko’s moveset is updated and
     any drop in stats healed.
     -   Electro Ball
     -   Taunt
@@ -10177,108 +10177,108 @@ you have to choose if battle Neved or Zetta. You will only fight the one
 you chose.
 
 **Xen Executive Neved (No Field). Story Mode.**
-  -   Tentacruel, Level 40.
+-   Tentacruel, Level 40.
     -   Sludge Bomb
     -   Dazzling Gleam
     -   Poison Jab
     -   Brine
-  -   Vikavolt, Level 40.
+-   Vikavolt, Level 40.
     -   Volt Switch
     -   Bug Buzz
     -   Fly
     -   Thunder Wave
-  -   Aevian Palossand (Ice), Level 40.
+-   Aevian Palossand (Ice), Level 40.
     -   Ice Beam
     -   Hex
     -   Giga Drain
     -   Moonlight
-  -   Barbaracle, Level 41.
+-   Barbaracle, Level 41.
     -   X-Scissor
     -   Night Slash
     -   Razor Shell
     -   Rock Slide
 
 **Xen Executive Neved (No Field). Classic Mode.**
-  -   Crabominable, Level 41. @ Occa Berry
+-   Crabominable, Level 41. @ Occa Berry
     -   Ice Punch
     -   Drain Punch
     -   Rock Slide
     -   Crabhammer
-  -   Tentacruel, Level 43. @ Sitrus Berry
+-   Tentacruel, Level 43. @ Sitrus Berry
     -   Sludge Bomb
     -   Dazzling Gleam
     -   Blizzard
     -   Scald
-  -   Vikavolt, Level 43.
+-   Vikavolt, Level 43.
     -   Thunderbolt
     -   Bug Buzz
     -   Air Slash
     -   Thunder Wave
-  -   Manectric, Level 43. @ Magnet.
+-   Manectric, Level 43. @ Magnet.
     -   Thunderbolt
     -   Hidden Power Ice
     -   Volt Switch
     -   Flamethrower
-  -   Aevian Palossand (Ice), Level 43. @ Never-Melt Ice
+-   Aevian Palossand (Ice), Level 43. @ Never-Melt Ice
     -   Ice Beam
     -   Shadow Ball
     -   Giga Drain
     -   Moonlight
-  -   Barbaracle, Level 43. @ Sitrus Berry.
+-   Barbaracle, Level 43. @ Sitrus Berry.
     -   X-Scissor
     -   Night Slash
     -   Razor Shell
     -   Rock Slide
 
 **Xen Executive Zetta (No Field). Story Mode.**
-  -   Absol, Level 40. @Black Glasses
+-   Absol, Level 40. @Black Glasses
     -   Swords Dance
     -   Psycho Cut
     -   Night Slash
     -   Sucker Punch
-  -   Typhlosion, Level 42. @ Charcoal
+-   Typhlosion, Level 42. @ Charcoal
     -   Nature Power
     -   Fire Punch
     -   Thunderpunch
     -   Brick Break
-  -   Dragonair, Level 41.
+-   Dragonair, Level 41.
     -   Dragon Dance
     -   Dragon Rush
     -   Iron Tail
     -   Waterfall
-  -   Type Null, Level 42. @ Eviolite
+-   Type Null, Level 42. @ Eviolite
     -   Swords Dance
     -   X-Scissor
     -   Return
     -   Shadow Claw
 
 **Xen Executive Zetta (No Field). Classic Mode.**
-  -   Absol, Level 41. @Black Glasses
+-   Absol, Level 41. @Black Glasses
     -   Swords Dance
     -   Psycho Cut
     -   Night Slash
     -   Sucker Punch
-  -   Weavile, Level 42. @ Muscle Band
+-   Weavile, Level 42. @ Muscle Band
     -   Low Kick
     -   Night Slash
     -   Ice Shard
     -   Icicle Crash
-  -   Typhlosion, Level 43. @ Charcoal
+-   Typhlosion, Level 43. @ Charcoal
     -   Nature Power
     -   Fire Punch
     -   Thunderpunch
     -   Brick Break
-  -   Perrserker, Level 41. @ Chople Berry
+-   Perrserker, Level 41. @ Chople Berry
     -   Play Rough
     -   Iron Head
     -   Night Slash
     -   Fake Out
-  -   Dragonair, Level 42.
+-   Dragonair, Level 42.
     -   Dragon Dance
     -   Dragon Rush
     -   Iron Tail
     -   Waterfall
-  -   Type Null, Level 43. @ Eviolite
+-   Type Null, Level 43. @ Eviolite
     -   Swords Dance
     -   X-Scissor
     -   Return
@@ -10349,22 +10349,22 @@ will have to fight.
 
 **Diabolical Evil Genius Mr. Hynde (Forest Field. Permanent Rain). Story
 Mode.**
-  -   Morpeko, Level 40.
+-   Morpeko, Level 40.
     -   Crunch
     -   Aura Wheel
     -   Bullet Seed
     -   Quick Attack
-  -   Galarian Stunkfisk, Level 40.
+-   Galarian Stunkfisk, Level 40.
     -   Snap Trap
     -   Earthquake
     -   Sucker Punch
     -   Yawn
-  -   Aggron, Level 40.
+-   Aggron, Level 40.
     -   Rock Polish
     -   Cut
     -   Double Edge
     -   Rock Slide
-  -   Aevian Kommo-o, Level 42.
+-   Aevian Kommo-o, Level 42.
     -   Noble Roar
     -   Vile Assault
     -   Dragon Claw
@@ -10372,27 +10372,27 @@ Mode.**
 
 **Diabolical Evil Genius Mr. Hynde (Forest Field. Permanent Rain).
 Classic Mode.**
-  -   Morpeko, Level 43. @Electric Gem
+-   Morpeko, Level 43. @Electric Gem
     -   Agility
     -   Aura Wheel
     -   Seed Bomb
     -   Quick Attack
-  -   Galarian Stunkfisk, Level 43. @ Sitrus Berry
+-   Galarian Stunkfisk, Level 43. @ Sitrus Berry
     -   Snap Trap
     -   Earthquake
     -   Sucker Punch
     -   Yawn
-  -   Aggron, Level 43. @ Chople Berry
+-   Aggron, Level 43. @ Chople Berry
     -   Rock Polish
     -   Cut
     -   Head Smash
     -   Earthquake
-  -   Yanmega, Level 43. @ Metronome
+-   Yanmega, Level 43. @ Metronome
     -   Bug Buzz
     -   Air Slash
     -   Ancient Power
     -   Detect
-  -   Aevian Kommo-o, Level 45. @Air Balloon
+-   Aevian Kommo-o, Level 45. @Air Balloon
     -   Dragon Dance
     -   Vile Assault
     -   Dragon Claw
@@ -10544,59 +10544,59 @@ We are on the rooftop of the factory now. Advance to see a scene and get
 a fight.
 
 **Pokémon Trainer Ren (Swamp Field. Permanent Rain). Story Mode.**
-  -   Cacturne, Level 40. @ Focus Sash.
+-   Cacturne, Level 40. @ Focus Sash.
     -   Giga Drain
     -   Spikes
     -   Focus Blast
     -   Dark Pulse
-  -   Reuniclus, Level 39.
+-   Reuniclus, Level 39.
     -   Calm Mind
     -   Psyshock
     -   Flash Cannon
     -   Charm
-  -   Flygon, Level 39. @ Muscle Band
+-   Flygon, Level 39. @ Muscle Band
     -   Dragon Dance
     -   Earthquake
     -   Steel Wing
     -   Dragon Claw
-  -   Greninja, Level 40. @ Expert Belt
+-   Greninja, Level 40. @ Expert Belt
     -   Surf
     -   Shadow Sneak
     -   Dark Pulse
     -   Rock Slide
-  -   Corviknight, Level 41.
+-   Corviknight, Level 41.
     -   Steel Wing
     -   Drill peck
     -   Iron Defense
     -   Roost
 
 **Pokémon Trainer Ren (Swamp Field. Permanent Rain). Classic Mode.**
-  -   Cacturne, Level 42. @ Focus Sash.
+-   Cacturne, Level 42. @ Focus Sash.
     -   Giga Drain
     -   Spikes
     -   Nature Power
     -   Dark Pulse
-  -   Reuniclus, Level 42. @ Colbur Berry
+-   Reuniclus, Level 42. @ Colbur Berry
     -   Recover
     -   Psyshock
     -   Flash Cannon
     -   Signal Beam
-  -   Scyther, Level 43. @ Muscle Band
+-   Scyther, Level 43. @ Muscle Band
     -   Bug Bite
     -   Aerial Ace
     -   Brick Break
     -   Steel Wing
-  -   Arcanine, Level 43. @ Liechi Berry
+-   Arcanine, Level 43. @ Liechi Berry
     -   Flare Blitz
     -   Wild Charge
     -   Extreme Speed
     -   Reversal
-  -   Greninja, Level 43. @ Expert Belt
+-   Greninja, Level 43. @ Expert Belt
     -   Surf
     -   Shadow Sneak
     -   Night Slash
     -   Grass Knot
-  -   Corviknight, Level 44. @ Telluric Seed
+-   Corviknight, Level 44. @ Telluric Seed
     -   Nasty Plot
     -   Flash Cannon
     -   Air Slash
@@ -10663,32 +10663,32 @@ Mode.**
 
 **Team Anti-Assist Marcin and Team Anti-Assist Aruo (No Field). Classic
 Mode.**
-  -   Kecleon, Level 44. (Marcin)
+-   Kecleon, Level 44. (Marcin)
     -   Slash
     -   Shadow Claw
     -   Fire Punch
     -   Ice Punch
-  -   Octillery, Level 45. (Marcin)
+-   Octillery, Level 45. (Marcin)
     -   Ice Beam
     -   Psybeam
     -   Hydro Pump
     -   Protect
-  -   Bronzong, Level 45. (Marcin)
+-   Bronzong, Level 45. (Marcin)
     -   Gyro Ball
     -   Zen Headbutt
     -   Toxic
     -   Earthquake
-  -   Rapidash, Level 44. (Aruo)
+-   Rapidash, Level 44. (Aruo)
     -   Bounce
     -   Hypnosis
     -   Flare Blitz
     -   Drill Run
-  -   Piloswine, Level 45. (Aruo)
+-   Piloswine, Level 45. (Aruo)
     -   Icicle Crash
     -   Ice Shard
     -   Stomping Tantrum
     -   Rock Slide
-  -   Leafeon, Level 45. (Aruo)
+-   Leafeon, Level 45. (Aruo)
     -   X-Scissor
     -   Leaf Blade
     -   Bite
@@ -10733,7 +10733,7 @@ When you are about to reach the end, you will end up in a boss battle
 against a Gothitelle
 
 **Gothitelle (Forest Field). 2 HP Bars. Story Mode.**
-  -   Crescent’s Gothitelle, Level 45.
+-   Crescent’s Gothitelle, Level 45.
     -   Play Nice
     -   Psyshock
     -   Focus Blast
@@ -10741,12 +10741,12 @@ against a Gothitelle
 -   After clearing 1 HP bar, field changes to Psychic Terrain.
 
 **Gothitelle (Forest Field). 2 HP Bars. Classic Mode.**
-  -   Crescent’s Gothitelle, Level 50.
+-   Crescent’s Gothitelle, Level 50.
     -   Play Nice
     -   Psyshock
     -   Focus Blast
     -   Dark Pulse
-  -   After clearing 1 HP bar, field changes to Psychic Terrain.
+-   After clearing 1 HP bar, field changes to Psychic Terrain.
 
 The only difference between the two difficulties is the level, but it is
 quite easy in general, even if some mons may be defeated in one hit if
@@ -10777,54 +10777,54 @@ Advance and say whatever at the choice. You will fight Rorim B first. It
 is a double battle.
 
 **Dance Prodigy Rorim B (Swamp Field). Story Mode.**
-  -   Pom-Pom Style Oricorio, Level 41.
+-   Pom-Pom Style Oricorio, Level 41.
     -   Calm Mind
     -   Feather Dance
     -   Revelation Dance
     -   Air Slash
-  -   Ludicolo, Level 41.
+-   Ludicolo, Level 41.
     -   Fake Out
     -   Rain Dance
     -   Bubble Beam
     -   Giga Drain
-  -   Volcarona, Level 41.
+-   Volcarona, Level 41.
     -   Struggle Bug
     -   Quiver Dance
     -   Giga Drain
     -   Fiery Dance
-  -   Altaria, Level 41.
+-   Altaria, Level 41.
     -   Dragon Dance
     -   Earthquake
     -   Dragon Claw
     -   Roost
 
 **Dance Prodigy Rorim B (Swamp Field). Classic Mode.**
-  -   Pom-Pom Style Oricorio, Level 42.
+-   Pom-Pom Style Oricorio, Level 42.
     -   Calm Mind
     -   Hidden Power (Ice)
     -   Revelation Dance
     -   Air Slash
-  -   Bellossom, Level 42.
+-   Bellossom, Level 42.
     -   Quiver Dance
     -   Teeter Dance
     -   Giga Drain
     -   Sludge Bomb
-  -   Ludicolo, Level 42.
+-   Ludicolo, Level 42.
     -   Fake Out
     -   Rain Dance
     -   Bubble Beam
     -   Giga Drain
-  -   Baile Style Oricorio, Level 42.
+-   Baile Style Oricorio, Level 42.
     -   Calm Mind
     -   Hidden Power (Rock)
     -   Revelation Dance
     -   Air Slash
-  -   Ludicolo, Level 42.
+-   Ludicolo, Level 42.
     -   Fake Out
     -   Rain Dance
     -   Scald
     -   Giga Drain
-  -   Altaria, Level 42.
+-   Altaria, Level 42.
     -   Dragon Dance
     -   Earthquake
     -   Dragon Claw
@@ -10845,54 +10845,54 @@ there is Zygarde Cell.
 Go ahead to fight Crawli, it is doubles again.
 
 **Head Ranger Crawli (Swamp Field). Story Mode.**
-  -   Ariados, Level 41. @ Silver Powder.
+-   Ariados, Level 41. @ Silver Powder.
     -   Barbed Web
     -   Poison Jab
     -   Shadow Sneak
     -   Sucker Punch
-  -   Orbeetle, Level 41.
+-   Orbeetle, Level 41.
     -   Bug Buzz
     -   Struggle Bug
     -   Psychic
     -   Magic Coat
-  -   Escavalier, Level 42.
+-   Escavalier, Level 42.
     -   Iron Head
     -   Iron Defense
     -   Headbutt
     -   X-Scissor
-  -   Araquanid, Level 43. @ Leftovers.
+-   Araquanid, Level 43. @ Leftovers.
     -   Barbed Web
     -   Liquidation
     -   Poison Jab
     -   Protect
 
 **Head Ranger Crawli (Swamp Field). Classic Mode.**
-  -   Ariados, Level 43. @ Telluric Seed.
+-   Ariados, Level 43. @ Telluric Seed.
     -   Barbed Web
     -   Stomping Tantrum
     -   Poison Jab
     -   Shadow Sneak
-  -   Galvantula, Level 44. @ Focus Sash.
+-   Galvantula, Level 44. @ Focus Sash.
     -   Bug Buzz
     -   Sticky Web
     -   Thunder
     -   Struggle Bug
-  -   Escavalier, Level 43. @ Assault Vest.
+-   Escavalier, Level 43. @ Assault Vest.
     -   Knock Off
     -   Iron Head
     -   Drill Run
     -   Barbed Web
-  -   Golisopod, Level 43. @ Sitrus Berry.
+-   Golisopod, Level 43. @ Sitrus Berry.
     -   First Impression
     -   Aqua Jet
     -   Leech Life
     -   Liquidation
-  -   Accelgor, Level 44. @ Telluric Seed.
+-   Accelgor, Level 44. @ Telluric Seed.
     -   Protect
     -   Giga Drain
     -   Mud Barrage
     -   Struggle Bug
-  -   Araquanid, Level 45. @ Mystic Water.
+-   Araquanid, Level 45. @ Mystic Water.
     -   Liquidation
     -   Sticky Web
     -   Barbed Web
