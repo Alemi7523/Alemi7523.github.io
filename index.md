@@ -158,6 +158,11 @@
     - [Aquamarine Depths](#aquamarine-depths)
     - [Aquamarine Chamber](#aquamarine-chamber)
     - [Teila Resort](#teila-resort)
+    - [Aquamarine Cave (2nd Visit)](#aquamarine-cave-2nd-visit)
+    - [Secluded Shore](#secluded-shore)
+    - [Quest 38: Poliwag Quest (Fifth)](#quest-38-poliwag-quest-fifth)
+    - [Teila Resort (2nd Visit)](#teila-resort-2nd-visit)
+  - [September 9th \| A Trial of Reuinions](#september-9th-a-trial-of-reunions)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -10150,9 +10155,9 @@ scientist on the right. You can repeat this trade as much as you want.
 
 Also, you can get 3 ***Fresh Waters*** by talking with the receptionist.
 
-There northernmost scientist has a shop
+There northernmost scientist has a shop.
 
-***Petal Shop New Items***
+***Petal Shop***
 
 | **Item**       | **Price** |
 |----------------|-----------|
@@ -11251,6 +11256,239 @@ On the left side of the sandcastle there is a hidden ***Repel***.
 Continue west to reach Relia Resort.
 
 ### Teila Resort
+
+Go south after a small lake to pick an ***Occa Berry*** from its berry
+tree and a Zygarde Cell.
+
+**ZCell 057: Teila Resort**
+<img src="assets/media/image68.png"/>
+
+Go west and south at the birth water bridge. You will find a Hyper
+Potion and another Zygarde Cell.
+
+**ZCell 058: Teila Resort**
+<img src="assets/media/image69.png"/>
+
+Enter this house, you can trade an Oranguru for a **Passimian**. Before
+trading the Oranguru, show it to the one in the corner who will gift you
+***Wise Glasses*** if you show a Psychic mon.
+
+Leave the house. Go west and a couple of tiles left and south of the
+next stairs you can go up, there is a hidden ***Rawst Berry***. Use the
+stairs and pick the ***Elixir***.
+
+Go back south and advance west until fining three shops on the south.
+
+**Teila Resort Top Shop**
+
+| **Item**        | **Price** |
+|-----------------|-----------|
+| *Poké Ball*     | $200      |
+| *Great Ball*    | $600      |
+| *Super Potion*  | $700      |
+| *Full Heal*     | $600      |
+| *Antidote*      | $100      |
+| *Ice Heal*      | $250      |
+| *Paralyze Heal* | $200      |
+| *Burn Heal*     | $250      |
+| *GourmetTreat*  | $1500     |
+| *Super Repel*   | $500      |
+| *Max Repel*     | $700      |
+| *Reverse Candy* | $50       |
+
+**Teila Resort Middle Shop**
+
+| **Item**            | **Price** |
+|---------------------|-----------|
+| *Apophyll Pancakes* | $3000     |
+| *Tart Apple*        | $1100     |
+| *Sweet Apple*       | $1100     |
+
+**Teila Resort Bottom Shop**
+
+| **Item**      | **Price** |
+|---------------|-----------|
+| *Berry Juice* | $1000     |
+
+Go north and you will find a hidden ***Water*** Gem close to the lower
+of the two rocks.
+
+Use the western stairs to activate the Noctowl Statue and go east this
+time. On the shallow water tile south of Aelita there is a hidden
+***Blue Shard***.
+
+Go north through the shallow water until you reach land. Go east. There
+is a hidden Full heal on a small moss rock. Go south to find ***Lax
+Mint***.
+
+Enter the northern mansion.
+
+Afte the scene, show a Fighting type to the material artist on the left
+to get a ***Muscle Band***.
+
+Go to the top floor and enter the right room to find a Zygarde Cell.
+
+**ZCell 059: Teila Resort**
+<img src="assets/media/image70.png"/>
+
+Return downstairs and use the east door Tesla and Melia used on the
+previous scene to have another scene. You will receive ***TM101 Rock
+Climb*** and become able to use it outside battle as we already have the
+required badge.
+
+We will need to revisit some old areas now that we can climb, but better
+to wait a bit for that.
+
+The room on the left has a massage service that increases friendship.
+
+Leave the mansion for a scene, which again has some changes if you
+defeated Madam X.
+
+**Friendship Point Choice:**
+-   You’re foolish! (Melia +2, Venam -1)
+-   Contracts Smonctracts… (Melia -1, Venam +2)
+-   You’re stupid. (Melia -2, Venam -2)
+
+After the scene, go to Aquamarine Cave, which we can explore further
+thanks to Rock Climb.
+
+### Aquamarine Cave (2nd Visit)
+
+Return to the lower level of the cave. Use the ladder leading to the
+depths. And follow the way, climb on the end to find ***TM20
+Safeguard*** . Go back to the ladder and climb it up. Us rock climb on
+the left wall.
+
+Before using the ladder here, go south and then east to find a hidden
+***Blue Shard*** on a rock.
+
+Go west, and on the rock that you will find there on the end, there is a
+hidden ***Blue Shard***. Go north and interact with a moss rock for a
+hidden ***Pearl***. Continue north. One tile down and right of the
+southernmost grass tile, there is a hidden ***Pearl***.
+
+Go east and south to find a ***Water Stone***. There are overworld
+Golduck here. Return where the grass was and break a rock in the north.
+Continue north and go downstairs once on the east. On the right of the
+northern rock, there is a hidden ***Repel***.
+
+Go north, and on a lightly colored stone there is a hidden ***Exp. Candy
+M***.
+
+Use rock climb to open a chest containing 3 ***Exp. Candy XL***, and a
+***Macho Brace***.
+
+Continue east to find some minable rocks, a hidden ***Telluric Seed***
+on the northern small round rock, and ***Aquamarine Ore*** key item,
+which has a special icon you should notice easily.
+
+Go back to where the stairs were and continue south, on the upper rock
+of the two you will find here, there is a hidden ***Green Shard***.
+
+Now go back to the ladder we ignored and use it.
+
+Go north to find a hidden ***Fresh Water*** on the rock at the end. Go
+north as soon as you can, on the middle of the rock at the end there is
+a hidden ***Ether***.
+
+Go all way east to find Amber.
+
+Refuse to leave since we can do a bit more of exploration here.
+
+Go south to climb a ladder. Go north, on the northernmost rock there is
+a hidden ***Green Shard***.
+
+Go west and jump using the highest path. On the north there is ***Sea
+Incense*** and a mining rock. Return to where there where to places to
+jump. A bit south there is another mining rock, use the lower jumping
+place this time.
+
+You can jump again on the south, on a rock west after this jump there is
+a hidden ***Rock Gem***.
+
+Jumo down and go east and then north. On the opposite wall of the
+trainer and a tile up, there is a hidden ***Blue Shard***. You can find
+a mining rock if you continue north.
+
+Go south and jump down once. On the east there is a worker asking you
+for a Protein, give it to him, and you will receive a **Tyrogue**.
+
+Now, go west until you can go north. Continuing west lets you get
+another mining stone, otherwise jump north here once and on the top
+right corner there is a hidden ***Link Heart***.
+
+Continue north to return to the place with two jumps, return to before
+the northern jump. This time jump to the right, and then to the north.
+Go up with the ladder. On the northern blue rock there is a hidden
+Escape Rope.
+
+Go east to find a hidden Synthetic Seed on another rock. Go north to
+reach the Secluded Shore.
+
+### Secluded Shore
+
+There is a hidden ***Elixir*** on the left and a hidden ***Elemental
+Seed*** on the right.
+
+Go north for a small scene. On the right moss rock here, there is a
+hidden ***Magical Seed***.
+
+Surf on the right side and you will find a small piece of land where you
+can climb up.
+
+There is a hidden ***Hyper Potion*** a bit southeast from here. There is
+a mining rock on the south, and another on the north. On the north there
+is also a ***Mild Mint*** and 4 ***Exp. Candy L***.
+
+On the opposite side of the room, you can find another piece of land to
+climb up.
+
+On the northwest rock there is a hidden ***X Defend***, and on the rock
+behind the northern mining rock, there is a hidden ***Link Heart***.
+There are a couple more mining rocks on the south.
+
+### Quest 38: Poliwag Quest (Fifth)
+
+Climb down and surf north a bit to find the fifth Poliwag.
+
+Surf to the north to leave to a new part of Route 5. Go North to find a
+Zygarde Cell.
+
+**ZCell 060: Route 5 (Secluded Shore Entry)**
+<img src="assets/media/image71.png"/>
+
+Surf west from here to find a hidden ***Resist Wing*** on the water.
+
+Now go east to find an island. On the second grass tile from the north
+there is a hidden ***Pearl***, and on the right of the southern one a
+hidden ***Zinc***.
+
+Surf east and land on the island there to get ***Sun Stone*** and
+***TM104 Deluge***.
+
+You can now return to Teila Resort.
+
+### Teila Resort (2nd Visit)
+
+Enter the northern mansion once again, and go to the right room for a
+scene.
+
+**Friendship Point Choice:**
+-   What did you do? (Neutral)
+-   Is not your fault. (Tesla +2)
+-   Maybe it was. (Melia -2, Tesla -2. If Melia has negative points, she
+    loses an additional 2).
+
+Leave your house and there the house on the left, the one Saki was
+bothering earlier. There is a Zygarde Cell inside.
+
+**ZCell 061: Teila Resort**
+<img src="assets/media/image72.png"/>
+
+Return to your house and talk with Melia to end the day. You will see a
+scene at Valor Mountain.
+
+## September 9th \| A Trial of Reunions
 
 
 
