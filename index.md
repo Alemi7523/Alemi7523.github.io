@@ -152,6 +152,12 @@
     - [Quest 44: Chase Team AA](#quest-44-chase-team-aa)
   - [Infested Badge](#infested-badge)
 - [Chapter 7: A Teila Fire and Ice](#chapter-7-a-teila-fire-and-ice)
+  - [September 8th \| A Trial by Fire](#september-8th-a-trial-by-fire)
+    - [Quest 45: Dragonite's Lost Mail 3](#quest-45-dragonites-lost-mail-3)
+    - [Aquamarine Cave](#aquamarine-cave)
+    - [Aquamarine Depths](#aquamarine-depths)
+    - [Aquamarine Chamber](#aquamarine-chamber)
+    - [Teila Resort](#teila-resort)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -10935,7 +10941,317 @@ is a literal nightmare, but you wake up.
   -   Good morning? (Neutral)
   -   Does it look like I’m okay? (Aelita -1)
 
-Go downstairs for another scene. Your new destination is Terajuma Beach.
+Go downstairs for another scene. Your new destination is Terajuma Beach,
+where you soon will get another scene.
+
+Talk to Holly to continue with the story. Now go to the western side and
+talk with the girl on the right part. The choice doesn’t matter.
+
+You can now talk with Holly on the stage. The festival will end after
+the cutscenes if you select yes, but there is no reason to not end it.
+
+**Friendship Point Choice:**
+-   Encore! (Aelita +2)
+-   Uh… (Neutral)
+
+Approach the stage to trigger another cutscene.
+
+Level up your team if you haven’t done it yet, then talk to Melia for a
+double battle against Venam and Saki. You can select only three of your
+mons for this battle.
+
+**Punk Girl Venam and Ultimate Engineer Saki (Glitch Field). Story
+Mode.**
+-   Metagross, Level 46. (Saki)
+    -   Explosion
+    -   Explosion
+    -   Earthquake
+    -   Earthquake
+-   Aggron, Level 45. (Saki)
+    -   Protect
+    -   Heavy Slam
+    -   Aqua Tail
+    -   Low Quick
+-   Probopass, Level 47. (Saki)
+    -   Ice Punch
+    -   Fire Punch
+    -   Thunder Punch
+    -   Rest
+-   Alolan Muk, Level 45. (Venam)
+    -   Disable
+    -   Sludge Wave
+    -   Minimize
+    -   Ice Punch
+-   Toxapex, Level 45. (Venam)
+    -   Recover
+    -   Toxic
+    -   Venoshock
+    -   Scald
+-   Seviper, Level 49. (Venam)
+    -   Toxic
+    -   Night Slash
+    -   Earthquake
+    -   Gunk Shot
+
+**Punk Girl Venam and Ultimate Engineer Saki (Glitch Field). Classic
+Mode.**
+-   Forretress, Level 46. @ Custap Berry. (Saki)
+    -   Gyro Ball
+    -   Stealth Rock
+    -   Explosion
+    -   Bulldoze
+-   Probopass, Level 47. @ Sitrus Berry. (Saki)
+    -   Discharge
+    -   Power Gem
+    -   Explosion
+    -   Flesh Cannon
+-   Magneton, Level 48. @. Eviolite. (Saki)
+    -   Discharge
+    -   Explosion
+    -   Flesh Cannon
+    -   Thunder Wave
+-   Metagross, Level 49. @ Choice Scarf. (Saki)
+    -   Earthquake
+    -   Explosion
+    -   Earthquake
+    -   Explosion
+-   Alolan Muk, Level 46. @ Iapapa Berry. (Venam)
+    -   Poison Jab
+    -   Crunch
+    -   Minimize
+    -   Ice Punch
+-   Toxtricity, Level 47. @ Air Ballon. (Venam)
+    -   Fire Punch
+    -   Overdrive
+    -   Boomburst
+    -   Snarl
+-   Venusaur, Level 48. @ Black Sludge. (Venam)
+    -   Giga Drain
+    -   Sleep Powder
+    -   Sludge Bomb
+    -   Earthquake
+-   Seviper, Level 49. @ Assault Vest. (Venam)
+    -   Sludge Wave
+    -   Giga Drain
+    -   Flamethrower
+    -   Earthquake
+
+Saki likes to explode, and they have 8 mons in total while you only six,
+so you have less mons, and you are fighting with Melia as companion so
+only 3 are yours... This only affects Classic Mode though. The Glitch
+Field may be problematic depending on your team. Note that Fairy moves
+will become normal, and that what is physical and special will depend on
+the type. You may want to build a team for this specific battle if what
+you have doesn't go well on a Glitch Field and against these opponents.
+
+**Friendship Point Choice:**
+-   I had fun! (Melia +2)
+-   It was a hassle… (Melia -2)
+
+Now return to Kakori Village and talk to Crawli who is in front of your
+house.
+
+Go to sleep and several days will pass in a blink.
+
+## September 8th \| A Trial by Fire
+
+Go downstairs for a scene. Our next target is Aquamarine Cave, which is
+west of Mynori Sea.
+
+Last time we visited the area, it was impossible to enter the cave, but
+the wat is now open. However, there is a quest to do first.
+
+### Quest 45: Dragonite's Lost Mail 3
+
+Speak with Dragonite before starting to look for the four pieces of
+mail.
+
+The first is a bit north from Dragonite, on an island you can walk into.
+
+The second is west of Dragonite, on the westernmost point.
+
+The third is on an island on the northeast. You need to surf there.
+
+The fourth is near the entrance of the Aquamarine Cave, there is also a
+hidden ***Shoal Shell*** a couple of ties south of the entrance and one
+right.
+
+Talk to Dragonite again to complete the quest. You will get a ***Shiny
+Stone*** as a reward.
+
+Now, enter the Aquamarine Cave.
+
+### Aquamarine Cave
+
+Go downstairs on the northern rock there is a hidden ***Max Repel***.
+Talt to a guy near the wall on the north to get ***TM05 Roar***.
+
+Reach the western wall and go north. On the northernmost tile there is a
+hidden ***Water Gem***.
+
+Go south and on the sand area, check the right side of the three to get
+a hidden ***Elemental Seed***.
+
+Go through the ladder and step forwards twice and look south, there is a
+hidden ***Escape Rope*** here. Continue south to find a hidden ***Blue
+Shard*** on a rock.
+
+You can find overworld Psyduck here.
+
+Continue south to find a hidden ***Rock Gem*** on a rock on the right
+side.
+
+Continue to have a small scene with Melia. Ou will se another scene
+after advancing a bit more.
+
+Once you couldn't go south anymore, you will be able to find a hidden
+***Synthetic Seed***. Use the Item Finder to pinpoint its exact
+position. Continue west for another scene; the choice here doesn’t
+matter.
+
+**Aquamarine Cave Encounters**
+
+| **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|-----------|-------|-------------|-------|--------------|-------|
+| Spheal    | 65    | Goldeen     | 70    | Spheal       | 60    |
+| Seal      | 25    | Carvanha    | 30    | Seel         | 20    |
+| Dewgong   | 7     |             |       | Basculin     | 20    |
+| Saleo     | 3     |             |       |              |       |
+
+On the water here, you can have encounters and also fish. On the small
+island you can reach surfing there is an overworld Corsola, an overworld
+Woobat, and a hidden ***Exp. Candy M***.
+
+Go to the western piece of land, there are overworld Spheal and Saleo
+here. If you mine the northern rock and then again with Blast Powder,
+you can get a hidden ***Exp. Candy L*** behind it.
+
+Do the same on the southern mining rock and you will gain access to a
+Lax Mint and a hidden ***Big Pearl*** on the southern rock.
+
+Now return to the area of the last scene and go down through the
+southern ladder.
+
+### Aquamarine Depths
+
+You are now on Aquamarine Depths. You can find an overworld Kingler
+here.
+
+Surf to the area of the Kingler, on the small piece of land north of it
+there is a hidden ***Blue Shard***.
+
+Surf to the right and check the second triangular rock on an island to
+find a hidden ***Shoal Shell***.
+
+On the northeast piece of land there is a hidden Shoal Salt.
+
+Surf directly to the middle of the second waterfall from the left and
+you will reach a new map.
+
+There are some rocks to mine here, but otherwise, proceed to the north.
+
+On the new room, go left and push Braixen to the triangle mark on the
+ground. There is a hidden ***Super Repel*** to tiles to the left.
+
+Move the floating rock on the left to the nearby mark on the ground.
+
+Between two rocks you can break there is a hidden ***Super Potion***.
+
+Go east and surf to move a rock to the X mark on the ground. There is
+hidden ***Gourmet Treat*** on the ordinary rock here.
+
+Continue east and move another rock to the nearby mark. Do the same with
+the one just right of it.
+
+Go south to find another floating rock, but before pushing it, go east
+and interact with the rock there to find a hidden ***Green Shard***.
+
+Once all marks on the ground have something on them, step on the square
+in front of the door and activate it to open it.
+
+### Aquamarine Chamber
+
+You can pick five hidden items before reaching any of the stairs.
+***Water Gem*** and ***Blue Shard*** on the right side and ***Blue
+Shard***, ***Red Shard***, and ***Water Gem*** on the left side.
+
+You can read the board in the center if you have the book to understand
+it.
+
+Go upstairs on any side to trigger the next scene.
+
+**Xen Mage ??? (Water Surface). Story Mode.**
+-   **Trainer Effects**
+    -   **Stat Combat: Attack +1**
+    -   **2 remaining: Defense +1.**
+-   Carnivine, Level 40.
+-   Chandelure, Level 40.
+-   Hippowdon, Level 40.
+
+**Xen Mage ??? (Water Surface). Classic Mode.**
+-   **Trainer Effects**
+    -   **Stat Combat: Attack +1, Speed +1.**
+    -   **3 remaining: Defense +1, Special Defense +1.**
+-   Carnivine, Level 43.
+    -   Crunch
+    -   Seed Bomb
+    -   Leech Seed
+    -   Stun Spore
+-   Galvantula, Level 42.
+    -   Bug Buzz
+    -   Volt Switch
+    -   Thunder Wave
+    -   Struggle Bug
+-   Chandelure, Level 43.
+    -   Inferno
+    -   Hex
+    -   Substitute
+    -   Fire Spin
+-   Hippowdon, Level 42.
+    -   Dig
+    -   Ice Fang
+    -   Curse
+    -   Rock Slide
+
+Xen Mages can give special effects to their parties similar to bosses
+but with remaining mons instead of HP bars.
+
+After the battle you will be outside the chamber, but open it again
+since there is something we need to get there.
+
+**ZCell 056: Aquamarine Chamber**
+
+<img src="assets/media/image67.png"/>
+
+Once you have the Zygarde Cell eave again ago climb the northern ladder.
+
+There is a hidden ***Ice Heal*** on the nethermost tile. Go south and
+west to find a hidden ***Star Piece*** on a rock there. Leave through
+the south and you will be on the other side of Route 5.
+
+There is a hidden ***Yellow Shard*** south of the entrance and a bit to
+the left. Use the Item Finder.
+
+Go west and diagonal up and left of the first big tree you see there is
+a hidden ***Ether***.
+
+There are overworld Krabby and Kingler in the area.
+
+Go south to find a hidden ***Love Ball*** on the left side of a strange
+rock.
+
+Go north and on a tile left of a big rock, there is a hidden
+***Pearl***.
+
+On the tile at the right of the man with a white shirt, there is a
+hidden ***Lemonade***.
+
+On the left side of the sandcastle there is a hidden ***Repel***.
+
+Continue west to reach Relia Resort.
+
+### Teila Resort
+
 
 
 
