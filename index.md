@@ -1,5 +1,4 @@
 # Rejuvenation 13.5 100% Walkthough
-
 - [About this guide](#about-this-guide)
 - [Prologue](#prologue)
 - [Intro](#intro)
@@ -139,10 +138,23 @@
   - [Evergreen Island](#evergreen-island)
   - [Back to Terajuma Island](#back-to-terajuma-island)
     - [Quest 38: Poliwag Quest (Fourth)](#quest-38-poliwag-quest-fourth)
+    - [Back to Terajuma Story](#back-to-terajuma-story)
+  - [September 2nd \| A Trial of Hope](#september-2nd-a-trial-of-hope)
+    - [Quest 33: Building Bridges (Continuation)](#quest-33-building-bridges-continuation)
+    - [Quest 40: Battle Me Once More!](#quest-40-battle-me-once-more)
+    - [Sky Relic](#sky-relic)
+    - [Quest 41: Black Shard Secret](#quest-41-black-shard-secret)
+    - [Quest 42: Abnormal Phenomenon](#quest-42-abnormal-phenomenon)
+    - [Helojak Island](#helojak-island)
+    - [Helojak Factory](#helojak-factory)
+  - [Kakori Help Plaza](#kakori-help-plaza)
+    - [Quest 43: Suspicious Person](#quest-43-suspicious-person)
+    - [Quest 44: Chase Team AA](#quest-44-chase-team-aa)
+  - [Infested Badge](#infested-badge)
+- [Chapter 7: A Teila Fire and Ice](#chapter-7-a-teila-fire-and-ice)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
-
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
   - [Awakening Adrest](#awakening-adrest)
   - [December 6th \| A Light of Determination](#december-6th-a-light-of-determination)
@@ -906,7 +918,6 @@ trainer.
 **Charmer Buzzington (City Field)**
 -   Story Mode: Bulbasaur level 8, Exeggcute level 8, and Rhyhorn level
     9.
-
 -   Classic Mode: Bulbasaur level 9, Exeggcute level 9, and Rhyhorn
     level 10.
 
@@ -962,7 +973,6 @@ relevant, but this one is easy enough to get/reject.
 
 **Tourist Kageyama (City Field)**
 -   Story Mode: Torchic level 13, Hippopotas level 12, Wingull level 13
-
 -   Classic Mode: Torchic level 12, Hippopotas level 13, Wingull level
     12
 
@@ -1790,7 +1800,6 @@ Now return to the Gym and prepare yourself for your first Gym battle.
     -   Venam\'s Kiss
     -   Thief
     -   Spikes
-
 -   Croagunk. Level 14. @Normal Gem.
     -   Fake Out
     -   Encore
@@ -1871,7 +1880,6 @@ The rewards are based on the number of cells you get, the total
 objective is 150, but it looks like only one core and 142 cells are
 actually in the game right now, and the best reward we can get is for
 120 of them.
-
 -   Reward for collecting 5 Cells: ***TM49 Echoed Voice***
 -   Reward for collecting 10 Cells: ***Cell Imprint***
 -   Reward for collecting 15 Cells: ***Cell Imprint***
@@ -2321,7 +2329,6 @@ with you.
     -   Pursuit
     -   Confuse Ray
     -   Haze
-
 -   Misdreavus, Level 16.
     -   Shadow Sneak
     -   Psywave
@@ -3777,7 +3784,6 @@ commission, so you can't catch it.
 
 On the room, interact with the panel. You get the options. Feed doesn't
 do anything, but the other two branch the story a bit.
-
 -   Shut Down, lets you input as code to shutting Volcanion down, you
     don't know the code if you are playing normally, but it exists.
     -   XE089321
@@ -4214,7 +4220,6 @@ Now gave to fight a servant with that annoying Dusknoir.
     -   Will-o-Wisp
     -   Infestation
     -   Payback
-
 -   After clearing 1 HP bar, Dusknoir will heal any stat drop, get new
     moves and increase Attack and Defense.
     -   Shadow Punch
@@ -5560,7 +5565,7 @@ the Wisp.
 Grab the ***Reverse Candy*** on the right side and you can also find a
 Zygarde Cell on the north.
 
-ZCell 026: Wispy Path
+**ZCell 026: Wispy Path**
 
 <img src="assets/media/image31.png"/>
 
@@ -5874,7 +5879,6 @@ prepare to fight a double battle.
     -   Stun Spore
     -   Ancient Power
     -   Knock Off
-
 -   Lickitung, Level 31. @ Leftovers.
     -   Icy Wind
     -   Body Slam
@@ -6319,8 +6323,8 @@ same except the TM.
 
 Actually, with the same Mightyena and adding a Zoroark with Knock Off,
 you can defeat the Culvier Clan member who has the Level 10 Abra, Level
-45 Kadabra, and Level 85 Alakazam, who is supposed to be fourth. She is
-in the 3rd Floor of the Aqua Building in East Gearen City.
+45 Kadabra, and Level 85 Alakazam. This one is supposed to be fourth though.
+She is on the 3rd Floor of the Aqua Building in East Gearen City.
 
 **Challenger Mercury (No Field)**
 -   Abra, Level 10. @ Focus Sash
@@ -7130,7 +7134,6 @@ Now follow Adam and talk to him for a scene.
 Time to fight this unreasonable person.
 
 **Prima Donna Jona (Cave Field)**
-
 - Story Mode: Stunkfisk 33, Dugtrio 34, Lopunny 33.
 - Classic Mode: Stunkfisk 35, Dugtrio 35, Lopunny 35.
 
@@ -8279,7 +8282,6 @@ Your result against Madame X will be mentioned here and you can gamble money on 
 The dialogues after the battle also change depending on if you win in one try or not.
 
 **Water Show Performer Valarie (Water Surface). Story Mode.**
-
 - Qwilfish, Level 35.
   - Deluge
   - Rain Dance
@@ -8302,7 +8304,6 @@ The dialogues after the battle also change depending on if you win in one try or
   - Encore
 
 **Water Show Performer Valarie (Water Surface). Classic Mode.**
-
 - Qwilfish, Level 38. @ Poison Barb. 
   - Deluge
   - Poison Jab
@@ -8370,7 +8371,6 @@ Again, choice doesn’t matter.
 You will have to fight Geara.
 
 **Xen Executive Geara (Beach Field/ Permanent Hail). Story Mode.**
-
 - Clefable, Level 40. 
   - Dazzling Gleam
   - Seismic Toss
@@ -8393,7 +8393,6 @@ You will have to fight Geara.
   - Venoshock
 
 **Xen Executive Geara (Beach Field/ Permanent Hail). Classic Mode.**
-
 - Persian, Level 39. @ Muscle Band
   - Night Slash
   - Return
@@ -9124,7 +9123,6 @@ the following answers to get it. Each correct answer gives Eizen
 Friendship Points +1, while giving the “incorrect” answer, which is the
 one that would seem correct if you only eve played 13.5 and didn’t use a
 guide would make you lose a point instead. Here are the correct answers:
-
 -   AKORA SHORE
 -   SUMMER
 -   EAST
@@ -9518,7 +9516,6 @@ You have to give him 10 Sweet Hearts. Remember that I told you to buy
 them back then on Route 3? Now is the time to use them.
 
 **Xen Grunt Quentin (No Field/Permanent Hail). Story Mode.**
-
 -   Seaking, Level 44
     -   Waterfall
     -   Smart Strike
@@ -9572,7 +9569,7 @@ Grunt was confessing his love to.
 You can talk to the Grunt at the shore to realize he didn’t know the
 truth and then the grunt will leave. This is all for this quest.
 
-### **Quest 38: Poliwag Quest** (Third)
+### Quest 38: Poliwag Quest (Third)
 
 Go south and border the island to the right side. until you can stop
 surfing. There is a Zygarde Cell here, and on the rock behind it a
@@ -9823,8 +9820,8 @@ will return here at that time.
 
 We are done here, so leave the forest.
 
-Trade a Loppuny for a **Shroomish** to the girl right of the stairs on
-the beach.
+Trade a Loppuny for a **Shroomish** to the girl at the right of the stairs
+on the beach.
 
 You can pay a guy to bring you back to Akuwa Town, but it costs $2500. I
 feel that going back manually isn’t hard enough to deserve paying that
@@ -9841,16 +9838,1104 @@ time he only asks for $1500.
 
 After disembarking go to Deep Terajuma Jungle.
 
-### **Quest 38: Poliwag Quest** (Fourth)
+### Quest 38: Poliwag Quest (Fourth)
 
 Go the beach in front of the house and surf to the right. You will see
 the fourth Poliwag. Catch its attention and it will leave.
 
-Now return to Kakori village and talk with Melia in your house.
+### Back to Terajuma Story
 
+Return to Kakori village and talk with Melia in your house. You need to
+say “April Berry Moose Cake” to proceed. She won’t react to the other 
+options, and you will have to choose again.
 
+**Friendship Point Choice:**
+- Definitely not. (Aelita +2, Adam +2, Melia +2, Valarie +2)
+- Sitting can be fun. (Aelita +1, Adam +1, Melia -1, Valarie -2)
 
+Except for the Friendship Points, the outcome of the choice doesn’t change
+what the group is going to do. After a bit more of conversation, you will 
+see a scene somewhere else.
 
+## September 2nd \| A Trial of Hope
+
+Go downstairs for a scene. We need to get the relics to the Terajuma
+Trial, and our first target is the Sky Relic at the Great Terajuma
+Falls.
+
+You can now enter the Help Plaza. We will leave some for later, but we
+are going to finish a couple before the story.
+
+### Quest 33: Building Bridges (Continuation)
+
+We already have this done, so it is basically claim the reward. $4890
+and a ***Sun Stone***, and +1 Karma.
+
+### Quest 40: Battle Me Once More!
+
+Time for another battle with Novae. Get your best team and go to Mynori
+Sea she is on a small island on the left side, but you can reach it
+walking on shallow water. You will get a text variation later in the
+story for doing this now.
+
+**Wanderer Novae (Beach Field). Story Mode.**
+  -   Toucannon, Level 44. @ Yache Berry.
+    -   Beak Blast
+    -   Roost
+    -   Bullet Seed
+    -   Rock Blast
+  -   Lycanroc, Level 46. @ Focus Sash.
+    -   Stone Edge
+    -   Crunch
+    -   Accelerock
+    -   Swords Dance
+  -   Palossand, Level 473. @ Leftovers.
+    -   Shadow Ball
+    -   Shore Up
+    -   Earth Power
+    -   Giga Drain
+  -   Passimian, Level 50. @ Sitrus Berry.
+    -   Iron Head
+    -   Close Combat
+    -   Brutal Swing
+    -   Bulk Up
+
+**Wanderer Novae (Beach Field). Classic Mode.**
+  -   Toucannon, Level 42. @ Yache Berry.
+    -   Beak Blast
+    -   Roost
+    -   Bullet Seed
+    -   Rock Blast
+  -   Vikavolt, Level 43. @ Sitrus Berry.
+    -   Thunderbolt
+    -   Bug Buzz
+    -   Air Slash
+    -   Roost
+  -   Lycanroc, Level 45. @ Rock Gem.
+    -   Stone Edge
+    -   Crunch
+    -   Accelerock
+    -   Drill Run
+  -   Tsareena, Level 43. @ Grass Gem.
+    -   Trop Kick
+    -   Knock Off
+    -   Play Rough
+    -   Acrobatics
+  -   Palossand, Level 43. @ Leftovers.
+    -   Shadow Ball
+    -   Shore Up
+    -   Earth Power
+    -   Giga Drain
+  -   Passimian, Level 45. @ Sitrus Berry.
+    -   Iron Head
+    -   Close Combat
+    -   Brutal Swing
+    -   Bulk Up
+
+Less mons on story but far higher level and EV trained. She gets good
+coverage with her team, and it is better to take them our quickly as
+they hit hard. I find story mode worse given this as Lycanroc has Focus
+Sash and higher level. Of course, there is no Vikavolt not Tsareena
+there. Be careful with Physical moves and Toucannon or you may end up
+burnt. She is very though, so you may want to set your team to counter
+her or wait to have an additional badge.
+
+After defeating her, return to the Help Center to get $4500, 10
+***Reverse Candies**,* 10 ***Max Repels**,* 10 ***Super Potions**, and*
++1 Karma
+
+We can’t complete the other three until we progress more in the story,
+so we will deal with them a bit later.
+
+### Sky Relic
+
+Go to Deep Terajuma Jungle for a scene. The game trats it as if that is
+your first time there, but we have already explored it before.
+
+There is a choice here, but only the immediate text is affected by it,
+so choose whatever you want.
+
+Cross the bridge and activate the Noctowl Statue, which we couldn’t
+activate on our previous visit.
+
+Continue through the bridge for another scene. You will be healed and
+have to fight a boss. Winning gets tracked, and if you lose, you get 5
+**Exp. Candy M**.
+
+**Thunder Warrior (No Field). 3 HP Bars. Story Mode.**
+  -   Tapu Koko, Level 42
+    -   Steel Wing
+    -   Nature Madness
+    -   Electric Terrain
+    -   Discharge
+  -   After having finished 2 HP Bars, Tapu Koko’s moveset is updated and
+    any drop in stats healed.
+    -   Electro Ball
+    -   Taunt
+    -   Swift
+    -   Fly
+
+**Thunder Warrior (No Field). 3 HP Bars. Classic Mode.**
+  -   Tapu Koko, Level 50
+    -   Take Down
+    -   Noble Roar
+    -   Fire Fang
+    -   Roar
+  -   After having finished 1HP Bar, Tapu Koko’s moveset is updated and
+    any drop in stats healed.
+    -   Electro Ball
+    -   Taunt
+    -   Roost
+    -   Dazzling Gleam
+
+On classic you are lower level, and Tapu Koko hits very hard. Your best
+bet are super effective move and mons that are resistant to Tapu Koko’s
+moveset. Otherwise, it isn’t a hard fight given that you get a full team
+and Tapu Koko is alone, so although some member of your team may fall,
+it isn’t a big issue unless you are in a Nuzlocke.
+
+You aren’t healed after the battle, so it isn’t a bad idea to go heal
+before continuing, but if you cleared all trainers and have the Spicy
+Scent set to 0, it doesn’t matter.
+
+Nothing new here since our last visit, so go north to enter the northern
+map of Deep Terajuma Jungle for a scene.
+
+Go upstairs and cross the bridge. After surfing a small river, you will
+be in Mimura Cave, which is the part of it we already visited before.
+You will see a scene here.
+
+**Friendship Point Choice:**
+  -   Is this the only way? (Neutral)
+  -   Maybe if we wait? (Neutral)
+  -   This is so stupid. (Melia -1)
+  -   This is your fault. (Aelita -2, Melia -2, if Melia Friendship Points
+    are 5 or lower, she losses an additional one)
+
+You can’t advance through here, so you need to try on the cave on the
+other side of the bridge now. You will get a scene as soon as you try to
+cross the bridge though. The text changes here depending on if you have
+beaten Madam X or not.
+
+We now need to go to Mount Terajuma and protect the Weather Institute.
+Fortunately, the entrance to the cave on the left is now open, so enter
+to find yourself in another section of Mirimura Cave.
+
+On the rocks with moss left of the small lake with the waterfall there
+is a hidden ***Nest Ball***.
+
+Go all way to the left. In an empty space between the grass there is a
+hidden ***Max Repel***.
+
+Use the lift to go up and leave to reach another part of Deep Terajuma
+Jungle. It is the same map as the previous Deep Terajuma Jungle, so same
+encounters.
+
+On the rightmost part of the right rock with moss there is a hidden
+***PP Up***.
+
+Advance forward, and find a hidden ***Green Shard*** on a green patch
+after some stairs.
+
+You can use the binoculars to see an optional scene. This isn’t required
+to progress with the story though, and it will be repeated each time you
+look through the binoculars until you defeat the sixth gym.
+
+The next step to progress is jump though the waterfall south of the
+binoculars. Depending on the stop you fall, you will reach one part or
+another of Mirimura Cave.
+
+Use the leftmost spot, to reach a hidden ***Green Shard*** on a rock in
+the right, and a chest with 5 ***Exp Candy L***, a ***Heart Scale***,
+and a ***Red Shard***. There is also a couple of mining rocks.
+
+Drop down one and check the right rock to find a hidden ***Hyper
+Potion***.
+
+Go back up and this time throw yourself on the rightmost part of the
+waterfall this time. You can find a hidden ***Red Shard*** on the rock
+on the right.
+
+You will have to fight a Xen Grunt before being able to reach the next
+lift.
+
+On this part of Mimura Cave, you an find a **Wimpod** hidden behind the
+left rock. Note that it will be gone if you flee. It will be back on map
+change though, but all Mimura Cave counts as single map, you need to go
+out of the cave.
+
+Outside the cave, you are on a new area, Mount Terajuma.
+
+**Mount Terajuma Encounters (Icy Field)**
+
+| **Grass**    | **%** |
+|--------------|-------|
+| **Rufflet**  | 32    |
+| Teddiursa    | 15    |
+| Ursaring     | 12    |
+| Cubone       | 12    |
+| Marowak      | 12    |
+| **Braviary** | 10    |
+
+Note that evolving Rufflet inside Mimura Cave will give you **Hisuian
+Braviary**, but it evolves zat level 54 which is far past the level cap.
+You can achieve it with Rare Candies and then lower the level with
+Reverse Candies if you really want one now though, but not really worth
+the rare candies otherwise. There are several places where you can
+evolve to the Hisuian variety, and you can also return to Mimura Cave
+later.
+
+After the first set of grass, you can find a hidden ***Green Shard*** on
+the rock at the north and on the southernmost tile from here a hidden
+***Revival Herb***.
+
+Advance and find a hidden ***Clever Wing***, ***Resist Wing***, and
+***Muscle Wing*** on the bridge. Use the Item Finder to locate them
+properly. On the bridge you can also find some static **Aevian
+Snorunt**.
+
+After crossing the bridge, you can find a hidden ***Tiny Mushroom***, of
+the rock with moss at the north. On the south, on the tile north of the
+highest grass tile in the center, there is a hidden ***Exp. Candy M***.
+
+You will trigger a scene once you reach the stairs.
+
+You can’t advance through the door guarded by the Xen Analyst, so to the
+right to find a hidden ***Rare Candy*** on the leftmost tree; you will
+have to catch an Aevian Snover first as defeating it doesn’t work.
+
+Go upstairs to get a hidden Rock Gem close to another Aevian Snover, but
+you don’t need to interact with it this time.
+
+Go right to interact with some butterflies before another set of stairs.
+You will get fully healed if you have positive karma or hurt if
+negative. Remember that how many of those you have interacted with is
+tracked by the game.
+
+Activate the Noctowl Statue and go right a bit. There is a hidden
+***Ether*** a tile down between both trees here.
+
+You can use the binoculars on the right for another optional scene that
+will be repeated each time you look through the binoculars until you
+defeat the sixth gym.
+
+Return to the Noctowl Statue and this time go upstairs. On the
+northernmost tile on the left area of the building, there is a hidden
+***Exp. Candy L***.
+
+Enter the building for a scene. There is a vending machine here, but
+there is nothing new to buy.
+
+You need to go upstairs now, so fight your way to the top; just three
+fights on the way.
+
+On the top floor, you are made fight a Xen Analyst, but she is just a
+normal opponent.
+
+You have a choice on the scenes after the battle, but it just affects
+immediate dialogue.
+
+If you enter again, there is ranger that ask you the TMs Rain Dance,
+Sunny Day and Hail, but we can’t have them now, so we will have to come
+back later.
+
+What you can do now, is to trade Dunsparce for a **Castform** with the
+scientist on the right. You can repeat this trade as much as you want.
+
+Also, you can get 3 ***Fresh Waters*** by talking with the receptionist.
+
+There northernmost scientist has a shop
+
+***Petal Shop New Items***
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Pink Petal*   | $3000     |
+| *Green Petal*  | $3000     |
+| *Orange Petal* | $3000     |
+| *Blue Petal*   | $3000     |
+
+Those can be used to change Deerling and Sawsbuck forms.
+
+There is nothing else to do here, so go out and enter Mimura Cave
+through the entrance that was previously blocked.
+
+The lift on the left goes to the part of Mimura Cave connecting with
+Deep Terajuma Jungle, the one we couldn't get the lift before. The one
+on right is the one we need to reach the part of Mimura Cave that
+connects with the Great Terajuma Falls.
+
+You will see a scene here, go up and agree to proceed.
+
+**Friendship Point Choice:**
+  -   They’re a lost cause. (Aelita +1, Melia +1)
+  -   You’re overreacting (Aelita -1, Melia -2)
+  -   We should calm down… (Aelita +2, Melia +1)
+
+There is a very small variation on text if you defeated Madam X before
+you have to choose if battle Neved or Zetta. You will only fight the one
+you chose.
+
+**Xen Executive Neved (No Field). Story Mode.**
+  -   Tentacruel, Level 40.
+    -   Sludge Bomb
+    -   Dazzling Gleam
+    -   Poison Jab
+    -   Brine
+  -   Vikavolt, Level 40.
+    -   Volt Switch
+    -   Bug Buzz
+    -   Fly
+    -   Thunder Wave
+  -   Aevian Palossand (Ice), Level 40.
+    -   Ice Beam
+    -   Hex
+    -   Giga Drain
+    -   Moonlight
+  -   Barbaracle, Level 41.
+    -   X-Scissor
+    -   Night Slash
+    -   Razor Shell
+    -   Rock Slide
+
+**Xen Executive Neved (No Field). Classic Mode.**
+  -   Crabominable, Level 41. @ Occa Berry
+    -   Ice Punch
+    -   Drain Punch
+    -   Rock Slide
+    -   Crabhammer
+  -   Tentacruel, Level 43. @ Sitrus Berry
+    -   Sludge Bomb
+    -   Dazzling Gleam
+    -   Blizzard
+    -   Scald
+  -   Vikavolt, Level 43.
+    -   Thunderbolt
+    -   Bug Buzz
+    -   Air Slash
+    -   Thunder Wave
+  -   Manectric, Level 43. @ Magnet.
+    -   Thunderbolt
+    -   Hidden Power Ice
+    -   Volt Switch
+    -   Flamethrower
+  -   Aevian Palossand (Ice), Level 43. @ Never-Melt Ice
+    -   Ice Beam
+    -   Shadow Ball
+    -   Giga Drain
+    -   Moonlight
+  -   Barbaracle, Level 43. @ Sitrus Berry.
+    -   X-Scissor
+    -   Night Slash
+    -   Razor Shell
+    -   Rock Slide
+
+**Xen Executive Zetta (No Field). Story Mode.**
+  -   Absol, Level 40. @Black Glasses
+    -   Swords Dance
+    -   Psycho Cut
+    -   Night Slash
+    -   Sucker Punch
+  -   Typhlosion, Level 42. @ Charcoal
+    -   Nature Power
+    -   Fire Punch
+    -   Thunderpunch
+    -   Brick Break
+  -   Dragonair, Level 41.
+    -   Dragon Dance
+    -   Dragon Rush
+    -   Iron Tail
+    -   Waterfall
+  -   Type Null, Level 42. @ Eviolite
+    -   Swords Dance
+    -   X-Scissor
+    -   Return
+    -   Shadow Claw
+
+**Xen Executive Zetta (No Field). Classic Mode.**
+  -   Absol, Level 41. @Black Glasses
+    -   Swords Dance
+    -   Psycho Cut
+    -   Night Slash
+    -   Sucker Punch
+  -   Weavile, Level 42. @ Muscle Band
+    -   Low Kick
+    -   Night Slash
+    -   Ice Shard
+    -   Icicle Crash
+  -   Typhlosion, Level 43. @ Charcoal
+    -   Nature Power
+    -   Fire Punch
+    -   Thunderpunch
+    -   Brick Break
+  -   Perrserker, Level 41. @ Chople Berry
+    -   Play Rough
+    -   Iron Head
+    -   Night Slash
+    -   Fake Out
+  -   Dragonair, Level 42.
+    -   Dragon Dance
+    -   Dragon Rush
+    -   Iron Tail
+    -   Waterfall
+  -   Type Null, Level 43. @ Eviolite
+    -   Swords Dance
+    -   X-Scissor
+    -   Return
+    -   Shadow Claw
+
+This fight can greatly change depending on who you choose and your
+difficulty. You can try to choose the one your favorite team counters
+best, or the one you want to beat the most. Zetta has more boosting
+moves, and the levels are higher on Story than Neved’s, but the levels
+are actually lower on Classic, but there isn’t a big difference anyway.
+
+The fights aren’t hard if you have a properly trained team.
+
+Speak with Rorim B who is lying down to proceed. Use the cable car to
+return to Kakori Village.
+
+Time to do a couple more quests.
+
+### Quest 41: Black Shard Secret
+
+After accepting the quest, go to Terajuma Excavation Site at nighttime.
+Enter the building for a scene. The choice doesn’t matter. Now head
+outside and after a scene, follow the npcs. After another scene, talk to
+the Nosepass to fight it. Except for being a prism mon and being
+uncatchable, it is just a normal fight. Defeat it to get 250 of Red
+Essence. Now, we have to battle it again, but now it has Rick as a
+trainer. Nosepass is a level higher, but easy fight.
+
+Enter the house here and talk to April. The first choice doesn’t matter,
+but the second one has Friendship Points.
+
+**Friendship Point Choice:**
+  -   Good friends. (April +3)
+  -   We were friends. (April +1)
+  -   Not really. (April -1)
+
+Next choice doesn’t matter.
+
+Now, we need to head to Mount Terajuma, to its bridge. Speak to Rick and
+you will fight a level 46 prism Probopass on a Mountain Field and
+permanent Hail (only level 41 if Story Mode). The moves are Blizzard,
+Hydro Cannon, Blast Burn, and Frenzy Plant. The field will likely turn
+into a Snowy Mountain since Probopass has Blizzard. No matter what it is
+a six versus one, so being one level above the cap shouldn’t be an
+issue.
+
+The choice after the battle doesn’t matter. You will automatically
+return to the Excavation Site.
+
+**Friendship Point Choice:**
+  -   Just take it. (April +5)
+  -   Eh… (April +1)
+  -   You deserve jail time. (April -3)
+
+Go outside and talk to April to finish the quest. You will see an extra
+scene if you friendship with April is at least 3.
+
+Now, return to the Help Center to get $4326 and +1 Karma.
+
+### Quest 42: Abnormal Phenomenon
+
+Pick a Noctowl to Mount Terajuma and enter the Weather Institute to
+trigger a scene with Sam and Alex.
+
+Go to the Great Terajuma Falls, and advance after the scene. You will
+find the culprit being someone controlling Tornadus and Thundurus. You
+will have to fight.
+
+**Diabolical Evil Genius Mr. Hynde (Forest Field. Permanent Rain). Story
+Mode.**
+  -   Morpeko, Level 40.
+    -   Crunch
+    -   Aura Wheel
+    -   Bullet Seed
+    -   Quick Attack
+  -   Galarian Stunkfisk, Level 40.
+    -   Snap Trap
+    -   Earthquake
+    -   Sucker Punch
+    -   Yawn
+  -   Aggron, Level 40.
+    -   Rock Polish
+    -   Cut
+    -   Double Edge
+    -   Rock Slide
+  -   Aevian Kommo-o, Level 42.
+    -   Noble Roar
+    -   Vile Assault
+    -   Dragon Claw
+    -   Crush Claw
+
+**Diabolical Evil Genius Mr. Hynde (Forest Field. Permanent Rain).
+Classic Mode.**
+  -   Morpeko, Level 43. @Electric Gem
+    -   Agility
+    -   Aura Wheel
+    -   Seed Bomb
+    -   Quick Attack
+  -   Galarian Stunkfisk, Level 43. @ Sitrus Berry
+    -   Snap Trap
+    -   Earthquake
+    -   Sucker Punch
+    -   Yawn
+  -   Aggron, Level 43. @ Chople Berry
+    -   Rock Polish
+    -   Cut
+    -   Head Smash
+    -   Earthquake
+  -   Yanmega, Level 43. @ Metronome
+    -   Bug Buzz
+    -   Air Slash
+    -   Ancient Power
+    -   Detect
+  -   Aevian Kommo-o, Level 45. @Air Balloon
+    -   Dragon Dance
+    -   Vile Assault
+    -   Dragon Claw
+    -   Crush Claw
+
+He is strong, but this fight isn't harder than Novae’s at least. Due to
+the permanent rain, water moves are a very good idea, and only Morpeko
+is a threat for water types.
+
+After defeating him and seeing the cutscenes, the choice doesn’t matter,
+you have to go to the Weather Institute to report what happened to the
+president.
+
+Now, you can return to the Help Center to get a **Bulbasaur** egg, a
+***Rare Candy**,* $5000, and +1 Karma.
+
+### Helojak Island
+
+Go to your house and speak with Aelita to proceed with the story.
+
+**Friendship Point Choice:**
+  -   I am sure she is fine. (Aelita +1)
+  -   Do we really have to? (Aelita -2)
+  -   I agree. (Aelita +2)
+
+Now, go to Terajuma Beach and speak with Melia.
+
+**Friendship Point Choice:**
+  -   We have to! (Melia +2, Aelita +2, Saki +2)
+  -   I’m not sure… (Melia -1, Adam -3, Valarie -2)
+  -   Just stay strong. (Adam +3, Valarie +2)
+
+There is some extra dialogue if you have defeated Madam X. You will be
+back in Kakori Village. Go to the Ranger HQ to talk with Crawli. Our
+next target is Helojak Island. Agree to go to the shipyard, and go the
+green ship on the west part and talk to Crawli to reach Helojak Island.
+
+**Helojak Island Encounters (Swamp Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day**          | **%** | **Grass: Night**        | **%** |
+|--------------------|-------|-------------------------|-------|-------------------------|-------|
+| **Tympole**        | 32    | **Karrablast**          | 37    | **Skorupi**             | 32    |
+| Tangela            | 15    | Stunkfisk               | 15    | **Palpitoad**           | 15    |
+| Stunkfisk          | 15    | **Skorupi**             | 15    | **Galarian Farfetch’d** | 15    |
+| **Skorupi**        | 15    | Carnivine               | 15    | Pumpkaboo               | 15    |
+| **Croagunk**       | 11    | **Palpitoad**           | 10    | Phantump                | 10    |
+| **Palpitoad**      | 10    | **Galarian Farfetch’d** | 4     | **Aevian Misdreavus**   | 6     |
+| **West Shellos**   | 2     | **Aevian Misdreavus**   | 2     | **Croagunk**            | 5     |
+|                    |       | **West Shellos**        | 2     | **West Shellos**        | 2     |
+
+We are locked in nighttime because of story, so we will have to come
+back later to catch those of other times. If you don’t mind breeding and
+have been getting everything until know, **Karrablast** is the only one
+you will have to come back to get at daytime.
+
+There are some overworld **West Gastrodon** around the map.
+
+First go north to pick an Absorb Bulb. There are several of those spread
+through the map.
+
+Go through the western way and when you see Braixen, go northeast to a
+dead-end where there is a hidden ***Leppa Berry***. There is an
+***Absorb Bulb*** on the right area, pick it up before going west.
+
+You can reach the island to the west walking, under some yellow flowers
+there is a hidden ***Yellow Shard***.
+
+Continue north, crossing the water on the area you can walk again. On
+the rightmost of the path there is a hidden Tiny Mushroom. You can also
+notice an overworld Wooper on the left side after reaching shore.
+
+On this small island, there is a hidden Tony Mushroom between three
+patches of grass, on some small flowers. There is also a ***Silver
+Powder***.
+
+Continue through the path going over the water, and on the left of a
+mangrove there is a hidden ***Shoal Shell***.
+
+You have reached the main part of the island again, there is an
+***Absorb Bulb*** her and a hidden ***Red Shard*** between a grass tile
+and a vertical branch.
+
+Activate the Noctowl Statue. We will explore the island more before
+continuing though. On the left of the status, right of some flowers,
+there is a hidden ***Sitrus Berry***.
+
+Continue to the right to find another ***Absorb Bulb***. Go south and
+west for another one, and then go upstairs.
+
+There is a hidden ***Hondew Berry*** between three patches of grass, and
+a hidden Lemonade, on the flowers on the right. Return to the area that
+had a couple of Absorb Bulbs.
+
+Go south though land to find another ***Absorb Bulb***. Three tiles
+under a big rock there is a hidden ***Pecha Berry***.
+
+We can’t of more on this part, so go north and head east through the way
+above the water once you can.
+
+Go the first island you see. Between three patched so gras there is a
+hidden ***X Attack***.
+
+Return to the main island, go a bit north and pick the ither way above
+the water.
+
+There is ***TM108 Mud Barrage*** on the part of the main island you can
+reach through it. Go north for a hidden ***Big Mushroom*** on the left
+of a big rock.
+
+You can now return to the Noctowl Statue and go north to enter the
+building, Helojak Factory.
+
+### Helojak Factory
+
+Advance through the only way until you find your team.
+
+Go north to activate the platform in the water and reach a new area.
+Advance through the only way and switch the water current. Not use the
+platform at your left to proceed. Enter though the door and advance a
+step to trigger a cutscene.
+
+**Friendship Point Choice:**
+  -   Are you okay? (Neutral)
+  -   Get over it. (Melia -7, Aelita -2, Crawli -2)
+  -   We need to move. (Neutral)
+
+Go though the northern door. There is a grunt with a Shadow Baltoy here.
+
+You can only advance through the platform on the left. Continue through
+the only way. You will see a scene. Go back and now cross the two
+consecutive platforms to the right.
+
+Leave through the northern door. There is the ***Stabilizer*** key item
+here.
+
+Return, be sure to switch the water so you can go back.
+
+Go left a couple of times to reach the area you were earlier when you
+couldn’t advance. Now you can. There is a grunt with a Shadow Galarian
+Stunkfisk here.
+
+Advance through the only way. There is a grunt with a Shadow Masquerain.
+Advance until finding a door and a platform. The door is locked to use
+the platform. Go forward and use the teleported to activate it. Return
+and enter the northern door. There are some karma butterflies here.
+Leave though the southern exit.
+
+We are on the rooftop of the factory now. Advance to see a scene and get
+a fight.
+
+**Pokémon Trainer Ren (Swamp Field. Permanent Rain). Story Mode.**
+  -   Cacturne, Level 40. @ Focus Sash.
+    -   Giga Drain
+    -   Spikes
+    -   Focus Blast
+    -   Dark Pulse
+  -   Reuniclus, Level 39.
+    -   Calm Mind
+    -   Psyshock
+    -   Flash Cannon
+    -   Charm
+  -   Flygon, Level 39. @ Muscle Band
+    -   Dragon Dance
+    -   Earthquake
+    -   Steel Wing
+    -   Dragon Claw
+  -   Greninja, Level 40. @ Expert Belt
+    -   Surf
+    -   Shadow Sneak
+    -   Dark Pulse
+    -   Rock Slide
+  -   Corviknight, Level 41.
+    -   Steel Wing
+    -   Drill peck
+    -   Iron Defense
+    -   Roost
+
+**Pokémon Trainer Ren (Swamp Field. Permanent Rain). Classic Mode.**
+  -   Cacturne, Level 42. @ Focus Sash.
+    -   Giga Drain
+    -   Spikes
+    -   Nature Power
+    -   Dark Pulse
+  -   Reuniclus, Level 42. @ Colbur Berry
+    -   Recover
+    -   Psyshock
+    -   Flash Cannon
+    -   Signal Beam
+  -   Scyther, Level 43. @ Muscle Band
+    -   Bug Bite
+    -   Aerial Ace
+    -   Brick Break
+    -   Steel Wing
+  -   Arcanine, Level 43. @ Liechi Berry
+    -   Flare Blitz
+    -   Wild Charge
+    -   Extreme Speed
+    -   Reversal
+  -   Greninja, Level 43. @ Expert Belt
+    -   Surf
+    -   Shadow Sneak
+    -   Night Slash
+    -   Grass Knot
+  -   Corviknight, Level 44. @ Telluric Seed
+    -   Nasty Plot
+    -   Flash Cannon
+    -   Air Slash
+    -   Roost
+
+He is strong but also under leveled, especially on Story Mode. The issue
+is that it has good synergy with the field, which may make him
+problematic.
+
+After the battle there is a long cutscene. Some lines change if you
+defeated Madam X.
+
+Agree to rest to finish the day.
+
+## Kakori Help Plaza
+
+Leave house for a scene.
+
+**Friendship Point Choice:**
+  -   Really? (Neutral)
+  -   You’re on. (Crawli +2)
+
+We are going to finish the Help Plaza before going to the gym battle.
+
+### Quest 43: Suspicious Person
+
+Now we can do the last quest of the Help Center. Pick it up and go to
+Helojak Island.
+
+This is a good chance to catch **Karrablast**.
+
+Enter the building and use the teleporter to reach the rooftop quickly.
+There is an overworld **Elekid** here.
+
+Leave the building and go to the western area using the path above water
+until seeing an AA Grunt. You need to catch her. The choice here doesn’t
+matter. We need to reach that locked door we couldn’t use before, so
+head back into the factory, and advance all thew way normally until
+reaching the previously locked door. Enter. Advanced to fight a grunt.
+
+**Team Anti-Assist Edward (Factory Field).**
+  -   Story Mode: Scizor 43, Tauros 43, Swellow 44.
+  -   Classic Mode: Scizor 48, Tauros 48, Swellow 49.
+
+Only three but quite high-leveled. Not a real trouble though.
+
+After the battle, interact with the machine and disable it. Now the
+whole current platforming is disabled, and you can surf instead. Leave
+the room to complete the quest.
+
+Return to the Help Center to get $4255 and +1 Karma, but before you can
+be given anything else another grunt will appear and steal it.
+
+### Quest 44: Chase Team AA
+
+Enter backroom to fight the grunt, it is a double battle.
+
+**Team Anti-Assist Marcin and Team Anti-Assist Aruo (No Field). Story
+Mode.**
+  -   Kecleon, Level 46. (Marcin)
+  -   Octillery, Level 47. (Marcin)
+  -   Rapidash, Level 46. (Aruo)
+  -   Piloswine, Level 47. (Aruo)
+
+**Team Anti-Assist Marcin and Team Anti-Assist Aruo (No Field). Classic
+Mode.**
+  -   Kecleon, Level 44. (Marcin)
+    -   Slash
+    -   Shadow Claw
+    -   Fire Punch
+    -   Ice Punch
+  -   Octillery, Level 45. (Marcin)
+    -   Ice Beam
+    -   Psybeam
+    -   Hydro Pump
+    -   Protect
+  -   Bronzong, Level 45. (Marcin)
+    -   Gyro Ball
+    -   Zen Headbutt
+    -   Toxic
+    -   Earthquake
+  -   Rapidash, Level 44. (Aruo)
+    -   Bounce
+    -   Hypnosis
+    -   Flare Blitz
+    -   Drill Run
+  -   Piloswine, Level 45. (Aruo)
+    -   Icicle Crash
+    -   Ice Shard
+    -   Stomping Tantrum
+    -   Rock Slide
+  -   Leafeon, Level 45. (Aruo)
+    -   X-Scissor
+    -   Leaf Blade
+    -   Bite
+    -   Swords Dance
+
+It isn't harder than fights until now, but it is double battle, so take
+it into consideration.
+
+You can pick a ***Data Drive***, the key item ***Center Keys***, and
+***TM57 Charge Beam***.
+
+Try to leave, to find April blocking your Path, you will receive an
+Aevian Mystery Egg. This is the only way on 13.5 to get ***Aevian
+Larvesta***, but it is decided when creating a save.
+
+## Infested Badge
+
+Head to the Ranger HQ and use the lift on the left to descent to Kakori
+Gym. We need to clear three obstacle courses to make the lift to Crawli
+appear.
+
+The trials can be taken on any order, but on the guide we will start by
+the left one, Kakori Rescue Simulation.
+
+**Friendship Point Choice:**
+  -   That was easy! (Adam +1)
+  -   Nice job! (Adam +2)
+  -   This is cheating… (Adam -2)
+
+Continue west and surf to reach the Rowlett. Go back and talk to
+Dartreaux to complete this.
+
+This time we are going to the one on the right, Kakori Obstacle Course.
+
+If you go down, you can get an ***Exp. Candy L***. Return to the stones
+and jump fighting a couple of rangers on the way.
+
+You will proceed with no issues until you find an overworld **Pinsir**.
+You can catch it, and it will open the way to continue the course.
+
+When you are about to reach the end, you will end up in a boss battle
+against a Gothitelle
+
+**Gothitelle (Forest Field). 2 HP Bars. Story Mode.**
+  -   Crescent’s Gothitelle, Level 45.
+    -   Play Nice
+    -   Psyshock
+    -   Focus Blast
+    -   Dark Pulse
+-   After clearing 1 HP bar, field changes to Psychic Terrain.
+
+**Gothitelle (Forest Field). 2 HP Bars. Classic Mode.**
+  -   Crescent’s Gothitelle, Level 50.
+    -   Play Nice
+    -   Psyshock
+    -   Focus Blast
+    -   Dark Pulse
+  -   After clearing 1 HP bar, field changes to Psychic Terrain.
+
+The only difference between the two difficulties is the level, but it is
+quite easy in general, even if some mons may be defeated in one hit if
+they happen to be weak to her moveset.
+
+After the fight, activate the Grass Sigil in front of you and return to
+the main room.
+
+Go north to enter the right side of Kakori Warp Maze.
+
+You may have to fight trainers here, but they are just ordinary ones.
+
+Since the blue teleporter can’t be used proceed through the green one.
+Use the southern teleporter.
+
+Advance though the only way to find Bug Memory. Continue until finding a
+bifurcation. Use the southern teleporter.
+
+Push the log down, and go back though the teleporter. Now use the one on
+the left and leave though the entrance. Enter though the left entrance
+this time and use the teleporter. Go thought the only way, walking on
+top of the log you pushed earlier until you reach the Fire Sigil. Active
+it, and leave the room.
+
+You can now use the lift to go down to Kakori Depths.
+
+Advance and say whatever at the choice. You will fight Rorim B first. It
+is a double battle.
+
+**Dance Prodigy Rorim B (Swamp Field). Story Mode.**
+  -   Pom-Pom Style Oricorio, Level 41.
+    -   Calm Mind
+    -   Feather Dance
+    -   Revelation Dance
+    -   Air Slash
+  -   Ludicolo, Level 41.
+    -   Fake Out
+    -   Rain Dance
+    -   Bubble Beam
+    -   Giga Drain
+  -   Volcarona, Level 41.
+    -   Struggle Bug
+    -   Quiver Dance
+    -   Giga Drain
+    -   Fiery Dance
+  -   Altaria, Level 41.
+    -   Dragon Dance
+    -   Earthquake
+    -   Dragon Claw
+    -   Roost
+
+**Dance Prodigy Rorim B (Swamp Field). Classic Mode.**
+  -   Pom-Pom Style Oricorio, Level 42.
+    -   Calm Mind
+    -   Hidden Power (Ice)
+    -   Revelation Dance
+    -   Air Slash
+  -   Bellossom, Level 42.
+    -   Quiver Dance
+    -   Teeter Dance
+    -   Giga Drain
+    -   Sludge Bomb
+  -   Ludicolo, Level 42.
+    -   Fake Out
+    -   Rain Dance
+    -   Bubble Beam
+    -   Giga Drain
+  -   Baile Style Oricorio, Level 42.
+    -   Calm Mind
+    -   Hidden Power (Rock)
+    -   Revelation Dance
+    -   Air Slash
+  -   Ludicolo, Level 42.
+    -   Fake Out
+    -   Rain Dance
+    -   Scald
+    -   Giga Drain
+  -   Altaria, Level 42.
+    -   Dragon Dance
+    -   Earthquake
+    -   Dragon Claw
+    -   Roost
+
+Far easier on Story Mode, but shouldn’t be troublesome on either. If you
+are having a hard time with Rorim B here, you better improve your team
+for Crawli.
+
+After the fight you get some lore about Crawli’s family. Once you can
+move again go to the left to pick ***TM106 Irritation***. On the right
+there is Zygarde Cell.
+
+**ZCell 055: Kakori Depths**
+
+<img src="assets/media/image66.png"/>
+
+Go ahead to fight Crawli, it is doubles again.
+
+**Head Ranger Crawli (Swamp Field). Story Mode.**
+  -   Ariados, Level 41. @ Silver Powder.
+    -   Barbed Web
+    -   Poison Jab
+    -   Shadow Sneak
+    -   Sucker Punch
+  -   Orbeetle, Level 41.
+    -   Bug Buzz
+    -   Struggle Bug
+    -   Psychic
+    -   Magic Coat
+  -   Escavalier, Level 42.
+    -   Iron Head
+    -   Iron Defense
+    -   Headbutt
+    -   X-Scissor
+  -   Araquanid, Level 43. @ Leftovers.
+    -   Barbed Web
+    -   Liquidation
+    -   Poison Jab
+    -   Protect
+
+**Head Ranger Crawli (Swamp Field). Classic Mode.**
+  -   Ariados, Level 43. @ Telluric Seed.
+    -   Barbed Web
+    -   Stomping Tantrum
+    -   Poison Jab
+    -   Shadow Sneak
+  -   Galvantula, Level 44. @ Focus Sash.
+    -   Bug Buzz
+    -   Sticky Web
+    -   Thunder
+    -   Struggle Bug
+  -   Escavalier, Level 43. @ Assault Vest.
+    -   Knock Off
+    -   Iron Head
+    -   Drill Run
+    -   Barbed Web
+  -   Golisopod, Level 43. @ Sitrus Berry.
+    -   First Impression
+    -   Aqua Jet
+    -   Leech Life
+    -   Liquidation
+  -   Accelgor, Level 44. @ Telluric Seed.
+    -   Protect
+    -   Giga Drain
+    -   Mud Barrage
+    -   Struggle Bug
+  -   Araquanid, Level 45. @ Mystic Water.
+    -   Liquidation
+    -   Sticky Web
+    -   Barbed Web
+    -   Poison Jab
+
+Barbed Web: Bug | Physical | 75 power | 100% accuracy | Hits both
+foes in a Double Battle | Increased critical hit ratio. If the target's
+side of the field already has Sticky Web, sets a layer of Spikes.
+
+This battle changes a lot depending on if you got a proper team or not.
+Having water moves that got benefited form the field and flying moves
+that aren’t hindered by it while being super effective can mark the
+difference. Electric moves are great for Golisopod and Araquanid. If you
+got a mon with Rock Slide, it is a really great move for this fight. I
+recommend dully focusing on Galvantula the first turn with both mons to
+break the sash and kill it. Galvantula is the fastest and can harm your
+flying and water types greatly, so it is better to get it out of
+commission quickly.
+
+**Friendship Point Choice:**
+  -   Really? (Crawli +1)
+  -   I will serve well. (Crawli +2)
+  -   That’s a lame prize. (Crawli -3)
+
+After winning you get ***TM51 X-Scissor***, and the Infested Badge,
+which raises the level cap to 50.
+
+**Friendship Point Choice:**
+  -   Boast. (Saki +2)
+  -   Be humble. (Adam +2)
+
+After the scene ends, the chapter will end.
+
+# Chapter 7: A Teila Fire and Ice
+
+Another chapter that starts with a cutscene of Team Xen. The next scene
+is a literal nightmare, but you wake up.
+
+**Friendship Point Choice:**
+  -   Good morning? (Neutral)
+  -   Does it look like I’m okay? (Aelita -1)
+
+Go downstairs for another scene. Your new destination is Terajuma Beach.
 
 
 
@@ -9868,8 +10953,7 @@ Walk to Erin in the League Administration Area to begin the Karma Files.
 -   Your hair is nice today. (Erin +1)
 
 Then you are given another choice.
-
--   I need time... (Let's you go to your destination Obelisk on your own)
+  -   I need time... (Let's you go to your destination Obelisk on your own)
 -   Let's walk. (Moves you directly to the Obelisk)
 
 Once you are into the Obelisk map, talk with it and select Yes to continue.
@@ -10338,7 +11422,6 @@ have reached jumping before where you can find Max Revive.
 
 Once you are ready go to the stairs. Advance until triggering a
 cutscene.
-
 -   **Monstrosity Boss. 2 Hp Bar. Level 16. Poison/Dark.**
     -   Poison Fang
     -   Bite
@@ -10878,7 +11961,6 @@ go to the Time Gate.
     -   Flash Cannon
     -   Power Gem
     -   Dragon Pulse
-
 -   After the 1st HP bar.
     -   Earth Power
     -   Flash Canon
@@ -11777,236 +12859,177 @@ Renegade Route.
 ## Crest Descriptions
 
 The information about Crests has been taken from the [wiki](https://rejuvenation.wiki.gg/wiki/Crests).
-
-
 - [Aevian Ampharos](https://rejuvenation.wiki.gg/wiki/Aevian_Ampharos_Crest):
   - The move in the first move slot is boosted by 50% if it is not Electric- or Ice-type, 20% otherwise. Damage from super effective attacks is reduced by 30%.
   - Location: District of Hope graveyard, from Zumi after finishing the \"PictoZumi\" quest and the movie quest in PokeStar studios.
-
 - [Ariados](https://rejuvenation.wiki.gg/wiki/Ariados_Crest):
   - Ariados\'s speed is increase by 50%. Deals critical hits against slowed or poisoned targets.
   - Location: Route 6 - Underwater Archive.
-
 - [Bastiodon](https://rejuvenation.wiki.gg/wiki/Bastiodon_Crest):
   - Attackers take 50% of the damage they deal as recoil, and the wearer is healed the same amount.
   - Location: Kingdom of Goomidra - Shop.
-
 - [Beheeyem](https://rejuvenation.wiki.gg/wiki/Beheeyem_Crest):
   - May disable opponent\'s move and faster opponents do reduced damage.
   - Location: N/A.
-
 - [Boltund](https://rejuvenation.wiki.gg/wiki/Boltund_Crest)
   - Gain a 1.5x boost to biting moves if Boltund moves before target.
   - Location: Route 4 - Cairo\'s Red Essence Shop (13 Badges).
-
 - [Castform](https://rejuvenation.wiki.gg/wiki/Castform_Crest):
   - Castform uses the first weather move it knows. Its Forecast forms also become empowered.
   - Location: Weather Institute - Received from a Ranger.
-
 - [Cherrim](https://rejuvenation.wiki.gg/wiki/Cherrim_Crest)
   - It forces Cherrim into Sunshine Form and activates Flower Gift regardless of weather.
   - Location: Nastasia\'s Airship - Gift from Aelita.
-
 - [Cinccino](https://rejuvenation.wiki.gg/wiki/Cinccino_Crest):
   - All moves turn into multi-hit moves (2-5 hits at 30% the BP).
   - Location: Route 4 - Cairo\'s Red Essence Shop (13 Badges).
-
 - [Claydol](https://rejuvenation.wiki.gg/wiki/Claydol_Crest)
   - Claydol\'s Special attacks use its Defense stat. The power of beam moves is increased by 50%.
   - Location:  Castle Zygara.
-
 - [Cofagrigus](https://rejuvenation.wiki.gg/wiki/Cofagrigus_Crest):
   - It increases Cofagrigus\'s Sp. Def and Sp. Atk by 25%. 
   - Location: Zorrialyn Labyrinth - Crypt.
-
 - Crabominable:
   - Powers up moves by 50% if holder takes damage before using them. Defenses raised by 20%
   - Location: Evergreen Island - Reward for showing The Emperor to Nana.
-
 - Cryogonal:
   - Increases Cryogonal\'s Sp. Def by 20%, then increases its other stats by 10% of its Sp. Def.
   - Location:Gearan Lab - From Alex in the Development Room.
-
 - [Darmanitan](https://rejuvenation.wiki.gg/wiki/Darmanitan_Crest):
   - Darmanitan is forced into Zen Mode while holding this crest.
   - Location: Castle Zygara.
-
 - [Dedenne](https://rejuvenation.wiki.gg/wiki/Dedenne_Crest):
   - Dedenne\'s Physical attacks use its Speed stat rather than its Attack stat.
   - Location: Kingdom of Goomidra - Shop.
-
 - [Delcatty](https://rejuvenation.wiki.gg/wiki/Delcatty_Crest):
   - The power of its non-KO\'d friends increases Delcatty\'s stats by 10% each.
   - Location: Route 4 - Cairo\'s Red Essence Shop (15 Badges).
-
 - [Druddigon](https://rejuvenation.wiki.gg/wiki/Druddigon_Crest):
   - Heals in the sun and from Fire moves. Fire and Dragon moves get boosted by 30%.
   - Location: Route 4 - Cairo\'s Red Essence Shop (8 Badges).
-
 - [Dusknoir](https://rejuvenation.wiki.gg/wiki/Dusknoir_Crest):
   - It increases Dusknoir\'s Attack by 20% and boosts weaker moves.
   - Location: Sashila Village - Reward from the Archaeologist.
-
 - Electrode:
   - The targets Defense stat is halved when Electrode is attacking.
   - Location: Route 6 - Center chest of the Xen Battleship closest to Valor Mountain.
-
 - [Empoleon](https://rejuvenation.wiki.gg/wiki/Empoleon_Crest):
   - Empoleon\'s Ice-type moves are boosted by 50%, and Speed is doubled in Hail and on Ice Fields.
   Location: Route 11 - Spring Maintenance, reward from Jolene.
-
 - [Fearow](https://rejuvenation.wiki.gg/wiki/Fearow_Crest):
   - Increases the power of stabbing moves by 50%. Increase critical hit ratio by 1.
   - Location: Zorrialyn Labyrinth - 2nd Floor.
-
 - Furret:
   - Upon switching in, Furret loses 25% of its Max Hp to create a substitute.
   - Location: Telia Resort - Tesla\'s villa, in your room.
-
 - [Feraligatr](https://rejuvenation.wiki.gg/wiki/Feraligatr_Crest):
   - First move has higher priority if it\'s damaging. Biting moves deal 50% more damage.
   - Location: West Gearen City - Reward from Barbara or Route 2 - Kecleon\'s Shop.
-
 - [Glaceon](https://rejuvenation.wiki.gg/wiki/Glaceon_Crest):
   - It takes resisted damage from Rock and Fighting attacks.
   - Location: Zorrialyn Labyrinth - 3rd Floor.
-
 - [Gothitelle](https://rejuvenation.wiki.gg/wiki/Gothitelle_Crest):
  - Using Dark and Psychic type moves swaps between respective types. Recovers HP.
  - Location: Fort Rystrine - Inside the lowest building, on the left hand side.
-
 - [Hypno](https://rejuvenation.wiki.gg/wiki/Hypno_Crest):
   - It increases Hypno\'s Special Attack and Accuracy by 50%.
   - Zorrialyn Labyrinth - 2nd Floor.
-
 - [Infernape](https://rejuvenation.wiki.gg/wiki/Infernape_Crest):
   - Infernape\'s Attacking and Defensive stats are swapped. 1/16th Max Hp is restored every turn.
   - Location: Goomidra Castle - Reward from King Goodroh.
-
 - [Leafeon](https://rejuvenation.wiki.gg/wiki/Leafeon_Crest):
   - It takes resisted damage from Fire and Flying attacks. 
   - Location: Zorrialyn Labyrinth - 3rd Floor.
-
 - [Ledian](https://rejuvenation.wiki.gg/wiki/Ledian_Crest):
   - Ledian punches four times at once. Secondary effects only occur on the first two hits.
   - Location: Zone Zero - Reward from Challenger Venus.
-
 - Luvdisc:
   - The Base Power of all damaging moves matches Luvdisc\'s happiness, capping at a Base Power of 250.
   - Location: Zorrialyn Labyrinth - 4th floor, held by a Luvdisc in the south-west room.
-
 - [Luxray](https://rejuvenation.wiki.gg/wiki/Luxray_Crest):
   - STAB on Dark moves and gains Dark-type resistances. Normal type moves are Galvanized.
   Location: Route 4 - Cairo\'s Red Essence Shop (8 Badges).
-
 - [Magcargo](https://rejuvenation.wiki.gg/wiki/Magcargo_Crest):
   - It swaps Magcargo\'s Defense and Speed and increases Sp. Atk by 10%.
   - Location: Zorrialyn Labyrinth - 1st Floor.
-
 - [Meganium](https://rejuvenation.wiki.gg/wiki/Meganium_Crest):
   - Meganium and allies take reduced damage and recover every turn.
   - West Gearen City - reward from Barbara or Route 2 - Kecleon\'s Shop.
-
 - [Noctowl](https://rejuvenation.wiki.gg/wiki/Noctowl_Crest):
   - Increases Special Defense upon being hit. Increases Defense by 20%.
   - Location: Route 4 - Cairo\'s Red Essence Shop.
-
 - [Oricorio](https://rejuvenation.wiki.gg/wiki/Oricorio_Crest):
   - It increases Oricorio\'s Speed and Sp. Atk stat by 25%.
   - Location: Zorrialyn Labyrinth - 1st Floor.
-
 - [Phione](https://rejuvenation.wiki.gg/wiki/Phione_Crest):
   - Phione is granted a 50% increase in defenses and Aqua Ring.
   - Location: Kristiline Town - Reward from Aquis after Tale of Two Hearts is completed.
-
 - [Probopass](https://rejuvenation.wiki.gg/wiki/Probopass_Crest):
   - Levitates. Mini-noses do 3-hit 20BP type-based damage after a damaging move.
   - Location: Route 4 - Cairo\'s Red Essence Shop (13 Badges).
-
 - [Rampardos](https://rejuvenation.wiki.gg/wiki/Rampardos_Crest):
   - Rampardos will always hang on with 1 HP regardless of HP once per battle and does not take recoil.
   - Location: Kingdom of Goomidra - Shop.
-
 - [Relicanth](https://rejuvenation.wiki.gg/wiki/Relicanth_Crest):
   - It increases Relicanth\'s Attack by 20% and Sp. Def by 30%.
   - Location: Zorrialyn Labyrinth - 4th Floor.
-
 - Reuniclus:
   - Move category changes user to a Physical Fighting or Special Psychic type. First move determines initial form.
   - Location: Fort Rystrine - Inside the lowest building, on the left hand side. 
-
 - [Samurott](https://rejuvenation.wiki.gg/wiki/Samurott_Crest):
   - Gains Fighting-type STAB and resistances. Slicing moves always result in critical hit.
   - Location: Route 4 - Cairo\'s Red Essence Shop (8 Badges).
-
 - [Sawsbuck](https://rejuvenation.wiki.gg/wiki/Sawsbuck_Crest):
   - Replaces Normal-Type with seasonal type. Normal-type moves become seasonal type and are boosted by 20%.
   - Location: Rose Theater - After completing the Kimono girls side quest, talk to the Kimono girl in the crowd.
-
 - [Seviper](https://rejuvenation.wiki.gg/wiki/Seviper_Crest):
   - It causes Seviper to hit harder against healthier foes. Speed increased by 50%.
   - Location: Zorrialyn Labyrinth - 1st Floor.
-
 - Shiinotic:
   - Drains 1/16th hp from status Pokémon at the end of the turn. Draining effect recovery is boosted by 30%.
   - Location: Darchlight Manor - In the safe.
-
 - Simipour:
   - Gains Grass type STAB and resistances. Normal type moves become Grass type. Offenses boosted by 20%.
   - Route 4 - Cairo\'s Red Essence Shop.
-
 - Simisage:
   - Gains Fire type STAB and resistances. Normal type moves become Fire type. Offenses boosted by 20%.
   - Route 4 - Cairo\'s Red Essence Shop.
-
 - Simisear:
   - Gains Water type STAB and resistances. Normal type moves become Water type. Offenses boosted by 20%.
   - Route 4 - Cairo\'s Red Essence Shop.
-
 - [Silvally](https://rejuvenation.wiki.gg/wiki/Silvally_Crest):
   - Has a special effect for each held Memory and boosts that type\'s attacks.
   - Location: N/A.
-
 - [Skuntank](https://rejuvenation.wiki.gg/wiki/Skuntank_Crest):
   - Nullifies damage and boosts Attack when hit by a Ground-type move. Increases Attack and Sp. Atk by 20%.
   - Location: Zorrialyn Labyrinth - 4th Floor.
-
 - [Spiritomb](https://rejuvenation.wiki.gg/wiki/Spiritomb_Crest):
   - Spiritomb becomes stronger for each defeated ally. Recovers health based on KO\'d enemies.
   - Location: Castle Zygara.
-
 - [Stantler](https://rejuvenation.wiki.gg/wiki/Stantler_Crest):
   - Increases Stantler\'s and Wyrdeer\'s Attack and Accuracy by 50%.
   - Location: Zorrialyn Labyrinth - 2nd Floor.
-
 - [Swalot](https://rejuvenation.wiki.gg/wiki/Swalot_Crest):
   - Stockpiles gained after an attack. Belch always usable and followed by Spit Up.
   - Location: Route 4 - Cairo\'s Red Essence Shop (13 Badges).
-
 - [Thievul](https://rejuvenation.wiki.gg/wiki/Thievul_Crest):
   - Decreases opponent\'s Sp. Atk by one stage, increasing Thievul\'s by one stage on switch.
   - Location: Route 4 - Cairo\'s Red Essence Shop (8 Badges).
-
 - [Torterra](https://rejuvenation.wiki.gg/wiki/Torterra_Crest):
   - Torterra\'s resistances and weaknesses are swapped, retaining immunities. Attacks restore HP.
   - Location: Castle Zygara.
-
 - [Typhlosion](https://rejuvenation.wiki.gg/wiki/Typhlosion_Crest):
   - Typhlosion\'s Attack is equivalent with Sp. Atk, and contact moves do an additional hit of damage.
   - Location: West Gearen City - reward from Barbara or Route 2 - Kecleon\'s Shop.
-
 - [Vespiquen](https://rejuvenation.wiki.gg/wiki/Vespiquen_Crest):
   - Attack Order and Defense Order grant a 50% boost to Offenses or Defenses, which switch around when the other is used.
   - Location: Lost Castle - After interacting with the 9 badge doors.
-
 - [Whiscash](https://rejuvenation.wiki.gg/wiki/Whiscash_Crest):
   - Nullifies damage and boosts Attack when hit by a Grass-type move. Increase Atk and Sp. Atk by 20%.
   - Location: Kingdom of Goomidra - Shop.
-
 - [Zangoose](https://rejuvenation.wiki.gg/wiki/Zangoose_Crest):
   - Zangoose becomes poisoned upon switching in, and restores HP while poisoned.
   - Location: Route 6 - Underwater Archive.
-
 - [Zoroark](https://rejuvenation.wiki.gg/wiki/Zoroark_Crest):
   - Grants the ability and STAB of the copied Pokémon to Unovan Zoroark.
   - Location: Garufa Sanctuary - Behind the Hisuan Zorua.
