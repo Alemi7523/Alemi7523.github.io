@@ -139,7 +139,7 @@
   - [Back to Terajuma Island](#back-to-terajuma-island)
     - [Quest 38: Poliwag Quest (Fourth)](#quest-38-poliwag-quest-fourth)
     - [Back to Terajuma Story](#back-to-terajuma-story)
-  - [September 2nd \| A Trial of Hope](#september-2nd-a-trial-of-hope)
+  - [September 2nd: A Trial of Hope](#september-2nd-a-trial-of-hope)
     - [Quest 33: Building Bridges (Continuation)](#quest-33-building-bridges-continuation)
     - [Quest 40: Battle Me Once More!](#quest-40-battle-me-once-more)
     - [Sky Relic](#sky-relic)
@@ -152,7 +152,7 @@
     - [Quest 44: Chase Team AA](#quest-44-chase-team-aa)
   - [Infested Badge](#infested-badge)
 - [Chapter 7: A Teila Fire and Ice](#chapter-7-a-teila-fire-and-ice)
-  - [September 8th \| A Trial by Fire](#september-8th-a-trial-by-fire)
+  - [September 8th: A Trial by Fire](#september-8th-a-trial-by-fire)
     - [Quest 45: Dragonite's Lost Mail 3](#quest-45-dragonites-lost-mail-3)
     - [Aquamarine Cave](#aquamarine-cave)
     - [Aquamarine Depths](#aquamarine-depths)
@@ -162,28 +162,28 @@
     - [Secluded Shore](#secluded-shore)
     - [Quest 38: Poliwag Quest (Fifth)](#quest-38-poliwag-quest-fifth)
     - [Teila Resort (2nd Visit)](#teila-resort-2nd-visit)
-  - [September 9th \| A Trial of Reuinions](#september-9th-a-trial-of-reunions)
+  - [September 9th: A Trial of Reunions](#september-9th-a-trial-of-reunions)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
   - [Awakening Adrest](#awakening-adrest)
-  - [December 6th \| A Light of Determination](#december-6th-a-light-of-determination)
-  - [December 7th \| A Light of Friendship](#december-7th-a-light-of-friendship)
-  - [December 10th \| A Light of Feathers](#december-10th-a-light-of-feathers)
+  - [December 6th: A Light of Determination](#december-6th-a-light-of-determination)
+  - [December 7th: A Light of Friendship](#december-7th-a-light-of-friendship)
+  - [December 10th: A Light of Feathers](#december-10th-a-light-of-feathers)
     - [Side-story: Become a director](#side-story-become-a-director)
-  - [December 11th \| A Light of Fire](#december-11th-a-light-of-fire)
+  - [December 11th: A Light of Fire](#december-11th-a-light-of-fire)
     - [Legendary Wings Quest](#legendary-wings-quest)
     - [Teila Resort December 11th](#teila-resort-december-11th)
-  - [December 12th \| A Light of Ice](#december-12th-a-light-of-ice)
-  - [December 13th \| 2:00AM.](#december-13th-200am.)
-  - [December 15th \| A Light of Family](#december-15th-a-light-of-family)
-  - [December 16th \| A Light of Insanity](#december-16th-a-light-of-insanity)
-  - [December 20th \| A Light of Violet Rose](#december-20th-a-light-of-violet-rose)
-  - [December 21st \| A Light of a Violet Tower](#december-21st-a-light-of-a-violet-tower)
-  - [December 22nd \| A Light of a Hidden Truth](#december-22nd-a-light-of-a-hidden-truth)
-  - [December 24th \| A Light of a \#######](#december-24th-a-light-of-a)
-  - [December 25th \| A Light of a Miracle](#december-25th-a-light-of-a-miracle)
+  - [December 12th: A Light of Ice](#december-12th-a-light-of-ice)
+  - [December 13th: 2:00AM.](#december-13th-200am.)
+  - [December 15th: A Light of Family](#december-15th-a-light-of-family)
+  - [December 16th: A Light of Insanity](#december-16th-a-light-of-insanity)
+  - [December 20th: A Light of Violet Rose](#december-20th-a-light-of-violet-rose)
+  - [December 21st: A Light of a Violet Tower](#december-21st-a-light-of-a-violet-tower)
+  - [December 22nd: A Light of a Hidden Truth](#december-22nd-a-light-of-a-hidden-truth)
+  - [December 24th: A Light of a \#######](#december-24th-a-light-of-a)
+  - [December 25th: A Light of a Miracle](#december-25th-a-light-of-a-miracle)
 - [Appendices](#appendices)
   - [All Special Evolution Locations](#all-special-evolution-locations)
     - [Moss Rock Evolution Environment](#moss-rock-evolution-environment)
@@ -9868,7 +9868,7 @@ Except for the Friendship Points, the outcome of the choice doesn’t change
 what the group is going to do. After a bit more of conversation, you will 
 see a scene somewhere else.
 
-## September 2nd \| A Trial of Hope
+## September 2nd: A Trial of Hope
 
 Go downstairs for a scene. We need to get the relics to the Terajuma
 Trial, and our first target is the Sky Relic at the Great Terajuma
@@ -11058,7 +11058,7 @@ house.
 
 Go to sleep and several days will pass in a blink.
 
-## September 8th \| A Trial by Fire
+## September 8th: A Trial by Fire
 
 Go downstairs for a scene. Our next target is Aquamarine Cave, which is
 west of Mynori Sea.
@@ -11488,7 +11488,7 @@ bothering earlier. There is a Zygarde Cell inside.
 Return to your house and talk with Melia to end the day. You will see a
 scene at Valor Mountain.
 
-## September 9th \| A Trial of Reunions
+## September 9th: A Trial of Reunions
 
 
 
@@ -11593,14 +11593,14 @@ story, there is a choice, but it is irrelevant.
 Interact with the terminal and grant Melia access. There is a choice
 with a little dialogue change, but nothing important.
 
-## December 6th \| A Light of Determination
+## December 6th: A Light of Determination
 
 You start a new day speaking with Melia, the choice here doesn\'t
 matter, small text change.
 
 Zeight again walk forwards and the day will end.
 
-## December 7th \| A Light of Friendship
+## December 7th: A Light of Friendship
 
 You need to talk with Erin to continue the story, but there is a new
 quest **Legendary Wings** you can activate in that same room. It asks us
@@ -11702,7 +11702,7 @@ here doesn't matter.
 You will get the control again, go north to find an old acquaintance.
 The choice doesn't matter.
 
-## December 10th \| A Light of Feathers
+## December 10th: A Light of Feathers
 
 You will be on the League Administration Area at the beginning of a new
 day. Ren ask you to go to Talon's, if you agree you will get teleported
@@ -12096,7 +12096,7 @@ to continue with the story.
 Back in Zeight again go up and the story will continue automatically.
 The choices here just have slight text change.
 
-## December 11th \| A Light of Fire
+## December 11th: A Light of Fire
 
 ### Legendary Wings Quest
 
@@ -12231,13 +12231,13 @@ just have slight change of text.
 
 Enter Tesla's house and go the living room for your movie night.
 
-## December 12th \| A Light of Ice
+## December 12th: A Light of Ice
 
 Begin the new day talking with Erin. You end up in Forst Rystrine. Go
 east and use Rock Smash to find Erin and Kanon. Talk with Kanon to
 continue and enter the building.
 
-## December 13th \| 2:00AM.
+## December 13th: 2:00AM.
 
 You are thrown into a battle in a strange setting almost immediately.
 You will face consecutive battles, and they all are double battles.
@@ -12321,7 +12321,7 @@ Night, the Obliteration Spell.
 You will se Kanon going to Fort Rystrine and given a choice that doesn't
 matter.
 
-## December 15th \| A Light of Family
+## December 15th: A Light of Family
 
 You are back in control in the League Administration Area. Talk to Melia
 to proceed, the choice doesn't matter.
@@ -12373,7 +12373,7 @@ very hard to kill and goes burning + Protect and Recover. Very annoying
 fight. Spiritomb will appear once Mega Sableye is defeated even if
 Regice has already been defeated, but it isn't an issue.
 
-## December 16th \| A Light of Insanity
+## December 16th: A Light of Insanity
 
 You are yourself again, go up to trigger a cutscene. Now leave Zeight.
 
@@ -12396,7 +12396,7 @@ Field.
 Once you are done with them, return to where Karen is and talk with
 Ryland.
 
-## December 20th \| A Light of Violet Rose
+## December 20th: A Light of Violet Rose
 
 You will be in front of the Rose Theatre, enter.
 
@@ -12466,7 +12466,7 @@ and use them to reach the staff's room.
 
 Speak with Erin to progress.
 
-## December 21st \| A Light of a Violet Tower
+## December 21st: A Light of a Violet Tower
 
 After a cutscene, you can see Eris's Hidden Scene if you have at least
 10 points of friendship with her. It is pure story and I really recombed
@@ -12476,7 +12476,7 @@ You will be speaking with Melia and given a choice, it isn't relevant.
 
 Leave the Rose Theatre.
 
-## December 22nd \| A Light of a Hidden Truth
+## December 22nd: A Light of a Hidden Truth
 
 After a cutscene, you are in Zeight, move forward to trigger another
 cutscene.
@@ -12485,7 +12485,7 @@ Now once you speak with Melia, you will advance to the 24th directly.
 If you for some reason haven't completed the Gauntlet yet, you won't be
 able to advance until completing it.
 
-## December 24th \| A Light of a \#######
+## December 24th: A Light of a \#######
 
 Unless Amber is dead, you will be at the backstage of her concert.
 
@@ -12550,7 +12550,7 @@ the beginning of the karma files.
 
 Interact with Black Monument in the middle of the room.
 
-## December 25th \| A Light of a Miracle
+## December 25th: A Light of a Miracle
 
 The "Merry Christmas..." choice will end the conversation early, while
 the How are you feeling" will led to another choice. None of them matter
