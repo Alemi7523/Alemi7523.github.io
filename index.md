@@ -12,7 +12,7 @@
   - [Oceana Pie](#oceana-pier)
   - [Gearen Laboratory](#gearen-laboratory)
   - [East Gearen City](#east-gearen-city)
-    - [Quest 1: Save Starly!)](#quest-1-save-starly)
+    - [Quest 1: Save Starly!](#quest-1-save-starly)
     - [Quest 2: Buizel Event](#quest-2-buizel-event)
     - [Quest 3: Missing Mother](#quest-3-missing-mother)
     - [Quest 4: Hidden Library](#quest-4-hidden-library)
