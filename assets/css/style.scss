@@ -59,6 +59,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  transition: 0.5s background ease;
 }
 
 .theme-switch {
