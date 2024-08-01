@@ -50,6 +50,7 @@ Theme Styles
   --text: #FAF9F6;
   --highlight: #39AC4C;
   --urlcolor: lightskyblue;
+  --imgshadow: #141414;
 }
 
 body {
@@ -612,6 +613,7 @@ div#quote p {
   --text: #373737;
   --highlight: #0090ff;
   --urlcolor: #0F79D0;
+  --imgshadow: #ebebeb;
   background: var(--background);
 
   .theme-switch {
@@ -620,8 +622,5 @@ div#quote p {
     .switch {
       transform: translateX(37px);
     }
-  }
-  a {
-    color: var(--urlcolor); 
   }
 }
