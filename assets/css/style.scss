@@ -595,11 +595,11 @@ div#quote p {
   z-index: 99;
   border: none;
   outline: none; 
+  cursor: pointer;
   width: 70px;
   height: 30px;
   background: var(--highlight);
   border-radius: 50px;
-  position: relative;
 
   .switch {
     background: white;
