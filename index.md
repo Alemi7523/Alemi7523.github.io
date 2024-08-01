@@ -12890,7 +12890,7 @@ You have 6, she has 3, 2 if Story Mode.
 
 You are back controlling yourself.
 
-Approach the group for a scene. You will receive the Glacier Badge from 
+Approach the group for a scene. You will receive the ***Glacier Badge*** from 
 Kreiss, which will increase you level cap to 55.
 
 Leave the house.

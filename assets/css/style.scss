@@ -45,15 +45,60 @@ table {
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
+:root {
+  --background: #333;
+  --text: #FFF;
+  --highlight: #39AC4C;
+}
 
 body {
   box-sizing: border-box;
-  color:#373737;
-  background: #212121;
+  color: var(--text);
+  background: var(--background);
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+}
+
+.theme-switch {
+  --background: #FFF;
+  --text: #333;
+  color: var(--text);
+  width: 70px;
+  height: 30px;
+  background: var(--highlight);
+  border-radius: 50px;
+  position: relative;
+
+  .switch {
+    background: white;
+    width: 24px;
+    height: 24px;
+    background: var(--background);
+    border-radius: 100%;
+    position: absolute;
+    top: 3px;
+    left: 4px;
+    transition: 0.5s all ease;
+  }
+}
+
+.light-theme {
+  --background: #FFF;
+  --text: #000;
+  background: var(--background);
+
+  .theme-switch {
+    background: var(--text);
+
+    .switch {
+      transform: translateX(37px);
+    }
+  }
+  a {
+    color: var(--text); 
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {

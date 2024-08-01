@@ -27,3 +27,7 @@ $('.spoilerBtn').click(function() {
 	$(this).parent().find('.spoilerText').css('display', 'block');
   $(this).hide();
 })
+
+$(".theme-switch").on("click", () => {
+  $("body").toggleClass("light-theme");
+});
