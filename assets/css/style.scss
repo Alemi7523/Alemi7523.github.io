@@ -47,7 +47,7 @@ Theme Styles
 *******************************************************************************/
 :root {
   --background: #333;
-  --text: #FFF;
+  --text: #FAF9F6;
   --highlight: #39AC4C;
 }
 
@@ -607,8 +607,8 @@ div#quote p {
 }
 
 .light-theme {
-  --background: #FFF;
-  --text: #212121;
+  --background: #FAF9F6;
+  --text: #373737;
   --highlight: #0090ff;
   background: var(--background);
 
