@@ -175,9 +175,10 @@
   - [Against Angie](#against-angie)  
     - [Frozen Kristiline Town](#frozen-kristiline-town)
     - [Tower of Theolia](#tower-of-theolia)
-    - [Glacier Badge](#glacier-badge)
+    - [Battlefield of Gods](#battlefield-of-gods)
 - [Chapter 8: Those We Lose](#chapter-8-those-we-lose)
   - [September 13th: A Trial of an Envoy](#september-13th-a-trial-of-an-envoy)
+    - [Kristiline Town](#kristiline-town)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -3613,8 +3614,8 @@ him (double battle).
     -   Aerial Ace
     -   Bullet Punch
 
-Gale Strike: Fighting | Physical | 60 power | 100% accuracy |
-Guaranteed critical hit if user is under 50% HP | On Forest Field,
+Gale Strike: Fighting. Physical. 60 power. 100% accuracy.
+Guaranteed critical hit if user is under 50% HP. On Forest Field,
 power is boosted x1.5 and deals additional Grass-type damage.
 
 Again, quite a bit of difference between modes, but the battle isn't
@@ -3930,15 +3931,6 @@ back after having increased your level cap.
 
 Win and you will be able to pick the **Gothita** in the room.
 
-There is an extra item on the Drink Shop.
-
-**Sheridan Village Drinks Shop New Items (3+ Badges)**
-
-|**Item**      |**Price** |
-|--------------|----------|
-|*Fresh Water* |\$200     |
-  
-
 Now do as asked and go to the gate in the upper part of Sheridan
 Village. There, speak with the Eldest, to get the gate to open. Enter
 the Spring of Purification.
@@ -3978,7 +3970,7 @@ out. Accept the teleport.
 Go up on Amethyst Grotto and you will trigger a cutscene with Keta's
 Spirit. Keta left him with a box to give us, so we will now receive
 ***TM103 Stacking Shot*** and the ***Diamond Punch Badge*** we deserved
-since we won that fight**.**
+since we won that fight.
 
 Our level cap has finally increased to 30, and we will be able to use
 cut outside battle, but we need to that that TM first. You can also buy
@@ -3986,11 +3978,19 @@ cut outside battle, but we need to that that TM first. You can also buy
 trigger. A dot will light in blue in the triangle on the middle and a
 statue of Keta will appear on the northwestern pedestal.
 
-Note that a pink butterfly has appeared on the top of Amethyst grotto.
+Note that a pink butterfly has appeared on the top of Amethyst Grotto.
 It allows us to fight against Keta, but the recommended level is 45, and
 we can be 30 at most, so that is not something to do now. If you somehow
 manage to do it and win the reward is the ***TM17 Protect***. We will be
 covering this fight later on in this guide.
+
+There is an extra item on the Drink Shop.
+
+**Sheridan Village Drinks Shop New Items (2+ Badges)**
+
+|**Item**      |**Price** |
+|--------------|----------|
+|*Fresh Water* |\$200     |
 
 Now we must return to the inn at Sheridan Village and speak with Aelita
 upstairs to sleep.
@@ -4495,8 +4495,8 @@ anymore.]</u>
     -   Aerial Ace
     -   Brutal Swing
 
-Multipulse: Type is the same as the user's held Plate (like Judgment)
-| Special | 65 power | 100% accuracy | On Blessed Field, power is
+Multipulse: Type is the same as the user's held Plate (like Judgment).
+Special. 65 power. 100% accuracy. On Blessed Field, power is
 boosted x1.3.
 
 Try to use the field to your advantage with special Psychic moves,
@@ -6189,9 +6189,9 @@ Go to your spot in the battlefield to begin the battle.
     -   Spectral Scream
     -   Pain Split
 
-Spectral Scream: Ghost | Special | 65 power | 100% accuracy | 60%
-chance to raise user\'s Defense by 1 stage | On Haunted Field, power is
-boosted x1.5 | Turns Blessed Field into Haunted Field.
+Spectral Scream: Ghost. Special. 65 power. 100% accuracy. 60%
+chance to raise user's Defense by 1 stage. On Haunted Field, power is
+boosted x1.5. Turns Blessed Field into Haunted Field.
 
 Being honest, the Moxie Mightyena and Zoroark I recommended earlier are
 more than enough to clear this gym without issues. Narcissa's team is
@@ -8360,7 +8360,7 @@ The dialogues after the battle also change depending on if you win in one try or
   - Dazzling Gleam
   - Psychic
 
-Aquabatics: Water | Status | Raises the user's Special Attack and Speed by 1 stage each.
+Aquabatics: Water. Status. Raises the user's Special Attack and Speed by 1 stage each.
 
 She is though, especially on Classic Mode. 
 Remember ground moves don’t work for Qwilfish and Lanturn due to Water Surface, although you cab abuse the same with an electric type as long as it isn’t against Lanturn who has Volt Absorb. 
@@ -10924,8 +10924,8 @@ Go ahead to fight Crawli, it is doubles again.
     -   Barbed Web
     -   Poison Jab
 
-Barbed Web: Bug | Physical | 75 power | 100% accuracy | Hits both
-foes in a Double Battle | Increased critical hit ratio. If the target's
+Barbed Web: Bug. Physical. 75 power. 100% accuracy. Hits both
+foes in a Double Battle. Increased critical hit ratio. If the target's
 side of the field already has Sticky Web, sets a layer of Spikes.
 
 This battle changes a lot depending on if you got a proper team or not.
@@ -12786,7 +12786,7 @@ Story continues once you win. The choice doesn’t matter.
 
 Go north to reach the Battlefield of the Gods.
 
-### Glacier Badge
+### Battlefield of Gods
 
 Advance for another scene.
 
@@ -12860,9 +12860,9 @@ Classic Mode.**
     -   Rock Slide
     -   Stomping Tantrum
 
-Cold Truth: Ice | Special | 95 power | 100% accuracy | Hits both
-foes in a Double Battle | Inflicts Torment on the target | On Frozen
-Dimensional Field, power is boosted x1.5 | Turns Dimensional Field into
+Cold Truth: Ice. Special. 95 power. 100% accuracy. Hits both
+foes in a Double Battle. Inflicts Torment on the target. On Frozen
+Dimensional Field, power is boosted x1.5. Turns Dimensional Field into
 Frozen Dimensional Field.
 
 Fighting moves are good here, and same goes with Rock moves and Steel
@@ -12890,6 +12890,17 @@ You have 6, she has 3, 2 if Story Mode.
 
 You are back controlling yourself.
 
+Approach the group for a scene. You will receive the Glacier Badge from 
+Kreiss, which will increase you level cap to 55.
+
+Leave the house.
+
+### Kristiline Town
+
+Talk with Aelita, she says that we should go to Carotos Mountain, but we
+have to take one more with us, we need to choose between Adam and Kreiss.
+Still, we will do this later, there are things to do on Kristiline Town
+now that it is unfrozen.
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
