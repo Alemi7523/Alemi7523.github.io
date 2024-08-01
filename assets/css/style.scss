@@ -586,7 +586,6 @@ div#quote p {
 .theme-switch {
   --background: #FFF;
   --text: #333;
-  --highlight: #0090ff;
   color: var(--text);
   width: 70px;
   height: 30px;
@@ -609,7 +608,8 @@ div#quote p {
 
 .light-theme {
   --background: #FFF;
-  --text: #000;
+  --text: #212121;
+  --highlight: #0090ff;
   background: var(--background);
 
   .theme-switch {
