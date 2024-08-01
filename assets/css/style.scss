@@ -163,8 +163,8 @@ p img {
 }
 
 pre, code {
-  color: #222;
-  background-color: #fff;
+  color: var(--text);
+  background-color: var(--background);
 
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 0.875em;
