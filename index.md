@@ -5446,10 +5446,9 @@ the grass behind the Wisp.
 
 <img src="assets/media/image24.png"/>
 
-**Wisp 02: Goldenleaf
-Town**
+**Wisp 02: Goldenleaf Town**
 
-<img src="assets/media/image25.png"/>
+<img src="assets/media/image25.png" width="512"/>
 
 Now, go to the Gym and speak with Narcissa, you can now go east upstairs
 and enter her house, which was previously locked. After the cutscene, go
