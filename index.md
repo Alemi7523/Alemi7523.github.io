@@ -259,14 +259,13 @@ HP Bars instead of shields. In general, the difficulty of battles on
 Classic seems to be the same or has been lowered a bit on some of the
 tougher ones.
 
-It is included on the Rejuvenation 13.5 QoL Mod Compilation Pack. They
-are all modular, so no need to add anything you don't wish to:
-[https://www.rebornevo.com/forums/topic/65994-Rejuvenation-135-qol-mod-compilation-pack-small-bug-fixes/](https://www.rebornevo.com/forums/topic/65994-rejuv-135-qol-mod-compilation-pack-small-bug-fixes/)
+It is included on the [Rejuvenation 13.5 QoL Mod Compilation Pack](https://www.rebornevo.com/forums/topic/65994-rejuv-135-qol-mod-compilation-pack-small-bug-fixes/). They
+are all modular, so no need to add anything you don't wish to.
 
-I am also using Dred's Excel guide to get information to put on this
+I am also using [Dred's Excel guide](https://docs.google.com/spreadsheets/d/1BjtFPXn8G37j621l_68fBcoNx3Qsvrg1idjS6c_Umls) to get information to put on this
 written guide, but there are same differences in order of some things
 and the rarely wrong encounters:
-<https://docs.google.com/spreadsheets/d/1BjtFPXn8G37j621l_68fBcoNx3Qsvrg1idjS6c_Umls/edit?usp=drivesdk>
+
 
 You can check all Field Effects on a txt that comes with the game. It is
 important to use the fields appropriately, so check it when needed. The
@@ -326,10 +325,9 @@ girl, boy, or non-binary in some scenes, usually people will refer to
 you as they/them when talking to you in third person regardless of what
 you chose. That is fully intended and not a bug.
 
-Now, Amanda will ask if you want to input a password. You have a full
-list of passwords in the following link, but there will be a small
-explanation of them in the guide:
-<https://docs.google.com/spreadsheets/d/1UMWQWrvG-NGLXBNHQUsizrFYM1RImfydUT9WN1IZDT8>
+Now, Amanda will ask if you want to input a password. [You have a full
+list of passwords in this link](https://docs.google.com/spreadsheets/d/1UMWQWrvG-NGLXBNHQUsizrFYM1RImfydUT9WN1IZDT8),
+but there will be a small explanation of them in the guide.
 
 Some will add QoL things while other will make the game harder or
 easier. Choose depending on which you wish for yourself or don't choose
@@ -1920,9 +1918,8 @@ actually in the game right now, and the best reward we can get is for
     Candy XL***, ***x1 Modest Mint***
 
 From now on this guide will add images of the locations of the Zygarde
-Cells. The images will be taken from this guide made by Dred, you can
-also find all Zygarde Cells locations there:
-<https://docs.google.com/spreadsheets/d/1BjtFPXn8G37j621l_68fBcoNx3Qsvrg1idjS6c_Umls/edit#gid=920212873>
+Cells. [The images are usually taken from this guide made by Dred, you can
+also find all Zygarde Cells locations there](https://docs.google.com/spreadsheets/d/1BjtFPXn8G37j621l_68fBcoNx3Qsvrg1idjS6c_Umls/edit#gid=920212873)
 
 Now, we are going to get all the cells available up to this point.
 

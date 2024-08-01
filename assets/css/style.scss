@@ -49,6 +49,7 @@ Theme Styles
   --background: #333;
   --text: #FAF9F6;
   --highlight: #39AC4C;
+  --urlcolor: lightskyblue;
 }
 
 body {
@@ -106,7 +107,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: var(--text);
+  color: var(--urlcolor);
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -610,6 +611,7 @@ div#quote p {
   --background: #FAF9F6;
   --text: #373737;
   --highlight: #0090ff;
+  --urlcolor: #0F79D0;
   background: var(--background);
 
   .theme-switch {
@@ -620,6 +622,6 @@ div#quote p {
     }
   }
   a {
-    color: var(--text); 
+    color: var(--urlcolor); 
   }
 }
