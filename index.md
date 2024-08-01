@@ -172,7 +172,12 @@
     - [Quest 47: Cliffside Grave Quest](#quest-47-cliffside-grave-quest)
     - [Wispy Charm Rock Climb](#wispy-charm-rock-climb)
     - [Quest 48: A Souvenir for Mom](#quest-48-a-souvenir-for-mom)
-  - [Frozen Kristiline Town](#frozen-kristiline-town)
+  - [Against Angie](#against-angie)  
+    - [Frozen Kristiline Town](#frozen-kristiline-town)
+    - [Tower of Theolia](#tower-of-theolia)
+    - [Glacier Badge](#glacier-badge)
+- [Chapter 8: Those We Lose](#chapter-8-those-we-lose)
+  - [September 13th: A Trial of an Envoy](#september-13th-a-trial-of-an-envoy)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -11124,7 +11129,7 @@ Once you couldn't go south anymore, you will be able to find a hidden
 position. Continue west for another scene; the choice here doesn’t
 matter.
 
-**Aquamarine Cave Encounters**
+**Aquamarine Cave Encounters (Water Surface)**
 
 | **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
 |-----------|-------|-------------|-------|--------------|-------|
@@ -11580,7 +11585,7 @@ Relic.
 Go the entrance of Teila Resort and go north to enter the Magrodar
 Crater.
 
-**Magrodar Crater Encounters**
+**Magrodar Crater Encounters (Rocky Field)**
 
 | **Grass**      | **%** |
 |----------------|-------|
@@ -12045,7 +12050,7 @@ explore it properly now that we have Rock Climb.
 
 Use Rock climb to access a new part, which has encounters.
 
-**Jirukala Cavern Encounters**
+**Jirukala Cavern Encounters (Cave Field)**
 
 | **Grass** | **%** | **Headbutt** | **%** |
 |-----------|-------|--------------|-------|
@@ -12120,7 +12125,7 @@ We now need to go to Amethyst Depths. Cross the first bridge to the east
 and Rock Climb. There is a hidden ***Zinc*** on the left rock. Go north
 to reach the Amethyst Mines.
 
-**Amethyst Mines Encounters**
+**Amethyst Mines Encounters (Crystal Cavern)**
 
 | **Cave**     | **%** |
 |--------------|-------|
@@ -12529,12 +12534,361 @@ We are almost done, just go for a quick visit to Helojak Island since
 with Rock Climb we can get the **Mudkip** of the southeastern island.
 There is a hidden ***Rare Candy*** on the northern rock.
 
+## Against Angie
+
 Return to Tesla’s Villa and speak with Melia to continue. You will get a
 special scene is Adam and Valaria have at least 6 Friendship Points. You
 start in front of Farha, and you can proceed speaking with her.
 
-## Frozen Kristiline Town
+### Frozen Kristiline Town
 
+Go upstairs and advance a bit for a scene. The choice doesn’t matter.
+
+Leave the museum and advance the only way you can.
+
+Once on a cliff, Reina will help you reach a bridge.
+
+Continue until reaching the Isla of Angels.
+
+Now advance though the ice until reaching the Church of Theolia.
+
+Go north until a room with a big log. Go east to find a Zygarde Cell on
+a table.
+
+**ZCell 068: Church of Theolia**
+
+<img src="assets/media/image79.png"/>
+
+
+Return to the previous room and go north to find Angie.
+
+You will end up in the Tower of Theolia.
+
+### Tower of Theolia
+
+An orange butterfly appeared at your side. It will teleport you to
+Tesla’s Villa, just at the side of the Noctowl Statue. We don't need to
+go out for story reasons, but it is good to have a way out.
+
+Go north to enter the tower. The door will open once you interact with
+it.
+
+You can heal in the bed and there is a PC, so you can change your team.
+
+Go though the only opened door to proceed.
+
+**Theolia Cellar Encounters (Frozen Dimensional Field)**
+
+| **Grass**  | **%** |
+|------------|-------|
+| Bergmite   | 20    |
+| Spheal     | 20    |
+| Delibird   | 20    |
+| **Eiscue** | 20    |
+| **Swinub** | 20    |
+
+Advance for a scene, the choice doesn’t matter.
+
+We can’t surf, so we need to break a wall to continue.
+
+Advance through the only way until you reach the other side of the room
+you saw the event, you can pick a key here.
+
+Try to go back and you will see a scene. Note that this scene is
+different if you have defeated Tapu Koko and Madam X. If you have the
+one to save you will be Crescent instead of Jenner and Zetta, and she
+loses 3 Friendship Points. If it is Zetta and Jenner, you get a choice
+that doesn’t matter.
+
+Return to the room with a bed and a PC. You can now open the other door.
+
+Advance for a scene, we need to interact with three cocoons. They will
+each lead to a battle with: Whirlipede, **Vespiquen**, and **Orbeetle**.
+You can catch them.
+
+Try to go upstairs and you will face a boss.
+
+**Belial (Frozen Dimensional Field) ). 2 HP Bars. Story Mode.**
+-   Volcarona, Level 40.
+    -   Mystical Fire
+    -   Bug Buzz
+    -   Giga Drain
+    -   Sunny Day
+-   After clearing 1 HP Bar:
+    -   Ability becomes Swarm.
+    -   Field Becomes Flower Garden 1.
+    -   Sets Sunny Day.
+    -   Cures status change.
+    -   Cures any stat drop.
+    -   Gets a Leftovers.
+-   SOS:
+    -   Shuckle, Level 30.
+        -   Stealth Rock
+        -   Infestation
+        -   Sticky Web
+        -   Helping Hand
+    -   Mothim, Level 30.
+        -   Struggle Bug
+        -   Poison Powder
+        -   Protect
+        -   Lunge
+
+**Belial (Frozen Dimensional Field) ). 4 HP Bars. Classic Mode.**
+-   Volcarona, Level 50. @ Leftovers.
+    -   Mystical Fire
+    -   Bug Buzz
+    -   Giga Drain
+    -   Sunny Day
+-   After clearing 1 HP Bar:
+    -   Sets Sunny Day.
+    -   Gets a Leftovers again even if lost.
+-   After clearing 2 HP Bars:
+    -   Sets Safeguard.
+    -   Cures status change.
+    -   Cures any stat drop.
+    -   Gets a Leftovers again even if lost.
+-   After clearing 3 HP Bars:
+    -   Ability becomes Swarm.
+    -   Field Becomes Flower Garden 3.
+    -   Gets a Leftovers again even if lost.
+-   SOS:
+    -   Shuckle, Level 40. @ Mental Herb.
+        -   Stealth Rock
+        -   Infestation
+        -   Sticky Web
+        -   Helping Hand
+    -   Mothim, Level 40. @ Bug Gem.
+        -   Struggle Bug
+        -   Poison Powder
+        -   Protect
+        -   Lunge
+
+It is better to focus on Volcarona ignoring any SOS that appears. Its
+defenses aren’t too high despite hitting very hard, so it is possible to
+get rid of it quickly with super effective moves.
+
+Crawli will be freed after you win. Talk to him. Choice doesn’t matter.
+
+You can now open the closed door here. Advance through the only way.
+
+Once you are outside, you can drop a ladder to create a shortcut.
+
+Advance until seeing a scene. Step on the stage.
+
+There are some questions that you should be able to answer if you have
+been paying attention to the game, but others it is impossible without a
+guide or having played them before and memorized…
+
+To be the one who answers, you need to press the “A” Key very fast while
+passing the text. If this ends with you having less points than your
+opponent, you lose and have to fight and then repeat this again until
+you win.
+
+**Good Answers:**
+-   Rule 43
+-   Rule 10
+-   Tower Cellar
+-   Veronica
+-   Ocean Relic
+-   Rule 8
+-   Helojak Island
+-   Gothorita
+-   Rule ??? (Only the first option is counted as correct)
+-   Lady Angie
+
+Once you have won, use the teleporter on the stage to proceed.
+
+Advance for a scene with a new character Kreiss, a Gym Leader.
+
+**Friendship Point Choice:**
+-   Free Kreiss. (Kreiss +2)
+-   I would rather not… (Kreiss -2)
+
+Freeing Kreiss or not is also tracked by the game. He will end up being
+free anyway, but what is tracked is if you free him or not.
+
+Advance through the only way. You end up in a room where Venam broke the
+glass.
+
+You need to Roeck Smash the crystal on the right. The others will cause
+you damage.
+
+On the new room, move the statue to the tile with a bit red dot. Now you
+can use the ladder on the previous room.
+
+Here push the Statue to the top right corner and continue pushing it to
+the right . The cracks will move and when they reach the end, the mirror
+will break and a ladder fall.
+
+Go through the cracked mirror.
+
+Again, we have to move the statue and the ladder will mirror its moves.
+Even when pushed on a wall, the ladder will move.
+
+Move the statue down six times, and one time left. Now you can use the
+ladder on the previous room.
+
+Another room with a useless ladder that we need to move.
+
+Before fixing the ladder, break the mirror door in the north and cross
+it to see an interesting scene.
+
+Now, go to the southern room to move the statue. Follow the
+instructions.
+
+Three times down. 9 times left. Two times up.
+
+Climb up the ladder. You will have to fight a couple of servants with
+Venam.
+
+**Servant Sarah and Servant Mary (Frozen Dimensional Field). Story
+Mode.**
+-   Zebstrika, Level 44. (Sarah)
+    -   Flame Charge
+    -   Agility
+    -   Wild Charge
+    -   Thrash
+-   Wobbuffet, Level 46. (Sarah)
+    -   Counter
+    -   Mirror Coat
+    -   Safeguard
+    -   Destiny Bond
+-   Eiscue, Level 47. (Mary)
+    -   Aurora Veil
+    -   Icicle Crash
+    -   Dive
+    -   Knock Off
+
+**Servant Sarah and Servant Mary (Frozen Dimensional Field). Classic
+Mode.**
+-   Zebstrika, Level 45. (Sarah)
+    -   Flame Charge
+    -   Agility
+    -   Wild Charge
+    -   Thrash
+-   Wobbuffet, Level 46. (Sarah)
+    -   Counter
+    -   Mirror Coat
+    -   Safeguard
+    -   Destiny Bond
+-   Eiscue, Level 47. (Mary)
+    -   Aurora Veil
+    -   Icicle Crash
+    -   Dive
+    -   Knock Off
+-   Sceptile, Level 46. (Mary)
+    -   Lead Blade
+    -   Acrobatics
+    -   Drain Punch
+    -   Dual Chop
+
+Story continues once you win. The choice doesn’t matter.
+
+Go north to reach the Battlefield of the Gods.
+
+### Glacier Badge
+
+Advance for another scene.
+
+There is some text in reverse shown at fast speed that contains some
+important information we shouldn’t understand yet, so don’t worry for
+not understanding. Some last lines aren’t fastened and could read far
+easier though.
+
+Continue advancing and climb the ladder. Once outside, enter the door.
+
+Advance and talk to Cera for information about the Gym because yes,
+Angie’s battle counts as a Gym Battle. Use the butterflies since they
+are counted. The teleported goes to the room with the bad and PC. Set
+your team for the fight. Advance until asked to fight Angie.
+
+It is a double battle.
+
+**Faithful Servant Angie (Frozen Dimensional Field, Permanent Hail).
+Story Mode.**
+-   Alolan Ninetales, Level 45.
+    -   Cold Truth
+    -   Blizzard
+    -   Dazzling Gleam
+    -   Disable
+-   Beartic, Level 46. @ Muscle Band.
+    -   Play Rough
+    -   Aqua Jet
+    -   Icicle Crash
+    -   Bulldoze
+-   Glaceon, Level 47.
+    -   Cold Truth
+    -   Shadow Ball
+    -   Icy Wind
+    -   Water Pulse
+-   Walrein, Level 48.
+    -   Surf
+    -   Cold Truth
+    -   Rock Slide
+    -   Stomping Tantrum
+
+**Faithful Servant Angie (Frozen Dimensional Field, Permanent Hail).
+Classic Mode.**
+-   Jynx, Level 47.
+    -   Fake Out
+    -   Cold Truth
+    -   Psyshock
+    -   Focus Blast
+-   Arctovish, Level 47. @ Elemental Seed.
+    -   Stone Edge
+    -   Surf
+    -   Freeze Dry
+    -   Aurora Veil
+-   Beartic, Level 49. @ Muscle Band.
+    -   Low Kick
+    -   Liquidation
+    -   Icicle Crash
+    -   Night Slash
+-   Rotom Frost, Level 48. @ Wise Glasses.
+    -   Cold Truth
+    -   Thunderbolt
+    -   Foul Play
+    -   Shadow Ball
+-   Crabominable, Level 49. @ Never-Melt Ice
+    -   Ice Punch
+    -   Drain Punch
+    -   Rock Slide
+    -   Crabhammer
+-   Walrein, Level 50. @ Assault Vest.
+    -   Surf
+    -   Cold Truth
+    -   Rock Slide
+    -   Stomping Tantrum
+
+Cold Truth: Ice | Special | 95 power | 100% accuracy | Hits both
+foes in a Double Battle | Inflicts Torment on the target | On Frozen
+Dimensional Field, power is boosted x1.5 | Turns Dimensional Field into
+Frozen Dimensional Field.
+
+Fighting moves are good here, and same goes with Rock moves and Steel
+moves. Ice and Dark moves are buffed by the Frozen Dimensional Field.
+
+After winning, you are told to run, but there is nowhere to run, so just
+go in circles or whatever. It is just 30 seconds.
+
+Venam, Melia, and you pass out and the chapter finishes.
+
+# Chapter 8: Those We Lose
+
+Another Team Xen scene to begin the chapter.
+
+After some more scenes, you are controlling Aelita on the Battlefield of
+Gods.
+
+Go north to see a scene.
+
+We have a fight with a servant controlling Aelita, but it is easy to
+win. Set Stealth rock and U-Turn to bring anything that is not Gliscor.
+You have 6, she has 3, 2 if Story Mode.
+
+## September 13th: A Trial of an Envoy
+
+You are back controlling yourself.
 
 
 
