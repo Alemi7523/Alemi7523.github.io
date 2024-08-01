@@ -44,8 +44,8 @@
   - [Junction Bridge](#junction-bridge)
   - [Route 2](#route-2)
     - [Quest 18: Painter Side Quest](#quest-18-painter-side-quest)
-  - [Amethyst Cave 1st Visit](#amethyst-cave-1st-visit)
-  - [Post-Amethyst Cave 1st Visit](#post-amethyst-cave-1st-visit)
+  - [Amethyst Cave](#amethyst-cave)
+  - [Post-Amethyst Cave](#post-amethyst-cave)
     - [Quest 19: Karrina's Gang Fight](#quest-19-karrinas-gang-fight)
   - [Sheridan Village](#sheridan-village)
     - [Quest 20: Lost Boyfriend](#quest-20-lost-boyfriend)
@@ -163,7 +163,16 @@
     - [Quest 38: Poliwag Quest (Fifth)](#quest-38-poliwag-quest-fifth)
     - [Teila Resort (2nd Visit)](#teila-resort-2nd-visit)
   - [September 9th: A Trial of Reunions](#september-9th-a-trial-of-reunions)
-
+  - [September 10th: A Trial of Dragons](#september-10th-a-trial-of-dragons)
+    - [Earth Relic](#earth-relic)
+    - [Dinner with Tesla](#dinner-with-tesla)
+    - [Frozen Kakori](#frozen-kakori)
+  - [Rock Climb Detour](#rock-climb-detour)
+    - [Quest 46: Phase Dial Quest](#quest-46-phase-dial-quest)
+    - [Quest 47: Cliffside Grave Quest](#quest-47-cliffside-grave-quest)
+    - [Wispy Charm Rock Climb](#wispy-charm-rock-climb)
+    - [Quest 48: A Souvenir for Mom](#quest-48-a-souvenir-for-mom)
+  - [Frozen Kristiline Town](#frozen-kristiline-town)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -2840,7 +2849,7 @@ boulder while being as far east as you can, there is a hidden
 
 Now, enter the Amethyst Cave.
 
-## Amethyst Cave 1st Visit
+## Amethyst Cave
 
 **Amethyst Cave Encounters (Crystal Cavern)**
 
@@ -2853,12 +2862,12 @@ Now, enter the Amethyst Cave.
 |Carbink       |4     |             |      |
 
 After seeing the scene, go left and up on the area you see girl looking
-at the wall to wiles down and one left from her, there is a hidden
+at the wall two tiles down and one left from her, there is a hidden
 ***Nugget***.
 
 Continue west until seeing a wagon, on the right lower part of it there
 is a hidden ***Mineral Ball***. You can see a ***Quiet Mint*** on the
-left.
+left. On the southernmost part of the wall, there is a hidden Green Shard.
 
 Now go all way east until reaching the Amethyst Depths.
 
@@ -2967,7 +2976,7 @@ Again, the partner doesn't matter, so whoever you like the most. It
 isn't a difficult fight even on Classic, but being slow can be very
 annoying.
 
-## Post-Amethyst Cave 1st Visit
+## Post-Amethyst Cave
 
 **Friendship Point Choice:**
 -   You think I can do it? (Neutral)
@@ -6812,7 +6821,7 @@ The choice here doesn’t matter. She will mention 11 lost souls on Floria Islan
 
 The quest will begin automatically once we regain control. 
 You can talk to her as long as it isn’t night for clues about the location of the children, but that is what we will be doing in this guide now. 
-We can only find six od them at this point of the story.
+We can only find six of them at this point of the story.
 
 For the first one, let’s go to Akuwa Town, go north until seeing the gym, which doubles as aquarium, and go to the right to find a girl hidden by a tree. 
 You will see her easily thanks to the exclamation mark on her head. 
@@ -9974,7 +9983,7 @@ have to fight a boss. Winning gets tracked, and if you lose, you get 5
 **Exp. Candy M**.
 
 **Thunder Warrior (No Field). 3 HP Bars. Story Mode.**
--   Tapu Koko, Level 42
+-   Tapu Koko, Level 42.
     -   Steel Wing
     -   Nature Madness
     -   Electric Terrain
@@ -9987,7 +9996,7 @@ have to fight a boss. Winning gets tracked, and if you lose, you get 5
     -   Fly
 
 **Thunder Warrior (No Field). 3 HP Bars. Classic Mode.**
--   Tapu Koko, Level 50
+-   Tapu Koko, Level 50.
     -   Take Down
     -   Noble Roar
     -   Fire Fang
@@ -10713,7 +10722,8 @@ You can pick a ***Data Drive***, the key item ***Center Keys***, and
 
 Try to leave, to find April blocking your Path, you will receive an
 Aevian Mystery Egg. This is the only way on 13.5 to get ***Aevian
-Larvesta***, but it is decided when creating a save.
+Larvesta***, but it is decided when creating a save.You also get 
++4 Friendship Points with April.
 
 ## Infested Badge
 
@@ -11261,12 +11271,14 @@ Go south after a small lake to pick an ***Occa Berry*** from its berry
 tree and a Zygarde Cell.
 
 **ZCell 057: Teila Resort**
+
 <img src="assets/media/image68.png"/>
 
 Go west and south at the birth water bridge. You will find a Hyper
 Potion and another Zygarde Cell.
 
 **ZCell 058: Teila Resort**
+
 <img src="assets/media/image69.png"/>
 
 Enter this house, you can trade an Oranguru for a **Passimian**. Before
@@ -11329,6 +11341,7 @@ to get a ***Muscle Band***.
 Go to the top floor and enter the right room to find a Zygarde Cell.
 
 **ZCell 059: Teila Resort**
+
 <img src="assets/media/image70.png"/>
 
 Return downstairs and use the east door Tesla and Melia used on the
@@ -11455,6 +11468,7 @@ Surf to the north to leave to a new part of Route 5. Go North to find a
 Zygarde Cell.
 
 **ZCell 060: Route 5 (Secluded Shore Entry)**
+
 <img src="assets/media/image71.png"/>
 
 Surf west from here to find a hidden ***Resist Wing*** on the water.
@@ -11483,12 +11497,1043 @@ Leave your house and there the house on the left, the one Saki was
 bothering earlier. There is a Zygarde Cell inside.
 
 **ZCell 061: Teila Resort**
+
 <img src="assets/media/image72.png"/>
 
 Return to your house and talk with Melia to end the day. You will see a
 scene at Valor Mountain.
 
 ## September 9th: A Trial of Reunions
+
+Leave the house and talk to Melia for a scene.
+
+Now go to the north mansion and enter the right room to report to Tesla.
+
+**Friendship Point Choice:**
+-   Sorry. (Amber -2)
+-   … (Amber +1)
+-   It’s weird ass hell out here. (Amber +2)
+
+After the scenes you will be at Aquamarine Depths. Go to the right for
+another scene. Some variation if defeated Madam X.
+
+You are given a choice of trust Jenner or not, this is tracked by the
+game, and dialogues will change depending on it. I believe it is worth
+trusting him as there is more dialogue.
+
+**Professor Jenner (Crystal Cavern). Story Mode.**
+-   Stoutland, Level 42.
+    -   Return
+    -   Work Up
+    -   Crunch
+    -   Ice Fang
+-   Kommo-o, Level 43.
+    -   Clanging Scales
+    -   Rock Slide
+    -   Dragon Claw
+    -   Drain Punch
+-   Klinklang, Level 44.
+    -   Grear Grind
+    -   Wild Charge
+    -   Façade
+    -   Power Gem
+
+**Professor Jenner (Crystal Cavern). Classic Mode.**
+-   Stoutland, Level 45. @ Chople Berry.
+    -   Return
+    -   Work Up
+    -   Crunch
+    -   Ice Fang
+-   Noivern, Level 45. @ Dragon Fang.
+    -   Dragon Pulse
+    -   Roost
+    -   Air Slash
+    -   Super Fang
+-   Kommo-o, Level 46. @ Roseli Berry
+    -   Clanging Scales
+    -   Rock Slide
+    -   Dragon Dance
+    -   Drain Punch
+-   Klinklang, Level 46. @ Assault Vest
+    -   Grear Grind
+    -   Wild Charge
+    -   Façade
+    -   Power Gem
+
+Quite an easy fight given our current level cap, and he only has four
+even on Classic Mode.
+
+After winning you will e given a **Galarian Slowpoke** and either
+***Galarica Cuff*** or ***Galarica Wreath*** or to evolve it. Remember
+these items can be gotten also on the Kecleon bazaar.
+
+Talk to Melia in the house to finish the day. You will se a scene with
+Melia and Jenner if you chose to trust him.
+
+## September 10th: A Trial of Dragons
+
+Leave the house for a scene. It is time for the trial to get the Earth
+Relic.
+
+### Earth Relic
+
+Go the entrance of Teila Resort and go north to enter the Magrodar
+Crater.
+
+**Magrodar Crater Encounters**
+
+| **Grass**      | **%** |
+|----------------|-------|
+| **Spinda**     | 42    |
+| Koffing        | 15    |
+| **Weezing**    | 10    |
+| **Magcargo**   | 17    |
+| Numel          | 9     |
+| Mawile         | 5     |
+| **Kangaskhan** | 2     |
+
+Get a spare **Spinda** for a trade we have been available for quite a
+long time but couldn’t do because of not having Spinda.
+
+Go north a move a floating rock to get a hidden ***Black Prism*** on the
+right wall. It has to be night to move it.
+
+Go west and move a floating tock there to gain access to a ***Sun
+Stone*** and a Zygarde Cell.
+
+**ZCell 062: Magrodar Crater**
+
+<img src="assets/media/image73.png"/>
+
+Go back and downstairs. Advance though the rocks in the magma and you
+will end up in a fight.
+
+**Pokémon Ranger Alex (Rocky Field). Story Mode.**
+-   Pelipper, Level 44. @ Wacan Berry.
+    -   Hurricane
+    -   Water Pulse
+    -   U-Turn
+    -   Roost
+-   Venusaur, Level 47. @ Papaya Berry.
+    -   Sleep Powder
+    -   Sludge Bomb
+    -   Knock Off
+    -   Leech Seed
+**Pokémon Ranger Alex (Rocky Field). Classic Mode.**
+-   Pelipper, Level 45. @ Wacan Berry.
+    -   Hurricane
+    -   Water Pulse
+    -   U-Turn
+    -   Roost
+-   Ampharos, Level 46. @ Shuca Berry.
+    -   Thunder
+    -   Power Gem
+    -   Confuse Ray
+    -   Dragon Pulse
+-   Venusaur, Level 47. @ Papaya Berry.
+    -   Sleep Powder
+    -   Sludge Bomb
+    -   Knock Off
+    -   Leech Seed
+
+Continue after winning, not at hard fight. Soon you will have another.
+
+**Pokémon Ranger Sam (Rocky Field). Story Mode.**
+-   Golisopod, Level 45. @ Wacan Berry.
+    -   First Impression
+    -   Aqua Jet
+    -   Protect
+    -   Waterfall
+-   Machamp, Level 47. @ Coba Berry.
+    -   Rock Slide
+    -   Dynamic Punch
+    -   Thunderpunch
+    -   Bullet Punch
+
+**Pokémon Ranger Sam (Rocky Field). Classic Mode.**
+-   Golisopod, Level 45. @ Wacan Berry.
+    -   First Impression
+    -   Aqua Jet
+    -   Protect
+    -   Waterfall
+-   Alolan Exeggutor, Level 46. @ Yache Berry.
+    -   Dragon Hammer
+    -   Iron Head
+    -   Super Power
+    -   Brutal Swing
+-   Machamp, Level 47. @ Coba Berry.
+    -   Rock Slide
+    -   Dynamic Punch
+    -   Thunderpunch
+    -   Bullet Punch
+
+Same as the previous fight, just continue after winning.
+
+Go east and south once you rath firm land, to get a ***Charcoal*** and a
+Zygarde Cell.
+
+**ZCell 063: Magrodar Crater**
+
+<img src="assets/media/image74.png"/>
+
+Return north and use the butterflied. Remember that you are healed if
+your Karma is positive, and it counts use regardless of positive or
+negative.
+
+Continue north to trigger a scene. Agree to proceed.
+
+**Thunder Warrior (Dragon’s Den). 2 HP Bars. Story Mode.**
+-   Tapu Koko, Level 45.
+    -   Light Screen
+    -   Nature Madness
+    -   Brave Bird
+    -   Reflect
+-   Tapu Koko can call SOS mon from the beginning of the battle. After 1
+    HP Bar, the second Charizard appears, and it will mega evolve.
+    -   Charizard, Level 40.
+        -   Incinerate
+        -   Air Slash
+        -   Dragon Breath
+        -   Roost
+    -   Charizard, Level 40. @ Charizardite X
+        -   Bulldoze
+        -   Dragon Breath
+        -   Incinerate
+        -   Air Slash
+-   After clearing 1 HP Bar, Tapu Koko’s moveset changes and get @
+    Elemental Seed.
+    -   Spark
+    -   Hyper Voice
+    -   Roost
+    -   Dazzling Gleam
+
+**Thunder Warrior (Dragon’s Den). 2 HP Bars. Classic Mode.**
+-   Tapu Koko, Level 50. @ Sitrus Berry.
+    -   Light Screen
+    -   Nature Madness
+    -   Brave Bird
+    -   Reflect
+-   Tapu Koko can call SOS mon from the beginning of the battle. After 1
+    HP Bar, the second Charizard appears, and it will mega evolve.
+    -   Charizard, Level 48.
+        -   Heat Wave
+        -   Air Slash
+        -   Focus Blast
+        -   Roost
+    -   Charizard, Level 48. @ Charizardite X
+        -   Earthquake
+        -   Dragon Claw
+        -   Heat Wave
+        -   Thunder Punch
+-   After clearing 1 HP Bar, Tapu Koko’s moveset changes and get @
+    Elemental Seed.
+    -   Thunderbolt
+    -   Grass Knot
+    -   Roost
+    -   Dazzling Gleam
+
+This is quite a hard fight as they hit very hard. Try to hit faster than
+them or be bulky enough to endure it.
+
+After winning, you get the Earth Relic.
+
+### Dinner with Tesla
+
+Go to the house with the Noctowl Status, which is Tesla’s Villa. Talk to
+Tesla and agree to have dinner.
+
+Depending on what you ask for, you get one of the following items.
+
+-   Sweet: ***Strawberry Cake***.
+-   Relaxing: ***Rose Tea***.
+-   Rejuvenating: ***Herbal Tea***.
+-   Sour: ***Razz Tart***.
+
+**Friendship Point Choice:**
+-   How do you know him? (Neutral)
+-   Does he deserve this? (Tesla -2)
+
+After the scenes enter the room.
+
+**Friendship Point Choice:**
+-   Thank you… (Tesla +2)
+-   How do you know him? (Neutral)
+-   Does he deserve this? (Tesla -3)
+
+Regardless of what you chose, you will receive the ***Yacht Keys.***
+
+Once you can move again open the gift in the corner of your room to get
+a ***Furret Crest***, 3 ***Glitter Balls***, 2 ***Cell Imprints***, 2
+***Black Prisms***, 12 ***Moomoo Milks***, 12 ***Lava Cookies***, and 10
+***Exp. Candy XL***.
+
+Leave the room and enter on the leftmost one.
+
+**Friendship Point Choice:**
+-   Are you okey? (Neutral)
+-   Stop being a child. (Amber -3)
+
+**Friendship Point Choice:**
+-   I'm here to help. (Amber +2)
+-   What’s next? (Neutral)
+
+The first option has some different dialogue is after the increase of
+Friendship Points you have more than 0 with her.
+
+Agree to go together to appear directly at Aquamarine Depths.
+
+Advance and talk to Amber for a scene. Now try to leave, but you will
+have to turn back.
+
+You have to leave now, but the room became darker, so you have a hard
+time seeing. After another scene, the light has returned, and you can
+advance though a way you couldn't before on the south because it was
+blocked by Team Xen. Anyway, you will be found out by Madelis and a Xen
+Mage.
+
+**Xen Mage Bartz and Xen Executive Madelis (Water Surface). Classic
+Mode.**
+-   **Boosts**
+    -   **Field will become Water Surface on start of the combat**
+    -   **Houndoom will gain Water Absorb when it comes out together
+        with Aqua Ring effect.**
+-   Florges, Level 46. (Madelis)
+    -   Protect
+    -   Moonblast
+    -   Giga Drain
+    -   Wish
+-   Houndoom, Level 47. (Madelis)
+    -   Assurance
+    -   Sludge Bomb
+    -   Dark Pulse
+    -   Protect
+-   Cradily, Level 43. (Bartz)
+    -   Ancient Power
+    -   Hidden Power (Water)
+    -   Recover
+    -   Giga Drain
+-   Heliolisk, Level 43. (Bartz)
+    -   Thunderbolt
+    -   Hidden Power (Water)
+    -   Hyper Voice
+    -   Protect
+
+**Xen Mage Bartz and Xen Executive Madelis (Water Surface). Classic
+Mode.**
+-   **Boosts**
+    -   **Field will become Water Surface on start of the combat**
+    -   **Houndoom will gain Water Absorb when it comes out together
+        with Aqua Ring effect.**
+-   Florges, Level 47. @ Pixie Plate. (Madelis)
+    -   Protect
+    -   Moonblast
+    -   Giga Drain
+    -   Wish
+-   Sharpedo, Level 48. @ Mystic Water. (Madelis)
+    -   Surf
+    -   Ice Beam
+    -   Crunch
+    -   Protect
+-   Houndoom, Level 49. @ Chople Berry. (Madelis)
+    -   Thunder Fang
+    -   Sludge Bomb
+    -   Dark Pulse
+    -   Protect
+-   Cradily, Level 45. (Bartz)
+    -   Ancient Power
+    -   Hidden Power (Water)
+    -   Recover
+    -   Giga Drain
+-   Jellicent, Level 44. (Bartz)
+    -   Energy Ball
+    -   Recover
+    -   Brine
+    -   Shadow Ball
+-   Heliolisk, Level 46. (Bartz)
+    -   Thunderbolt
+    -   Hidden Power (Water)
+    -   Hyper Voice
+    -   Protect
+
+It is better to finish one side first as it will become a 2vs1
+afterward.
+
+Approach the ship that had a long cue before and inspect the front box
+to find a hidden ***Calcium***.
+
+Go to Tesla’s office in the northern building, remember right room. Now
+go to Tesla’s home.
+
+**Friendship Point Choice:**
+-   We have to. (Melia +1)
+-   I don’t know… (Neutral)
+-   Depends on the mood. (Melia -1, you get an additional -2 if you were
+    already in negatives)
+
+Leave the room for a fight that changes depending on if you defeated
+Madam X or not.
+
+Defeated Madam X:
+
+**Xen Mage Harris (No Field). Story Mode.**
+-   **Boosts**.
+    -   **Gumshoos 1: Speed +1**
+    -   **Pidgeot 3: Attack +1**
+-   Walrein, Level 42.
+    -   Curse
+    -   Icicle Spear
+    -   Body Slam
+    -   Swagger
+-   Gumshoos, Level 43.
+    -   Yawn
+    -   Ice Fang
+    -   Fire Fang
+    -   Thunder Fang
+-   Charizard, Level 43.
+    -   Flamethrower
+    -   Air Slash
+    -   Ancient Power
+    -   Work Up
+-   Pidgeot, Level 42.
+    -   Quick Attack
+    -   Stell Wing
+    -   Aerial Ace
+    -   Roost
+
+**Xen Mage Harris (No Field). Classic Mode.**
+-   **Boosts**.
+    -   **Gumshoos: Speed +1**
+    -   **Pidgeot: Attack +1**
+    -   **Arbok: Special Defense +1**
+-   Walrein, Level 44.
+    -   Curse
+    -   Icicle Spear
+    -   Body Slam
+    -   Swagger
+-   Gumshoos, Level 44.
+    -   Yawn
+    -   Ice Fang
+    -   Fire Fang
+    -   Thunder Fang
+-   Charizard, Level 43.
+    -   Flamethrower
+    -   Air Slash
+    -   Ancient Power
+    -   Work Up
+-   Pidgeot, Level 44.
+    -   Quick Attack
+    -   Stell Wing
+    -   Aerial Ace
+    -   Roost
+-   Arbok, Level 45.
+    -   Coil
+    -   Ice Fang
+    -   Curse
+    -   Rock Slide
+
+If lost to Madam X:
+
+**Team Xen Dani (No Field). Story Mode.**
+-   Weezing, Level 46.
+-   Beedrill, Level 46.
+-   Mankey, Level 31. Shadow.
+    -   Sucker Punch
+    -   Explosion
+    -   Cross Chop
+    -   Swagger
+
+**Team Xen Dani (No Field). Classic Mode.**
+-   Weezing, Level 48.
+-   Beedrill, Level 48.
+-   Mankey, Level 31. Shadow.
+    -   Sucker Punch
+    -   Explosion
+    -   Cross Chop
+    -   Swagger
+
+As you can see, there are two whole different trainers, and the Shadow
+Mankey can only be caught if lost to Madam X as otherwise you don’t
+fight Danni.
+
+Regardless of who you fought you will have to face Neved afterward.
+
+**Xen Executive Neved (No Field). Story Mode.**
+-   Kingler, Level 43.
+    -   Agility
+    -   Stomp
+    -   Metal Claw
+    -   Crabhammer
+-   Dhelmise, Level 44.
+    -   Anchor Shot
+    -   Giga Drain
+    -   Synthesis
+    -   Shadow Claw
+-   Aevian Palossand (Ice), Level 44.
+    -   Ice Beam
+    -   Shadow Ball
+    -   Aurora Beam
+    -   Moonlight
+-   Barbaracle, Level 45.
+    -   X-Scissor
+    -   Night Slash
+    -   Razor Shell
+    -   Rock Slide
+
+**Xen Executive Neved (No Field). Classic Mode.**
+-   Crabominable, Level 47. @ Occa Berry
+    -   Ice Hammer
+    -   Drain Punch
+    -   Rock Slide
+    -   Crabhammer
+-   Kingler, Level 46.
+    -   Agility
+    -   Stomp
+    -   Metal Claw
+    -   Crabhammer
+-   Vikavolt, Level 46.
+    -   Thunderbolt
+    -   Bug Buzz
+    -   Air Slash
+    -   Thunder Wave
+-   Dhelmise, Level 48. @ Steel Gem.
+    -   Anchor Shot
+    -   Giga Drain
+    -   Synthesis
+    -   Shadow Claw
+-   Aevian Palossand (Ice), Level 48. @ Never-Melt Ice
+    -   Ice Beam
+    -   Shadow Ball
+    -   Giga Drain
+    -   Moonlight
+-   Barbaracle, Level 49. @ Sitrus Berry.
+    -   X-Scissor
+    -   Night Slash
+    -   Razor Shell
+    -   Rock Slide
+
+He improved his team quite a bit, and you aren't healed from the
+previous battle, so it may be a bit hard to win depending on what team
+you had and how did you finish the previous battle.
+
+Again, dialogues with changes depending on having defeated Madam X or
+not. Choice doesn’t matter.
+
+After the scenes, speak with Crawli.
+
+**Friendship Point Choice:**
+-   Let’s take her down. (Melia +2, Venam +3, Aelita +2, Crawli +4, Adam
+    +4, Valarie +2, Braixen +2)
+-   I would rather not… (Melia -2, Venam -3, Aelita -1, Crawli -4, Adam
+    -4, Valarie -2, Braixen -2)
+
+### Frozen Kakori
+
+Go to the right of your house to get a total of 4 ***Yache Berry***.
+
+Now go to the big rock on the northwest side, there is a hidden Super
+Repel. It is there even if you already picked it at normal Kakori
+Village. Now enter the Ranger HQ.
+
+Talk to the woman on the top-right corner of the room. Choice doesn’t
+matter.
+
+Now go to Mynori sea and talk with Farha again. She is on the small
+island on the left that you can reach walking.
+
+Since we are already here, go north to enter Jirukala Cavern. We can
+explore it properly now that we have Rock Climb.
+
+Use Rock climb to access a new part, which has encounters.
+
+**Jirukala Cavern Encounters**
+
+| **Grass** | **%** | **Headbutt** | **%** |
+|-----------|-------|--------------|-------|
+| Cutiefly  | 25%   | Skwovet      | 2/9   |
+| Exeggcute | 25%   | Greedent     | 1/9   |
+| Venonat   | 17%   | **Applin**   | 1/3   |
+| Slakoth   | 10%   |              |       |
+| Ribombee  | 16%   |              |       |
+| Bonsly    | 7%    |              |       |
+
+When using Headbutt you may also get berries, which have 1/3 of a chance
+of happening.
+
+Go north to find a ***Green Shard***. Cross the river to find a
+***Modest Mint***.
+
+Go south and though the stairs, on the bifurcation go left to find
+***TM133 Mud Shot***.
+
+It is possible to skip a quest and enter a place to get a Tm and a
+Zygarde Cell ahead of time if you know the code. Still, this guide is
+aiming for 100%, so I am not going to skip the quest and instead do it
+normally. The quest is \[Lurking Lighthouse!\].
+
+## Rock Climb Detour
+
+We are going to deal with the detour now. So, make your way to Floria
+Island.
+
+**Poké Ball Emporium Shop New Item (6 Badges)**
+
+| **Item**      | **Price** |
+|---------------|-----------|
+| *Friend Ball* | $300      |
+
+If you are still missing golden items, remember to go to the AP Shop to
+get them.
+
+Go to Evergreen Forest from Akuwa Town, and use Rock climb to get an
+***Icy Rock***, and ***TM32 Double Team***.
+
+Now go to Route 2 to trade a Spinda for a **Chikorita**.
+
+### **Quest 46: Phase Dial Quest**
+
+Go to Amethyst Cave, once you change rooms for the first time surf into
+the water and go thought hew southern exit. Thanks to Rock Climb, you
+can now get ***TM01 Work Up***.
+
+Return to the previous room and leave through the eastern exist which
+should be surfing to right after returning to the room. Rock Climb here
+to get a scene with April. Nore that the dialogue change heavily
+depending if you have met her before on another quest or not.
+
+Before following her, go to the east, and activate the panel you can see
+there. Also, there is a hidden ***Rock Gem*** on the round rock on the
+east. There is a hidden ***Water Gem*** a tile above the wagon with
+crystals on the south.
+
+Cross the water to the west and on the northernmost boxes there is a
+hidden ***Steel Gem***.
+
+Surf south and follow the path to find a Zygarde Cell.
+
+**ZCell 064: Amethyst Cave**
+
+<img src="assets/media/image75.png"/>
+
+Speak with April to proceed with the quest.
+
+We now need to go to Amethyst Depths. Cross the first bridge to the east
+and Rock Climb. There is a hidden ***Zinc*** on the left rock. Go north
+to reach the Amethyst Mines.
+
+**Amethyst Mines Encounters**
+
+| **Cave**     | **%** |
+|--------------|-------|
+| Woobat       | 20    |
+| Swoobat      | 20    |
+| Graveler     | 15    |
+| Sandslash    | 15    |
+| **Meditite** | 10    |
+| **Medicham** | 5     |
+| Dugtrio      | 5     |
+| Carbink      | 5     |
+
+On this new area go south when you can to enter another map and find a
+hidden **Carbos** on the right and one of the kids of the Lost Soul
+Quest, Alisha. Send her to Maman’s Lost Camp.
+
+There are also a couple of mining rocks here.
+
+Return to the previous room and advance to the west. You will find an
+***Elixir***.
+
+Enter the room north of the item to have a boss fight.
+
+**Stone Guardian (Crystal Cavern). 2 HP Bars. Story Mode.**
+-   Regirock, Level 48. @ Sitrus Berry.
+    -   Curse
+    -   Hammer Arm
+    -   Rock Slide
+    -   Earthquake
+-   After clearing 1 HP Bar:
+    -   Regirock heals stat drops.
+    -   Your side gets Stealth Rocks
+    -   Regirock gets Defense +1, and Special Defense +1.
+
+**Stone Guardian (Crystal Cavern). 2 HP Bars. Classic Mode.**
+-   Regirock, Level 50. @ Sitrus Berry.
+    -   Curse
+    -   Body Press
+    -   Rock Slide
+    -   Earthquake
+-   After clearing 1 HP Bar:
+    -   Regirock heals stat drops.
+    -   Your side gets Stealth Rocks.
+    -   Regirock gets a new Sitrus Berry.
+    -   Regirock gets Attack +1, Defense +2, and Special Defense +2.
+
+Hits hard and endures well. If you can’t defeat it, change your team to
+something that counters it better.
+
+After the battle, activate the panel and pick ***TM69 Rock Polish***.
+
+The ladder going down leads to start the next quest, so we are going to
+ignore it and come back once we finished this one.
+
+Cross the bridge to the east and enter the room. Time to another boss
+fight.
+
+**Iron Guardian (Crystal Cavern). 2 HP Bars. Story Mode.**
+-   Registeel, Level 48. @ Sitrus Berry.
+    -   Curse
+    -   Hammer Arm
+    -   Iron Head
+    -   Earthquake
+-   After clearing 1 HP Bar:
+    -   Registeel heals stat drops.
+    -   Your side gets Spikes.
+    -   Registeel gets Defense +1, and Special Defense +1.
+
+**Iron Guardian (Crystal Cavern). 2 HP Bars. Classic Mode.**
+-   Registeel, Level 50. @ Sitrus Berry.
+    -   Curse
+    -   Body Press
+    -   Iron Head
+    -   Earthquake
+-   After clearing 1 HP Bar:
+    -   Registeel heals stat drops.
+    -   Your side gets Spikes.
+    -   Registeel gets a new Sitrus Berry.
+    -   Registeel gets Attack +1, Defense +2, and Special Defense +2.
+
+Very similar to the previous boss, even the moves are almost identical.
+
+After the fight, activate the panel and pick up the ***Moon Dial***.
+Give it to April, who is on the same place as the last time you spoke to
+her. Your Moon Dial become a ***Phase Dial***.
+
+Advance through the door and you will have another boss fight after
+advancing for a while and talking to April.
+
+**Chaotic Fusion (Starlight Arena). 2 HP Bars. Story Mode.**
+-   Solrock Dominant Fusion, Level 48. @ Sitrus Berry.
+    -   Will-o-Wisp
+    -   Rock Tomb
+    -   Solar Flare
+    -   Morning Sun
+-   Entry Effects: Sunny Day.
+-   After clearing 1 HP Bar it changes species and the item comes back:
+    -   Lunatone Dominant Fusion, Level 48. @ Sitrus Berry.
+        -   Cosmic Power
+        -   Ancient Power
+        -   Hoarfrost Moon
+        -   Moonlight
+    -   Weather changes to Hail.
+
+**Chaotic Fusion (Starlight Arena). 4 HP Bars. Classic Mode.**
+-   Solrock Dominant Fusion, Level 52. @ Sitrus Berry.
+    -   Will-o-Wisp
+    -   Rock Tomb
+    -   Solar Flare
+    -   Morning Sun
+-   Entry Effects: Sunny Day.
+-   After clearing 1 HP Bar it changes species and the item comes back:
+    -   Lunatone Dominant Fusion, Level 52. @ Sitrus Berry.
+        -   Cosmic Power
+        -   Ancient Power
+        -   Hoarfrost Moon
+        -   Moonlight
+    -   Weather changes to Hail.
+-   After clearing 2 HP Bars it changes species and the item comes back:
+    -   Solrock Dominant Fusion, Level 52. @ Sitrus Berry.
+        -   Zen Headbutt
+        -   Stone Edge
+        -   Solar Flare
+        -   Morning Sun
+    -   Weather changes to Sunny Day.
+    -   Gets Attack +1 and Defense +1.
+-   After clearing 3 HP Bars it changes species and the item comes back:
+    -   Lunatone Dominant Fusion, Level 52. @ Sitrus Berry.
+        -   Psychic
+        -   Moonblast
+        -   Hoarfrost Moon
+        -   Moonlight
+    -   Weather changes to Hail.
+    -   Gets Special Attack +1 and Special Defense +1.
+
+Far easier on Story Mode than on Classic Mode. Dark moves are the best
+here as they are always very effective. Water moves are good when not
+Sunny Day.
+
+You now can use the Phase Dial to fuse your own Lunatone and Solrock.
+
+### Quest 47: Cliffside Grave Quest
+
+Return to the Amethyst Mines and go down the ladder we ignored earlier.
+
+Check the wall behind the stairs from the north to get a hidden ***Rock
+Gem***.
+
+Advance and on a triangular rock, there is a hidden ***Super Repel***.
+There is a hidden ***Ether*** on the next triangular rock.
+
+There are a couple of mining rocks in the area.
+
+Talk to the grunt, who is an ex-grunt already. We have already activated
+five of the panels needed for this, so we are only missing the last one.
+
+Head down the ladder and go right to find and activate the last panel.
+
+Continue the path use Rock Climb on the end of the way to reach a lower
+level.
+
+We need to break the field. Moves like Earthquake, Magnitude, and
+Bulldoze work well for this.
+
+Interact with the fallen crystal and disturb its energy to have chance
+to catch Aevian Lapras.
+
+Now return to the map with the ex-grunt and interact with the machine to
+activate the generators. A new path has opened ahead.
+
+There is a hidden ***PP Up*** on the left of the ladder. Use the ladder.
+
+You will be able to download data of Code: Feris to your Rift Dex here.
+
+Go north to proceed with the quest. Talk to the ex-grunt. The choice
+here doesn’t matter.
+
+You are in the Rift Nirvana and about to fight a new boss. Prepare
+yourself and advance until seeing a scene. The choices don’t mater.
+
+**Lingering Regret Nancy (Mountain Field). Story Mode.**
+-   Galarian Weezing, Level 48.
+    -   Mist
+    -   Poison Gas
+    -   Shadow Ball
+    -   Strange Steam
+-   Whimsicott, Level 50.
+    -   Moonblast
+    -   Shadow Ball
+    -   Giga Drain
+    -   Cotton Spore
+-   Gardevoir, Level 49.
+    -   Psychic
+    -   Moonblast
+    -   Shadow Ball
+    -   Skill Swap
+-   Sylveon, Level 52.
+    -   Moonblast
+    -   Swift
+    -   Shadow Ball
+    -   Hyper Voice
+
+**Lingering Regret Nancy (Mountain Field). Classic Mode.**
+-   Whimsicott, Level 51. @ Focus Sash.
+    -   Moonblast
+    -   Hurricane
+    -   Giga Drain
+    -   Tailwind
+-   Mr. Mime, Level 53. @ Wise Glasses.
+    -   Hidden Power Fairy
+    -   Thunder Wave
+    -   Psychic
+    -   Icy Wind
+-   Galarian Weezing, Level 52. @ Black Sludge.
+    -   Flamethrower
+    -   Sludge Bomb
+    -   Shadow Ball
+    -   Strange Steam
+-   Gardevoir, Level 53. @ Babiri Berry.
+    -   Psychic
+    -   Moonblast
+    -   Mystical Fire
+    -   Calm Mind
+-   Sylveon, Level 55. @ Leftovers.
+    -   Psyshock
+    -   Calm Mind
+    -   Shadow Ball
+    -   Hyper Voice
+
+Steel and Poison are the answers to this fight, but are at lower levels
+because of the level cap.
+
+After the battle you have to fight a boss, but you will be healed.
+
+**Rift Chandelure (Mountain Field) ). 3 HP Bars. Story Mode.**
+-   Rift Chandelure, Level 55.
+    -   Shadow Ball
+    -   Hex
+    -   Fire Blast
+    -   Will-O-Wisp
+-   After clearing 1 HP Bar:
+    -   Recovers any stat drops.
+    -   Special Attack +1.
+    -   Types become Ghost and Water
+    -   Moveset:
+        -   Shadow Ball
+        -   Hex
+        -   Surf
+        -   Whirlpool
+-   After clearing 2 HP Bars:
+    -   Recovers any stat drops.
+    -   Defense +1
+    -   Types become Ghost and Grass
+    -   Moveset:
+        -   Shadow Ball
+        -   Hex
+        -   Energy Ball
+        -   Leech Seed
+
+**Rift Chandelure (Mountain Field) ). 4 HP Bars. Classic Mode.**
+-   Rift Chandelure, Level 60. @ Fire Gem.
+    -   Shadow Ball
+    -   Air Slash
+    -   Fire Blast
+    -   Will-O-Wisp
+-   After clearing 1 HP Bar:
+    -   Recovers any stat drops.
+    -   Special Attack +1.
+    -   Item becomes Water Gem
+    -   Types become Ghost and Water
+    -   Moveset:
+        -   Shadow Ball
+        -   Air Slash
+        -   Surf
+        -   Whirlpool
+-   After clearing 2 HP Bars:
+    -   Recovers any stat drops.
+    -   Defense +1, Special Defense +1.
+    -   Item becomes Grass Gem
+    -   Types become Ghost and Grass
+    -   Moveset:
+        -   Shadow Ball
+        -   Air Slash
+        -   Energy Ball
+        -   Leech Seed
+-   After clearing 3 HP Bars:
+    -   Recovers any stat drops.
+    -   Speed +1.
+    -   Item becomes Electric Gem
+    -   Types become Ghost and Electric
+    -   Moveset:
+        -   Shadow Ball
+        -   Air Slash
+        -   Thunderbolt
+        -   Thunder Wave
+
+Far move leveled than you, and it goes changing types between HP Bars.
+If you find it too difficult, you can come back later. Dark moves are
+great here on all phases, but Rift Chandelure hits very hard, so they
+are likely to be defeated anyway. Still, you have a full team, so you
+should be able to defeat if before all you team is defeated even if only
+one remains in the end. It depends greatly on your types and the moves
+you have. Don’t do this battle now in a Nuzlocke.
+
+Go north to reach a new map, Cliffside Grave.
+
+On the leftmost broken grave there is a hidden ***Resist Wing***.
+
+Go upstairs and between the tiles of grand and flowers there is a hidden
+***Iron***. Go downstairs.
+
+The rock at the north has a hidden ***Elixir***.
+
+Go to the right side, the rock here has a hidden ***Rare Candy***. There
+is also a Zygarde Cell nearby.
+
+**ZCell 065: Cliffside Grave (Night Only)**
+
+<img src="assets/media/image76.png"/>
+
+Talk to the ex-grunt, Manny to receive a ***Shiny Stone*** before he
+vanishes.
+
+Interact with the nethermost broken grave and place your Cursed Candle
+there and a ladder will appear. Use it and talk to the **Litwick** to
+have it join your team.
+
+### Wispy Charm Rock Climb
+
+Go to Wispy Chasm and open the door requiring 6 badges. You need to
+access from the entrance at Wispy Tower and Rock Climb twice. Go down
+using the vine.
+
+Go south and jump down once. On the crossway take the left way, on the
+end of the way there is a hidden ***Dark Gem***.
+
+Jump down and continue south. Eventually you will find the door with the
+number 6, which you can open.
+
+Check the chest which is open. You will fight a **Scraggy** that you can
+catch.
+
+Turn back until you see the river, surf it and go east. Follow the path
+northwards to find a door with a big 3 on it. Check the open chest to
+find a ***Shiny Stone***.
+
+Return to the river and this time go south.
+
+Once you land go south to find a ***Rare Candy*** and ***TM65 Shadow
+Claw***.
+
+Return to the upper floor and go to the room on the right. Use the vine
+to descend.
+
+Check the rightmost end to find a hidden ***Yellow Shard***. Go south
+and east until you can go north again, and on a small way to the left
+there is a hidden ***Reverse Candy***.
+
+This time go south until you can go west. GO northwest after wards, and
+on a rock in the end of the way there is a hidden ***Ghost Gem***.
+
+Go south all the way to find a **Poké Doll**.
+
+We can’t do more here for now, but we need to make a quick visit to the
+Mirage Cave.
+
+You will quickly see a rock climb on the right, use it to get a Data
+Drive. There is also a mining rock here.
+
+Continue south to find another point to climb up. There is a mining rock
+on the right and hidden 3 **Exp. Candy L** on the leftmost rock. There
+is also a Zygarde Cell.
+
+**ZCell 066: Mirage Cave**
+
+<img src="assets/media/image77.png"/>
+
+You can now return to Terajuma.
+
+### Quest 48: A Souvenir for Mom
+
+Go to Jynnobi Pass and talk to the girl with the exclamation. She is
+outside the southern house on its left side. Agree to get something for
+her
+
+At Terajuma Beach talk with the man on the Politoed Stall to receive a
+souvenir. You need to come in the day since night beach doens’t have
+NPCs.
+
+Return to Jynnobi Pass and speak with the girl again, but she doesn’t
+think her mother would like that souvenir, so she asks you to try to buy
+one a Teila Resort.
+
+Enter the mansion on the north, and talk with the receptionist to
+progress with the quest. There is no indication of quest progress like
+with the other souvenir.
+
+This time the girl accepts the souvenir, and the Quest is completed. You
+get a Zygarde Cell and a ***Fighting Memory***.
+
+**ZCell 067: Jynnobi Pass Complete "A Souvenir for Mom"**
+
+<img src="assets/media/image78.png"/>
+
+We are almost done, just go for a quick visit to Helojak Island since
+with Rock Climb we can get the **Mudkip** of the southeastern island.
+There is a hidden ***Rare Candy*** on the northern rock.
+
+Return to Tesla’s Villa and speak with Melia to continue. You will get a
+special scene is Adam and Valaria have at least 6 Friendship Points. You
+start in front of Farha, and you can proceed speaking with her.
+
+## Frozen Kristiline Town
 
 
 
@@ -13475,7 +14520,7 @@ The information about Crests has been taken from the [wiki](https://rejuvenation
   - Location: Zorrialyn Labyrinth - 2nd Floor.
 - Furret:
   - Upon switching in, Furret loses 25% of its Max Hp to create a substitute.
-  - Location: Telia Resort - Tesla\'s villa, in your room.
+  - Location: Teila Resort - Tesla\'s villa, in your room.
 - [Feraligatr](https://rejuvenation.wiki.gg/wiki/Feraligatr_Crest):
   - First move has higher priority if it\'s damaging. Biting moves deal 50% more damage.
   - Location: West Gearen City - Reward from Barbara or Route 2 - Kecleon\'s Shop.
@@ -13607,25 +14652,6 @@ rumors about you and diminish by 50.
 Go back to the girl who gave you the quest and she will give up a
 Train Pass completing the Quest. With the Train pass, the travel on
 trains in GDC becomes cheaper.
-
-### A Souvenir for Mom
-
-Talk to a girl in Jynnobi Pass with an exclamation mark on her head.
-She will ask for Souvenir for her mom.
-
-At Terajuma Beach talk with the man on the Politoed Stall to receive a
-souvenir.
-
-Return to Jynnobi Pass and speak with the girl again, but she didn't
-think her mother would like that souvenir, so she asks you to try to buy
-one a Teila Resort.
-
-Enter the northernmost house, the lobby of Teila Resort, and talk with
-the receptionist to progress with the quest. There is no indication of
-quest progress like with the other souvenir.
-
-This time the girl accepts the souvenir, and the Quest is completed. You
-get a Zygarde Cell and a Fighting Memory.
 
 ### Tyluric Temple (Magma Drift)
 You can get some overworld **Grookey** now, if you go past the tornadoes.
