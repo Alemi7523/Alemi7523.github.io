@@ -54,13 +54,11 @@ Theme Styles
 body {
   box-sizing: border-box;
   color: var(--text);
-  background: var(--background);
-  display: flex;
+  background-color: var(--background);
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  transition: 0.5s background ease;
 }
 
 .theme-switch {
@@ -69,15 +67,15 @@ body {
   color: var(--text);
   width: 70px;
   height: 30px;
-  background: var(--highlight);
+  background-color: var(--highlight);
   border-radius: 50px;
   position: relative;
 
   .switch {
-    background: white;
+    background-color: white;
     width: 24px;
     height: 24px;
-    background: var(--background);
+    background-color: var(--background);
     border-radius: 100%;
     position: absolute;
     top: 3px;
@@ -87,12 +85,12 @@ body {
 }
 
 .light-theme {
-  --background: #FFF;
+  --background-color: #FFF;
   --text: #000;
   background: var(--background);
 
   .theme-switch {
-    background: var(--text);
+    background-color: var(--text);
 
     .switch {
       transform: translateX(37px);
