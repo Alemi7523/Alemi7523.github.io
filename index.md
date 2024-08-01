@@ -1928,13 +1928,13 @@ Cell.
 
 **ZCell 001: East Gearen City (Left)**
 
-<img src="assets/media/image1.png"/>
+<img src="assets/media/image1.png" width="512"/>
 
 The second one is in Chrisola Hotel Rooftop. It requires being daytime.
 
 **ZCell 002: Chrisola Hotel Rooftop (Daytime)**
 
-<img src="assets/media/image2.png"/>
+<img src="assets/media/image2.png" width="512"/>
 
 The third one is in the Gearen Alleyway but the one you enter through
 Venam's Gym, it is easy to see it after you reach the area. If you
@@ -1942,13 +1942,13 @@ forgot, it is the right teleporter of the central passage in the Gym.
 
 **ZCell 003: Gearen Alleyway (Gym Entrance)**
 
-<img src="assets/media/image3.png"/>
+<img src="assets/media/image3.png" width="512"/>
 
 The fourth one is in Oceana Pier, on the park with the Fletchling.
 
 **ZCell 004: Oceana Pier**
 
-<img src="assets/media/image4.png"/>
+<img src="assets/media/image4.png" width="512"/>
 
 That is all we can get for the moment. Sadly, we are short of one cell
 to get the first reward.
@@ -2522,7 +2522,7 @@ Inside we can Find a ***Rare Candy*** and a Zygarde Cell.
 
 **ZCell 005: Abandoned Sewers (West Entrance)**
 
-<img src="assets/media/image5.png"/>
+<img src="assets/media/image5.png" width="512"/>
 
 Continue to a new map to reach the West Side of Gearen Alleway. Just
 after reaching the new map turn right before finishing the stars and
@@ -2544,7 +2544,7 @@ containers a hidden ***Telluric Seed***.
 
 **ZCell 006: Abandoned Sewers (West Entrance)**
 
-<img src="assets/media/image6.png"/>
+<img src="assets/media/image6.png" width="512"/>
 
 Now you can go the Help Center to receive your first reward for the
 Zygarde Cells: **TM 49 Echoed Voice**.
@@ -2731,7 +2731,7 @@ There is a Zygarde Cell here, but only at night.
 
 **ZCell 007: Gemstream Mine (Nighttime)**
 
-<img src="assets/media/image7.png"/>
+<img src="assets/media/image7.png" width="512"/>
 
 Leave the cave and you will be back on Route 2.
 
@@ -2746,7 +2746,7 @@ On the cherry tree's side there another Zygarde Cell.
 
 **ZCell 008: Route 2**
 
-<img src="assets/media/image8.png"/>
+<img src="assets/media/image8.png" width="512"/>
 
 Continue east thought the bridge and you will be back on the Gemstream
 Mine.
@@ -2785,12 +2785,12 @@ one tile right and one up form it there is a hidden ***Lemonade***.
 
 **ZCell 009: Route 2**
 
-<img src="assets/media/image9.png"/>
+<img src="assets/media/image9.png" width="512"/>
 
 Go east and down to find another Zygarde Cell.
 
 **ZCell 010: Route 2** 
-<img src="assets/media/image10.png"/>
+<img src="assets/media/image10.png" width="512"/>
 
 Near this cell, on the space surrounded by deep pink patches of grass,
 there is a hidden **Exp. Candy S**.
@@ -3212,7 +3212,7 @@ Near the Truck Guy there is a Zygarde Cell.
 
 **ZCell 011: Sheridan Village**
 
-<img src="assets/media/image11.png"/>
+<img src="assets/media/image11.png" width="512"/>
 
 You can find a Breeder on the northwest area that will give you 3 Exp.
 Candy S. Still, better do it after healing is free, but if you are using
@@ -3359,7 +3359,7 @@ Return to the floor and go west to find a Zygarde Cell.
 
 **ZCell 012: Hidden Library**
 
-<img src="assets/media/image12.png"/>
+<img src="assets/media/image12.png" width="512"/>
 
 Leave through the easter door to reach a room with lots of books and an
 Elgyem flying around, get all colored books back to the shelf to trigger
@@ -4106,7 +4106,7 @@ find a Zygarde Cell, at night only though.
 
 **ZCell 013: Route 2 (Nighttime)**
 
-<img src="assets/media/image13.png"/>
+<img src="assets/media/image13.png" width="512"/>
 
 Now go to the Amethyst Cave and make your way west after the first
 bridge to reach the small area of River's End we visited before. This
@@ -4130,7 +4130,7 @@ Go left to find a Zygarde Cell and the ***TM54 False Swipe***.
 
 **ZCell 014: Sheridan Village**
 
-<img src="assets/media/image14.png"/>
+<img src="assets/media/image14.png" width="512"/>
 
 Now, return to East Gearen city and enter the Abandoned Sewers. Advance
 using Cut whenever you need it and enter the door with the light, to
@@ -4576,7 +4576,7 @@ Bulldoze***, and a Zygarde Cell.
 
 **ZCell 015: Route 1**
 
-<img src="assets/media/image15.png"/>
+<img src="assets/media/image15.png" width="512"/>
 
 You can also fight an Exploud. You can't catch it, but it will want to
 fight you if it sees you, so while trying to get the items, you will
@@ -4747,7 +4747,7 @@ Under the southern table there is Zygarde Cell.
 
 **ZCell 016: Route 3**
 
-<img src="assets/media/image16.png"/>
+<img src="assets/media/image16.png" width="512"/>
 
 ### Quest 12: Virtual League (Third & Fourth Gyms)
 
@@ -5095,7 +5095,7 @@ Go behind the left stand and access with Cut, to get a Zygarde Cell.
 
 **ZCell 017: Route 3**
 
-<img src="assets/media/image17.png"/>
+<img src="assets/media/image17.png" width="512"/>
 
 Continue to pick ***TM117 Pay Day***. Move a step to the right and
 inspect to find a hidden ***Star Piece***.
@@ -5143,7 +5143,7 @@ Continue up for a Zygarde Cell.
 
 **ZCell 018: Route 3**
 
-<img src="assets/media/image18.png"/>
+<img src="assets/media/image18.png" width="512"/>
 
 When you can't go up anymore, go left and cut the tree. There is a
 hidden ***Rare Candy***, on the left side of the first tree.
@@ -5207,13 +5207,13 @@ Zygarde Cell.
 
 **ZCell 019: Phasial Cave**
 
-<img src="assets/media/image19.png"/>
+<img src="assets/media/image19.png" width="512"/>
 
 Go Left as soon as you can, and you will find another Zygarde Cell.
 
 **ZCell 020: Phasial Cave**
 
-<img src="assets/media/image20.png"/>
+<img src="assets/media/image20.png" width="512"/>
 
 Go up and left from here and on the stone tower, there is a hidden
 ***Mineral Ball***. Go back down and then right when you see water, and
@@ -5221,7 +5221,7 @@ you will find yet another Zygarde Cell.
 
 **ZCell 021: Phasial Cave**
 
-<img src="assets/media/image21.png"/>
+<img src="assets/media/image21.png" width="512"/>
 
 Now go up and right, on the left side of the uppermost giant stone tower
 where the floor has changed color, there is a hidden ***Green Shard***.
@@ -5382,7 +5382,7 @@ There is also a Zygarde Cell here but only at night.
 
 **ZCell 022: Goldenleaf Town (Nighttime**)
 
-<img src="assets/media/image22.png"/>
+<img src="assets/media/image22.png" width="512"/>
 
 Continue exploring the town to the west to find Ren's House, which will
 show you a scene if you enter. Go upstairs and enter the middle room.
@@ -5390,7 +5390,7 @@ There is a ***Wisp*** here, we need 10 of them.
 
 **Wisp 01: Goldenleaf Town (Rens Room)**
 
-<img src="assets/media/image23.png"/>
+<img src="assets/media/image23.png" width="512"/>
 
 Now go to the left room, read the diary and check the couch to get
 \$500.
@@ -5444,7 +5444,7 @@ the grass behind the Wisp.
 
 **ZCell 023: Goldenleaf Town**
 
-<img src="assets/media/image24.png"/>
+<img src="assets/media/image24.png" width="512"/>
 
 **Wisp 02: Goldenleaf Town**
 
@@ -5458,7 +5458,7 @@ same exist again, you can find a Zygarde Cell at night.
 
 **ZCell 024: Goldenleaf Town (Nighttime)**
 
-<img src="assets/media/image26.png"/>
+<img src="assets/media/image26.png" width="512"/>
 
 ### Detour Before Wispy Path
 
@@ -5490,7 +5490,7 @@ There is also a Wisp here.
 
 **Wisp 03: Wispy Ruins**
 
-<img src="assets/media/image27.png"/>
+<img src="assets/media/image27.png" width="512"/>
 
 
 Leave and this time let's go to the northeastern exist of the town to
@@ -5516,7 +5516,7 @@ there is a Wisp and a hidden ***Super Potion*** just behind it.
 
 **Wisp 04: Forgotten Path**
 
-<img src="assets/media/image28.png"/>
+<img src="assets/media/image28.png" width="512"/>
 
 Continue up to find ***TM39 Rock Tomb***.
 
@@ -5524,7 +5524,7 @@ After going back down, continue north to see a Zygarde Cell.
 
 **ZCell 025: Forgotten Path**
 
-<img src="assets/media/image29.png"/>
+<img src="assets/media/image29.png" width="512"/>
 
 The top tree in this set to the left of the cell has an ***Ether*** in
 its top right tile. Go up and between an orange blower and some gras on
@@ -5581,14 +5581,14 @@ the Wisp.
 
 **Wisp 05: Wispy Path**
 
-<img src="assets/media/image30.png"/>
+<img src="assets/media/image30.png" width="512"/>
 
 Grab the ***Reverse Candy*** on the right side and you can also find a
 Zygarde Cell on the north.
 
 **ZCell 026: Wispy Path**
 
-<img src="assets/media/image31.png"/>
+<img src="assets/media/image31.png" width="512"/>
 
 Now, talk to **Espurr**. You can do several things, and they will up
 your friendship with it. Choosing to give it ice cream, especially Blue
@@ -5703,7 +5703,7 @@ up for a Zygarde Cell.
 
 **ZCell 27: Goldenwood Forest (Second Visit)**
 
-<img src="assets/media/image32.png"/>
+<img src="assets/media/image32.png" width="512"/>
 
 Go down and cross to the west side though the yellow-leaved tree on the
 left. Go south and under a rock, there is a hidden ***Sitrus Berry***.
@@ -6234,7 +6234,7 @@ Go to Wispy Tower to find a Wisp.
 
 **Wisp 06: Wispy Tower (4 Badges)**
 
-<img src="assets/media/image33.png"/>
+<img src="assets/media/image33.png" width="512"/>
 
 It is possible to evolve a Slugma into Magcargo now, do it and go to the
 painter in route 2 to receive ***Charcoal***. Now he asks for Emolga,
@@ -6399,7 +6399,7 @@ Continue east until finding a Wisp.
 
 **Wisp 07: Wispy Ruins(Statue Entrance)**
 
-<img src="assets/media/image34.png"/>
+<img src="assets/media/image34.png" width="512"/>
 
 You can't do anything in the right door, so go up to the northern room
 and you will be thrown to the Wispy Chasm by two Shuppet.
@@ -6459,7 +6459,7 @@ Now we can go up. Here you will quickly see a Zygarde Cell.
 
 **ZCell 028: Wispy Ruins**
 
-<img src="assets/media/image35.png"/>
+<img src="assets/media/image35.png" width="512"/>
 
 Once you go right, we will have returned to the place we were before
 being thrown down.
@@ -6592,7 +6592,7 @@ Go the westernmost side to find an overworld Kircketot if it is day, and a Zygar
 
 **ZCell 029: Route 4 (Nighttime)**
 
-<img src="assets/media/image36.png"/>
+<img src="assets/media/image36.png" width="512"/>
 
 There is also an item that can be ONE of the following choices: ***Tiny Mushroom***, ***Honey***, ***Persim Berry***, ***Poké Ball***. 
 There is also a chance, you can see a Ranger who will gift you 2 **Blue Shards** if you speak with him, but his appearance is as random as the items.
@@ -6607,7 +6607,7 @@ You will se a scene with Aelita and Nim, continue north after it, and pick anoth
 
 **ZCell 030: Route 4**
 
-<img src="assets/media/image37.png"/>
+<img src="assets/media/image37.png" width="512"/>
 
 Try to cross the bridge or talk to Nim and she will start following you. 
 On the other side of the bride, there is a different area of Route 4, the central one, with encounters that though similar, aren’t identical.
@@ -6929,7 +6929,7 @@ Now, enter the house to the north of the Truck Guy to find a Zygarde Cell.
 
 **ZCell 031: Akuwa Town**
 
-<img src="assets/media/image38.png"/>
+<img src="assets/media/image38.png" width="512"/>
 
 There are also overworld **Clauncher** in the beach.
 Here there is also ***TM135 Brine***. 
@@ -6941,13 +6941,13 @@ Before going to the gym, pick the Zygarde Cell here.
 
 **ZCell 032: Akuwa Town**
 
-<img src="assets/media/image39.png"/>
+<img src="assets/media/image39.png" width="512"/>
 
 At night, you can find another Zygarde Cell close to the Truck Guy.
 
 **ZCell 033: Akuwa Town (Nighttime)**
 
-<img src="assets/media/image40.png"/>
+<img src="assets/media/image40.png" width="512"/>
 
 You can find a **Ducklett** egg on the southeastern corner of the town. 
 If you are lucky to get a female one, you can breed it to get more, otherwise, you are struck with the one you get until Ditto.
@@ -6955,7 +6955,7 @@ There is also a Zygarde Cell here at night.
 
 **ZCell 034: Akuwa Town (Nighttime)**
 
-<img src="assets/media/image41.png"/>
+<img src="assets/media/image41.png" width="512"/>
 
 We can now go to the gym to progress with the story.
 
@@ -7807,7 +7807,7 @@ Go south from here, and between the lower gras and a small tree there is a hidde
 
 **ZCell 035: Kakori Village**
 
-<img src="assets/media/image42.png"/>
+<img src="assets/media/image42.png" width="512"/>
 
 We already got 35 Zygarde Cells, but we can’t go to claim the reward due to being unable to return to Floria Island, or so it may seem, but there is a ship here that can take you to Oceana Pier for $3000. 
 With this it is possible to access the content there once again, but it isn’t worth yet. 
@@ -8075,7 +8075,7 @@ Right now, we can get some mons and find a Zygarde Cell on the east side.
 
 **ZCell 036: Terajuma Beach (Daytime)**
 
-<img src="assets/media/image43.png"/>
+<img src="assets/media/image43.png" width="512"/>
 
 **Terajuma Beach Encounters (Beach Field)**
 
@@ -8509,7 +8509,7 @@ There are a couple of overworld Pyukumuku here and a Zygarde Cell.
 
 **ZCell 037: Terajuma Shipyard**
 
-<img src="assets/media/image44.png"/>
+<img src="assets/media/image44.png" width="512"/>
 
 Now go south to find a Red Shard. Here you will be able to find overworld Staryu after you fixed the lighthouses.
 
@@ -8532,7 +8532,7 @@ Cross the bridge to the house and go south. Use surf on the beach and go east. T
 
 **ZCell 038: Deep Terajuma Jungle**
 
-<img src="assets/media/image45.png"/>
+<img src="assets/media/image45.png" width="512"/>
 
 Continue north to reach the northern area of Deep Terajuma Jungle.
 
@@ -8808,14 +8808,14 @@ Go east and south when you can to find a Zygarde Cell.
 
 **ZCell 039: Jynnobi Pass**
 
-<img src="assets/media/image46.png"/>
+<img src="assets/media/image46.png" width="512"/>
 
 Go north to find ***TM145 Hex*** behind a tree you can cut. 
 Continue to the right to find another Zygarde Cell.
 
 **ZCell 040: Jynnobi Pass**
 
-<img src="assets/media/image47.png"/>
+<img src="assets/media/image47.png" width="512"/>
 
 Now, enter the Pokémon Center and talk with the fished for a ***Good Rod***. 
 This deserves another detour, and this time, we will even go back to Floria Island since we were waiting for this to do it all together. 
@@ -8982,7 +8982,7 @@ to the north.
 
 **ZCell 041: Den of Verity**
 
-<img src="assets/media/image48.png"/>
+<img src="assets/media/image48.png" width="512"/>
 
 Now go to Goldenwood Cave and surf left. Go down though the ladder to
 reach a new area if the cave.
@@ -8993,17 +8993,17 @@ Now go south to find a Wisp and ***TM98 Power-Up Punch***
 
 **Wisp 08: Goldenwood Cave**
 
-<img src="assets/media/image49.png"/>
+<img src="assets/media/image49.png" width="512"/>
 
 Continue right to find another Wisp and a Zygarde Cell.
 
 **Wisp 09: Goldenwood Cave**
 
-<img src="assets/media/image50.png"/>
+<img src="assets/media/image50.png" width="512"/>
 
 **ZCell 042: Goldenwood Cave**
 
-<img src="assets/media/image51.png"/>
+<img src="assets/media/image51.png" width="512"/>
 
 Here there is also one of the kids of the Lost Soul Quest, Jorgie. Send
 him to Maman.
@@ -9046,7 +9046,7 @@ After the scene you can find ***TM118 Pin Missile***, and the last Wisp.
 
 **Wisp 10: Wispy Tower**
 
-<img src="assets/media/image52.png"/>
+<img src="assets/media/image52.png" width="512"/>
 
 Enter the ruins here, and surf left to get ***TM41 Torment***.
 
@@ -9173,7 +9173,7 @@ Cell.
 
 **ZCell 043: Route 2 (River’s End Access)**
 
-<img src="assets/media/image53.png"/>
+<img src="assets/media/image53.png" width="512"/>
 
 Now go to the left side to find ***TM46 Thief***.
 
@@ -9205,7 +9205,7 @@ grey door you can open with the Lab Key.
 
 You have to complete the puzzle in the middle to continue.
 
-<img src="assets/media/image54.png"/>
+<img src="assets/media/image54.png" width="512"/>
 
 In the next room pick the ball to trigger the scene and you will be back
 on River’s End inside the laboratory.
@@ -9237,7 +9237,7 @@ surf east and find a Zygarde Cell.
 
 **ZCell 044: Route 3**
 
-<img src="assets/media/image55.png"/>
+<img src="assets/media/image55.png" width="512"/>
 
 Now, you have to enter Phasial Cave from the entrance west of you.
 
@@ -9303,7 +9303,7 @@ At night you can also find a Zygarde Cell here.
 
 **ZCell 045: Moon Field (Nighttime)**
 
-<img src="assets/media/image56.png"/>
+<img src="assets/media/image56.png" width="512"/>
 
 There are overworld **Clefairy** on the lake on Saturday night, and you
 get a scene if you approach the lake that ends up with you getting a
@@ -9375,21 +9375,21 @@ manage to get. There is also a Zygarde Cell here.
 
 **ZCell 046: Sheridan Village**
 
-<img src="assets/media/image57.png"/>
+<img src="assets/media/image57.png" width="512"/>
 
 Now go to the inn and surf down on the rightmost part of the water to
 find ***Timid Mint***. At night, there is also a Zygarde Cell here.
 
 **ZCell 047: Sheridan Village (Nighttime)**
 
-<img src="assets/media/image58.png"/>
+<img src="assets/media/image58.png" width="512"/>
 
 Go north to Sheridan Arena and continue until the stairs leading to the
 Sensei’s House. Surf east to find another Zygarde Cell.
 
 **ZCell 048: Sheridan Arena**
 
-<img src="assets/media/image59.png"/>
+<img src="assets/media/image59.png" width="512"/>
 
 Surf west to find ***TM87 Swagger.***
 
@@ -9433,7 +9433,7 @@ Cell.
 
 **ZCell 049: Amethyst Cave**
 
-<img src="assets/media/image60.png"/>
+<img src="assets/media/image60.png" width="512"/>
 
 Return to the east side you came from and surd on the eastern water. On
 the tile you can land east to the boxes there is a hidden ***Blue
@@ -9473,7 +9473,7 @@ night.
 
 **ZCell 050: Route 4 (West) (Nighttime)**
 
-<img src="assets/media/image61.png"/>
+<img src="assets/media/image61.png" width="512"/>
 
 We got fifty, so we can claim new reward. In this guide we will be going
 when we are ready to return to Terajuma though.
@@ -9492,7 +9492,7 @@ surf up to find another Zygarde Cell at night.
 
 **ZCell 051: Route 4 (Northeast) (Nighttime)**
 
-<img src="assets/media/image62.png"/>
+<img src="assets/media/image62.png" width="512"/>
 
 ## Route 11
 
@@ -9598,7 +9598,7 @@ hidden ***HP Up***.
 
 **ZCell 052: Route11**
 
-<img src="assets/media/image63.png"/>
+<img src="assets/media/image63.png" width="512"/>
 
 Surf east and go down as soon as you can. On the island you will find,
 there is a hidden item in each of the two rocks: ***Red Shard*** and
@@ -9621,7 +9621,7 @@ Continue south to reach an island with a Zygarde Cell.
 
 **ZCell 053: Route 11**
 
-<img src="assets/media/image64.png"/>
+<img src="assets/media/image64.png" width="512"/>
 
 Now, go to the island at the northeast, you can find a ***Max Repel***
 here. Go to the top and on the rocks on the left there is a hidden
@@ -9711,7 +9711,7 @@ the cave. There is a Zygarde Cell here.
 
 **ZCell 054: Evergreen Island**
 
-<img src="assets/media/image65.png"/>
+<img src="assets/media/image65.png" width="512"/>
 
 Return to the cave and do down the ladder you will find continuing your
 way west. We can’t use Strength so we can’t do everything here, but we
@@ -10862,7 +10862,7 @@ there is Zygarde Cell.
 
 **ZCell 055: Kakori Depths**
 
-<img src="assets/media/image66.png"/>
+<img src="assets/media/image66.png" width="512"/>
 
 Go ahead to fight Crawli, it is doubles again.
 
@@ -11237,7 +11237,7 @@ since there is something we need to get there.
 
 **ZCell 056: Aquamarine Chamber**
 
-<img src="assets/media/image67.png"/>
+<img src="assets/media/image67.png" width="512"/>
 
 Once you have the Zygarde Cell eave again ago climb the northern ladder.
 
@@ -11273,14 +11273,14 @@ tree and a Zygarde Cell.
 
 **ZCell 057: Teila Resort**
 
-<img src="assets/media/image68.png"/>
+<img src="assets/media/image68.png" width="512"/>
 
 Go west and south at the birth water bridge. You will find a Hyper
 Potion and another Zygarde Cell.
 
 **ZCell 058: Teila Resort**
 
-<img src="assets/media/image69.png"/>
+<img src="assets/media/image69.png" width="512"/>
 
 Enter this house, you can trade an Oranguru for a **Passimian**. Before
 trading the Oranguru, show it to the one in the corner who will gift you
@@ -11343,7 +11343,7 @@ Go to the top floor and enter the right room to find a Zygarde Cell.
 
 **ZCell 059: Teila Resort**
 
-<img src="assets/media/image70.png"/>
+<img src="assets/media/image70.png" width="512"/>
 
 Return downstairs and use the east door Tesla and Melia used on the
 previous scene to have another scene. You will receive ***TM101 Rock
@@ -11470,7 +11470,7 @@ Zygarde Cell.
 
 **ZCell 060: Route 5 (Secluded Shore Entry)**
 
-<img src="assets/media/image71.png"/>
+<img src="assets/media/image71.png" width="512"/>
 
 Surf west from here to find a hidden ***Resist Wing*** on the water.
 
@@ -11499,7 +11499,7 @@ bothering earlier. There is a Zygarde Cell inside.
 
 **ZCell 061: Teila Resort**
 
-<img src="assets/media/image72.png"/>
+<img src="assets/media/image72.png" width="512"/>
 
 Return to your house and talk with Melia to end the day. You will see a
 scene at Valor Mountain.
@@ -11604,7 +11604,7 @@ Stone*** and a Zygarde Cell.
 
 **ZCell 062: Magrodar Crater**
 
-<img src="assets/media/image73.png"/>
+<img src="assets/media/image73.png" width="512"/>
 
 Go back and downstairs. Advance though the rocks in the magma and you
 will end up in a fight.
@@ -11675,7 +11675,7 @@ Zygarde Cell.
 
 **ZCell 063: Magrodar Crater**
 
-<img src="assets/media/image74.png"/>
+<img src="assets/media/image74.png" width="512"/>
 
 Return north and use the butterflied. Remember that you are healed if
 your Karma is positive, and it counts use regardless of positive or
@@ -12113,7 +12113,7 @@ Surf south and follow the path to find a Zygarde Cell.
 
 **ZCell 064: Amethyst Cave**
 
-<img src="assets/media/image75.png"/>
+<img src="assets/media/image75.png" width="512"/>
 
 Speak with April to proceed with the quest.
 
@@ -12440,7 +12440,7 @@ is also a Zygarde Cell nearby.
 
 **ZCell 065: Cliffside Grave (Night Only)**
 
-<img src="assets/media/image76.png"/>
+<img src="assets/media/image76.png" width="512"/>
 
 Talk to the ex-grunt, Manny to receive a ***Shiny Stone*** before he
 vanishes.
@@ -12497,7 +12497,7 @@ is also a Zygarde Cell.
 
 **ZCell 066: Mirage Cave**
 
-<img src="assets/media/image77.png"/>
+<img src="assets/media/image77.png" width="512"/>
 
 You can now return to Terajuma.
 
@@ -12524,7 +12524,7 @@ get a Zygarde Cell and a ***Fighting Memory***.
 
 **ZCell 067: Jynnobi Pass Complete "A Souvenir for Mom"**
 
-<img src="assets/media/image78.png"/>
+<img src="assets/media/image78.png" width="512"/>
 
 We are almost done, just go for a quick visit to Helojak Island since
 with Rock Climb we can get the **Mudkip** of the southeastern island.
@@ -12553,7 +12553,7 @@ a table.
 
 **ZCell 068: Church of Theolia**
 
-<img src="assets/media/image79.png"/>
+<img src="assets/media/image79.png" width="512"/>
 
 
 Return to the previous room and go north to find Angie.
