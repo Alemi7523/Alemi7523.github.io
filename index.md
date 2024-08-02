@@ -188,6 +188,12 @@
     - [Earth Heart](#earth-heart)
   - [September 18th: A Trial of Rebellion](#september-18th-a-trial-of-rebellion)
     - [Route 6](#route-6)
+    - [Quest 52: Prince from the Sands](#quest-52-prince-from-the-sands)
+    - [Quest 38: Poliwag Quest (Sixth)](#quest-38-poliwag-quest-sixth)
+    - [Defeat the Super Xen Battleship (Optional)](#defeat-the-super-xen-battleship-optional)
+    - [Valor Shore](#valor-shore)
+    - [Quest 53: Save Amber](#quest-53-save-amber)
+    - [Mount Valor](#mount-valor)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -11807,8 +11813,8 @@ Mage.
 
 **Xen Mage Bartz and Xen Executive Madelis (Water Surface). Classic
 Mode.**
--   **Boosts**
-    -   **Field will become Water Surface on start of the combat**
+-   **Boosts:**
+    -   **Field will become Water Surface on start of the combat.**
     -   **Houndoom will gain Water Absorb when it comes out together
         with Aqua Ring effect.**
 -   Florges, Level 46. (Madelis)
@@ -11834,8 +11840,8 @@ Mode.**
 
 **Xen Mage Bartz and Xen Executive Madelis (Water Surface). Classic
 Mode.**
--   **Boosts**
-    -   **Field will become Water Surface on start of the combat**
+-   **Boosts:**
+    -   **Field will become Water Surface on start of the combat.**
     -   **Houndoom will gain Water Absorb when it comes out together
         with Aqua Ring effect.**
 -   Florges, Level 47. @ Pixie Plate. (Madelis)
@@ -11890,9 +11896,9 @@ Madam X or not.
 Defeated Madam X:
 
 **Xen Mage Harris (No Field). Story Mode.**
--   **Boosts**.
-    -   **Gumshoos 1: Speed +1**
-    -   **Pidgeot 3: Attack +1**
+-   **Boosts:**
+    -   **Gumshoos 1: Speed +1.**
+    -   **Pidgeot 3: Attack +1.**
 -   Walrein, Level 42.
     -   Curse
     -   Icicle Spear
@@ -11915,10 +11921,10 @@ Defeated Madam X:
     -   Roost
 
 **Xen Mage Harris (No Field). Classic Mode.**
--   **Boosts**.
-    -   **Gumshoos: Speed +1**
-    -   **Pidgeot: Attack +1**
-    -   **Arbok: Special Defense +1**
+-   **Boosts:**
+    -   **Gumshoos: Speed +1.**
+    -   **Pidgeot: Attack +1.**
+    -   **Arbok: Special Defense +1.**
 -   Walrein, Level 44.
     -   Curse
     -   Icicle Spear
@@ -13930,6 +13936,628 @@ magma, which opens new places to explore.
 
 ### Route 6
 
+**Route 6 Encounters (Beach Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** | **Rock Smash** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|----------------|-------|
+| Slugma             | 32    | Spinda         | 42    | Numel            | 32    | Geodude        | 90    |
+| Roselia            | 20    | Roselia        | 20    | Noctowl          | 30    | Binacle        | 10    |
+| Sandygast          | 15    | Sandygast      | 15    | Roselia          | 20    |                |       |
+| **Machop**         | 15    | **Machop**     | 15    | Baltoy           | 16    |                |       |
+| **Machoke**        | 10    | **Machoke**    | 10    | Ariados          | 15    |                |       |
+| Spinda             | 10    | Clobbopus      | 6     | Chimecho         | 7     |                |       |
+| Clobbopus          | 6     |                |       |                  |       |                |       |
+
+| **Water**                 | **%** | **Old Rod** | **%** | **Good Rod**              | **%** |
+|---------------------------|-------|-------------|-------|---------------------------|-------|
+| **East Aevian Shellos**   | 22    | Clobbopus   | 70    | Clobbopus                 | 60    |
+| Clobbopus                 | 3     | Remoraid    | 30    | **East Aevian Gastrodon** | 20    |
+| Mantyke                   | 75    |             |       | Octillery                 | 20    |
+| **East Aevian Gastrodon** | 15    |             |       |                           |       |
+| Wailmer                   | 7     |             |       |                           |       |
+| Carvanha                  | 3     |             |       |                           |       |
+
+The numbers for water encounters make no sense, I know, but that is how
+it is on the internal files.
+
+As usual, we will be exploring everything instead of going directly to
+our target.
+
+Surf west all the way to find a Xen Ship.
+
+You will have to fight some grunts as an alarm sound. You can fight
+several grunts here, but our target are the items.
+
+On the right side of the ship, there is a ***Full Heal***. Enter the
+first door you see. Go ahead and open the two chests. The left one has 2
+***HP Ups*** and ***TM137 Power Swap***. The right one has a ***PP Up***
+and ***TM 138 Guard Swap***, and a ***Hasty Mint***. Your party will
+also be healed.
+
+Go though the northern door to find a ***Black Prism***.
+
+Leave and enter the ship though the left entrance now. Continue until
+leaving the ship through a ladder and continue east.
+
+### **Quest 52: Prince from the Sands**
+
+You will see a scene starting a short quest that introduces us to Dylan.
+Note that this Quest will disappear after clearing Valor Mountain, so it
+is important to do it now.
+
+Continue east and talk to the grunt to fight, or not if you defeated
+Madam X as this grunt will be to scared to fight you.
+
+**Friendship Point Choice:**
+-   Personal grudge? (Dyran +2)
+-   But why? (Neutral)
+
+You will be able to see a Hidden Scene if you have at least 2 Friendship
+Points with him, so basically, it all depends on this choice as it is
+the first time we can gain Friendship Points with him. Also, you only
+get an ***Ability Capsule*** and an ***Exp. Candy XL*** if you choose
+the option that gives Friendship points.
+
+### Quest 38: Poliwag Quest (Sixth)
+
+Return to ship and leave it.
+
+Surf north when you can. You may see overworld **Swalot** if there is
+Starfall weather. On the isle you will find on the fifth, there a couple
+of overworld Wimpod and a hidden ***Star Piece*** on the northern small
+rock.
+
+If you saw the Swalot, it is possible to get a **Chansey** as it is an
+overworld encounter that only appears in Starfall, same as the Swalot.
+
+In case you have the weather, ignore the Xen Battleship on the north and
+go west until reaching an island. **Chansey** is here after some stairs,
+there is also an ***Exp .Candy L*** here.
+
+Return to the Xen Battleship we saw on the east. Interact with the
+whirlpool on the left of it and use Stabilizer on it. You will fight a
+Hisuian Qwilfish you can catch. There is ***Soft Sand*** and a ***Black
+Prism*** on the isle behind the whirlpool.
+
+Enter the ship to trigger an alarm again which means another fight.
+
+After winning go ahead, and on the right side there is a Blast Powder.
+
+Enter the ship. There are platforms that force your movement here.
+
+Activate the panel on the to- left corner to get access to a ***Rare
+Candy***. After that, activate the one on the top-right corner to get
+access to the ladder.
+
+The trainer on the top-left corner has a **Shadow Drifloon**. The one on
+the top-right corner has a **Shadow Purugly**.
+
+Go down the ladder.
+
+The northern chest has **Protein**, **Carbos**, and **Iron**. The
+southern one has ***Calcium***, ***HP Up***, ***Zinc***, and ***TM139
+Speed Swap***. Your party will be healed. Use the teleporter and leave
+the ship.
+
+Leave the ship and surf west, but turn north as soon as you can. On the
+island with a grunt that doesn’t fight and an overworld Pyukumuku there
+is the last Poliwag of the quest.
+
+You need to be on land in front of it to get the message to catch its
+attention. It will leave to Route 3 like the others.
+
+### Defeat the Super Xen Battleship (Optional)
+
+The only optional thing remaining to do here is the northwestern Xen
+Battleship, but the trainers here are very strong, with mons around
+level 70. There is no need to do this now, but it doesn’t mean it isn’t
+possible. Skip to the next section if you aren’t interested in doing
+this now.
+
+No alarm on this one, so go inside directly. Winning at this point is
+hard, so you will need to go purposedly counter their teams to have more
+chances. Prepare for the double battle.
+
+**Team Xen Sett and Team Xen Doris (Short-Circuit Field). Story Mode.**
+-   Octillery, Level 69. (Sett)
+    -   Octazooka
+    -   Surf
+    -   Flamethrower
+    -   Toxic
+-   Chesnaught, Level 67. @ Payapa Berry. (Sett)
+    -   Leech Seed
+    -   Spiky Shield
+    -   Seed Bomb
+    -   Drain Punch
+-   Quagsire, Level 69. @ Leftovers. (Sett)
+    -   Earthquake
+    -   Toxic
+    -   Surf
+    -   Recover
+-   Abomasnow, Level 68. @ Icy Rock. (Doris)
+    -   Blizzard
+    -   Wood Hammer
+    -   Ice Shard
+    -   Ice Beam
+-   Arctovish, Level 70. (Doris)
+    -   Fishious Rend
+    -   Icicle Crash
+    -   Blizzard
+    -   Psychic Fangs
+
+**Team Xen Sett and Team Xen Doris (Short-Circuit Field). Classic
+Mode.**
+-   Octillery, Level 72. @ Leftovers. (Sett)
+    -   Protect
+    -   Surf
+    -   Flamethrower
+    -   Toxic
+-   Chesnaught, Level 71. @ Payapa Berry. (Sett)
+    -   Leech Seed
+    -   Spiky Shield
+    -   Seed Bomb
+    -   Drain Punch
+-   Quagsire, Level 72. @ Leftovers. (Sett)
+    -   Earthquake
+    -   Toxic
+    -   Scald
+    -   Recover
+-   Abomasnow, Level 72. @ Icy Rock. (Doris)
+    -   Blizzard
+    -   Wood Hammer
+    -   Ice Shard
+    -   Earthquake
+-   Arctovish, Level 72. @ Water Gem. (Doris)
+    -   Fishious Rend
+    -   Icicle Crash
+    -   Blizzard
+    -   Psychic Fangs
+
+If you got some supper effective moves and a good ice type that gets
+advantage of hail to hit harder to Chesnaught, this battle isn’t that
+much. Defeat first the two on Doris side to turn the battle into a 2vs1.
+
+I recommend to leave and heal before the next double battle.
+
+**Xen Mage Soren and Xen Mage Misella (Short-Circuit Field). Story
+Mode.**
+-   **Boosts:**
+    -   **Greedent becomes Normal/Fighting.**
+    -   **Donphan becomes Ground/Poison.**
+-   Vespiquen, Level 67. @ Vespiquen Crest. (Soren)
+    -   Attack Order **Boosts**
+    -   Heal Order
+    -   Power Gem
+    -   Leech Life
+-   Greedent, Level 68. @ Galon Berry. (Soren)
+    -   Stuff Checks
+    -   Body Press
+    -   Payback
+    -   Belch
+-   Hariyama, Level 70. (Soren)
+    -   Fake Out
+    -   Knock Off
+    -   Close Combat
+    -   Heavy Slam
+-   Centiskorch, Level 67. (Misella)
+    -   Crunch
+    -   Fire Lash
+    -   Lunge
+    -   Leech Life
+-   Donphan, Level 67. @ Liechi Berry. (Misella)
+    -   Earthquake
+    -   Knock Off
+    -   Ice Shard
+    -   Gunk Shot
+-   Alakazam, Level 69. (Misella)
+    -   Psychic
+    -   Shadow Ball
+    -   Counter
+    -   Dazzling Gleam
+
+**Xen Mage Soren and Xen Mage Misella (Short-Circuit Field). Classic
+Mode.**
+-   **Boosts:**
+    -   **Greedent becomes Normal/Fighting.**
+    -   **Greedent Special Defense +1.**
+    -   **Donphan becomes Ground/Poison.**
+    -   **Donphan sets out Reflect automatically.**
+-   Vespiquen, Level 72. @ Vespiquen Crest. (Soren)
+    -   Attack Order
+    -   Heal order
+    -   Power Gem
+    -   Dual Wingbeat
+-   Greedent, Level 71. @ Galon Berry. (Soren)
+    -   Stuff Checks
+    -   Body Press
+    -   Payback
+    -   Rest
+-   Dragalge, Level 71. @ Sitrus Berry. (Soren)
+    -   Sludge Bomb
+    -   Dragon pulse
+    -   Scald
+    -   Thunderbolt
+-   Hariyama, Level 73. @ Leftovers. (Soren)
+    -   Fake Out
+    -   Knock Off
+    -   Close Combat
+    -   Heavy Slam
+-   Centiskorch, Level 70. @ Expert Belt. (Misella)
+    -   Crunch
+    -   Fire Lash
+    -   Lunge
+    -   Power Whip
+-   Raichu, Level 71. @ Air Ballon. (Misella)
+    -   Nasty plot
+    -   Thunderbolt
+    -   Grass Knot
+    -   Focus Blast
+-   Donphan, Level 71. @ Liechi Berry. (Misella)
+    -   Earthquake
+    -   Knock Off
+    -   Ice Shard
+    -   Gunk Shot
+-   Alakazam, Level 73. @ Focus Sash. (Misella)
+    -   Psychic
+    -   Shadow Ball
+    -   Counter
+    -   Dazzling Gleam
+
+Hard battle if you don’t prepare for is specifically especially on
+Classic as it is 6vs8. Using revises and maybe a Max revive may be the
+key depending on your team.
+
+You can get a couple of chests now. The one on the left has 3 ***Red
+Shards***, 3 ***Blue Shards***, 3 ***Yellow Shards***, and 3 ***Green
+Shards***.
+
+The right one has a ***Fire Stone***, a ***Leaf Stone***, and a
+***Thunderstone***.
+
+Be sure to be full health and prepare for another double battle.
+
+**Deathwing Darwin and Xen Analyst Joan (Short-Circuit Field). Story
+Mode.**
+-   Mr. Rime, Level 70. (Darwin)
+    -   Nasty Plot
+    -   Freeze Dry
+    -   Psyshock
+    -   Dazzling Gleam
+-   Noctowl, Level 70. @ Noctowl Crest. (Darwin)
+    -   Nasty Plot
+    -   Hurricane
+    -   Roost
+    -   Psychic
+-   Infernape, Level 71. @ Infernape Crest. (Darwin)
+    -   Calm Mind
+    -   Flamethrower
+    -   Slack off
+    -   Vacuum Wave
+-   Aevian Kommo-o, Level 71. (Darwin)
+    -   Vile Assault
+    -   Dragon Dance
+    -   Dragon Claw
+    -   Leech Life
+-   Electrode, Level 75. @ Choice Band. (Darwin)
+    -   Explosion
+    -   Wild Charge
+    -   Thunder Wave
+    -   Sucker Punch
+-   Whiscash, Level 70. @ Whiscash Crest. (Joan)
+    -   Mud Shot
+    -   Waterfall
+    -   Earthquake
+    -   Zen Headbutt
+-   Aevian Leavanny, Level 68. (Joan)
+    -   Swords Dance
+    -   Dragon Rush
+    -   X-Scissor
+    -   Crunch
+
+**Deathwing Darwin and Xen Analyst Joan (Short-Circuit Field). Classic
+Mode.**
+-   Mr. Rime, Level 74. @ Life Orb. (Darwin)
+    -   Nasty Plot
+    -   Freeze Dry
+    -   Psyshock
+    -   Dazzling Gleam
+-   Noctowl, Level 74. @ Noctowl Crest. (Darwin)
+    -   Nasty Plot
+    -   Hurricane
+    -   Roost
+    -   Psychic
+-   Infernape, Level 73. @ Infernape Crest. (Darwin)
+    -   Calm Mind
+    -   Flamethrower
+    -   Slack off
+    -   Focus Blast
+-   Aevian Kommo-o, Level 75. @ Black Sludge. (Darwin)
+    -   Vile Assault
+    -   Dragon Dance
+    -   Outrage
+    -   Leech Life
+-   Electrode, Level 75. @ Electrode Crest. (Darwin)
+    -   Explosion
+    -   Wild Charge
+    -   Thunder Wave
+    -   Sucker Punch
+-   Whiscash, Level 73. @ Whiscash Crest. (Joan)
+    -   Dragon Dance
+    -   Waterfall
+    -   Earthquake
+    -   Zen Headbutt
+-   Aevian Leavanny, Level 72. @ Dragon Gem. (Joan)
+    -   Swords Dance
+    -   Dragon Rush
+    -   X-Scissor
+    -   Crunch
+-   Amoonguss, Level 71. @ Black Sludge. (Joan)
+    -   Spore
+    -   Giga Drain
+    -   Nature Power
+    -   Sludge Bomb
+
+Another 6vs8 on Classic Mode, although this time one only has 3, so
+focus on Joan first. Be careful with Mr. Rime’s Freeze Dry though.
+Typing, EVs, and IVs are very important in combats like this one, so if
+you can’t win, reform your team.
+
+You can open 3 more chests.
+
+The one in the left has 4 Exp Candy XL, and 3 Black Prisms.
+
+The one in the center has Protein, Carbos, Iron, and the Electrode
+Crest. Your party will be healed.
+
+The one on the right has a Cherish Ball, a Glitter Ball, and a Dream
+Ball.
+
+Leave the ship and go north.
+
+### Valor Shore
+
+Activate the Noctowl Statue. You now have all destinations activated.
+
+Continue north for a scene. Again, changes id Madam X was defeated.
+First choice here doesn’t matter. The second one though, matters.
+
+If you select \[We win and save Nim\] you will have to battle Neved, and
+winning will get tracked since you have won his respect. I consider
+fighting here worthy, and no way this can be troublesome after that over
+leveled ship.
+
+**Xen Executive Neved (Beach Field). Story Mode.**
+-   Empoleon, Level 49.
+    -   Surf
+    -   Flash Cannon
+    -   Stealth Rock
+    -   Yawn
+-   Aevian Frosslass, Level 52. @ Wide Lens.
+    -   Giga Drain
+    -   Hydro pump
+    -   Confuse Ray
+    -   Soak
+-   Dhelmise, Level 53.
+    -   Anchor Shot
+    -   Giga Drain
+    -   Synthesis
+    -   Shadow Claw
+-   Barbaracle, Level 55.
+    -   Shell Smash
+    -   Slash
+    -   Razor Shell
+    -   Rock Slide
+
+**Xen Executive Neved (Beach Field). Classic Mode.**
+-   Empoleon, Level 51. @ Chople Berry.
+    -   Surf
+    -   Flash Cannon
+    -   Stealth Rock
+    -   Yawn
+-   Aevian Frosslass, Level 52. @ Wide Lens.
+    -   Giga Drain
+    -   Hydro pump
+    -   Confuse Ray
+    -   Toxic
+-   Vikavolt, Level 51.
+    -   Thunderbolt
+    -   Bug Buzz
+    -   Air Slash
+    -   Roost
+-   Dhelmise, Level 53. @ Steel Gem.
+    -   Anchor Shot
+    -   Giga Drain
+    -   Synthesis
+    -   Shadow Claw
+-   Galarian Darmanitan, Level 52. @ Muscle Band.
+    -   Focus Punch
+    -   Thrash
+    -   Fire Punch
+    -   Ice Punch
+-   Barbaracle, Level 55. @ White Herb
+    -   Shell Smash
+    -   Night Slash
+    -   Razor Shell
+    -   Rock Slide
+
+Honestly after the previous battles on that ship, this felt a walk in
+park.
+
+After the battle, go to the right side and break a rock, behind it there
+is ***TM124 Scary Face***.
+
+Now you can go through the central way into Valor Mountain.
+
+### Quest 53: Save Amber!
+
+You meet a strange character; the choices here don’t matter. You receive
+***Emotion Powder***.
+
+You are told that Amber is two flows beneath. The way to reach it is a
+ladder on our left.
+
+Saving Amber is optional, but unless you are going Renegade, I recommend
+saving her.
+
+**Neutral Valor Mountain Encounters (Cave Field)**
+
+| **Cave**                    | **%** | **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|-----------------------------|-------|-----------|-------|-------------|-------|--------------|-------|
+| **Boldore**                 | 25    | Seel      | 65    | Seel        | 100   | Clauncher    | 60    |
+| **Aevian Sandygast (Rock)** | 20    | Dewgong   | 32    |             |       | Sealeo       | 20    |
+| Golett                      | 12    | Sealeo    | 3     |             |       | **Staryu**   | 20    |
+| Nidorino                    | 10    |           |       |             |       |              |       |
+| Marowak                     | 10    |           |       |             |       |              |       |
+| Claydol                     | 6     |           |       |             |       |              |       |
+| **Druddigon**               | 6     |           |       |             |       |              |       |
+| **Nidorina**                | 5     |           |       |             |       |              |       |
+| Dugtrio                     | 5     |           |       |             |       |              |       |
+
+This mountain has moods, and depending on the moods, the encounters and
+how you move around the map change.
+
+To save Amber we need to put this mountain on an Icy Mood.
+
+Surf to the north and go west to the bridge, on the mossy rock before
+the bridge there is a hidden ***Max Repel***.
+
+Cros the bridge and go a level higher with the ladder. Surf south and
+reach land on some stairs, go east for a Zygarde Cell.
+
+**ZCell 076: Valor Mountain (Neutral)**
+
+<img src="assets/media/image87.png" width="512"/>
+
+Go north and you will have to fight.
+
+**Xen Analyst Damen (Cave Field). Story Mode.**
+-   Frosslass, Level 48.
+-   Glalie, Level 48.
+-   Abomasnow, Level 48.
+
+**Xen Analyst Damen (Cave Field). Classic Mode.**
+-   Frosslass, Level 50.
+-   Glalie, Level 50.
+-   Abomasnow, Level 50.
+
+Easy fight. Now interact with the crystal here. Now the mountain is on a
+Fiery mood.
+
+The choice on the scene doesn’t matter.
+
+**Fiery Valor Mountain Encounters (Volcanic Field)**
+
+| **Cave**                    | **%** |
+|-----------------------------|-------|
+| Slugma                      | 20    |
+| **Camerupt**                | 20    |
+| Magcargo                    | 17    |
+| **Aevian Sandygast (Fire)** | 15    |
+| **Sizzlipede**              | 15    |
+| **Heatmor**                 | 7     |
+| **Turtonator**              | 5     |
+
+Go though the southern ladder and interact with the crystal there to
+enter Icy Mood.
+
+**Icy Valor Mountain Encounters (Icy Field)**
+
+| **Cave**                   | **%** |
+|----------------------------|-------|
+| **Aevian Sandygast (Ice)** | 20    |
+| Alolan Sandslash           | 15    |
+| **Cryogonal**              | 15    |
+| Delibird                   | 15    |
+| Abomasnow                  | 12    |
+| **Beartic**                | 10    |
+| **Drampa**                 | 6     |
+| **Piloswine**              | 5     |
+| Bergmite                   | 2     |
+
+We can go save amber, but let’s pick up the items of this map first.
+
+Go to the eastern side of the snow to find an ***Ice Heal***, on the
+small rock on the south there is a hidden ***Water Stone***.
+
+Now go north, upstairs, and go right to find ***TM132 Icicle Spear***.
+
+Now go to the southern area, which is where you began Valor Mountain. Go
+west across the bridge, pick the ***Revive*** on the south and go down
+the ladder.
+
+Talk to Venam in front of the opened door. Enter the Chamber of
+Awakening.
+
+Advance after the scene and go west. Mine the mining rock and then use
+Blast Powder to make it disappear, there is a Zygarde Cell behind.
+
+**ZCell 077: Chamber of Awakening**
+
+<img src="assets/media/image88.png" width="512"/>
+
+As a note there a mining rock on the right side too.
+
+Once you are in the middle of the circle, you will be thrown into a boss
+battle. You will have Venam’s help.
+
+**Leviathan Kyogre (Water Surface) ). 2 HP Bars. Story Mode.**
+-   Kyogre, Level 55. @ Sitrus Berry.
+    -   Muddy Water
+    -   Icy Wind
+    -   Ancient Power
+    -   Thunder Wave
+-   After clearing 1 HP Bar:
+    -   Field becomes Water Surface.
+    -   Cures any stat drop.
+    -   Moves:
+        -   Whirlpool
+        -   Shock Wave
+        -   Ancient Power
+        -   Thunder Wave
+
+**Leviathan Kyogre (Water Surface) ). 4 HP Bars. Classic Mode.**
+-   Kyogre, Level 60.
+    -   Muddy Water
+    -   Ice Bream
+    -   Ancient Power
+    -   Calm Mind
+-   After clearing 1 HP Bar:
+    -   Sets Rain Dance.
+    -   Field becomes Water Surface.
+    -   Your side: Speed -1.
+    -   Your side: In a Whirlpool.
+    -   Moves:
+        -   Whirlpool
+        -   Thunderbolt
+        -   Ancient Power
+        -   Scary Face
+-   After clearing 2 HP Bars:
+    -   Field becomes Underwater.
+    -   Kyogre Attack +1.
+    -   Moves:
+        -   Dive
+        -   Thunderbolt
+        -   Ancient Power
+        -   Double Edge
+-   After clearing 3 HP Bars:
+    -   Your side: Attack -2, Special Attack -2.
+
+Kyogre hits very strong. You rather be resistant to its attacks, or you
+will he one shot very frequently. Venam helps, but also gets one shot
+quite a lot. Remember to sue the field to your advantage since Kyogre
+will certainly do it.
+
+You get the ***V.G.C.R Key*** after winning, and Amber is saved.
+
+**Friendship Point Choice:**
+-   Don't wait till it’s too late. (Venam +2)
+-   Be kid to her. (Venam +1)
+-   … (Venam -2)
+
+### Mount Valor
+
+Time to explore Mount Valor properly now that Amber is safe.
+
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
@@ -14617,31 +15245,8 @@ Enter the temple, east of Jynnobi and go up for a cutscene.
 
 Go up to Route 6 and talk with Aelita.
 
-Optional ships for items:
-
-Advance through the Route until grunts attack you on the entrance of a
-battleship, they aren't a threat.
-
-Advance though the battleship. Activate the panel at the top left first
-to grab a Rare Candy and then the one of the top right to reach the
-stairs. Open the boxes to receive EV increasing items, TN139 Speed Swap,
-and heal your party. Now enter the portal and leave the ship.
-
-Now go to the ship at the northwest part, where the enemies are far
-stronger (close to 70).
-
-After the first two pairs of enemies, you can access two chests, one has
-evolutionary stones and the other shards.
-
-After another couple of grunts you can get other three chests. Exp
-Candy, Black prisms, a Cherish Ball, a Glitter Ball, a Dream Ball, Ev
-enhancement items, Electrode Crest, and you get healed.
-
-End of optional ships.
-
-Go to the battleship west of where you sailed originally. Defeat the
-grunts and go through the central door and you will trigger a new
-cutscene.
+Go to the battleship west of where you sailed originally. Go through the
+central door and you will trigger a new cutscene.
 
 Go downstairs and move through the floor defeating the grunt in your way
 and speak with Amber. Activate the panel to move the boxes, creating a
@@ -14666,7 +15271,7 @@ being the lead.
 -   I'm not so sure... (Aelita +2)
 
 Return to the entrance of the route and talk with Crawli. Next choice
-just have slight change of text.
+just has a slight change of text.
 
 Enter Tesla's house and go the living room for your movie night.
 
