@@ -178,7 +178,16 @@
     - [Battlefield of Gods](#battlefield-of-gods)
 - [Chapter 8: Those We Lose](#chapter-8-those-we-lose)
   - [September 13th: A Trial of an Envoy](#september-13th-a-trial-of-an-envoy)
-    - [Kristiline Town](#kristiline-town)
+    - [Quest 49: Aquamarine Request](#quest-49-aquamarine-request)
+    - [Quest 50: Sapphire Museum Quest](#quest-50-sapphire-museum-quest)
+    - [Quest 12: Virtual League (Seventh & Eigth Gyms)](#quest-12-virtual-league-seventh-eighth-gyms)
+    - [Quest 51: Kristiline Quiz Show](#quest-51-kristiline-quiz-show)
+    - [Isle of Angels](#isle-of-angels)
+    - [Church and Tower of Theolia](#church-and-tower-of-theolia)
+    - [Choosing Companion](#choosing-companion)
+    - [Earth Heart](#earth-heart)
+  - [September 18th: A Trial of Rebellion](#september-18th-a-trial-of-rebellion)
+    - [Route 6](#route-6)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -4633,7 +4642,7 @@ Chikorita. At worst, go to Mr. Luck's tent to change to Story Mode even
 if it is just for this combat if you are unable to win, and change it
 back after you win.
 
-After you win, you will get another *Virtual Badge*. For continuing wit
+After you win, you will get another ***Virtual Badge***. For continuing wit
 this Quest, we will need to find a different NPC, so we can't progress
 more for now.
 
@@ -7903,6 +7912,8 @@ For Cyndaquil Route, trying to set Toxic Spikes as early as possible is a good i
 
 Never tried Totodile route, but Donphan has Bounce and Croconaw was Hidden Power Psychic, which should help a lot here.
 
+You get the fifth ***Virtual Badge*** once you win.
+
 Talk to her again to the next fight for a Virtual Badge, Jasmine.
 
 Your team depending on what you chose as starter:
@@ -7975,6 +7986,8 @@ You can easily get +6 Attack and Defense and put Stealth Rock to break Sturdy on
 This way, Steelix can easily defeat everyone else. 
 Skarmory will fall of a single Gyro Ball without having Sturdy due to the rocks, which prevents it from using Red Card to force you to switch out Steelix. 
 The other Magneton will do some heavy damage with Hidden Power Fire, but it can’t kill you in one hit and the rest hit the physical defense, so they aren’t a danger.
+
+You get the sixth ***Virtual Badge*** once you win.
 
 We can’t progress this quest more for now, so go back outside the Ranger HQ.
 
@@ -12569,6 +12582,24 @@ go out for story reasons, but it is good to have a way out.
 Go north to enter the tower. The door will open once you interact with
 it.
 
+The servant closest to the door is actually a shop.
+
+**Servant Shopp**
+
+| **Item**        | **Price** |
+|-----------------|-----------|
+| *Poké Ball*     | $200      |
+| *Great Ball*    | $600      |
+| *Super Potion*  | $700      |
+| *Full Heal*     | $600      |
+| *Antidote*      | $100      |
+| *Ice Heal*      | $250      |
+| *Paralyze Heal* | $200      |
+| *GourmetTreat*  | $1500     |
+| *Super Repel*   | $500      |
+| *Max Repel*     | $700      |
+| *Reverse Candy* | $50       |
+
 You can heal in the bed and there is a PC, so you can change your team.
 
 Go though the only opened door to proceed.
@@ -12886,17 +12917,1019 @@ You have 6, she has 3, 2 if Story Mode.
 
 You are back controlling yourself.
 
-Approach the group for a scene. You will receive the ***Glacier Badge*** from 
-Kreiss, which will increase you level cap to 55.
+Approach the group for a scene. You will receive the ***Glacier Badge***
+from Kreiss, which will increase you level cap to 55.
 
-Leave the house.
+Leave the house and talk with Aelita, she says that we should go to
+Carotos Mountain, but we have to take one more with us.
 
-### Kristiline Town
+We will do this later, there are things to do on Kristiline Town now
+that it is unfrozen.
 
-Talk with Aelita, she says that we should go to Carotos Mountain, but we
-have to take one more with us, we need to choose between Adam and Kreiss.
-Still, we will do this later, there are things to do on Kristiline Town
-now that it is unfrozen.
+**Kristiline Town Encounters (Beach Field)**
+
+| **Cave**                  | **%** |
+|---------------------------|-------|
+| **Roselia**               | 35    |
+| **West Aevian Shellos**   | 25    |
+| **West Aevian Gastrodon** | 25    |
+| Butterfree                | 17    |
+| Lickitung                 | 16    |
+| **Lurantis**              | 7     |
+
+We will do some quests while exploring the town.
+
+### Quest 49: Aquamarine Request
+
+Head west and enter the building there, the Kristiline Eatery. The
+martial artist closest to the entrance will ask you for a piece of
+Aquamarine Ore, but if you have been following this guide, we already
+got it.
+
+You will get a ***Prism Scale*** as a reward.
+
+**Kristiline Eatery**
+
+| **Item**      | **Price** |
+|---------------|-----------|
+| *Lava Cookie* | $200      |
+
+### Quest 50: Sapphire Museum Quest
+
+Leave the Eatery and head north, use cut to find a Zygarde Cell.
+
+**ZCell 069: Kristiline Town**
+
+<img src="assets/media/image80.png" width="512"/>
+
+Now enter the Sapphire Museum, and pay the $500 to enter.
+
+On the bin on the right, there is a hidden ***Cherish Ball***.
+
+The man close to the bin is the president. Talk to him and if you have
+spoken in the past with the sculptor in Goldenleaf Town, you will be
+asked to recruit him. We will do a bit more of exploring before going
+though. Now leave the museum.
+
+The house on the south from here is the TM Shop, you can buy quite a few
+TMs here, but they are expensive.
+
+**TM Shop**
+
+| **Item**   | **Price** |
+|------------|-----------|
+| *RM02*     | $20000    |
+| *RM03*     | $30000    |
+| *RM04*     | $10000    |
+| *RM06*     | $15000    |
+| *RM07*     | $25000    |
+| *RM08*     | $20000    |
+| *RM09*     | $20000    |
+| *TM140*    | $10000    |
+| *TM141*    | $10000    |
+| *TM142*    | $10000    |
+| *TM143*    | $25000    |
+| *TM157*    | $25000    |
+
+You can pick an ***Occa Berry*** on the berry tree on the right of the
+house.
+
+Now go east to the central part of the town. Sitting on a table there is
+a guy who will change the Hidden Power of your mons for a Heart Scale.
+
+The house here is the Pokémon Center, and there is a Noctowl Statue on
+its left, activate it, and a breeder that gives 2 **Exp Candy L** on the
+right.
+
+Use the Noctowl Statue to leave Kristiline Town and go to Akuwa Town
+with your yacht and use the Truck Guy to reach Goldenleaf Town.
+
+Once on Goldenleaf Town, talk to the sculptor to bring him to Kristiline
+Town. He is in the house closest to Route 3.
+
+Make a quick visit to Mr. Luck as there is a new Marshadow to teach you
+moves.
+
+**Marnie (Move Tutor)**
+
+| **Bug Bite**     | *3 Green Shards*  |
+|------------------|-------------------|
+| **Bounce**       | *3 Blue Shards*   |
+| **Drill Run**    | *3 Yellow Shards* |
+| **Electroweb**   | *3 Red Shards*    |
+| **Gastro Acid**  | *3 Yellow Shards* |
+| **Focus Energy** | *3 Red Shards*    |
+| **Skill Swap**   | *3 Blue Shards*   |
+| **Signal Beam**  | *3 Green Shards*  |
+| **Coaching**     | *3 Red Shards*    |
+
+Return to the Sapphire Museum, you will have to pay $500 again, and talk
+to the director. You can choose what is sculpted. You get $10000 as a
+reward.
+
+### Quest 12: Virtual League (Seventh & Eighth Gyms)
+
+Enter the Pokémon Center and talk to the guy in the right to face the
+seventh badge of the Virtual League.
+
+Your team depending on what you chose as starter:
+-   Meganium 46. Gengar 44. Ampharos 44. Espeon 44. Politoed 44.
+-   Typhlosion 46. Qwilfish 44. Steelix 44. Jolteon 44. Miltank 44.
+-   Feraligatr 46. Arcanine 44. Donphan 44. Umbreon 44. Porygon2 44.
+
+**Gym Leader Pryce (Glitch Field). Story Mode.**
+-   Sneasel, Level 42.
+    -   Metal Claw
+    -   Strength
+    -   Beat Up
+    -   Ice Beam
+-   Cloyster, Level 43.
+    -   Surf
+    -   Ice Shard
+    -   Spikes
+    -   Explosion
+-   Dewgong, Level 41.
+    -   Aurora Beam
+    -   Dive
+    -   Toxic
+    -   Stockpile
+-   Jynx, Level 43. @ Never-Melt Ice
+    -   Lovely Kiss
+    -   Psychic
+    -   Ice Beam
+    -   Icy Wind
+-   Piloswine, Level 44. @ Sitrus Berry.
+    -   Stomping Tantrum
+    -   Blizzard
+    -   Amnesia
+    -   Rock Tomb
+
+**Gym Leader Pryce (Glitch Field). Classic Mode.**
+-   Sneasel, Level 44.
+    -   Metal Claw
+    -   Strength
+    -   Beat Up
+    -   Ice Beam
+-   Cloyster, Level 44.
+    -   Surf
+    -   Icicle Spear
+    -   Spikes
+    -   Explosion
+-   Dewgong, Level 43.
+    -   Rest
+    -   Dive
+    -   Toxic
+    -   Stockpile
+-   Jynx, Level 45. @ Never-Melt Ice.
+    -   Lovely Kiss
+    -   Psychic
+    -   Ice Beam
+    -   Nasty Plot
+-   Piloswine, Level 46. @ Sitrus Berry.
+    -   Stomping Tantrum
+    -   Blizzard
+    -   Amnesia
+    -   Rock Tomb
+
+Easiest on the Cyndaquil Route thanks to Typhlosion and Jolteon. The
+others have a bit worse, especially the Chikorita Route.
+
+Once you have won, you get the seventh ***Virtual Badge***.
+
+Talk again to face the last gym of the Virtual League.
+
+Your team depending on what you chose as starter:
+-   Meganium 55. Gengar 54. Ampharos 54. Espeon 54. Politoed 54.
+    Skarmory 54.
+-   Typhlosion 55. Qwilfish 54. Steelix 54. Jolteon 54. Miltank 54.
+    Gligar 54.
+-   Feraligatr 55. Arcanine 54. Donphan 54. Umbreon 54. Porygon2 54.
+    Heracross 54.
+
+**Gym Leader Clair (Glitch Field). Story Mode.**
+-   Dragonair, Level 49.
+    -   Dragonbreath
+    -   Ice Beam
+    -   Thunder Wave
+    -   Double Team
+-   Ampharos, Level 49.
+    -   Fire Punch
+    -   Thunder Wave
+    -   Confuse Ray
+    -   Thunderbolt
+-   Rhydon, Level 51.
+    -   Earthquake
+    -   Rock Slide
+    -   Strength
+    -   Swords Dance
+-   Gyarados, Level 51.
+    -   Double Edge
+    -   Surf
+    -   Bounce
+    -   Crunch
+-   Dragonair, Level 52. @ Yache Berry.
+    -   Blizzard
+    -   Thunder Wave
+    -   Fire Blast
+    -   Outrage
+-   Kingdra, Level 52. @ Scope Lens.
+    -   Dragon Pulse
+    -   Hydro Pump
+    -   Whirlpool
+    -   Focus Energy
+
+**Gym Leader Clair (Glitch Field). Classic Mode.**
+-   Dragonair, Level 51.
+    -   Dragonbreath
+    -   Ice Beam
+    -   Thunder Wave
+    -   Double Team
+-   Ampharos, Level 51.
+    -   Fire Punch
+    -   Thunder Wave
+    -   Confuse Ray
+    -   Thunderbolt
+-   Rhydon, Level 53. @ Passho Berry.
+    -   Earthquake
+    -   Rock Slide
+    -   Strength
+    -   Swords Dance
+-   Gyarados, Level 53. @ Wacan Berry.
+    -   Double Edge
+    -   Surf
+    -   Bounce
+    -   Dragon Dance
+-   Dragonair, Level 54. @ Yache Berry.
+    -   Blizzard
+    -   Thunder Wave
+    -   Fire Blast
+    -   Outrage
+-   Kingdra, Level 55. @ Scope Lens.
+    -   Draco Meteor
+    -   Hydro Pump
+    -   Agility
+    -   Focus Energy
+
+You have a full ream now. If you use your team well, there is no reason
+for you to lose, and you got variety now. Check for Ice moves in your
+party, electric ones are also great got Gyarados. Stalling with Poison
+Spikes also works wonders on all but Gyarados.
+
+Once you have won, you get the eight and last ***Virtual Badge***.
+
+You will also receive 25 AP points.
+
+Next step would be the Elite 4, but we won’t be able to do it for quite
+a while and it isn't here either.
+
+### Quest 51: Kristiline Quiz Show
+
+Leave and go south and you will quickly see a berry tree on the right.
+It has 3 ***Passho Berries***.
+
+The house here is a Help Center. You can enter with the Center Keys you
+should have gotten on the Kakori Help Center if you have been following
+this guide. Inside you can find ***TM73 Thunder Wave***.
+
+Leave and continue south for a Zygarde Cell.
+
+**ZCell 070: Kristiline Town**
+
+<img src="assets/media/image81.png" width="512"/>
+
+A bit more to the south there is a ***Razor Claw***.
+
+Return to the Pokémon Center and go upwards though the left side and
+advance to the east after the first set of stairs. On the end of the way
+you will find another Zygarde Cell.
+
+**ZCell 071: Kristiline Town**
+
+<img src="assets/media/image82.png" width="512"/>
+
+The girl on your right will trade you an ***Alolan Vulpix*** for your
+Alolan Sandslash.
+
+Now enter the house, and speak with the man on the stage. You will have
+to answer a quiz. The system is the same as previously on the Tower of
+Theolia.
+
+Answers:
+-   Question 1: Bug
+-   Question 2: 95
+-   Question 3: Aquamarine Chamber
+-   Question 4: Fever Pitch
+-   Question 5: Marty
+-   Question 6: 4
+-   Question 7: 3
+-   Question 8: Teila Resort
+-   Question 9: Mt. Terajuma
+-   Question 10: Yes
+
+You will get an **Exp. Candy XL**, a **Lucky Egg**, and once you go to
+the Kakori Help Plaza to report it, you also get $10000 and +1 Karma. It
+is the right counter.
+
+Leave the house and go north to reach Isle of Angels.
+
+### Isle of Angels
+
+**Isle of Angels Encounters**
+
+| **Cave**     | **%** |
+|--------------|-------|
+| Roselia      | 30    |
+| **Swadloon** | 30    |
+| Gossifleur   | 12    |
+| **Eldegoss** | 10    |
+| **Milcery**  | 10    |
+| **Lurantis** | 7     |
+| Gothita      | 6     |
+
+Head north to find a hidden ***Dive Ball*** in the left side a brush
+between two trees.
+
+Now, go east to get ***Shed Shell***.
+
+Go north a bit and if it is night, you will be able to find four
+**Phione** in this area. You can catch them if you give them a Gourmet
+Treat.
+
+On the first tree on the left, there is a hidden ***Magical Seed***.
+
+On the right of the right northernmost lamp on the central area before
+the stairs, there is a hidden ***Ice Gem***.
+
+After the stairs, there is a man that lets you exchange 10 Occa Berries
+for either a ***Deep Sea Scale*** or a ***Deep Sea Tooth***. This trade
+can be repeated infinitely as long as you have enough Occa Berries.
+
+Continue north until the crossroads. On the right side of the tree on
+the left there is a hidden ***Icicle Plate***.
+
+One tile right and all ay down from the previous item, there is a hidden
+***Max Repel***.
+
+Go though the western path to find ***TM07 Hail***, and a Zygarde Cell.
+
+**ZCell 072: Isle of Angels**
+
+<img src="assets/media/image83.png" width="512"/>
+
+Now that the eastern path to find another Zygarde Cell.
+
+**ZCell 073: Isle of Angels**
+
+<img src="assets/media/image84.png" width="512"/>
+
+Return to the center of the crossroads and go north to reach the Church
+of Theolia.
+
+### Church and Tower of Theolia
+
+Go all way north to where you found Angie on your previous visit. There
+is a Zygarde Cell on the bottom-right corner.
+
+**ZCell 074: Church of Theolia**
+
+<img src="assets/media/image85.png" width="512"/>
+
+Go to the previous rom and take the western exit. You can use the portal
+here to return to Tower of Theolia although it is a bit different this
+time and we can get some items.
+
+You con now visit the northwest cornet to get a total of 6 ***Sitrus
+Berries*** and 4 ***Yache Berries*** from berry trees, and another
+***Yache Berry*** on the path at the northwest you couldn’t access
+previously.
+
+The servant on the left of the door is a shop like in the old version of
+the map.
+
+**Servant Shop**
+
+| **Item**        | **Price** |
+|-----------------|-----------|
+| *Poké Ball*     | $200      |
+| *Great Ball*    | $600      |
+| *Super Potion*  | $700      |
+| *Full Heal*     | $600      |
+| *Antidote*      | $100      |
+| *Ice Heal*      | $250      |
+| *Paralyze Heal* | $200      |
+| *GourmetTreat*  | $1500     |
+| *Super Repel*   | $500      |
+| *Max Repel*     | $700      |
+| *Reverse Candy* | $50       |
+
+Enter the tower. If you use the teleporter and go out, you can lower a
+ladder to create shortcuts as you descend. Return to the room with the
+bed and use the left door to be on the Tower Cellar. This time, it is
+iced, and we can move differently though it.
+
+Explaining how to navigate through the ice may be confusing, but I will
+try to guide you to all the items. Use the Item Finder if you are having
+trouble to pinpoint exactly a hidden item.
+
+For now, ignore the ice and entre though the broken wall.
+
+Use the ice on the left side, on the place the rocks don't block you.
+
+From here, go south, east, north, west, and north. Break the wall here.
+
+You can find ***TM79 Frost Breath*** and a hidden ***Elemental Seed***
+on the left.
+
+Leave though the eastern exit, but be sure to be on the northern most
+point. On the main room again, continue to the right and you will be
+able to get Never-Melt Ice.
+
+Go left, down, right, and down. Leave through the southern exist. And
+advance to the next room. You will find a hidden ***Blue Shard*** on the
+upper rock on the ice. Go back in your steps to the main room and this
+time, go east and then south to get ***Herbal Tea***. Go east to find a
+hidden ***Max Repel*** on some boxes.
+
+Go north, east, and north again. We will first check go east, but we
+will need to come back to this point later.
+
+Continue east until the end and go south and east to find an ***Ice
+Heal***.
+
+Go back to land and go south as soon as you can until reaching normal
+floor again. On the right rock of the left side of the ice, there is a
+hidden ***Ice Gem***. The door here is locked and can’t be unlocked, so
+ignore it.
+
+Return to the place I mentioned you have to return and now, go west on
+the southern area you can . Advance and on the bifurcation go east,
+south, west, south, west, and south to reach a new room fille with ice.
+
+Move east immediately and advance on firm ground until you can go south
+in the ice reaching a wall. Now go west and check the rock for a hidden
+Ultra Potion.
+
+Go south and west to reach another piece of land. There is a ***Fluffy
+Tail*** here.
+
+Go south, west, and north, to reach a piece of land on the north of a
+table, check the right rock on the left side for a hidden Max Repel.
+
+Go north from this rock and check the rock on your left for a hidden
+***Yellow Shard***.
+
+Move a step to the right and one down before going west through the ice.
+On the left side of the first group of barrels there is a hidden ***Rare
+Candy***.
+
+Go south from here and west. On the rock on this piece of land, there is
+a hidden ***Blue Shard***.
+
+Go south from the point the rock won’t block you. Now, go east, north,
+east, north, west, south, west, and north, to find a ***Black Prism***,
+and a hidden ***Rare Candy*** on the opposite side.
+
+You can make a hole in the wall here. In this room, there is a ***Rash
+Mint***, and hidden on the rock on the right, 3 ***Exp Candy L***.
+
+Go south, west, and move north whenever you can. Go all way east until
+you see a way down.
+
+Go south, west, north, east, north, east, north, and then walk on firm
+ground until ou pass a rock, go south and interact with the rock for a
+hidden Green Shard.
+
+Return to firm ground above, and go south on the other side of the rock.
+
+Now, go west, south, west, south, east, south, west, south, to find an
+***X Speed***.
+
+Go north and east to reach firm ground.
+
+Once you see a wall you can break go south and interact with the rock on
+the right for a hidden ***Revive***. Now go north and break the wall.
+
+There is a ***Modest Mint*** and a Zygarde Cell here.
+
+**ZCell 075: Tower Cellar**
+
+<img src="assets/media/image86.png" width="512"/>
+
+You can now return to Kristiline Town.
+
+### Choosing Companion
+
+It is time to choose who will come with us: Kreiss, Adam, or Reina. If
+Adam comes, Braixen also tags along. All options will have a Friendship
+Point Choice, but Adam’s one also gives to Braixen. Note that Kreiss is
+only an option if you saved him. Dialogues clearly change depending on
+who you choose. Personally, I find the dialogues with Adam and Braixen
+more entertaining.
+
+Adam and Kreiss are in the house, while Reina is sitting in front of a
+table on the left of the house. Once you have chosen one of them, they
+will be waiting at Aelita’s side, talk with her to continue.
+
+Agree to teleport to Sheridan Village.
+
+### Earth Heart
+
+Enter the house after the scenes for another scene. Then, enter the
+nearby door for another scene.
+
+After the scene leave the room and this time use the northern door. You
+will have to fight Texen with Aelita, 3 mons each.
+
+**Pseudo Sensei Texen (Big Top Arena). Story Mode.**
+-   Hitmonchan, Level 46.
+    -   Fake Out
+    -   Mach Punch
+    -   Ice Punch
+    -   Thunderpunch
+-   Passimian, Level 46.
+    -   Acrobatics
+    -   Close Combat
+    -   Rock Slide
+    -   Endure
+-   Machamp, Level 47.
+    -   Rock Tomb
+    -   Bullet Punch
+    -   Cross Chop
+    -   High Horsepower
+-   Infernape, Level 50.
+    -   Fire Punch
+    -   Thunderpunch
+    -   Rock Slide
+    -   Mach Punch
+
+**Pseudo Sensei Texen (Big Top Arena). Classic Mode.**
+-   Hitmonchan, Level 49. @ Coba Berry.
+    -   Fake Out
+    -   Mach Punch
+    -   Ice Punch
+    -   Thunderpunch
+-   Passimian, Level 49. @ Salac Berry.
+    -   Acrobatics
+    -   Close Combat
+    -   Rock Slide
+    -   Endure
+-   Emboar, Level 50. @ Charcoal.
+    -   Heat Crash
+    -   Wild Charge
+    -   Sucker Punch
+    -   Brick Break
+-   Toxicroak, Level 50. @ Poison Barb.
+    -   Poison Jab
+    -   Sucker Punch
+    -   Ice Punch
+    -   Drain Punch
+-   Machamp, Level 51. @ Black Belt.
+    -   Rock Tomb
+    -   Bullet Punch
+    -   Cross Chop
+    -   High Horsepower
+-   Infernape, Level 53. @ Charcoal.
+    -   Fire Punch
+    -   Thunderpunch
+    -   Rock Slide
+    -   Mach Punch
+
+Aelita has a good team, and Texen is very weak to Psychic moves, so this
+is quite an easy fight.
+
+You will automatically be on Carotos Mountain after the fight.
+
+Use Rock Smash on a nearby rock and you will open a path to the part of
+the cave we visited in the past.
+
+Go to the right and then upwards to reach Corrupted Cave.
+
+**Corrupted Cave Encounters (Corrupted Cave)**
+
+| **Grass**      | **%** |
+|----------------|-------|
+| **Golbat**     | 27    |
+| Salandit       | 25    |
+| Zubat          | 20    |
+| Seviper        | 14    |
+| **Alolan Muk** | 12    |
+| **Torkoal**    | 2     |
+
+You can also find **Alolan Grimer** and **Garbodor** around the area.
+
+Note that Aelita is with us, so double battle, which means having to
+defeat one before being able to catch, you may want to come back alter
+alone to catch what you want.
+
+On the top-right corner there is a hidden Poison Gem. Read the note
+upstairs on the north
+
+Now advance to the east through the only way until you find a second
+note.
+
+You can only proceed through the south, so continue until finding a
+third note.
+
+On the closest gras tile to the note there is a hidden ***Super
+Repel***. On the northernmost grass here, turn to the wall and inspect
+it for another hidden ***Super Repel***.
+
+Go through the western way until changing areas and you will see a
+scene.
+
+**Servant Deborah (Corrupted Cave). Story Mode.**
+-   Chimecho, Level 50.
+-   Simisage, Level 50.
+
+**Servant Deborah (Corrupted Cave). Classic Mode.**
+-   Chimecho, Level 50.
+-   Simisage, Level 51.
+-   Delphox, Level 52.
+
+Very easy battle, the story continues after you win.
+
+Once you can move that the rock on the bottom-right for a hidden
+***Poison Gem***.
+
+Go north for another scene. You are in the Garufa Sanctuary now. Use the
+ladder tor each a lower level and advance for a scene.
+
+The tile right of the grass on the left has a hidden ***Moon Stone***.
+
+If you have picked Adam, interact with him on the right area, otherwise
+talk to Aelita on the left one. The path that opens is different
+depending on who you chose. Enter the opened way tor each Subi Excellus.
+
+On this guide we are going to do Adam’s side first, which is the way on
+the right.
+
+**<u>Right Route (Adam):</u>**
+
+Enter the field with the statutes for a scene and a double battle.
+
+**Ancient Guard Escavalier (Deep Earth). Story Mode.**
+-   Gigalith, Level 50.
+    -   Heavy Slam
+    -   Smack Down
+    -   Earthquake
+    -   Stealth Rock
+-   Sigilyph, Level 51.
+    -   Gravity
+    -   Psywave
+    -   Calm Mind
+    -   Trick Room
+-   Dusclops, Level 51.
+    -   Gravity
+    -   Will-O-Wisp
+    -   Spite
+    -   Confuse Ray
+-   Clefable, Level 52.
+    -   Gravity
+    -   Moon Blast
+    -   Calm Mind
+    -   Dazzling Gleam
+
+**Ancient Guard Escavalier (Deep Earth). Classic Mode.**
+-   Gigalith, Level 53.
+    -   Heavy Slam
+    -   Smack Down
+    -   Earthquake
+    -   Stealth Rock
+-   Sigilyph, Level 54.
+    -   Gravity
+    -   Psywave
+    -   Calm Mind
+    -   Trick Room
+-   Dusclops, Level 53.
+    -   Gravity
+    -   Will-O-Wisp
+    -   Spite
+    -   Confuse Ray
+-   Clefable, Level 54.
+    -   Gravity
+    -   Moon Blast
+    -   Calm Mind
+    -   Cosmic Power
+
+A path appears in the scene after winning. Continue to the next room.
+
+You need to do the same to open the way to the other side, but first
+show a Dragon type mon to the machine in the right and will open an
+additional path. We don’t have anything to do there now, so if you don't
+have Remote PC, don’t worry, you can open this later.
+
+Talk with Aelita to heal and prepare for another battle.
+
+**Ancient Guard Escavalier (Deep Earth). Story Mode.**
+-   Tyranitar, Level 50.
+    -   Focus Blast
+    -   Bulldoze
+    -   Heavy Slam
+    -   Matrix Shot
+-   Kleavor, Level 51.
+    -   X-Scissor
+    -   Agility
+    -   Night Slash
+    -   Stone Axe
+-   Gigalith, Level 51.
+    -   Earthquake
+    -   Arenite Wall
+    -   Rock Slide
+    -   Iron Defense
+-   Aerodactyl, Level 52. @ Leftovers.
+    -   Roost
+    -   Earthquake
+    -   Iron Head
+    -   Matrix Shot
+
+**Ancient Guard Escavalier (Deep Earth). Classic Mode.**
+-   Tyranitar, Level 53. @ Telluric Seed.
+    -   Body Press
+    -   Earthquake
+    -   Heavy Slam
+    -   Matrix Shot
+-   Alolan Golem, Level 53. @ Sitrus Berry
+    -   Heavy Slam
+    -   Wild Charge
+    -   Matrix Shot
+    -   Stone Edge
+-   Kleavor, Level 52. @ Focus Sash.
+    -   X-Scissor
+    -   Agility
+    -   Slash and Burn
+    -   Stone Axe
+-   Kabutops, Level 52. @ Focus Sash.
+    -   Matrix Shot
+    -   Slash and Burn
+    -   Waterfall
+    -   X-Scissor
+-   Gigalith, Level 53. @ Telluric Seed.
+    -   Earthquake
+    -   Arenite Wall
+    -   Stone Edge
+    -   Heavy Slam
+-   Aerodactyl, Level 54. @ Leftovers.
+    -   Roost
+    -   Earthquake
+    -   Psychic Fangs
+    -   Matrix Shot
+
+Use the left door to continue.
+
+**<u>Left Route (Kreiss and Reina):</u>**
+
+You can open a door if you show a Dragon type mon to the machine in
+front of the seal.
+
+There is ***TM86 Grass Knot*** behind this door. Return to the previous
+room.
+
+You need to put the statues identical to how they are in the room you
+can visit though the bottom-left door. It is extremely easy.
+
+Advance through the upper-left door.
+
+Same, but this time the results are in the side room.
+
+Here I recommend starting moving Latias to the right and then down and
+right to its position first. Then Ninetales to the left one time, and
+Sableye to the right, down three time and right to get it in position.
+
+Move Hawlucha to the right. Now Move Ninetales right and up, and then
+left and up to reach its position.
+
+Move Lunatone two up. Now move Hawlucha twice to the left, thrice down,
+and to the left until being one tile under the position, so move one up.
+
+Now move Lunatone to the left and down so it gets its position.
+
+Advance through the door to continue.
+
+**<u>From this point the progress is unified again.</u>**
+
+**Team Xen Tommen (Deep Earth).**
+-   Bronzong, Level 53.
+-   Coalossal, Level 52.
+-   Salazzle, Level 53.
+-   Perrserker, Level 54.
+
+Win to continue the scene.
+
+**Friendship Point Choice:**
+-   She can do this! (Aelita +3)
+-   I agree with the Eldest. (Aelita -3)
+
+If you choose Adam, return through the left side and show a Dragon type
+mon to the machine there to get ***TM86 Grass Knot***. You can also
+activate the Dragon type machine of the other side if you picked Kreiss
+or Reina, but it has no immediate use.
+
+On the room you fought Tommen, use the ladder on the left. You need to
+put the statues on position to open the door. This is optional content,
+and the positions are in the room below.
+
+This one is far more difficult than the ones in the left route.
+
+Start with Greninja. Move it right, and then down until being one tile
+away of the wall, move right. Once you reach the part that has water
+underneath, push it up until its just below the Seviper Statue. Move the
+Greninja Statue to the Yellow Point on the right.
+
+It is Seviper’s turn. Move it to the left, and then downwards until
+being one tile away of the wall, move left. Once you are just above the
+Yellow Point, push it down. Second statue done.
+
+Move Bewear three to the right. Now move Ninetales one up and four to
+the left. Move Bewear four to the right and then down until reaching a
+rock. Move it one right and one down to finish this one.
+
+Move the broken Togekiss down five times and then three to the right-Now
+move it down until being one tile away of the wall.
+
+Move Absol thrice up and five times left. Move it up until being one
+tile away of the wall and then move it to three times right, and one up.
+One more to the right, and six time up. Move it left till the end and
+down until reaching the Yellow Point.
+
+Go to the southern area where the complete Togekiss is, and move it up
+once and left until the Yellow Point.
+
+This time move the broken Togekiss to the left four times and al way
+down. Move it to the right and then five times down. Move it right until
+the Yellow Point.
+
+Time for Latios, he is on the left area, move it three times right. Now
+move it up until being one tile away from the wall and three to the
+right. Then, one up and one right.
+
+Move it seven times up and five right. Now, move it one down and all the
+way right to reach the Yellow Point.
+
+Latias turn, move her five times to the left and seven times up. Six
+times to the right and one up. Now move it, one left and six times up.
+Move it left until the Yellow Point.
+
+Time for Sableye, move it down five times and then up seven times. Move
+it down once and five times to the left. Move it five times down and
+then all the way left until the Yellow Point.
+
+We are only missing Ninetales. Move it down and then three times left,
+and five times down. Move it to the right and then down six times. Move
+it twice left to finish.
+
+The door on the north has opened.
+
+Here you can find **Hisuian Zorua** and the ***Zoroark Crest***.
+
+Exit to the front of Garufan Ruins were the Eldest is waiting. Talk to
+her.
+
+Enter the newly opened path. Go north all the way until changing rooms
+to trigger a new scene.
+
+Touch the butterflies on the left, you should already be used to them.
+
+**Behemoth Groudon (Deep Earth) ). 2 HP Bars. Story Mode.**
+-   Groudon, Level 55. @ Sitrus Berry.
+    -   Bulldoze
+    -   Rock Slide
+    -   Toxic
+    -   Heat Crash
+-   After clearing 1 HP Bar:
+    -   Sets Sunny Day.
+    -   Field becomes Volcanic.
+    -   Cures any stat drop.
+    -   Moves:
+        -   Bulldoze
+        -   Rock Slide
+        -   Swords Dance
+        -   Heat Wave
+
+**Behemoth Groudon (Deep Earth) ). 2 HP Bars. Classic Mode.**
+-   Groudon, Level 60. @ Sitrus Berry.
+    -   Earthquake
+    -   Rock Slide
+    -   Toxic
+    -   Heat Crash
+-   After clearing 1 HP Bar:
+    -   Sets Sunny Day.
+    -   Field becomes Volcanic.
+    -   Cures any stat drop.
+    -   Moves:
+        -   Earthquake
+        -   Stone Edge
+        -   Swords Dance
+        -   Heat Wave
+
+Hits very hard, but there are only 2 HP bars, so it isn't an issue for a
+full team.
+
+After winning you get the ***Earth Heart***.
+
+You are given a choice to \[Save the Eldest\] or \[Refuse to give in\].
+You will lose the Earth Heart if you choose the first option. The Eldest
+will escape either way and she is asking you to trust her, so there is
+no negative to refuse to give in.
+
+Regardless of the choice, you now have the Tower Cellar Key needed to
+get the Ocean Relic.
+
+Use the teleporter and enter the top-left room for a scene.
+
+Leave and return to the Corrupted Cave for a scene.
+
+**Kreiss Friendship Point Choice:**
+-   It’s the best for Aelita. (Kreiss +3)
+-   It’s better down here. (Kreiss -3)
+
+**Adam** **Friendship Point Choice:**
+-   We won’t leave you. (Adam +3, Braixen +3)
+-   Maybe we should… (Adam -3, Braixen -3)
+
+**Reina Friendship Point Choice:**
+-   We won’t leave you. (Reina +3)
+-   Maybe we should… (Reina -3)
+
+## September 18th: A Trial of Rebellion
+
+There is some extra dialogue is you have at least 10 Friendship Points
+with Aelita.
+
+Agree to go to the Tower Cellar.
+
+You appear in front on the door you have to open.
+
+You can pick the Ocean Relic here. You have to pick it up from above.
+
+You will be back on Kristiline Town after a short scene. Enter the house
+for another scene. Now go to Jynnobi Pass.
+
+Enter the easternmost house and advance for a double battle.
+
+**Head Ranger Crawli (Swamp Field). Story Mode.**
+-   Orbeetle, Level 50. @ Telluric Seed.
+    -   Sticky Web
+    -   Ally Switch
+    -   Bug Buzz
+    -   Future Sight
+-   Falinks, Level 51.
+    -   No Retreat
+    -   Mega Horn
+    -   Close Combat
+    -   Headbutt
+-   Probopass, Level 54.
+    -   Power Gem
+    -   Volt Switch
+    -   Flash Cannon
+    -   Iron Defense
+-   Araquanid, Level 52.
+    -   Liquidation
+    -   Poison Jab
+    -   Barbed Web
+    -   Mirror Coat
+
+**Head Ranger Crawli (Swamp Field). Classic Mode.**
+-   Orbeetle, Level 53. @ Telluric Seed.
+    -   Sticky Web
+    -   Ally Switch
+    -   Bug Buzz
+    -   Future Sight
+-   Galvantula, Level 54. @ Focus Sash.
+    -   Bug Buzz
+    -   Energy Ball
+    -   Thunder
+    -   Rain Dance
+-   Ariados, Level 53. @ Ariados Crest.
+    -   Swords Dance
+    -   Sucker punch
+    -   Poison Jab
+    -   X-Scissor
+-   Falinks, Level 53. @ Sitrus Berry.
+    -   No Retreat
+    -   Mega Horn
+    -   Close Combat
+    -   Zen Headbutt
+-   Probopass, Level 54. @ Air Ballon.
+    -   Power Gem
+    -   Body Press
+    -   Flash Cannon
+    -   Iron Defense
+-   Araquanid, Level 55. @ Assault Vest.
+    -   Liquidation
+    -   Poison Jab
+    -   Barbed Web
+    -   Mirror Coat
+
+While he is clearly stronger than the last time we fought him, at this
+point, he shouldn’t be too troublesome, although he may defeat some of
+your mons if you are caught unprepared to fight him and don’t have a
+proper team.
+
+After the fight you get ***TM110 Magma Drift***. You can now surf on
+magma, which opens new places to explore.
+
+### Route 6
+
 
 
 **The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
