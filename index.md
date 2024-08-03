@@ -16148,8 +16148,8 @@ at level 59.
 |**Hisuian Goodra**    |50, Requires overworld rain (Sheridan Wetlands!)                |
 |**Hisuian Avalugg**   |28, Mt. Terajuma / Use Fire Stone\*                             |
 
-\*<u>[Note: For those evolving on determined maps, check the
-[All Special Evolution Locations](#all-special-evolution-locations) for details.]</u>
+\*<u>Note: For those evolving on determined maps, check the
+[All Special Evolution Locations](#all-special-evolution-locations) for details.</u>
 
 ### Unobtainable
 -   **Drilbur**
