@@ -234,11 +234,17 @@
     - [Must Evolve by Friendship](#must-evolve-by-friendship)
     - [Must Evolve by Other Means](#must-evolve-by-other-means)
   - [V13.5 Unobtainable Pokémon](#v13.5-unobtainable-pokémon)
-    - [Starter Choices](#starter-choices)
-    - [Aevian Forms:](#aevian-forms)
-    - [Completely Unobtainable](#completely-unobtainable)
-    - [Unobtainable Legendaries Paragon Route:](#unobtainable-legendaries-paragon-route)
-    - [Legendaries Renegade Route:](#legendaries-renegade-route)
+    - [Starter Choice](#starter-choice)
+    - [Paragon Route Exclusive Legendaries](#paragon-route-exclusive-legendaries)
+    - [Renegade Route Exclusive Legendaries](#renegade-route-exclusive-legendaries)
+    - [Missable Aevian Forms](#missable-aevian-forms)
+    - [Must Breed](#must-breed)
+    - [Must Evolve by Level](#must-evolve-by-level)
+    - [Must Evolve by Item](#must-evolve-by-item)
+    - [Must Evolve by Friendship](#must-evolve-by-friendship)
+    - [Must Evolve by Other Means](#must-evolve-by-other-means)
+    - [Unobtainable](#unobtainable)
+    - [Unobtainable Legendaries](#unobtainable-legendaries)
   - [Pickup Table](#pickup-table)
   - [Crest Descriptions](#crest-descriptions)
 - [New Quests](#new-quests)
@@ -15825,30 +15831,60 @@ Stone.]</u>
 **Maps to evolve:**
 -   Mt. Terajuma
 
-## Complete the V13.5 Dex (Pending to Update properly)
+## Complete the V13.5 Dex
 
-While you wait for the next episode, if you\'d like, you can fill your
-Dex as much as possible. Note that I assume everything in bold above has
-been obtained already. I will only be listing everything here that you
-must evolve/breed in V13 that we haven\'t already done so for a quest.
+This section will help you complete your Dex as most as possible.
 
-The best place to post up for battles is the Route 9 grinder. Lead with
-a Ghost/Fighting type and go nuts, you\'ll get Exp. Candy for winning.
-Friendship berries are available at Maman\'s Camp. As for item
-evolutions <u>**[they\'re all available in the Shopping
-District.]**</u>
+Use the *pinata* password for easy Exp. Candies, they will make
+it quick to get mons that require leveling to evolve.
 
-If the lead Pokémon has Smoke Ball equipped or the ability is Run Away,
-you will always obtain an uncaught mon (as long as there is any on the
-area). Magnetic Lure has the same effect.
+Friendship berries are available at Maman's Camp, but the friendship
+obtained by leveling up with the Exp. Candies should be enough too.
+As for evolution items you can get them all on the Shopping District.
 
-Mirror Lure makes the wild Pokémon the same as your lead if that Pokémon
-can appear. Useful for Shiny hunting
+Use a Magnetic Lure to get a mon you don't have in the Dex, and Mirror Lure
+to get the same if available on the map, this is needed for alternate forms
+as the lures count Dex number disregarding the form.
 
-Note: Most of this isn't updated to 13.5.6
+### Starter Choice
+
+There is a starter that on V13.5 can only be obtained as a Starter,
+so if you want to complete your Dex the most possible, you will need
+to choose it to have this evolution line.
+-   **Torchic**
+-   **Combusken** (evolve Torchic at level 16)
+-   **Blaziken** (evolve Combusken at level 36)
+
+### Paragon Route Exclusive Legendaries
+-   **Raikou**
+-   **Entei**
+-   **Suicune**
+
+### Renegade Route Exclusive Legendaries
+-   **Genesect**
+-   **Diancie** (only if you didn't kill Karrina in Castle Zygara.)
+
+### Missable Aevian Forms
+
+On V13.5 **Aevian Larvesta** can only be gotten from the Mystery Egg you
+get from completing all Kakori Help Plaza requests, and this is decided
+when you create a new save, so you would need to restart the game to try
+again. 
+
+Using the **terajuma** password and the **SWM - SharedPC** mod of the
+modpack, it is possible to shorten the time for this by starting again
+at Terajuma until getting the **Aevian Larvesta** and then sending it
+to the main save through the shared box, but it is up to you if that
+is considered legit or cheating.
+
+The same mod can also be used to transfer legendries exclusive from
+Paragon Route to Renegade Route and vice versa as long as you have both
+saves thanks to the Shared Box.
+
+**Aevian Volcarona** can only be obtained by evolving **Aevian Larvesta**
+at level 59.
 
 ### Must Breed
-
 
 |**Pokémon**                                  |**Incense (if any)** |
 |---------------------------------------------|---------------------|
@@ -15859,7 +15895,6 @@ Note: Most of this isn't updated to 13.5.6
 |**Alolan Geodude**                           |                     |
 
 ### Must Evolve by Level
-
 
 |**Pokémon**           |**Level**            |
 |----------------------|---------------------|
@@ -16113,43 +16148,10 @@ Note: Most of this isn't updated to 13.5.6
 |**Hisuian Goodra**    |50, Requires overworld rain (Sheridan Wetlands!)                |
 |**Hisuian Avalugg**   |28, Mt. Terajuma / Use Fire Stone\*                             |
 
+<u>\*Note: For those evolving on determined maps, check the All Special
+Evolution Locations for details.</u>
 
-<u>[\*Note: For those evolving on determined maps, check the All Special
-Evolution Locations for details.]</u>
-
-## V13.5 Unobtainable Pokémon
-
-### Starter Choices
-
-You can only get at most one of these lines, when selecting your starter
-(13.5 marks Torchic as the obvious choice since it is the only
-evolutionary line being starter only):
--   **Torchic**
--   **Combusken** (evolve Torchic level 16)
--   **Blaziken** (evolve Combusken level 36)
-
-### Aevian Forms:
-
-On V13.5 **Aevian Larvesta** can only be gotten from the Mystery Egg you
-get from completing all Kakori Help Plaza requests, and this is decided
-when you create a new save, so you would need to restart the game to try
-again. Using the **terajuma** password and the **SWM -** **SharedPC**
-mod of the modpack, it is possible to shorten the time for this by
-starting again at Terajuma until getting the **Aevian Larvesta** and
-then sending it to the main save through the shared box, but it is up to
-you if that is considered legit or cheating.
-
-The same mod can also be used to transfer legendries exclusive from
-Paragon Route to Renegade Route and vice versa as long as you have both
-saves thanks to the Shared Box.
-
-**Aevian Volcarona** can only be obtained by evolving **Aevian
-Larvesta** at level 59.
-
-### Completely Unobtainable
-
-You can\'t get any of the following Pokémon yet under any circumstances
-(updated based on dev's words):
+### Unobtainable
 -   **Drilbur**
 -   **Excadrill**
 -   **Galarian Darumaka**
@@ -16168,11 +16170,7 @@ You can\'t get any of the following Pokémon yet under any circumstances
 -   **Dragapult**
 -   **Ursaluna**
 
-### Unobtainable Legendaries Paragon Route:
-
-At the moment, none of the following legendries are available either in
-Paragon Route (a couple that are exclusive from Renegade are marked as
-such):
+### Unobtainable Legendaries
 -   **Galarian Articuno**
 -   **Galarian Zapdos**
 -   **Galarian Moltres**
@@ -16210,10 +16208,8 @@ such):
 -   **Kyurem**
 -   **Keldeo**
 -   **Meloetta**
--   **Genesect** (It can be gotten in Renegade Route)
 -   **Xerneas**
 -   **Yveltal**
--   **Diancie** (It can be gotten in Renegade Route)
 -   **Hoopa**
 -   **Volcanion**
 -   **Tapu Koko**
@@ -16252,18 +16248,6 @@ such):
 -   **Spectrier**
 -   **Calyrex**
 -   **Enamorus**
-
-### Legendaries Renegade Route:
-
-**Raikou**, **Entei**, and **Suicune** are exclusive to Paragon Route,
-so they can't be obtained in Renegade Route.
-
-As marked on the previous section, **Genesect** and **Diancie** are
-exclusive of this Route, so they can be obtained, but **Diancie** only
-if you didn't kill Karrina in Castle Zygara.
-
-Other legendaries unavailable on Paragon Route are also unavailable on
-Renegade Route.
 
 ## Pickup Table
 
