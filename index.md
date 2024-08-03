@@ -2804,7 +2804,8 @@ one tile right and one up form it there is a hidden ***Lemonade***.
 
 Go east and down to find another Zygarde Cell.
 
-**ZCell 010: Route 2** 
+**ZCell 010: Route 2**
+
 <img src="assets/media/image10.png" width="512"/>
 
 Near this cell, on the space surrounded by deep pink patches of grass,
