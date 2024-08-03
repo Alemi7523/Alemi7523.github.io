@@ -193,7 +193,9 @@
     - [Defeat the Super Xen Battleship (Optional)](#defeat-the-super-xen-battleship-optional)
     - [Valor Shore](#valor-shore)
     - [Quest 53: Save Amber](#quest-53-save-amber)
-    - [Mount Valor](#mount-valor)
+    - [Valor Mountain](#valor-mountain)
+    - [Valor Summit](#valor-summit)
+  - [September 25th: A Trial of Moving On](#september-25th-a-trial-of-moving-on)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -14561,9 +14563,382 @@ You get the ***V.G.C.R Key*** after winning, and Amber is saved.
 -   Be kid to her. (Venam +1)
 -   … (Venam -2)
 
-### Mount Valor
+### Valor Mountain
 
-Time to explore Mount Valor properly now that Amber is safe.
+Time to explore Valor Mountain properly now that Amber is safe while we
+proceed through the story.
+
+Once on the base floor of Valor Mountain, use the ed crystal on the
+eight side to change to Fiery Mood.
+
+With this mood, you can now use the northern exit to reach a new part of
+the map. Enter the building.
+
+Go to the left and advance to the next floor. There is a ***Blunder
+Policy*** on the north. Move to the right to trigger a scene with Reina.
+
+You can free her interacting with the panel in the door to get **+3
+Friendship Points** with her. This can only be done before completing
+the events on Valor Mountain, so do it now if you want to do it.
+
+Go south to find ***Metal Powder***.
+
+On the top-right corner there is another panel that opens the closed
+gate on the base floor of the building.
+
+You cans use the door on the right until completing Valor Mountain, so
+go back down and try to leave through the gate for it to close again.
+Try to leave though the southern door for a new scene. The northern gate
+is now opened, leave though it and use the ladder you will find on the
+north.
+
+Here, you need to activate the Neutral Source Crystal to return the
+mountain to a Neutral Mood.
+
+Head back down though the ladder to find a Zygarde Cell.
+
+**ZCell 078: Valor Mountain (Normal)**
+
+<img src="assets/media/image89.png" width="512"/>
+
+Cross the building and you will find a tree blocking the southern way,
+but there will be a **Heracross** at its side.
+
+Return to where you activated the crystal and this time go north to find
+***Hyper Potion*** close to another ladder you have to use.
+
+Go left and down to find ***TM147 Tail Slap*** and the Calmness Source
+Crystal on an elevated part of the southern area. Activate the Calmness
+Source Crystal.
+
+On the left, there is a Zygarde Cell.
+
+**ZCell 079: Valor Mountain (Ice)**
+
+<img src="assets/media/image90.png" width="512"/>
+
+Now, use the right path to reach the northern area. Activate the Valor
+Crystal on the north.
+
+With the mountain on Fieryt mood, return to the southern area though the
+right path and around the area of the previous Zygarde Cell, there is a
+**Vulpix**. Give it a Gourmet Treat to have a chance to catch it.
+
+Return to the north and surf north through the magma. Activate the
+Neutral Crystal and surf north to activate a Calmness Crystal. You will
+be on Icy Mood.
+
+Go upstairs and use the left bridge. Go south and drop through the hole
+you will see to find a Zygarde Cell.
+
+**ZCell 080: Valor Mountain (Ice)**
+
+<img src="assets/media/image91.png" width="512"/>
+
+Use the hole on your left to fall again.
+
+Go to the north and then cross the building again to make your way back
+to the map of the first hole.
+
+This time use the northern ladder. Advance to reach Valor Cliffside.
+
+Go south and move to the rock east of the Healing Star, the thing that
+heals you. Look down and interact to get a hidden ***HP Up***, On the
+close triangular rock there is a hidden ***Blast Powder***.
+
+Continue west for a scene. There is a small text change if you have
+saved Amber. There are a couple of mining rocks in the area.
+
+Go north for a scene and a battle. It is a double battle with Venam’s
+help, but note that the opponents count a single trainer, so the whole
+team is shared.
+
+<u>Note: Once you end this fight, you won’t be able to save Amber
+anymore if you had yet to do it.</u>
+
+**Misfortunate Duo Eli and Sharon (Mountain Field). Story Mode.**
+-   Honchkrow, Level 52.
+    -   Night Slash
+    -   Swagger
+    -   Drill Peck
+    -   Thunder Wave
+-   Mismagius, Level 53.
+    -   Mystical Fire
+    -   Shadow Ball
+    -   Power Gem
+    -   Calm Mind
+-   Milotic, Level 53. @ Leftovers.
+    -   Surf
+    -   Ice Beam
+    -   Aqua Ring
+    -   Toxic
+-   Gyarados, Level 54. @ Wacan Berry.
+    -   Waterfall
+    -   Dragon Dance
+    -   Thrash
+    -   Earthquake
+
+**Misfortunate Duo Eli and Sharon (Mountain Field). Classic Mode.**
+-   Honchkrow, Level 53. @ Sharp Beak.
+    -   Brave Bird
+    -   Swagger
+    -   Foul Play
+    -   Thunderwave
+-   Mismagius, Level 53. @ Life Orb.
+    -   Shadow Ball
+    -   Thunderbolt
+    -   Dazzling Gleam
+    -   Calm Mind
+-   Milotic, Level 52. @ Leftovers.
+    -   Scald
+    -   Ice Beam
+    -   Toxic
+    -   Recover
+-   Gyarados, Level 52. @ Wacan Berry.
+    -   Dragon Dance
+    -   Waterfall
+    -   Crunch
+    -   Stone Edge
+-   Tangrowth, Level 51. @ Miracle Seed.
+    -   Power Whip
+    -   Bulldoze
+    -   Ancient Power
+    -   Knock Off
+-   Lickilicky, Level 51. @ Rocky Helmet.
+    -   Earthquake
+    -   Rock Slide
+    -   Body Slam
+    -   Knock Off
+
+It is an easy fight, a12vs6 on Classic Mode and 12 vs 4 on Story Mode.
+
+After the fight get the Zygarde Cell here.
+
+**ZCell 081: Valor Cliffside**
+
+<img src="assets/media/image92.png" width="512"/>
+
+Go south for a scene.
+
+**Friendship Point Choice:**
+-   You’re cruel. (Venam +3)
+-   … (Neutral)
+-   She deserved it. (Venam -4)
+
+Head north and on the knew map, go right to find ***TM134 Rock Blast***.
+
+Approach Venam for a scene. There is a bit of dialogue change if you
+gained Neved’s respect.
+
+**Friendship Point Choice:**
+-   We can do this together! (Melia +3, Venam +3)
+-   Sorta like that, yeah. (Melia +1, Venam +1)
+-   Team Xen is all I care about. (Melia -2, Venam -2)
+
+Now activate the Valor Crystal, and return to the main part of the
+mountain. Use the right bridge to find a Zygarde Cell.
+
+**ZCell 082: Valor Mountain (Fire)**
+
+<img src="assets/media/image93.png" width="512"/>
+
+Now use the left bridge to reach the hole and jump into, it, do it
+again.
+
+Head down and go to the left. Drift across then jump in the hole twice.
+
+Here you will find a ***Hisuian Growlithe*** and another Zygarde Cell.
+You need to use a Gourmet Treat to get a chance to catch the Hisuian
+Growlithe.
+
+**ZCell 083: Valor Mountain (Fire)**
+
+<img src="assets/media/image94.png" width="512"/>
+
+Now, head to the north and enter the building as we can now open the
+previously locked door. Go upstairs to find a **Tepig**. Give it 5
+Gourmet Treats for a chance to catch it.
+
+Return to the Valor Cliffside and to the northern map. This time
+interact with the Neutral Crystal before going back. Fall through the
+hole on the left.
+
+Surf north to interact with the left side of the northernmost rock,
+there is a hidden ***Rare Candy*** here.
+
+Fall though the hole again to find a ***Leaf Stone***.
+
+Leave though the south to Valor Shore and use the teleported to be back
+on Valor Cliffside. Go north until reaching the Valor Summit.
+
+### Valor Summit
+
+The scenes here change a bit if you have saved Amber, completed the
+Tyluric Temple, and Black Shard Quest. For each completed thing there is
+change.
+
+Once you can mov, go downstairs and to the left side to find a ***Dragon
+Scale***.
+
+Now time to go up to have a boss battle.
+
+**Renegade Giratina (Volcano Top Field)). 3 HP Bars. Story Mode.**
+-   Giratina, Level 50.
+    -   Shadow Force
+    -   Aura Sphere
+    -   Earth Power
+    -   Dragon Claw
+-   After clearing 1 HP Bar:
+    -   Item becomes Griseous Orb and changes to Origin Form.
+    -   Cures any stat drop.
+    -   Attack +1, Special Attack +1.
+
+**Renegade Giratina (Volcano Top Field)). 3 HP Bars. Classic Mode.**
+-   Giratina, Level 55.
+    -   Shadow Force
+    -   Aura Sphere
+    -   Earth Power
+    -   Dragon Claw
+-   After clearing 1 HP Bar:
+    -   Item becomes Griseous Orb and changes to Origin Form.
+    -   Cures any stat drop.
+    -   Attack +1, Defense +1, Special Attack +1, Special Defense +1,
+        Speed +1.
+
+Giratina hits really hard although fortunately, it can0t change the
+field back to Volcano Top if you change it using Blizzard. Blizzard a
+couple of times and you are on a Snowy Mountain further boosting ice
+moves. Changing the field isn’t required to win, but the battle will
+become far easier. Otherwise, abuse super effective moves.
+
+Return to the top to see another scene. All your team will be healed.
+Follow Melia to see another scene. It changes a bit if you trusted
+Jenner.
+
+Talk with Melia for a double battle with her help against Geara and
+Zetta.
+
+**Xen Executive Zetta and Xen Executive Geara (Volcano Top Field). Story
+Mode.**
+-   Minior, Level 53. (Zetta)
+    -   Stealth Rock
+    -   Acrobatics
+    -   Rock Slide
+    -   Earthquake
+-   Absol, Level 53. @ Scope Lens. (Zetta)
+    -   Stone Edge
+    -   Sucker Punch
+    -   Night Slash
+    -   Psycho Cut
+-   Silvally, Level 52. @ Muscle Band. (Zetta)
+    -   Return
+    -   Rock Slide
+    -   Fire Fang
+    -   Crunch
+-   Krookodile, Level 49. (Geara)
+    -   Earthquake
+    -   Rock Slide
+    -   Crunch
+    -   Low Kick
+-   Clefable, Level 55. @ Sitrus Berry. (Geara)
+    -   Thunder Wave
+    -   Thunderbolt
+    -   Moonblast
+    -   Flamethrower
+-   Gengar, Level 52. @ Wise Glasses. (Geara)
+    -   Shadow Ball
+    -   Sludge Wave
+    -   Thunderbolt
+    -   Destiny Bond
+
+**Xen Executive Zetta and Xen Executive Geara (Volcano Top Field).
+Classic Mode.**
+-   Minior, Level 53. @ Telluric Seed. (Zetta)
+    -   Shell Smash
+    -   Acrobatics
+    -   Rock Slide
+    -   Earthquake
+-   Absol, Level 53. @ Scope Lens. (Zetta)
+    -   Stone Edge
+    -   Sucker Punch
+    -   Night Slash
+    -   Brick Break
+-   Typhlosion, Level 55. @ Expert Belt. (Zetta)
+    -   Eruption
+    -   Heat Wave
+    -   Hidden Power Grass
+    -   Focus Blast
+-   Weavile, Level 53. @ Life Orb. (Zetta)
+    -   Icicle Crash
+    -   Throat Chop
+    -   Low Kick
+    -   Poison Jab
+-   Dragonite, Level 53. @ Sitrus Berry. (Zetta)
+    -   Brick Break
+    -   Dragon Claw
+    -   Dual Wingbeat
+    -   Thunderpunch
+-   Silvally, Level 55. @ Ground Memory. (Zetta)
+    -   Multi-Attack
+    -   Rock Slide
+    -   Heat Wave
+    -   Thunder
+-   Krookodile, Level 52. @ Assault Vest. (Geara)
+    -   Earthquake
+    -   Rock Slide
+    -   Crunch
+    -   Low Kick
+-   Grimmsnarl, Level 53. @ Light Clay. (Geara)
+    -   Darkest Lariat
+    -   Spirit Break
+    -   Reflect
+    -   Light Screen
+-   Gyarados, Level 53. @ Assault Vest. (Geara)
+    -   Waterfall
+    -   Earthquake
+    -   Stone Edge
+    -   Iron Head
+-   Clefable, Level 55. @ Sitrus Berry. (Geara)
+    -   Thunder Wave
+    -   Thunder
+    -   Moonblast
+    -   Flamethrower
+-   Alolan Marowak, Level 52. @ Thick Club. (Geara)
+    -   Bonemerang
+    -   Shadow Bone
+    -   Low Kick
+    -   Fire Punch
+-   Gengar, Level 55. @ Wise Glasses. (Geara)
+    -   Shadow Ball
+    -   Sludge Bomb
+    -   Thunder
+    -   Focus Blast
+
+Full battle 12vs12 on Classic Mode but being the final battle of Act 1
+against Team Xen, we can’t complain. Melia not having a great team is
+more to complain, but she still helps. On Story Mode it is a 12Vs6, so
+far easier.
+
+I recommend focusing on one side so if Melia ends up going down, you
+won't be at disadvantage. You can try to make use of the field, to hit
+stronger or make the field change to something that benefits you more.
+
+After the battle, you wake up in a strange place, go forward to see
+scenes, and approach Melia. Now continue to the left.
+
+Go up collecting your pieces as you advance. No way you can lose them,
+they are on the only way. You will be whole again once you have them
+all. Approach the north to fight Zetta and Geara again with Venam’s help
+this time, but all their team is at 1 HP, so it hardly counts as a
+battle. Venam’s team is also at 1 HP though. Get something that hit both
+opponents and is relatively fast and you will finish it quickly.
+
+## September 25th: A Trial of Moving On
+
+Melia goes to Aquamarine Cave where Jenner was if you trusted him. Amber
+invites you to a party on her gym, which included a Gym Battle.
+
+We are clearly making a detour first.
 
 
 
