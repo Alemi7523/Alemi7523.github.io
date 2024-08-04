@@ -196,6 +196,13 @@
     - [Valor Mountain](#valor-mountain)
     - [Valor Summit](#valor-summit)
   - [September 25th: A Trial of Moving On](#september-25th-a-trial-of-moving-on)
+    - [Quest 54: Farewell Tapu Koko](#quest-54-farewell-tapu-koko)
+    - [Quest 55: Lurking Lighthouse](#quest-55-lurking-lighthouse)
+    - [Quest 56: My Dearest Rowlet](#quest-56-my-dearest-rowlet)
+    - [Quest 57: Tale of Two Hearts](#quest-57-tale-of-two-hearts)
+    - [Quest 58: Infinite Potential](#quest-58-infinite-potential)
+    - [Return to Akuwa Town](#return-to-akuwa-town)
+
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -15412,7 +15419,7 @@ sure it will trigger instead of the Classic Mode one on both.
 After the scene, the quest will be completed. Head to Kakori Help Plaza,
 and report to the right counter to get an **Inkay** and +1 Karma.
 
-### Akuwa Town
+### Return to Akuwa Town
 
 Go to Teila Resort and use the yacht to reach Akuwa Town where people
 have returned.
