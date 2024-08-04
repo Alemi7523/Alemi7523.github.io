@@ -16002,7 +16002,7 @@ depending on if you trusted Jenner or not.
 
 There is no friendship choice if you trusted Jenner.
 
-So begins Rejuvenations next major twist... time travel!
+So begins Rejuvenations next major twist... time travel.
 
 ## Aevium (Past) 1st Visit
 
@@ -16418,7 +16418,7 @@ how she replies.
 Next talk with Erin, again the choice isn't relevant, just story fluff.
 
 Move to the right and near the bathroom, speak with Kai. The choice
-doesn't mater.
+doesn't matter.
 
 Talk to the bathroom again, but it is still occupied. Now go to the
 dressing room and speak with Wran. Finally, speak with Melia on the same
@@ -16811,7 +16811,7 @@ Again, the enemies aren't that strong, but this isn't the last battle.
 
 Again, not a big deal if your party is balanced and variety of attacks.
 
-After this, you will have complete the Gauntlet and get the End of
+After this, you will have completed the Gauntlet and get the End of
 Night, the Obliteration Spell.
 
 You will se Kanon going to Fort Rystrine and given a choice that doesn't
@@ -16848,7 +16848,7 @@ You can again use the Interceptor's Wish if you want to get your team
 and a tiny bit of dialogue. This time there is a battle though.
 
 The Regice you fight is Ice/Ghost and level 94, and you are fighting on
-a Frozen Dimensional Field. Has a OHKO move and you are lower level, so
+a Frozen Dimensional Field. Has a OHKO move, and you are lower level, so
 it can work.
 
 You are now in the Crystal Queendom, and you must free Alice from the
@@ -16990,7 +16990,7 @@ Advance until triggering a cutscene.
 You will be on the concert, you will get a dedication if your friendship
 with amber is at least 10, which at the same time will increase in 2
 your friendship with Aelita and 3 your friendship with Venam. You can
-listen to songs selecting them with left and right keys, You can finish
+listen to songs selecting them with left and right keys. You can finish
 it at any moment pressing any key that is not to move though the songs.
 
 Finish it when you want and continue through the cutscene.
