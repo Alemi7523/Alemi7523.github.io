@@ -209,6 +209,7 @@
 - [Chapter 9: No Time Left to Lose](#chapter-9-no-time-left-to-lose)
   - [Badge 8 Detour](#badge-8-detour)
   - [Forest of Time](#forest-of-time)
+  - [Aevium (Past) 1st Visit](#aevium-past-1st-visit)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -15958,6 +15959,54 @@ Once you win, you will receive 3 ***Blue Shards***, 3 ***Red Shards***,
 End of the detour, return to the Forest of Time.
 
 ## Forest of Time
+
+**Forest of Time Encounters**
+
+| **Grass**  | **%** | **Headbutt: Low** | **%** |
+|------------|-------|-------------------|-------|
+| Snover     | 35    | **Cascoon**       | 30    |
+| Beautifly  | 25    | Beautifly         | 25    |
+| Cubchoo    | 12    | Crabrawler        | 25    |
+| Butterfree | 10    | Dustox            | 10    |
+| Beartic    | 10    | Butterfree        | 5     |
+| Abomasnow  | 4     | Pineco            | 4     |
+| **Klang**  | 4     | **Forretress**    | 1     |
+
+Go north and take the eastern side. On the bridge between both sides, on
+the upper-left of the middle tree, there is a hidden ***Reverse
+Candy***.
+
+Continue north. Once you see a headbutt tree on the left check the left
+side of the three you have on the right for a hidden ***Calcium***.
+
+Now go west to find a Zygarde Cell.
+
+**ZCell 089: Forest of Time**
+
+<img src="assets/media/image100.png" width="512"/>
+
+Go north and surf to the left to find another.
+
+**ZCell 090: Forest of Time**
+
+<img src="assets/media/image101.png" width="512"/>
+
+This time surf to the right and climb down to get ***TM40 Aerial Ace***.
+
+Return to the center and go north for a scene, which is different
+depending on if you trusted Jenner or not.
+
+**Friendship Point Choice (Didn’t Trust Jenner):**
+-   It's okay! (Venam +3, Melia +3)
+-   Sorta awkward. (Neutral)
+
+There is no friendship choice if you trusted Jenner.
+
+So begins Rejuvenations next major twist... time travel!
+
+## Aevium (Past) 1st Visit
+
+You can use this crystal to head back to the present anytime you want.
 
 
 
