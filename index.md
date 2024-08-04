@@ -202,7 +202,13 @@
     - [Quest 57: Tale of Two Hearts](#quest-57-tale-of-two-hearts)
     - [Quest 58: Infinite Potential](#quest-58-infinite-potential)
     - [Return to Akuwa Town](#return-to-akuwa-town)
-
+    - [Floria Island After Valor Mountain](#floria-island-after-valor-mountain)
+    - [Quest 38: Poliwag Quest (Finish)](#quest-38-poliwag-quest-finish)
+    - [Quest 59: Narcissa's Hauntings](#quest-59-narcissas-hauntings)
+    - [Lyric Badge](#lyric-badge)
+- [Chapter 9: No Time Left to Lose](#chapter-9-no-time-left-to-lose)
+  - [Badge 8 Detour](#badge-8-detour)
+  - [Forest of Time](#forest-of-time)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -6685,7 +6691,7 @@ You can now interact with the Rift Den. There are common and rare ones, with dif
 Not fighting or defeating the shadow mon gives 250/500 Red Essence for common/rare dens respectively, while catching gives 500/1000 Red Essence respectively. 
 This Red Essence can be used to buy things soon.
 
-RIFT DEN 1 (< 8 Badges): The common encounters in this den are Graveler, Nuzleaf, **Solosis**, and **Tropius**. The rare ones are Finneon, Bonsly, Meowth, and **Elektrike**.
+RIFT DEN 1 (< 8 Badges): The common encounters in this den are Graveler, Nuzleaf, **Solosis**, and **Tropius**. The rare ones are Finneon, Bonsly, Meowth, and **Electrike**.
 
 You can try now to get some. 
 If you cancel an encounter without clearing the Den, you can get another encounter from the list, so good way to refresh until getting the ones you want.
@@ -8154,7 +8160,7 @@ Go north the house and inspect the northernmost tree to find a hidden ***Bug Gem
 <u>Note: If you continue you will find trainers, and they are quite strong close to your level cap or on it if you are playing on Classic Mode. 
 They are perfectly beatable, but you may prefer to do the exploration after our next badge.</u>
 
-Speak with the flower blocking the way an overworld Vileplume, we can wake it up and fight it with the Spicy Powder we bought, but for guide purposes, I am going to take it as if we didn’t buy the item or just don't want to use it now.
+Speak with the flower blocking the way an overworld Vileplume, we can wake it up and fight it with the Spice Powder we bought, but for guide purposes, I am going to take it as if we didn’t buy the item or just don't want to use it now.
 
 Go south, and after a group of tall grass, be a tile away from the rightmost tree and interact for a hidden ***Dusk Ball***.
 
@@ -11600,7 +11606,7 @@ trusting him as there is more dialogue.
 Quite an easy fight given our current level cap, and he only has four
 even on Classic Mode.
 
-After winning you will e given a **Galarian Slowpoke** and either
+After winning you will be given a **Galarian Slowpoke** and either
 ***Galarica Cuff*** or ***Galarica Wreath*** or to evolve it. Remember
 these items can be gotten also on the Kecleon bazaar.
 
@@ -11898,8 +11904,9 @@ afterward.
 Approach the ship that had a long cue before and inspect the front box
 to find a hidden ***Calcium***.
 
-Go to Tesla’s office in the northern building, remember right room. Now
-go to Tesla’s home.
+Go to Amber’s room and leave though the left exit to pick a ***Protein***.
+
+Go to Tesla’s office in the northern building, remember right room.
 
 **Friendship Point Choice:**
 -   We have to. (Melia +1)
@@ -12940,7 +12947,7 @@ You have 6, she has 3, 2 if Story Mode.
 
 You are back controlling yourself.
 
-Approach the group for a scene. You will receive the ***Glacier Badge***
+Approach the group for a scene. You will receive the Glacier Badge
 from Kreiss, which will increase you level cap to 55.
 
 Leave the house and talk with Aelita, she says that we should go to
@@ -14983,14 +14990,17 @@ Are several mining rocks here. We will be reviving fossils soon, so you
 may want to save in front of them and soft reset until you get those we
 want. They aren’t the last mining stones in the game, so there is no
 need to force yourself to this now, although if you are lucky, you may
-already have most if not all of them. If you are unlucky though… The Jaw
-Fossil, the Sail Fossil, the Skull Fossil, and the Armor Fossil can be
-bought with shards on the same place we revive them, so focus mining the
-others instead. You can’t mine any of the Galar fossils on V13.5.
+already have most if not all of them. If you are unlucky though… The
+Skull Fossil, and the Armor Fossil can be bought with shards on the
+same place we revive them, so focus mining the others instead.
+Except those the available fossils are the Helix Fossil, the Dome Fossil,
+the Fossil, and the Claw Fossil.
 
 On this stash, you can find ***TM151 Steel Wing*** and a Zygarde Cell.
 
 **ZCell 084: Jirukala Cavern (Stash)**
+
+<img src="assets/media/image95.png" width="512"/>
 
 Now, go to Terajuma Shipyard and enter the lighthouse, which is located
 in the southern, on the area you originally reached Terajuma, so surf
@@ -15090,16 +15100,22 @@ until it has it.
 
 **ZCell 085: Tyluric Temple**
 
+<img src="assets/media/image96.png" width="512"/>
+
 Return to the room with the magma rive and this time go to the left.
 Advance through the only way, and go to the left on the crossroad to
 find another Zygarde Cell.
 
 **ZCell 086: Tyluric Temple**
 
+<img src="assets/media/image97.png" width="512"/>
+
 This time go north, and check your right just after the stairs for
 another Zygarde Cell.
 
 **ZCell 087: Tyluric Temple**
+
+<img src="assets/media/image98.png" width="512"/>
 
 You can get several berries from the berry tries on both sides of the
 way. In total 6 ***Roseli Berries***, 4 ***Wacan Berries***, and 6
@@ -15423,6 +15439,526 @@ and report to the right counter to get an **Inkay** and +1 Karma.
 
 Go to Teila Resort and use the yacht to reach Akuwa Town where people
 have returned.
+
+On Akuwa Town go to the building in the beach, the Akuwa Cave Drill
+Management Center.
+
+The left counter sells fossils.
+
+**Fossil Shop**
+
+| **Item**       | **Price**        |
+|----------------|------------------|
+| *Sail Fossil*  | 10 Blue Shards   |
+| *Jaw Fossil*   | 10 Red Shards    |
+| *Skull Fossil* | 10 Green Shards  |
+| *Armor Fossil* | 10 Yellow Shards |
+
+You can revive fossils on the right counter to get **Omanyte**,
+**Kabuto**, **Anorith**, **Lileep**, **Cranidos**, **Shieldon**,
+**Amaura** and **Tyrunt**. If you got the required fossils only of
+course. You need to leave and reenter the building to claim your revived
+fossil.
+
+Now go to the house on the northwest of Akuwa Town and talk with the
+red-haired girl for a ***Synthetic Seed***. Talk to the other person in
+the room for a ***Cleanse Tag***.
+
+Enter the move tutor Center next to the previous house. The girl on the
+right side teaches the pledges.
+
+**Akuwa Town Move Tutor Center (Right)**
+
+| **Fire Pledge**  | *3 Red Shards*   |
+|------------------|------------------|
+| **Water Pledge** | *3 Blue Shards*  |
+| **Grass Pledge** | *3 Green Shards* |
+
+The guy just north of the previous tutor also teaches moves.
+
+**Akuwa Town Move Tutor Center (Top-right)**
+
+| **Stomping Tantrum** | *5 Red Shards*    |
+|----------------------|-------------------|
+| **Iron Tail**        | *5 Blue Shards*   |
+| **Endeavor**         | *4 Green Shards*  |
+| **Iron Defense**     | *3 Yellow Shards* |
+| **Lash Out**         | *4 Blue Shards*   |
+| **Corrosive Gas**    | *3 Yellow Shards* |
+
+**Akuwa Town Move Tutor Center (Top-left)**
+
+| **Fire Punch**       | *5 Red Shards*    |
+|----------------------|-------------------|
+| **Ice Punch**        | *5 Blue Shards*   |
+| **Thunder Punch**    | *3 Yellow Shards* |
+| **Heal Bell**        | *3 Green Shards*  |
+| **Burning Jealousy** | *4 Red Shards*    |
+| **Skitter Smack**    | *4 Green Shards*  |
+
+Go South from here and enter the house on the left, Larry Locksmith’s
+Plaza. The guy on the left will give you a ***Nugget***.
+
+Enter the mart to see a scene with Karrina. She will give you a
+***Repel**.*
+
+**Akuwa Town Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Ultra Ball*   | $1200     |
+| *Luxury Ball*  | $1000     |
+| *Hyper Potion* | $1200     |
+| *GourmetTreat* | $1500     |
+| *Repel*        | $350      |
+| *Super Repel*  | $500      |
+| *Max Repel*    | $700      |
+| *Escape Rope*  | $550      |
+
+Enter the house to the right and talk to the woman to get 5 ***Quick
+Balls**.*
+
+### Floria Island After Valor Mountain
+
+Use the Truck Guy to reach East Gearen City and go the Magnolia Library.
+Talk to Zumi on the upper floor and given that we got Mareep registered
+in our Dex, she will give us an **Aevian Mareep** as well at 6 ***Exp.
+Candy M**.* Our next quest is for Toxel.
+
+Enter the Help Plaza and go to the back room. Since we have more than 75
+Zygarde Cells, we will get a ***Lucky Egg***.
+
+Be sure to have Metal Poder, 3 Cell Batteries and a Poké Ball before
+continuing. Ig you have been following the guide you should have them
+all. If you ran out of ordinary Poké Balls just buy one. Also, you will
+need a Spice Powder that can be bought on the Ranger HQ
+
+Use the Truck Guy to go to Sheridan Village and enter Carotos Mountain
+from behind the waterfall.
+
+Turn left to surf on lava and check the island there to find ***TM36
+Sludge Bomb***.
+
+Surf on the lava to reach a nearby **Cyndaquil** Egg and a Zygarde Cell.
+
+Go east across the bridge and surf on the south. You will find an island
+with a **Cyndaquil** Egg on the south, but you need to mine and blast
+two mining rocks. There is also a Zygarde Cell at night.
+
+**ZCell 088: Carotos Mountain**
+
+<img src="assets/media/image99.png" width="512"/>
+
+Return to the main ground and advance left until the Corrupted Cave. Use
+Magma Drift as soon as you can and follow the way to get a ***Poison
+Barb***. There is also a note left by Tommen here.
+
+Return to the starting point of Corrupted Cave and advance to the next
+map by land, here, go east as soon as you can to use Magma Drift again.
+Once you reach land again, check the rock at the left of the stairs for
+a hidden ***Poison Barb***.
+
+Advance though the only way until you have to rock climb. Use the Spice
+Powder for a change to catch **Aevian Paras**. It evolves with an item
+we haven’t been able to get yet, Xen Waste.
+
+Go back to Carotos Mountain and use the ladder east of the entrance to
+reach V.G.C.R. Go left when you can to unlock a door with the key we got
+previously.
+
+Advance and press the switch. Advance by pressing the switches until you
+cross a bridge. Now you can go to the northeast case and get ***Ancient
+Teachings***. This is the second one we got and remember there are only
+four of them in V13.5.
+
+Now go south and east to press a red/green switch.
+
+Interact with the central case and you will use 3 Batteries, a Metal
+Powder and a Poké Ball. You get a **Ralts**.
+
+Leave Carotos Mountain and go to Route 3.
+
+### Quest 38: Poliwag Quest (Finish)
+
+Go to the Phasial Cave and reach the Poliwag area, which if you forgot
+is at the southwest and requires surf to reach the ladder. Since we got
+the six, talk to the woman. After a scene, we now can catch a
+**Poliwag**.
+
+### **Quest** 59: Narcissa’s Hauntings
+
+Time for a quest that will come with us for a very long time, but first,
+go to Wispy Tower and down to Wispy Chasm. Go to the depths using the
+right vines.
+
+Go south and use surf to the southern area. You will find the door with
+a big number seven. Enter to get a ***Data Drive*** and an ***Odd
+Keystone***.
+
+Head back to Goldenleaf Town. Enter the Gym and complete the backstage
+puzzle again; remember follow the flames. When you go through the
+mirror, you will be behind the curtain, instead of on a battlefield.
+
+Go into the back room, and interact with the painting. A Mew will pop
+out.
+
+Follow the Mew outside of the theatre, and grab the ***Odd Key***.
+
+Go to the north of the Forgotten Path to find Mew again. Talk to it and
+enter the Lost Castle.
+
+Once inside, you can read books of the shelves when they are yellow, so
+you get some book codes from them. There is also a code in a book on a
+table that will have a book code. They act as passwords for the room
+upstairs on the left. The passwords in the order you have to tell them
+to Dusclops are:
+-   0044
+-   6677
+-   3645
+-   9043
+-   7171
+
+Cross the door and go upwards. After the next door, advance a bit and
+you will have to face a three-stage gauntlet of ghost types. Their
+levels are quite low compared to what we have been used recently.
+
+First Battle.
+
+**Guardian Specter Narcissa (Haunted Field).**
+-   Golurk, Level 48. @ Sitrus Berry
+    -   Phantom force
+    -   Stomping Tantrum
+    -   Dynamic Punch
+    -   Zen Headbutt
+-   Sableye, Level 48. @ Leftovers
+    -   Will-O-Wisp
+    -   Recover
+    -   Night Shade
+    -   Ominous Wind
+
+Second Battle.
+
+**Guardian Specter Narcissa (Haunted Field).**
+-   Banette, Level 49. @ Quick Claw
+    -   Phantom force
+    -   Will-O-Wisp
+    -   Shadow Sneak
+    -   Gunk Shot
+-   Decidueye, Level 49. @ Magical Seed
+    -   Ominous Wind
+    -   Giga Drain
+    -   Baton Pass
+    -   Shadow Ball
+-   Sensu Oricorio, Level 50. @ Leftovers
+    -   Roost
+    -   Air Slash
+    -   Calm Mind
+    -   Revelation Dance
+
+Third Battle.
+
+**Guardian Specter Narcissa (Haunted Field).**
+-   Swoobat, Level 50. @ Magical Seed
+    -   Psychic
+    -   Shadow Ball
+    -   Air Slash
+    -   Calm Mind
+-   Haunter, Level 49. @ Eviolite
+    -   Hypnosis
+    -   Perish Song
+    -   Mean look
+    -   Rest
+-   Mismagius, Level 51. @ Wise Glasses
+    -   Shadow Ball
+    -   Nasty Plot
+    -   Thunderbolt
+    -   Will-O-Wisp
+-   Shedinja, Level 49. @ Focus Sash
+    -   Phantom force
+    -   X-Scissor
+    -   Swords Dance
+    -   Shadow Sneak
+
+After finishing the gauntlet, advance to the throne room and advance
+forward for a scene. Now interact with the bubble and burst it. You have
+unleashed Dufaux.
+
+We can’t advance this quest more for now, and we have finished all the
+side content available at this point, so head to Teila Resort.
+
+### Lyric Badge
+
+Enter the northern mansion for a scene with Crescent.
+
+**Friendship Point Choice:**
+-   Uh… no? (Crescent -3)
+-   Yes… (Crescent +2)
+-   I like trouble! (Crescent -2)
+
+After the scene, go straight up to enter the Club S.T.F.U.
+
+Talk with Kreiss and you will have a chance to see a hidden scene.
+
+When you talk to people here, you will increase the Hype. There is a
+Hype meter on the northern door, once it is full, it will open. As you
+get more Hype, more people will appear. A lot of people you have known
+will appear, some requiring having completed some quests, but if you
+followed this guide, everyone should appear.
+
+Some people will fight you, and winning gives hype too, but they are
+optional, so you can open the door without a single fight. At 100 Hype a
+Nurse Joy will appear on the right area and heal you if you speak with
+her.
+
+Optional trainers (Double Battles on Concert Venue):
+-   Reina: On the bowling area on the left. You need to have rescued her
+    in Valor Mountain or she won’t appear. She will gift you a ***Dusk
+    Stone*** and 5 ***Exp. Candy M***. Talk with her again for a battle.
+    It is a 2vs2.
+-   Venam: On the northern stage. To fight, you need at least 25 of
+    Hype. It is a 2vs2.
+-   Lucina: Random NPC that appears after 100 Hype on the dance floor.
+    No team restriction.
+-   Sam and Alex: On the southern area if you talk with Sam. They appear
+    after 150 Hype. It is a 2vs2.
+-   Crawli: On dance floor. Appears after 250 Hype. It is a 2vs2.
+-   Amanda: On the bowling area on the left. She appears after 350 Hype.
+    It is a 2vs2.
+-   Breeder: Once you have gone over 400 Hype, she appears on the
+    southern side. She won’t fight and just give candies if the pinata
+    password is active. She gives 7 **Exp Candy M**, and there is no
+    team restriction.
+
+The northern woman behind the bar let you change the musing, while the
+man under her sells things.
+
+**Club S.T.F.U Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Hyper Potion* | $1200     |
+| *Super Potion* | $700      |
+| *Burn Heal*    | $250      |
+| *GourmetTreat* | $2000     |
+
+Once the door is opened, and go into position to start the Gym Battle.
+
+**Music Enthusiast Amber (Concert Venue).**
+-   Camerupt, Level 53. @ Focus Sash.
+    -   Fever Pitch
+    -   Hidden Power Electric
+    -   Magnitude
+    -   Stealth Rock
+-   Arcanine, Level 54. @ Red Card.
+    -   Extreme Speed
+    -   Reversal
+    -   Head Smash
+    -   Flare Blitz
+-   Flareon, Level 54. @ Synthetic Seed.
+    -   Hyper Voice
+    -   Toxic
+    -   Work Up
+    -   Fever Pitch
+-   Blaziken, Level 53. @ Air Balloon.
+    -   Fever Pitch
+    -   Reversal
+    -   Thunderpunch
+    -   Protect
+-   Aevian Gyarados, Level 53. @ Air Balloon.
+    -   Fever Pitch
+    -   Scald
+    -   Work Up
+    -   Draco Meteor
+-   Aevian Toxtricity, Level 55. @ Air Ballon.
+    -   Fever Pitch
+    -   Acid Spray
+    -   Hyper Voice
+    -   Hidden Power (Grass)
+
+Fever Pitch: Fire. Special. 70, 100, or 130 power depending on Hype
+level. 100% accuracy. Can be used even when asleep, and wakes up all
+sleeping Pokémon on the field.
+
+**Friendship Points are granted based on the conditions under which you
+end this battle:**
+-   End the battle with \<300 Hype/ Concert Level 1 or lower (-4 Amber)
+-   End the battle with \>= 300 Hype/ Concert Level 2 or higher (+3
+    Amber)
+
+There is no version of her for Story Mode in the code, maybe because she
+is quite easy from the beginning unless you go with terrible typing. As
+long as you don’t let the hype die, you should be fine to get her
+friendship points too.
+
+You will get ***TM50 Overheat*** and the Lyric Badge and after you win,
+which will raise the level cap not 60.
+
+Leave the club for a scene.
+
+Win to get the Lyric Badge, which lets us hit Level 60, and *TM50
+Overheat*! Head outside and watch the cutscene. The chapter will
+end.**  
+**
+
+# Chapter 9: No Time Left to Lose
+
+As usual, start of a chapter with a Team Xen scene.
+
+Once you can move, try to leave the building for a scene. Now go
+upstairs and enter the room in the right for another scene.
+
+**Friendship Point Choice:**
+-   Probably. (Amber -1)
+-   They all died. (Amber +3)
+
+**Friendship Point Choice:**
+-   Sorry. (Amber +2)
+-   We should go. (Amber -1)
+
+Our objective is in Kakori Village, talk to Crawli and depending on if
+you have trusted Jenner or not, you will have to go to the Church of
+Theolia or Valor Mountain.
+
+If you saved Jenner go to the last room of the Church of Theolia and
+after a scene agree to go to Valor Mountain. You will be in the map past
+Valor Cliffside. If you didn’t trust Jenner, you have to come to this
+map directly and a scene will trigger once you advance
+
+If you trusted Jenner you have to speak with Melia in front of the door.
+
+**Friendship Point Choice (Trusted Jenner):**
+-   Another giant door. (Neutral)
+-   Team Xen. (Melia -3)
+-   \[Type a Guess\]. (Write **FOREST** for extra dialogue later.
+    Otherwise, it is Neutral)
+
+If you didn't trust Jenner you will be given three options of what you
+guess it is behind, to have a chance for a Friendship Point Choice
+later, you must choose \[A Forest\], but this choice itself doesn’t
+affect Friendship Points.
+
+After scenes, go across the door.
+
+If you trusted Jenner, you are given three options. None has Friendship
+points, but \[I’ve been here before.\] gives interesting information.
+
+In case you didn’t trust Jenner, the scene is different.
+
+**Friendship Point Choice (Didn’t Trust Jenner):**
+-   Intuition (Venam +2)
+-   Read about it. (Venam +1)
+-   Been here before. (Neutral)
+
+Once you can move prepare for a very quick detour.
+
+## Badge 8 Detour
+
+Go to Akuwa town and head to Route 4. The dens have changed now that you
+have 8 badges.
+
+RIFT DEN 1 (8 - 12 Badges): The common encounters in this den are
+Graveler, Nuzleaf, **Duosion**, Solosis, Tropius, **Sigilyph**, and
+**Dhelmise**. The rare ones are **Relicanth, Persian**, Lumineon, ad
+Bonsly.
+
+RIFT DEN 2 (8 - 12 Badges): The common encounters in this den are
+**Unfezant**, Wailmer, Dunsparce, Vullaby, Masquerain, and Quagsire. The
+rare ones are Chatot, Snorunt, **Glalie**, Cacnea, **Cacturne**, and
+Claydol.
+
+RIFT DEN 3 (8 - 12 Badges): The common encounters in this den are
+**Stoutland**, Crabrawler, Pachirisu, Chimecho, Stunfisk, and **Abra**.
+The rare ones are **Rhydon**, **Vanilluxe**, Vanillish, Purugly,
+**Ditto**, and Teddiursa.
+
+RIFT DEN 4 (8 - 12 Badges): The common encounters in this den are
+Lombre, Gastrodon, and **Seismitoad**. The rare ones are Mantyke,
+Mantine, and **Jellicent**.
+
+Entering Cairo's house, he has more available crests now!
+
+**Cairo's Shop New Items (8 Badges**)
+
+| **Item**          | **Price**         |
+|-------------------|-------------------|
+| *Luxray Crest*    | 5000 Red Essences |
+| *Druddigon Crest* | 5000 Red Essences |
+| *Thievul Crest*   | 5000 Red Essences |
+| *Samurott Crest*  | 5000 Red Essences |
+
+Now, go to Aquamarine Depths, where Jenner lived. You can fight his
+spirit.
+
+**Spirit Jenner (Concert Venue). Story Mode.**
+-   Stoutland, Level 61.
+    -   Return
+    -   Work Up
+    -   Crunch
+    -   Psychic Fangs
+-   Appletun, Level 61. @ Appletunite.
+    -   Draco Meteor
+    -   Recover
+    -   Iron Defense
+    -   Body Press
+-   Porygon-Z, Level 61.
+    -   Tri Attack
+    -   Shadow Ball
+    -   Discharge
+    -   Psychic
+-   Kommo-o, Level 63.
+    -   Clanging Scales
+    -   Aura Sphere
+    -   Flash Cannon
+    -   Poison Jab
+-   Klinklang, Level 63 @ Leftovers.
+    -   Gear Grind
+    -   Shift Gear
+    -   Substitute
+    -   Wild Charge.
+
+**Spirit Jenner (Concert Venue). Classic Mode.**
+-   Stoutland, Level 63. @ Chople Berry .
+    -   Return
+    -   Work Up
+    -   Crunch
+    -   Psychic Fangs
+-   Appletun, Level 64. @ Appletunite.
+    -   Draco Meteor
+    -   Recover
+    -   Apple Acid
+    -   Body Press
+-   Noivern, Level 63. @ Synthetic Seed.
+    -   Ragon Pulse
+    -   Roost
+    -   Air Slash
+    -   Boomburst
+-   Porygon-Z, Level 64. @ Choice Scarf
+    -   Uproar
+    -   Shadow Ball
+    -   Trick
+    -   Psychic
+-   Kommo-o, Level 65. @ Kommonium Z.
+    -   Clanging Scales
+    -   Aura Sphere
+    -   Boomburst
+    -   Flamethrower
+-   Klinklang, Level 66 @ Air Ballon.
+    -   Gear Grind
+    -   Shift Gear
+    -   Substitute
+    -   Wild Charge.
+
+He is quite strong, but we got harder battles. Not recommended on a
+Nuzlocke though.
+
+Once you win, you will receive 3 ***Blue Shards***, 3 ***Red Shards***,
+3 ***Green Shards***, 3 ***Black Prisms***, 3 ***Exp. Candy XL*** and
+***TM92 Trick Room***.
+
+End of the detour, return to the Forest of Time.
+
+## Forest of Time
+
 
 
 
