@@ -1991,7 +1991,7 @@ You have to choose your starter either Cyndaquil, Totodile, or
 Chikorita. Your choice will determine what the final reward is, and your
 team will be different for whichever one you choose. If you are planning
 to use any of those three in your party, chose it too because you will
-want that reward (it is also possible to find the same items in Keckleon
+want that reward (it is also possible to find the same items in Kecleon
 Shop, but they are VERY expensive.).
 
 You have to start with the first Gym Leader. All Gym Leaders are
@@ -2827,7 +2827,7 @@ each the station without needing to go through the Gemstream Mine
 (actually, he disappears as soon as we see that cloaked person appear on
 the bridge).
 
-Go back to the south and enter the house, the Keckleon Bazaar. They
+Go back to the south and enter the house, the Kecleon Bazaar. They
 wares change every day, so it is good to keep coming. It may be
 expensive though.
 
@@ -3411,7 +3411,7 @@ prophecies.
 Go back to Sheridan Village and spoke with the man who gave you the
 quest. You can choose if give the Ancient Book to him or not. You will
 get a ***Blue Moon Ice Cream*** if you give him the book. It maxes the
-friendship when using it. You can go to the Keckleon Bazaar to but the
+friendship when using it. You can go to the Kecleon Bazaar to but the
 Ancient Book for \$75.000 if you give it away here. If you give it away,
 go to buy it as soon as you can.
 
@@ -3476,7 +3476,7 @@ and +1 Karma.
 
 This quest gives Karma.
 
-Go to the Keckleon Bazaar. Try to get the golden item. If you have at
+Go to the Kecleon Bazaar. Try to get the golden item. If you have at
 least \$50.000 they offer to sell to you for \$20000, but as long as you
 have at least \$20.000, you can buy it. Otherwise, you are stealing, and
 you will be thrown to the THIEF\'S DUNGEON.
@@ -3995,7 +3995,7 @@ since we won that fight.
 
 Our level cap has finally increased to 30, and we will be able to use
 cut outside battle, but we need to that that TM first. You can also buy
-***Mirror Lure*** on the Keckleon Bazaar. Go down a bit and a scene will
+***Mirror Lure*** on the Kecleon Bazaar. Go down a bit and a scene will
 trigger. A dot will light in blue in the triangle on the middle and a
 statue of Keta will appear on the northwestern pedestal.
 
@@ -8637,7 +8637,7 @@ You will have tea time, after which everyone falls asleep and when you wake up F
 Go down and then right. 
 On the new map go up until the mural and interact with it. 
 We get a longer scene if we have the book to translate Garufan. 
-Remember that even if you gave it up, it can be bought again in the Keckleon Bazaar.
+Remember that even if you gave it up, it can be bought again in the Kecleon Bazaar.
 
 A tornado activated in the room, touch them until a big tornado appears in the top. On the instance there are two small tornadoes, go to the upper one. 
 Now walk into the big one that appeared on the top.
@@ -10678,7 +10678,8 @@ Helojak Island.
 This is a good chance to catch **Karrablast**.
 
 Enter the building and use the teleporter to reach the rooftop quickly.
-There is an overworld **Elekid** here.
+There is an overworld **Elekid** here. If you are lucky, you may 
+discover it is holding an ***Electrizer***. You can soft reset until it has it.
 
 Leave the building and go to the western area using the path above water
 until seeing an AA Grunt. You need to catch her. The choice here doesn’t
@@ -13276,7 +13277,7 @@ On the right of the right northernmost lamp on the central area before
 the stairs, there is a hidden ***Ice Gem***.
 
 After the stairs, there is a man that lets you exchange 10 Occa Berries
-for either a ***Deep Sea Scale*** or a ***Deep Sea Tooth***. This trade
+for either a ***DeepSeaScale*** or a ***DeepSeaTooth***. This trade
 can be repeated infinitely as long as you have enough Occa Berries.
 
 Continue north until the crossroads. On the right side of the tree on
@@ -13285,7 +13286,7 @@ the left there is a hidden ***Icicle Plate***.
 One tile right and all ay down from the previous item, there is a hidden
 ***Max Repel***.
 
-Go though the western path to find ***TM07 Hail***, and a Zygarde Cell.
+Go through the western path to find ***TM07 Hail***, and a Zygarde Cell.
 
 **ZCell 072: Isle of Angels**
 
@@ -14936,9 +14937,486 @@ opponents and is relatively fast and you will finish it quickly.
 ## September 25th: A Trial of Moving On
 
 Melia goes to Aquamarine Cave where Jenner was if you trusted him. Amber
-invites you to a party on her gym, which included a Gym Battle.
+invites you to a party on her gym, which includes a Gym Battle.
 
 We are clearly making a detour first.
+
+### Quest 54: Farewell Tapu Koko
+
+First go north to Mynori Sea and go north to see the Tapu Koko that has
+been helping us. It is time to bid farewell, and doing so will grant us
++6 Friendship Points with Crawli. Tau Koko only appears here if you beat
+it at Terajuma Jungle.
+
+### Quest 55: Lurking Lighthouse!
+
+Enter the Ranger HQ in Kakori and speak to Alex, who has an exclamation
+mark, to get a request to get the lighthouses of Terajuma working again.
+Accept to get ***Lighthouse Key-J***. We will need to have an Electric
+type in our party for this quest.
+
+Before continuing with the quest, if you didn’t save Amber, you can now
+find the ***V.G.C.R Key*** on the Chamber of Awakening. You already have
+it if you saved her.
+
+Now go to Jynnobi Pass for the first lighthouse, which is on the west
+side. Enter the lighthouse, and you will see a note on the rash with a
+passcode to a stash: **9867**. This is the one we visited before but
+didn’t enter because we didn’t know the code, but you can enter the
+stash earlier if you have this code.
+
+Take the elevator to the top floor and after a scene you will be back on
+Ranger HQ.
+
+Our next target is Terajuma Shipyard, but let’s go to Jirukala Cavern to
+get the stash first. Input the code once you reach the panel on the
+northeast of the elevated area.
+
+Are several mining rocks here. We will be reviving fossils soon, so you
+may want to save in front of them and soft reset until you get those we
+want. They aren’t the last mining stones in the game, so there is no
+need to force yourself to this now, although if you are lucky, you may
+already have most if not all of them. If you are unlucky though… The Jaw
+Fossil, the Sail Fossil, the Skull Fossil, and the Armor Fossil can be
+bought with shards on the same place we revive them, so focus mining the
+others instead. You can’t mine any of the Galar fossils on V13.5.
+
+On this stash, you can find ***TM151 Steel Wing*** and a Zygarde Cell.
+
+**ZCell 084: Jirukala Cavern (Stash)**
+
+Now, go to Terajuma Shipyard and enter the lighthouse, which is located
+in the southern, on the area you originally reached Terajuma, so surf
+there.
+
+**Friendship Point Choice:**
+-   It’s true, she said it. (Crawli +2)
+-   She’s lying. (Crawli -2)
+
+Use the elevator to reach floor B1 and defeat the AA Grunt.
+
+**Team Anti-Assist Drew (Factory Field). Story Mode.**
+-   Magneton, Level 47.
+-   Dubwool, Level 49.
+
+**Team Anti-Assist Drew (Factory Field). Classic Mode.**
+-   Steelix, Level 49.
+-   Dubwool, Level 50.
+-   Wailord, Level 51.
+
+We need to reach the Ampharos that powers the room. Step on the south
+button to disable the electro ball on your path. You will find a Dasta
+Drive on the north. Now, go south and defeat another AA Grunt.
+
+**Team Anti-Assist Ann (Factory Field). Story Mode.**
+-   Raichu, Level 49.
+-   Weavile, Level 48.
+
+**Team Anti-Assist Ann (Factory Field). Classic Mode.**
+-   Shelgon, Level 49.
+-   Weavile, Level 51.
+-   Donphan, Level 52.
+
+First Ampharos saved, and you can pick a ***Magnet*** on the right. It
+is a bit hard to see.
+
+Head to floor B2 with the elevator.
+
+Step on the 3 electro ball switches on the right side in order from your
+starting point, and press the first one again before moving south. Use
+the southern switch to open a path, and then the central one to do it
+again. Press the south switch again and then press the one in the right.
+You will finally reach Ampharos if you go north, but you need to defeat
+an AA Grunt first.
+
+**Team Anti-Assist Sigyrd (Factory Field).**
+-   Bastiodon, Level 58.
+-   Archeops, Level 59.
+-   Armaldo, Level 57.
+
+Second Ampharos saved.
+
+Go north to enter another room and defeat a last AA Grunt.
+
+**Team Anti-Assist Jalen (Factory Field).**
+-   Skarmory, Level 58.
+-   Tyranitar, Level 60.
+
+Last Ampharos saves, and the quest will be completed.
+
+Go to the Kakori Help Center and report to the right counter to get
+$6245, a ***Revival Herb***, a **Mareep**, and +1 Karma.
+
+On Route 5 at night, access from Secluded Shore, is now possible to
+catch a **Clamperl** on the southeast after giving a Gourmet Treat.
+
+Since you need to go through Aquamarine Cave to get the Clamperl, it is
+also a good moment to make a quick visit to Aquamarine Depths to where
+Jenner lived for a While. Talk with Melia to get **+2 Friendship
+Points** with her. She is only there if you trusted Jenner.
+
+### Quest 56: My Dearest Rowlet
+
+Try to enter Dartreaux Restaurant in the Ranger HQ to se a Rowlet
+fleeing. Dartreaux will ask you to find that Rowlet on Tyluric Temple.
+
+Follow the path to the right until you see Rowlett on the right side and
+talk to him.
+
+Continue advancing until being outside
+
+Go to the southern door across the water, and advance until you can surf
+the lava.
+
+On the end of the right way, you can’t proceed unless you have in your
+team, a pure Flying type, an Electric/Flying type, and an Earth/Flying
+type. We can have Emolga, and if you got lucky with the Mystery Eggs,
+you may have Aevian Larvesta and Rookidee lines, but it is impossible to
+have the Gligar line until after the twelfth badge. Rookidee can also be
+obtained after that badge if you don't have any pure flying type.
+
+On the previous room, you can go north and ride a tornado to find a
+**Magby** protecting a chest with 5 ***Exp. Candy L***, and a Zygarde
+Cell. You need to use a Gourmet Trat to fight Magby. If you are lucky,
+you may discover it is holding an ***Magmarizer***. You can soft reset
+until it has it.
+
+**ZCell 085: Tyluric Temple**
+
+Return to the room with the magma rive and this time go to the left.
+Advance through the only way, and go to the left on the crossroad to
+find another Zygarde Cell.
+
+**ZCell 086: Tyluric Temple**
+
+This time go north, and check your right just after the stairs for
+another Zygarde Cell.
+
+**ZCell 087: Tyluric Temple**
+
+You can get several berries from the berry tries on both sides of the
+way. In total 6 ***Roseli Berries***, 4 ***Wacan Berries***, and 6
+***Liechi Berries***.
+
+Continue north for a scene and a double battle.
+
+**Team Anti-Assist Marcie and Xen Analyst Chikie (Forest Field).**
+-   Rillaboom, Level 53. (Marcie)
+-   Tsareena, Level 54. (Marcie)
+-   Porygon2, Level 53. (Chikie)
+-   Eelektross, Level 54. (Chikie)
+
+After winning, talk with **Rowlet** to catch him. Note that although
+this Rowlet is constantly referred a son, it isn't gender locked.
+
+Time for the next quest.
+
+### Quest 57: Tale of Two Hearts
+
+Go to the north house in Kristiline Town and enter it. Talk to a man in
+the back wo will ask you to escort the Princess, Odessa, around
+Kristiline Town.
+
+Feel free to explore and talk to people as they have special dialogues
+right now that she is with you, and there is a scene with a choice that
+doesn't matter if you approach your ship on the east and another scene
+on the eatery on the west. That is all optional though; to continue the
+quest, you have to go to the Isle of Angels.
+
+Go north until triggering a scene. The choice here doesn’t matter, now
+return her to her house.
+
+After a scene, you have become Odessa. Note that you still have your
+team but not your items. Move, until Odessa’s father is absolutely
+upset. You are confined. The next two choices give more context to the
+situation choosing the first option.
+
+Now, you need to escape from this house using the boxes on the top right
+to jump over the wall. Now head south. If you are spotted by the statues
+or Odessa’s father, you will return to the starting point so avoid it.
+
+You only have one way to advance avoiding the statues so go forward
+until your first battle.
+
+Advance and go west once you can activate a lever that disables the
+right statue. Now go south to avoid the statue at your immediate right
+and go up to continue right though the disabled one. You may end up
+finding another Ranger if you are found.
+
+Be careful after the ladder as there is a statue just north of them, so
+move quickly to the right. Go down the ladder on the right side.
+Continue south and avoid the statue there by walking the closest to the
+southern wall.
+
+Use the ladder to disable a status on the north, and go back up to the
+las ladder. Now you can go right as the statue is disabled and use the
+ladder to escape successfully to Kristiline Town.
+
+You can explore the town and talk with people to discover more about
+where your body is, but the target for the quest is to speak with the
+sailor in the docks and say \[It’s my decree.\] to go to Teila Resort.
+
+Speak with Amber in front of the northern mansion. Choices doesn't
+matter.
+
+After several scenes, you will be on Route 6. Go north for another scene
+and recover your body. Again, choices don’t matter.
+
+**Commander Holly and Dance Prodigy Rorim B. (Beach Field). Story
+Mode.**
+-   Escavalier, Level 52. (Holly)
+    -   Mega Horn
+    -   Protect
+    -   Swords Dance
+    -   Iron Head
+-   Scolipede, Level 55. (Holly)
+    -   Swords Dance
+    -   Mega Horn
+    -   Aqua Tail
+    -   Earthquake
+-   Bellossom, Level 52. (Rorim B)
+    -   Quiver Dance
+    -   Teeter Dance
+    -   Giga Drain
+    -   Sludge Bomb
+-   Ludicolo, Level 55. (Rorim B)
+    -   Fake Out
+    -   Rain Dance
+    -   Surf
+    -   Giga Drain
+
+**Commander Holly and Dance Prodigy Rorim B. (Beach Field). Classic
+Mode.**
+-   Scizor, Level 55. (Holly)
+    -   Bullet Punch
+    -   Knock Off
+    -   Detect
+    -   Swords Dance
+-   Scolipede, Level 58. @Lum berry (Holly)
+    -   Swords Dance
+    -   Mega Horn
+    -   Aqua Tail
+    -   Earthquake
+-   Pom-Pom Style Oricorio, Level 58. (Rorim B)
+    -   Calm Mind
+    -   Hidden Power (Ice)
+    -   Revelation Dance
+    -   Air Slash
+-   Ludicolo, Level 58. @ Coba Berry (Rorim B)
+    -   Fake Out
+    -   Rain Dance
+    -   Surf
+    -   Giga Drain
+
+No chance to heal and you are thrown into a boss fight.
+
+**Manaphy (Beach Field) ). 3 HP Bars. Story Mode.**
+-   Manaphy, Level 52. @ Leftovers
+    -   Scald
+    -   Shadow Ball
+    -   Rain Dance
+    -   Take Heart
+-   After clearing 1 HP Bar:
+    -   Sets Rain Dance.
+    -   Cures any stat drop.
+    -   Gets Leftovers again if lost.
+    -   Special Attack +1.
+    -   Two turns after: Special Attack -1.
+-   After clearing 2 HP Bars:
+    -   Field becomes Water Surface.
+    -   Ability becomes Pressure.
+    -   Cures any stat drop.
+    -   Gets Leftovers again if lost.
+-   SOS:
+    -   Phione, Level 45.
+        -   Surf
+        -   Energy Ball
+        -   Helping Hand
+        -   Dazzling Gleam
+
+**Manaphy (Beach Field) ). 3 HP Bars. Classic Mode.**
+-   Manaphy, Level 58. @ Leftovers
+    -   Scald
+    -   Shadow Ball
+    -   Rain Dance
+    -   Take Heart
+-   After clearing 1 HP Bar:
+    -   Sets Rain Dance.
+    -   Cures any stat drop.
+    -   Gets Leftovers again if lost.
+    -   Special Attack +3.
+    -   Two turns after: Special Attack -3.
+-   After clearing 2 HP Bars:
+    -   Field becomes Water Surface.
+    -   Ability becomes Pressure.
+    -   Cures any stat drop.
+    -   Gets Leftovers again if lost.
+-   SOS:
+    -   Phione, Level 50.
+        -   Surf
+        -   Energy Ball
+        -   Helping Hand
+        -   Dazzling Gleam
+
+It may be troublesome depending on what team you have since you haven't
+been able to switch it since the body swap, and your team may be hurt
+form previous battles. Changing the field and weather helps a lot, but
+it is best done with a mon that changes weather on coming out to prevent
+a turn loss. Blizzard freezes the field, and combines with hail, makes
+Manaphy hit far less. Bad move to do damage though, so after having
+field advantage, switch to other moves.
+
+After the battle, you will end up at Kristiline Town. Go to the Isle of
+Angels, to Odessa’s favorite spot on the eastern bridge. Talk with her.
+The choice here doesn't matter.
+
+Now, go back to her house and approach Odessa at the north for a scene.
+
+The quest is completed. Go back to the house and speak to Odessa’s
+father to receive the ***Phione Crest***.
+
+### Quest 58: Infinite Potential
+
+Enter the Kristiline Help Plaza to start this quest. Choice doesn't
+matter.
+
+Go to the Kakori Gym to speak with Holly. Choice doesn't matter.
+
+Now go to Terajuma Excavation Site and enter house. Speak with Gilda to
+proceed.
+
+Time to go to Terajuma Beach. Speak with the AA Grunt on the southwest
+and follow him. Talk again and follow to Terajuma Jungle. You will find
+him again if you go to the right. Talk again and you will have to fight
+a double battle.
+
+**Team Anti-Assist Kurt. (Forest Field).**
+
+-   Milotic, Level 58. @ Flame Orb
+    -   Surf
+    -   Aqua Ring
+    -   Toxic
+    -   Light Screen
+-   Vaporeon, Level 60.
+
+After the scenes, use a Noctowl Statue to Valor Shoe and surf right to
+find Holly in front of a shack. Talk to her and enter the shack.
+
+Head downstairs for a fight.
+
+**??? ???. (Factory Field).**
+-   Alolan Raichu, Level 60. @ Focus Sash
+    -   Thunderbolt
+    -   Psychic
+    -   Focus Blast
+    -   Hidden Power (Ice)
+-   Clawitzer, Level 61. @ Mystic Water
+    -   Water Pulse
+    -   Dark pulse
+    -   Aura Sphere
+    -   Ice Beam
+-   Swampert, Level 61. @ Rindo Berry
+    -   Earthquake
+    -   Ice Punch
+    -   Hammer Arm
+    -   Waterfall
+-   Xurkitree, Level 64. @ Shuca Berry
+    -   Thunderbolt
+    -   Grass Knot
+    -   Dazzling Gleam
+    -   Hidden Power (Ice)
+
+Surpasses your level cap for quite a while, so may want to come later
+with an additional badge, but there is no reason you can defeat him.
+
+Go to Kristiline Town and speak with Odessa on her house.
+
+Now go to the island south of the Noctowl Statue and turn right. Speak
+with Odessa. The choice doesn’t matter.
+
+Now go to the Help Center for a scene.
+
+Time to go to Terajuma Shipyard and approach the warehouse on the east.
+After the scene, enter the warehouse.
+
+Pick a ***Data Drive*** on your left before advancing forward.
+
+**Battle Girl Malamar (Short-Circuit Field). Story Mode.**
+-   Inkay, Level 50.
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 55.
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 60.
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 65.
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 70.
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 75. @ Normalium Z
+    -   Happy Hour
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+
+**Diabolical Evil Genius Malamar (Short-Circuit Field). Classic Mode.**
+-   Inkay, Level 50. @ Fighting Gem
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 55. @ Dark Gem
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 60. @ Psychic Gem
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 70. @ Tanga Berry
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 80. @ Focus Sash
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+    -   Rest
+-   Inkay, Level 90. @ Normalium Z
+    -   Happy Hour
+    -   Superpower
+    -   Psycho Cut
+    -   Knock Off
+
+Easy fight despite the levels. Their defenses ae very low. I don’t know
+why the Story Mode Fight is set with a Battle Girl, so I am not even
+sure it will trigger instead of the Classic Mode one on both.
+
+After the scene, the quest will be completed. Head to Kakori Help Plaza,
+and report to the right counter to get an **Inkay** and +1 Karma.
+
+### Akuwa Town
+
+Go to Teila Resort and use the yacht to reach Akuwa Town where people
+have returned.
+
 
 
 
@@ -17015,7 +17493,7 @@ to advance forward.
 Now you can face a boss.
 
 **Wacky Lizard. 2 Hp Bar.**
--   Keckleon. Level 80. @Sitrus Berry.
+-   Kecleon. Level 80. @Sitrus Berry.
     -   Play Rough
     -   Thunderpunch
     -   Bounce
