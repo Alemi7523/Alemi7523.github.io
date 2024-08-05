@@ -196,21 +196,22 @@
     - [Valor Mountain](#valor-mountain)
     - [Valor Summit](#valor-summit)
   - [September 25th: A Trial of Moving On](#september-25th-a-trial-of-moving-on)
-    - [Quest 54: Farewell Tapu Koko](#quest-54-farewell-tapu-koko)
-    - [Quest 55: Lurking Lighthouse](#quest-55-lurking-lighthouse)
-    - [Quest 56: My Dearest Rowlet](#quest-56-my-dearest-rowlet)
-    - [Quest 57: Tale of Two Hearts](#quest-57-tale-of-two-hearts)
-    - [Quest 58: Infinite Potential](#quest-58-infinite-potential)
+    - [Quest 54: Lurking Lighthouse](#quest-54-lurking-lighthouse)
+    - [Quest 55: My Dearest Rowlet](#quest-55-my-dearest-rowlet)
+    - [Quest 56: Tale of Two Hearts](#quest-56-tale-of-two-hearts)
+    - [Quest 57: Infinite Potential](#quest-57-infinite-potential)
     - [Return to Akuwa Town](#return-to-akuwa-town)
     - [Floria Island After Valor Mountain](#floria-island-after-valor-mountain)
     - [Quest 38: Poliwag Quest (Finish)](#quest-38-poliwag-quest-finish)
-    - [Quest 59: Narcissa's Hauntings](#quest-59-narcissas-hauntings)
+    - [Quest 58: Narcissa's Hauntings](#quest-58-narcissas-hauntings)
     - [Lyric Badge](#lyric-badge)
 - [Chapter 9: No Time Left to Lose](#chapter-9-no-time-left-to-lose)
   - [Badge 8 Detour](#badge-8-detour)
   - [Forest of Time](#forest-of-time)
   - [Aevium (Past) 1st Visit](#aevium-past-1st-visit)
-  - [West Gearen City Sewers](#west-gearen-city-sewers)
+  - [West Gearen City Sewer Management](#west-gearen-city-sewer-management)
+  - [Detour Before Pulse Badge](#detour-before-pulse-badge)
+    - [West Gearen City](#west-gearen-city)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -14957,14 +14958,12 @@ invites you to a party on her gym, which includes a Gym Battle.
 
 We are clearly making a detour first.
 
-### Quest 54: Farewell Tapu Koko
-
 First go north to Mynori Sea and go north to see the Tapu Koko that has
 been helping us. It is time to bid farewell, and doing so will grant us
 +6 Friendship Points with Crawli. Tau Koko only appears here if you beat
 it at Terajuma Jungle.
 
-### Quest 55: Lurking Lighthouse!
+### Quest 54: Lurking Lighthouse!
 
 Enter the Ranger HQ in Kakori and speak to Alex, who has an exclamation
 mark, to get a request to get the lighthouses of Terajuma working again.
@@ -15074,7 +15073,7 @@ also a good moment to make a quick visit to Aquamarine Depths to where
 Jenner lived for a While. Talk with Melia to get **+2 Friendship
 Points** with her. She is only there if you trusted Jenner.
 
-### Quest 56: My Dearest Rowlet
+### Quest 55: My Dearest Rowlet
 
 Try to enter Dartreaux Restaurant in the Ranger HQ to se a Rowlet
 fleeing. Dartreaux will ask you to find that Rowlet on Tyluric Temple.
@@ -15136,7 +15135,7 @@ this Rowlet is constantly referred a son, it isn't gender locked.
 
 Time for the next quest.
 
-### Quest 57: Tale of Two Hearts
+### Quest 56: Tale of Two Hearts
 
 Go to the north house in Kristiline Town and enter it. Talk to a man in
 the back wo will ask you to escort the Princess, Odessa, around
@@ -15300,7 +15299,7 @@ Now, go back to her house and approach Odessa at the north for a scene.
 The quest is completed. Go back to the house and speak to Odessa’s
 father to receive the ***Phione Crest***.
 
-### Quest 58: Infinite Potential
+### Quest 57: Infinite Potential
 
 Enter the Kristiline Help Plaza to start this quest. Choice doesn't
 matter.
@@ -15587,7 +15586,7 @@ is at the southwest and requires surf to reach the ladder. Since we got
 the six, talk to the woman. After a scene, we now can catch a
 **Poliwag**.
 
-### **Quest** 59: Narcissa’s Hauntings
+### Quest 58: Narcissa’s Hauntings
 
 Time for a quest that will come with us for a very long time, but first,
 go to Wispy Tower and down to Wispy Chasm. Go to the depths using the
@@ -16170,7 +16169,7 @@ this one has 2 ***Aspear Berries***.
 Go south a bit and head west and agree to listen. Prepare for a boss
 fight.
 
-**Dark Gardevoir (No Field) ). 2 HP Bars. Story Mode.**
+**Dark Gardevoir (No Field). 2 HP Bars. Story Mode.**
 -   Dark Gardevoir, Level 60.
     -   Dark Pulse
     -   Dazzling Gleam
@@ -16180,7 +16179,7 @@ fight.
     -   Sets Reflect and Safeguard (3 turns).
     -   Cures any stat drop.
 
-**Dark Gardevoir (No Field) ). 2 HP Bars. Classic Mode.**
+**Dark Gardevoir (No Field). 2 HP Bars. Classic Mode.**
 -   Dark Gardevoir, Level 63. @ Lum Berry.
     -   Dark Pulse
     -   Moon Blast
@@ -16337,7 +16336,7 @@ Use the Crystal to return to the present; you will be in a room in the
 Abandoned Sewers. We can use the crystal on the room we appear to go
 back to the past whenever we want.
 
-## West Gearen City Sewers
+## West Gearen City Sewer Management
 
 Leave the sewers and talk to Venam to board the boat.
 
@@ -16350,6 +16349,179 @@ Leave the sewers and talk to Venam to board the boat.
 You are in West Gearen City, but you can only go to the sewers in front
 of you.
 
+When you can move, head down and follow the path. After some scenes, you
+will be on another room, leave though the northwest exit.
+
+Do as you are said and try to interact reach the southwest part, but you
+won’t be able to. After the scenes, go to the northwest room. Talk to
+the machine. Now you will be able to use the southwestern exit to reach
+a lower level of the sewers.
+
+Advance and use the left stairs to get ***TM84 Poison Jab**.* Continue
+and go south. Use the machine here to change the water level. Advance
+though the opened path and use the stairs on the right to get a ***PP
+Up**.* Enter the door you can see from here.
+
+**Friendship Point Choice:**
+-   Bye. (Erick -2)
+-   We're here to help! (Erick +2)
+
+Grab ***TM129 Fake Tears*** before leaving the room.
+
+Go west and after a scene, continue to go downstairs.
+
+**WG Sewage Management (Factory Field) Encounters**
+
+| **Grass** | **%** |
+|-----------|-------|
+| Salandit  | 35    |
+| Trubbish  | 25    |
+| Grimer    | 17    |
+| Oddish    | 10    |
+| **Toxel** | 8     |
+| Koffing   | 5     |
+
+**Toxel** is our next target for Zumi's quest, so catch one. Remember
+that Toxel evolves based on the nature, and if a Mint is uses, it
+counts. It can also evolve to Aevian Toxtricity with a Fire Stone.
+
+Advance and go use the southern stairs to pick up a ***Hyper Potion***.
+
+Continue advancing until seeing scene that fixes the elevator. Grab the
+Rift Dex entry for Code: Corroso on your right.
+
+Head up for a scene. Once you can move talk to Erick.
+
+Show him the Weird Diary if you want to save Garbodor. This is optional
+and will end giving you **+1 Karma**. Garbodor won't be able to survive
+otherwise.
+
+**Friendship Point Choice if you showed the Weird Diary:**
+-   Let's save Garbodor! (Venam +4, Melia +4)
+-   Ugh... Why me? (Melia -4, Venam -4, Erick -4)
+-   How about tomorrow? (Erick +1)
+
+Advanced to the north for a scene, that changes depending if you showed
+the diary or not. Time for a boss fight.
+
+**Dimensional Rift Garbodor (Corrupted Cave Field). 4 HP Bars. Story
+Mode**
+-   Rift Garbodor, Level 57. @ Black Sludge. Poison/Dark.
+    -   Drain Punch
+    -   Bullet Seed
+    -   Brutal Swing
+    -   Sludge Wave
+-   After clearing 1 HP Bar:
+    -   Type becomes Poison/Grass.
+    -   Attack +1
+    -   Cures any stat drop.
+    -   Item becomes Sitrus Berry.
+    -   Moveset change:
+        -   Drain Punch
+        -   Giga Drain
+        -   Brutal Swing
+        -   Belch
+-   After clearing 2 HP Bars:
+    -   Type becomes Poison/Steel.
+    -   Special Defense +1.
+    -   Cures any stat drop.
+    -   Item becomes Metal Coat.
+    -   Moveset change:
+        -   Drain Punch
+        -   Giga Drain
+        -   Magnet Bomb
+        -   Belch
+-   After clearing 3 HP Bars:
+    -   Type becomes Poison/Rock.
+    -   Attack +1 and Special Attack +1.
+    -   Defense -2 and Special Defense -2.
+    -   Cures any stat drop.
+    -   Item becomes Rocky Helmet.
+    -   Moveset change:
+        -   Rock Blast
+        -   Giga Drain
+        -   Magnet Bomb
+        -   Belch
+
+**Dimensional Rift Garbodor (Corrupted Cave Field). 4 HP Bars. Classic
+Mode**
+-   Rift Garbodor, Level 60. @ Black Sludge. Poison/Dark.
+    -   Drain Punch
+    -   Giga Drain
+    -   Darkest Lariat
+    -   Sludge Wave
+-   After clearing 1 HP Bar:
+    -   Type becomes Poison/Grass.
+    -   Attack +1 and Special Attack +1.
+    -   Cures any stat drop.
+    -   Item becomes Sitrus Berry.
+    -   Moveset change:
+        -   Drain Punch
+        -   Giga Drain
+        -   Darkest Lariat
+        -   Belch
+-   After clearing 2 HP Bars:
+    -   Type becomes Poison/Steel.
+    -   Defense +1 and Special Defense +1.
+    -   Cures any stat drop.
+    -   Item becomes Metal Coat.
+    -   Moveset change:
+        -   Drain Punch
+        -   Giga Drain
+        -   Gyro Ball
+        -   Belch
+-   After clearing 3 HP Bars:
+    -   Type becomes Poison/Rock.
+    -   Attack +2 and Special Attack +2.
+    -   Defense -1 and Special Defense -1.
+    -   Cures any stat drop.
+    -   Item becomes Rocky Helmet.
+    -   Moveset change:
+        -   Rock Blast
+        -   Giga Drain
+        -   Gyro Ball
+        -   Belch
+
+Quita a though fight in general despite Melia’s help. Because of the
+combination field, the ability being Poison Heal and Black Sludge,
+Garbodor heals quite a lot each turn, so the first HP Bar may be though.
+Garbodor also hits very hard and can poison you. Drain Punch and Giga
+Drain also heal and the first stays until it has a single bar while the
+second until the end.
+
+The second HP bar has a Sitrus Berry, so a lot of healing once, but at
+least no more Black Sludge. Even after that, Garbodor can still heal
+quite a lot and Melia will go down quickly if you frag the battle.
+
+Using Heat Wave, Eruption, or Lava Plum to change the field to Volcanic
+Field is a good idea. This also deals 50% of max HP, which helps a lot.
+This also break the healing combo and the boost to poison moves, which
+makes the battle far easier.
+
+The scenes after the battle change depending if you saves Garbodor or
+not.
+
+**Friendship Point Choice:**
+
+-   You're on! (Erick +2)
+
+-   Gotta go... (Erick -2)
+
+After the scenes we are at the power plant, but let’s make a detour
+before the Gym Battle.
+
+## Detour Before Pulse Badge
+
+Return to the sewers and use the elevator to reach the place we fought
+Rift Garbodor. There is a Zygarde Cell on the top-right corner.
+
+**ZCell 091: West Gearen Sewage Management**
+
+<img src="assets/media/image103.png" width="512"/>
+
+### West Gearen City
+
+Time to explore West Gearen.
 
 
 
