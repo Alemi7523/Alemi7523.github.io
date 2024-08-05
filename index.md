@@ -210,6 +210,7 @@
   - [Badge 8 Detour](#badge-8-detour)
   - [Forest of Time](#forest-of-time)
   - [Aevium (Past) 1st Visit](#aevium-past-1st-visit)
+  - [West Gearen City Sewers](#west-gearen-city-sewers)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -16007,6 +16008,348 @@ So begins Rejuvenations next major twist... time travel.
 ## Aevium (Past) 1st Visit
 
 You can use this crystal to head back to the present anytime you want.
+
+Leave the room and after the scene, we are going to explore Kugearen
+City.
+
+The teacher in the house to the right will give you a ***Quick Claw**.*
+In the house down from the stairs, grab a ***Revive**.* In the building
+north of the Pokémon Center, talk to the kid on 2F and answer his quiz
+to get a ***Leaf Stone**.*
+
+**Kugearen City Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Poké Ball*    | $200      |
+| *Great Ball*   | $600      |
+| *Ultra Ball*   | $1200     |
+| *Super Potion* | $700      |
+| *Hyper Potion* | $1200     |
+| *Antidote*     | $100      |
+| *Ice Heal*     | $250      |
+| *GourmetTreat* | $1500     |
+| *Repel*        | $350      |
+| *Super Repel*  | $500      |
+| *Max Repel*    | $700      |
+
+Nothing else to do here, go north when you're ready.
+
+**Route 3 (Past) Encounters (No Field)**
+
+| **Grass**    | **%** | **Water**  | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|--------------|-------|------------|-------|-------------|-------|--------------|-------|
+| **Delcatty** | 30    | Surskit    | 65    | Lotad       | 70    | Lotad        | 60    |
+| **Liepard**  | 25    | **Lombre** | 34    | Surskit     | 30    | Basculin     | 20    |
+| **Dubwool**  | 22    | Masquerain | 1     |             |       | **Lombre**   | 20    |
+| Pidgeotto    | 17    |            |       |             |       |              |       |
+| **Loudred**  | 6     |            |       |             |       |              |       |
+| Pidgeot      | 2     |            |       |             |       |              |       |
+
+Advance until you see water, surf to the left and on the small flowers
+under a red flower in the north there is a hidden ***Soda Pop***. On the
+southernmost red flower, there is a hidden, ***Aguav Berry***.
+
+Return to the other side of the water and head north. On the second tree
+from the stop starting where a trainer is, there is a hidden ***Soda
+Pop***.
+
+For some reason the previous three hidden aren’t shown with a sprite
+with the ItemfinderUnhideItems mod, but the items are certainly there
+and using the Itemfinder normally detects them.
+
+Surf the water north of the trainer and check the right od thew flower
+to find a hidden ***Protein***. Go back to where the trainer is and
+follow the path to the west and north to find a ***Full Heal***.
+Continue to reach Amberette Town.
+
+Enter the upper left estate for a scene. Head upstairs. There is also a
+PC and bed to heal in the upper left room. Go to the upper right room
+for another scene. Talk to the box to change clothes, but you can change
+back at any time.
+
+Talk to Melia in the upper right corner.
+
+**Friendship Point Choice:**
+-   Beautiful! (Melia +2)
+-   Stylish! (Melia +2)
+-   It's alright. (Melia +1)
+-   Yikes. (Melia -2)
+
+Go downstairs and sit in the open chair around the table downstairs to
+see some scenes. The choice here doesn't matter.
+
+Leave the house and go to the one in the right. Approach the white
+haired guy, Kanon, for another scene.
+
+Now, you need to return to Kugearen City, and a driver has appeared to
+move you quickly between both places.
+
+Once in Kugearen City, enter the cafe in the bottom.
+
+**Friendship Point Choice:**
+-   It was excellent! (Venam +2)
+-   It was alright. (Venam -1)
+-   Awful. (Venam +2)
+
+You'll have to choose a Pokémon to battle Kanon and Venam will assist
+you with a Level 70 Charizard. This is a 2vs1.
+
+**Arrogant Scholar Kanon (No field). Story Mode.**
+-   Salamence, Level 60.
+
+**Arrogant Scholar Kanon (No field). Classic Mode.**
+
+-   Salamence, Level 70.
+    -   Dragon Claw
+    -   Flamethrower
+    -   Rock Slide
+    -   Earthquake
+
+It is fine to lose this battle, but winning isn’t hard. The immediate
+dialogue changes a bit depending on the outcome, but no outlasting
+effects.
+
+After being kicked out head north and talk to Venam. Head east to reach
+a new area.
+
+**Kugearen Woods (Past) Encounters (No Field)**
+
+| **Grass**   | **%** | **Headbutt** | **%** |
+|-------------|-------|--------------|-------|
+| Unfezant    | 25    | Cascoon      | 30    |
+| Nuzleaf     | 20    | Pineco       | 29    |
+| **Shiftry** | 17    | **Silcoon**  | 20    |
+| Beautifly   | 15    | Dustox       | 10    |
+| Teddiursa   | 12    | Forretress   | 6     |
+| Delcatty    | 5     | Beautifly    | 5     |
+| Dustox      | 4     |              |       |
+| Ursaring    | 2     |              |       |
+
+Advance to the east until triggering a scene. You will have to fight two
+wild **Shiftry**. It is possible to catch one of them.
+
+Go down and right before going back up. You will find berry trees with a
+total of 4 ***Rawst Berries*** and a hidden ***Zinc*** thee tiles left
+of the trainer*.*
+
+Return to where you saved Anathea and head up to reach the garden or
+Marble Mansion.
+
+**Friendship Point Choice:**
+-   Yeah! (Venam +2)
+-   Nah. (Venam -1)
+
+Enter the mansion and after a scene, you'll be free to explore. Talk to
+Anathea in the garden for an optional scene.
+
+Exit to the woods for a scene
+
+**Friendship Point Choice:**
+-   Let's do this. (Venam +4)
+-   What about Melia? (Neutral)
+-   I dunno... (Venam -2)
+
+Head back to the city and enter the house in the bottom right of town;
+just head down as you enter the city to find it. Head up in the house
+for a scene.
+
+Leave the house and head southwest to enter Blakeory Co. Go upstairs
+twice and talk to Vitus for a scene.
+
+After the meeting, enter the forest again. After the scene, head south
+to follow the policeman.
+
+Head east to find a hidden ***Honey*** two tiles right oof a tree. Go
+north to find a ***Rare Candy*** and a berry tree with a ***Leppa
+Berry**.* On your way to the south, you will find a berry tree with 2
+***Cheri Berries**,* a ***Revive**,* and a bit north of it, a berry tree
+with 2 ***Oran Berries***. Go north until you find another berry tree,
+this one has 2 ***Aspear Berries***.
+
+Go south a bit and head west and agree to listen. Prepare for a boss
+fight.
+
+**Dark Gardevoir (No Field) ). 2 HP Bars. Story Mode.**
+-   Dark Gardevoir, Level 60.
+    -   Dark Pulse
+    -   Dazzling Gleam
+    -   Calm Mind
+    -   Psychic
+-   After clearing 1 HP Bar:
+    -   Sets Reflect and Safeguard (3 turns).
+    -   Cures any stat drop.
+
+**Dark Gardevoir (No Field) ). 2 HP Bars. Classic Mode.**
+-   Dark Gardevoir, Level 63. @ Lum Berry.
+    -   Dark Pulse
+    -   Moon Blast
+    -   Calm Mind
+    -   Psyshock
+-   After clearing 1 HP Bar:
+    -   Sets Reflect and Safeguard (5 turns).
+    -   Cures any stat drop.
+
+This boss is Dark/Fairy, so try to hit with super effective moves and
+you should win without much trouble.
+
+**Friendship Point Choice:**
+-   Worried? (Venam +2)
+-   Scared? (Venam -2)
+-   Taking too long to find me? (Venam +3)
+
+After the scenes, grab the shiny ***Apartment Key**.*
+
+This isn't strictly necessary but helps us save some Pokémon later. Head
+back to Kugearen and use the key on the door in the top left of the
+area. Head to ??? head to the right and read the book. Agree to take it
+to get the ***Weird Diary***.
+
+Talk to Venam by Katsu's house, then return to the mansion. Advance for
+a couple of scenes and beat the first maid, then beat the second sitting
+on the bench oat the center of the garden. Next to her you can get a
+hidden ***Silk Scarf***. You need to be on the bench itself to get it
+instead of in front of it as it is with other hidden items. It is
+wrongly tagged, so the Item Finder won’t locate it unless you are using
+the ItemfinderUnhideItems mod, which still fails to show a sprite but at
+least the Item Finder detects it with it.
+
+Interact with the statues in the four rooms up and down from the garden:
+top left facing right, top right facing down, bottom right facing left,
+bottom left facing up. Head upstairs and enter the newly opened door.
+Grab the **Indeedee** here!
+
+Talk to the portrait in this room to begin a puzzle.
+
+<img src="assets/media/image102.png" width="512"/>
+
+This is what it should look like when completed. Enter the door
+downstairs and go down.
+
+Head down and advance. Advance through the right way for another scene.
+
+Choose whether to save the Officer, or to save Maria.
+-   Attempting to save Maria grants (+4 Anathea Friendship Points), but
+    you will fail to save her anyway.
+-   Saving the policeman actually works and also makes Gardevoir hate
+    you particularly more. Either head down to untie the officer, or up
+    to save Maria.
+
+Both choices are tracked independently, so they may have effects on
+future version; after this scene, there is no further effect for V13.5.
+
+If you chose the officer, you could choose to refuse all Gardevoir's
+requests or not. Refusing them will save the officer, and Gardevoir’s
+Hatred is tracked. There are some dialogue changes on a scene later in
+the game if she hates you.
+
+If you give in to Gardevoir’s requests, the guard will still die and the
+fact you abandoned him will be tracked. Note that this doesn’t happen if
+you choose to save Maria. As of the current version, there isn't
+anything except immediate effects for this though.
+
+It is hard to say what is the best option here, so choose to save
+whoever you want.
+
+Anyways, after the scene, head outside into the forest, and then to
+Kugearen City. Pick \[North\] or \[West\], it doesn’t matter, and watch
+the scene play out. This time pick \[Blakeory Co.\] and you will have a
+fight.
+
+**Servant Lia (No Field). Classic Mode.**
+-   Altaria, Level 54.
+-   Crobat, Level 54.
+-   Gastrodon, Level 55.
+
+**Servant Lia (No Field). Classic Mode.**
+-   Altaria, Level 57.
+-   Crobat, Level 56.
+-   Gastrodon, Level 56.
+
+Easy fight. After the scenes talk to Melia in the kitchen and say \[I’m
+tired…\] to get some sleep.
+
+After waking up go downstairs. There is a small variation in text if you
+did Karrina’s Gang Fight.
+
+Leave the house. Time for another battle.
+
+**Gang Leader Karrina (No Field). Classic Mode.**
+-   Musharna, Level 51.
+    -   Gravity
+    -   Dazzling Gleam
+    -   Psyshock
+    -   Hypnosis
+-   Granbull, Level 52.
+    -   Play Rough
+    -   Heal Bell
+    -   Fire Punch
+    -   Earthquake
+-   Runerigus, Level 51.
+    -   Earthquake
+    -   Shadow Claw
+    -   Phantom Force
+    -   Toxic Spikes
+-   Alakazam, Level 52.
+    -   Substitute
+    -   Psyshock
+    -   Dazzling Gleam
+    -   Psychic
+-   Nidoking, Level 53. @ Expert Belt.
+    -   Earth Power
+    -   Thunderbolt
+    -   Poison Jab
+    -   Flamethrower
+
+**Gang Leader Karrina (No Field). Classic Mode.**
+-   Runerigus, Level 54. @ Red Card.
+    -   Earthquake
+    -   Shadow Claw
+    -   Body Press
+    -   Toxic Spikes
+-   Musharna, Level 54. @ Zoom Lens.
+    -   Energy Ball
+    -   Dazzling Gleam
+    -   Psyshock
+    -   Hypnosis
+-   Granbull, Level 55. @ Babiri Berry.
+    -   Play Rough
+    -   Thunder Wave
+    -   Fire Punch
+    -   Earthquake
+-   Alakazam, Level 55. @ Wise Glasses.
+    -   Substitute
+    -   Psyshock
+    -   Dazzling Gleam
+    -   Shadow Ball
+-   Nidoking, Level 56. @ Expert Belt.
+    -   Earth Power
+    -   Thunderbolt
+    -   Poison Jab
+    -   Flamethrower
+
+A 6v5 on no field and under the level cap. Her team is good, but with
+these conditions, winning shouldn’t be too hard.
+
+Talk to Melia and walk to the trees to enter the grove.
+
+Use the Crystal to return to the present; you will be in a room in the
+Abandoned Sewers. We can use the crystal on the room we appear to go
+back to the past whenever we want.
+
+## West Gearen City Sewers
+
+Leave the sewers and talk to Venam to board the boat.
+
+**Friendship Point Choice:**
+-   About a 5. (Neutral)
+-   About a 3. (Neutral)
+-   About a 7. (Venam +1)
+-   About a 10. (Venam +2, Melia +1)
+
+You are in West Gearen City, but you can only go to the sewers in front
+of you.
+
 
 
 
