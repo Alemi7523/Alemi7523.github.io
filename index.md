@@ -170,7 +170,7 @@
   - [Rock Climb Detour](#rock-climb-detour)
     - [Quest 46: Phase Dial Quest](#quest-46-phase-dial-quest)
     - [Quest 47: Cliffside Grave Quest](#quest-47-cliffside-grave-quest)
-    - [Wispy Charm Rock Climb](#wispy-charm-rock-climb)
+    - [Wispy Chasm Rock Climb](#wispy-chasm-rock-climb)
     - [Quest 48: A Souvenir for Mom](#quest-48-a-souvenir-for-mom)
   - [Against Angie](#against-angie)  
     - [Frozen Kristiline Town](#frozen-kristiline-town)
@@ -215,6 +215,10 @@
     - [Quest 30: Lost Souls (All Kids)](#quest-30-lost-souls-all-kids)
     - [Quest 12: Virtual League (Finish)](#quest-12-virtual-league-finish)
     - [Quest 59: Generator Problems](#quest-59-generator-problems)
+    - [Quest 58: Narcissa's Hauntings (Second Part)](#quest-58-narcissas-hauntings-second-part)
+    - [Quest 60: Spector Quest](#quest-60-spector-quest)
+    - [Quest 61: House Sit](#quest-59-house-sit)
+    - [Quest 62: Hidden Library 3](#quest-21-hidden-library-3)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -270,7 +274,6 @@
   - [Crest Descriptions](#crest-descriptions)
 - [New Quests](#new-quests)
   - [Spiteful Ex](#spiteful-ex)
-  - [A Souvenir for Mom](#a-souvenir-for-mom)
   - [Tyluric Temple (Magma Drift)](#tyluric-temple-magma-drift)
 
 
@@ -12498,11 +12501,14 @@ Interact with the nethermost broken grave and place your Cursed Candle
 there and a ladder will appear. Use it and talk to the **Litwick** to
 have it join your team.
 
-### Wispy Charm Rock Climb
+### Wispy Chasm Rock Climb
 
-Go to Wispy Chasm and open the door requiring 6 badges. You need to
-access from the entrance at Wispy Tower and Rock Climb twice. Go down
-using the vine.
+Go to Wispy Tower and enter the tower for a scene, you will receive 3 
+***Ether***.
+
+Now, go to Wispy Chasm from the entrance in this area. Rock Climb
+twice, and go down using the vine.
+
 
 Go south and jump down once. On the crossway take the left way, on the
 end of the way there is a hidden ***Dark Gem***.
@@ -17111,6 +17117,286 @@ bought once. The one you already got won’t appear. Otherwise, return to
 West Gearen City and go to the Help Center.
 
 ### Quest 59: Generator Problems 
+
+You can only do this quest if you have freed Dufaux.
+
+Go north to the Power Plant, and in front of it you need to talk to
+Gabriel. Head inside to see what's happened.
+
+Use the left door. Here you will be thrown out if you are stopped so
+advance snakingly to the left map. Save and use F12 if you get spotted
+to reduce the backtracking.
+
+Here head north, and again north, to the Generator Room we haven’t been
+able to access when we came for the Electrizer before.
+
+Once in the Generator Room, go forward for a scene. Regardless of what
+it may seem, the choice doesn’t matter.
+
+Narcissa will leave for Goldenleaf Town. Go back to the Generator Room
+to pick ***TM64 Explosion*** and the ***Electric Memory*** on the
+northeast side.
+
+Go to the Help Center and claim your reward: $3500.
+
+### Quest 58: Narcissa’s Hauntings (Second Part)
+
+Let’s leave the quests of the Help Center in standby and go to
+Goldenleaf Town to find the young Narcissa in front of her house. Speak
+with her and follow her inside the house.
+
+Now follow her to the upper floor and advance to the end. Talk with her
+and enter the room.
+
+Inspect the diary on the table to proceed.
+
+You need to go to Phasial Cave. Bring a mon with either Dark Pulse or
+Night Daze.
+
+Go the northwest of the cave and use Rock Climb to reach a ladder
+leading us to a new part of the cave. Here you need to use one of those
+two moves to turn the Crystal Cave into a Dark Crystal Cave. A scene
+will happen after the battle with the changed field finishes.
+
+On the top-right corner there is an **Ability Capsule**.
+
+We can’t do more here for now, so return to Goldenleaf Town.
+
+### Quest 60: Spector Quest
+
+Talk to the man in front of the Giratina Statue, Spector. The scene has
+extra content, so its worthy coming at nighttime.
+
+<u>Note: He is there only if you started Narcissa’s Hauntings.</u>
+
+Enter Wispy Ruins from here. Take the right vines down and enter the
+8-badge gate to the right. Take the ***Elemental Seed*** in the chest.
+
+Leave and enter Wispy Tower and talk to Spector on the north. Again,
+scene is longer if it is nighttime, and you get a choice. It doesn't
+matter what you choose though.
+
+Head into the Lost Castle to talk to Spector in the northern room.
+Again, it is a longer scene if it is nighttime.
+
+Head into Narcissa's gym. Head through the backstage theatre as normal
+and talk to Spector when you see him. This time the dialogue at night is
+shorter. If the dialogue is spoken during the day, you learn the isn’t
+really himself at night, which explains his change of behavior.
+
+You can face him in the stage on the auditorium regardless of day or
+night, but if you defeat him at night you get an extra reward.
+
+Note that the Spector has a different team on night and say and you can
+only face one of them. The choice when playing night doesn't matter.
+
+It is a double battle.
+
+Daytime Team.
+
+**Ghost Kid Spector (Haunted Field). Story Mode.**
+-   Murkrow, Level 58. @ Eviolite.
+    -   Perish Song
+    -   Night Shade
+    -   Roost
+    -   Protect
+-   Gothitelle, Level 59. @ Kasib Berry.
+    -   Fake Out
+    -   Hypnosis
+    -   Protect
+    -   Psychic
+-   Gengar, Level 58.
+    -   Hypnosis
+    -   Perish Song
+    -   Mean Look
+    -   Spectral Scream
+-   Cursola, Level 60.
+    -   Strength Sap
+    -   Hex
+    -   Protect
+    -   Whirlpool
+-   Banette, Level 61. @ Banettite.
+    -   Shadow Sneak
+    -   Destiny Bond
+    -   Protect
+    -   Shadow Claw
+
+**Ghost Kid Spector (Haunted Field). Classic Mode.**
+-   Murkrow, Level 60. @ Eviolite.
+    -   Perish Song
+    -   Night Shade
+    -   Roost
+    -   Protect
+-   Gothitelle, Level 60. @ Kasib Berry.
+    -   Fake Out
+    -   Hypnosis
+    -   Protect
+    -   Psychic
+-   Gengar, Level 61. @ Focus Sash.
+    -   Hypnosis
+    -   Perish Song
+    -   Mean Look
+    -   Spectral Scream
+-   Cursola, Level 61. @ Focus Sash.
+    -   Strength Sap
+    -   Hex
+    -   Protect
+    -   Whirlpool
+-   Ninetales, Level 62. @ Magical Seed.
+    -   Protect
+    -   Fire Spin
+    -   Ominous Wind
+    -   Hypnosis
+-   Banette, Level 63. @ Banettite.
+    -   Shadow Sneak
+    -   Destiny Bond
+    -   Protect
+    -   Shadow Claw
+
+Nighttime Team
+
+**Ghost Kid Spector (Haunted Field). Story Mode.**
+-   Stonjourner, Level 57.
+    -   Protect
+    -   Rock Slide
+    -   Heavy Slam
+    -   Stone Edge
+-   Aevian Sigilyph, Level 58. @ Magical Seed.
+    -   Tailwind
+    -   Hex
+    -   Heat Wave
+    -   Moonblast
+-   Aevian Golisopod, Level 58.
+    -   First Impression
+    -   Bone Rush
+    -   X-Scissor
+    -   Shadow Sneak
+-   Hisuian Typhlosion, Level 60.
+    -   Infernal parade
+    -   Flamethrower
+    -   Focus Blast
+    -   Protect
+-   Banette, Level 61. @ Banettite.
+    -   Shadow Sneak
+    -   Disable
+    -   Gunk Shot
+    -   Shadow Claw
+
+**Ghost Kid Spector (Haunted Field). Classic Mode.**
+-   Stonjourner, Level 60. @ Focus Sash.
+    -   Protect
+    -   Rock Slide
+    -   Heavy Slam
+    -   Heat Crash
+-   Aevian Sigilyph, Level 60. @ Magical Seed.
+    -   Tailwind
+    -   Shadow Ball
+    -   Heat Wave
+    -   Moonblast
+-   Luxray, Level 61. @ Magical Seed.
+    -   Crunch
+    -   Wild Charge
+    -   Façade
+    -   Howl
+-   Aevian Golisopod, Level 61. @ Ghost Gem.
+    -   First Impression
+    -   Bone Rush
+    -   Pin Missile
+    -   Shadow Sneak
+-   Hisuian Typhlosion, Level 62. @ Life Orb.
+    -   Infernal parade
+    -   Eruption
+    -   Focus Blast
+    -   Protect
+-   Banette, Level 63. @ Banettite.
+    -   Shadow Sneak
+    -   Disable
+    -   Gunk Shot
+    -   Phantom Force
+
+Two very different battles, and on Classic Mode, both go over the level
+cap. Mega-Banette is the only one in common and the clear ace.
+
+The day team feels more focused on trickery rather than strength while
+the night one feels more offensive-focused and hits very hard.
+
+Anyway, neither of them is troublesome enough that you can’t win with a
+properly trained team. If anything, the night one may be easier despite
+hitting stronger as it is more straightforward.
+
+Win to get the ***Ghost Memory***.
+
+If you fought at night, you also get 2 ***Ghost Gems*** and 3 ***Kasib
+Berries***.
+
+### Quest 61: House Sit 
+
+Return to West Gearen City and accept this quest on the Help Center.
+
+Go to Saki's house, west of the Power Plant, and talk to Erina in front
+of the door.
+
+Read the note on the table. Do an action a total of 3 times, it doens0t
+matter if they are the same or different. Now, use the stars on the left
+side.
+
+**Team Anti-Assist Neville and Team Anti-Assist Kalista (No Field).
+Story Mode.**
+-   Heliolisk, Level 53. (Neville)
+-   Cofagrigus, Level 54. (Neville)
+-   Poliwrath, Level 56. (Neville)
+-   Vileplume, Level 548. (Kalista)
+-   Skuntank, Level 53. (Kalista)
+-   Flygon, Level 55. (Kalista)
+
+**Team Anti-Assist Neville and Team Anti-Assist Kalista (No Field).
+Classic Mode.**
+-   Heliolisk, Level 58. (Neville)
+    -   Hyper Voice
+    -   Parabolic Charge
+    -   Thunderbolt
+    -   Hidden Power (Ice)
+-   Cofagrigus, Level 58. (Neville)
+    -   Shadow Ball
+    -   Toxic Spikes
+    -   Trick Room
+    -   Infestation
+-   Poliwrath, Level 58. (Neville)
+    -   Dual Chop
+    -   Waterfall
+    -   Rest
+    -   Throat Chop
+-   Vileplume, Level 58. (Kalista)
+    -   Strength Sap
+    -   Sleep Powder
+    -   Moonblast
+    -   Giga Drain
+-   Skuntank, Level 58. (Kalista)
+    -   Play Rough
+    -   Sucker Punch
+    -   Toxic
+    -   Flamethrower
+-   Flygon, Level 58. (Kalista)
+    -   Dig
+    -   Dragon Claw
+    -   Giga Drain
+    -   Crunch
+
+Not a hard fight. Once you are finished, do three more actions.
+
+Head upstairs and go right twice to reach Saki's room. Read the diary at
+the southern part of the room.
+
+Re-enter the house, and head up and right.
+
+GO back to the Help Plaza to claim your reward: $5500.
+
+### Quest 62: Hidden Library 3 
+
+Accept the last quest on the Help Center.
+
+Go to Gearen Park and enter the Hidden Library.
+
 
 
 
