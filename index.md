@@ -212,6 +212,9 @@
   - [West Gearen City Sewer Management](#west-gearen-city-sewer-management)
   - [Detour Before Pulse Badge](#detour-before-pulse-badge)
     - [West Gearen City](#west-gearen-city)
+    - [Quest 30: Lost Souls (All Kids)](#quest-30-lost-souls-all-kids)
+    - [Quest 12: Virtual League (Finish)](#quest-12-virtual-league-finish)
+    - [Quest 59: Generator Problems](#quest-59-generator-problems)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -16512,6 +16515,22 @@ before the Gym Battle.
 
 ## Detour Before Pulse Badge
 
+You are inside the Power Plant, take left door, and then the northern
+one.
+
+Pick up the ***Metal Coat*** here. Head downstairs. We need gather 5
+Electric types, and 5 Fire types to donate. The electric one in the
+north room and the fire ones in the southern room. The easiest way to do
+this is to breed a mon of each type and take all their babies back.
+Return to each person with the 5 Pokémon to get the ***Electrizer*** and
+***Magmarizer**.* Pick up 2 ***Cell Batteries*** on each side of the
+Electrodes in the northern room.
+
+Leave the Power Plant.
+
+Go to the left and then to the north to find a ***Data Chip***. On the
+boxes two tiles left to there is a hidden ***Magnet***.
+
 Return to the sewers and use the elevator to reach the place we fought
 Rift Garbodor. There is a Zygarde Cell on the top-right corner.
 
@@ -16523,11 +16542,581 @@ Rift Garbodor. There is a Zygarde Cell on the top-right corner.
 
 Time to explore West Gearen.
 
+You can use the ship near the sewers to return to East Gearen if needed.
+
+Go to the west side. It is very hard to see but just before the second
+trainer that will fight there is a Zygarde Cell in the south.
+
+**ZCell 092: West Gearen City**
+
+<img src="assets/media/image104.png" width="512"/>
+
+On this western area there is grass with encounters.
+
+**West Gearen City Area (Pool Side) Encounters (City Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|
+| Liepard            | 20    | Liepard        | 20    | Liepard          | 20    |
+| **Watchog**        | 10    | **Watchog**    | 10    | **Watchog**      | 10    |
+| Bibarel            | 10    | Bibarel        | 10    | Bibarel          | 10    |
+| Bronzor            | 10    | Bronzor        | 10    | Bronzor          | 10    |
+| **Bronzong**       | 10    | **Bronzong**   | 10    | **Bronzong**     | 10    |
+| Weepinbell         | 10    | Weepinbell     | 10    | Weepinbell       | 10    |
+| Dustox             | 5     | Dustox         | 5     | Dustox           | 5     |
+| Raticate           | 5     | Raticate       | 5     | Raticate         | 5     |
+| Mightyena          | 5     | Mightyena      | 5     | Mightyena        | 5     |
+| Glameow            | 5     | Glameow        | 5     | Purugly          | 5     |
+| Unfezant           | 5     | Parasect       | 5     | Parasect         | 5     |
+| Beedrill           | 5     | Beedrill       | 5     | Chimecho         | 5     |
+
+On the northwest, on a lone tile of grass, there is a hidden
+**Lemonade**.
+
+Go to the south of the pool to find a ***Rose Incense*** a tile right
+and two up from a kid.
+
+That kid is the last kid of the Lost Souls Quest, Tyreese. Talk to have
+Tyresse go to the camp with the others. We can proceed with this quest
+going to the camp, but we are going to finish exploring the city first.
+
+Return to the crossroads and head south into the city proper.
+
+**West Gearen City (Main Area) Encounters**
+
+| **Grass: Morning/Day** | **%** | **Grass: Night** | **%** |
+|------------------------|-------|------------------|-------|
+| Klang                  | 20    | Klang            | 20    |
+| Watchog                | 15    | Watchog          | 10    |
+| Bibarel                | 15    | Bibarel          | 10    |
+| Bronzor                | 10    | Bronzor          | 10    |
+| Bronzong               | 10    | Bronzong         | 10    |
+| Weepinbell             | 10    | Galarian Meowth  | 10    |
+| Raticate               | 10    | Raticate         | 10    |
+| Mightyena              | 5     | Mightyena        | 5     |
+| **Morpeko**            | 5     | Parasect         | 5     |
+|                        |       | Purugly          | 5     |
+|                        |       | **Perrserker**   | 5     |
+
+Head west as soon as you can and a tile away of the Help Center there is
+a hidden ***Telluric Seed***. Note that if for any reason you haven’t
+gotten Andrew, the kid from the Abandoned Sewers, he will appear next to
+the Help Center, but if you have been following this guide, he has been
+in the cap for quite a long time.
+
+Some tiles under the entrance of the Help Center, there is a hidden
+***Yellow Shard***.
+
+A bit south of here, there is a woman selling ***Blast Powder*** for
+$25000. It's pretty expensive and unnecessary to get it here. She will
+disappear once we get on tenth badge.
+
+Go south and on the second garbage dump, you will find a hidden Gourmet
+Treat.
+
+Continue down in front of a barrel left of a house with a red door there
+is a hidden Muscle Wing.
+
+Now to the right to find another Zygarde Cell. Check the wall of the
+building opposite to the Zygarde Cell for a hidden ***Max Repel***, and
+on the north, near the water, a hidden ***Red Shard***.
+
+**ZCell 093: West Gearen City**
+
+<img src="assets/media/image105.png" width="512"/>
+
+Head west and enter the house we a red door and a sign.
+
+**West Gearen Rare Fossil Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Old Amber*    | $75000    |
+| *Cover Fossil* | $75000    |
+| *Plume Fossil* | $75000    |
+
+Three more fossils. Buy them as we are going to revive them soon.
+
+Continue west a bit until a crossroad. Check the tile above the northern
+three on the south to find a hidden ***Green Shard***. Continue the
+south path and go west when you can to talk with Karen and have a small
+scene which is different depending on if you did the second quest of the
+Hidden Library or not.
+
+Return to the crossroads and head west. Advance until seeing as brick
+bridge. On the southeast corner before it, there is a hidden **Zinc**.
+
+Now go north on the previous crossroad, and on the next crossroad, had
+east to fin a hidden Max Repel on the southern side.
+
+Enter the building here. Gearen News HQ.
+
+On the left room, there is a ***Hyper Potion*** and breeder who gives 5
+***Exp. Candy L*** if defeated, or just speaking with the pinata
+password. Now go to the northeastern room to find ***Wide Lens***.
+
+Leave the building and go west. If you go north a bit there is a hidden
+***Dusk Stone***. Continue north and check the first garbage dump to
+find a hidden ***Float Stone***.
+
+Cut a three on the northwest end to gain access to ***TM21
+Frustration***.
+
+Take the Truck Guy here, and go to Akuwa Town where you can revive the
+fossils we bought and get **Aerodactyl**, **Archen**, and **Tirtouga**.
+
+### Quest 30: Lost Souls (All Kids)
+
+Since you are here, go to Maman’s place during daytime and talk to
+Maman. Now that we have the nine kids, donate $16000 for a final
+expansion. The choice on the scene doesn’t matter.
+
+Now go to the house on the north to check on Maman. Leave the house
+after Mosely run out for another scene.
+
+You won’t be able to proceed until reaching Grand Dream City.
+
+### Quest 12: Virtual League (Finish)
+
+Return to West Gearen City.
+
+Let’s go to the house in the southeast. Talt to a worked there to
+exchange of your 3 Absorb Bulbs for ***Protective Pads***.
+
+Enter the room on the left with a red door.
+
+We can face the Elite 4 and the Champion of the Virtual Legue if we
+speak with the woman.
+
+Your team depending on what you chose as starter:
+-   Meganium 58. Gengar 56. Ampharos 56. Espeon 53. Politoed 56.
+    Skarmory 56.
+-   Typhlosion 58. Qwilfish 56. Steelix 56. Jolteon 56. Miltank 56.
+    Gliscor 56.
+-   Feraligatr 58. Arcanine 56. Donphan 56. Umbreon 53. Porygon2 56.
+    Heracross 56
+
+For some reason Chikorita line has Espeon at lower level than it should
+compared to the other two.
+
+You can "take a break" after each win: if you do, you can save between
+each member. Your team will be always full heal between battles
+regardless of if you stop or not.
+
+**Elite Four Will (Glitch Field). Story Mode.**
+-   Jynx, Level 47.
+    -   Lovely Kiss
+    -   Psychic
+    -   Blizzard
+    -   Thief
+-   Exeggutor, Level 47.
+    -   Leech Seed
+    -   Sleep Powder
+    -   Giga Drain
+    -   Psychic
+-   Espeon, Level 48. @ Twisted Spoon.
+    -   Psychic
+    -   Yawn
+    -   Bite
+    -   Hidden Power Fire
+-   Slowbro, Level 47. @ Chesto Berry.
+    -   Belly Drum
+    -   Rest
+    -   Drain Punch
+    -   Strength
+-   Slowking, Level 49. @ Iron Ball.
+    -   Fling
+    -   Thunder Wave
+    -   Dragon Tail
+    -   Psychic
+-   Xatu, Level 50. @ Heat Rock.
+    -   Sunny Day
+    -   Heat Wave
+    -   SolarBeam
+    -   Psychic
+
+**Elite Four Will (Glitch Field). Classic Mode.**
+-   Jynx, Level 51. @ Ice Gem.
+    -   Lovely Kiss
+    -   Psychic
+    -   Blizzard
+    -   Thief
+-   Exeggutor, Level 51. @ Occa Berry.
+    -   Leech Seed
+    -   Sleep Powder
+    -   Giga Drain
+    -   Psychic
+-   Espeon, Level 52. @ Twisted Spoon.
+    -   Psychic
+    -   Yawn
+    -   Bite
+    -   Hidden Power Fire
+-   Slowbro, Level 51. @ Chesto Berry.
+    -   Belly Drum
+    -   Rest
+    -   Drain Punch
+    -   Sleep Talk
+-   Slowking, Level 52. @ Iron Ball.
+    -   Fling
+    -   Thunder Wave
+    -   Dragon Tail
+    -   Psychic
+-   Xatu, Level 53. @ Heat Rock.
+    -   Sunny Day
+    -   Heat Wave
+    -   SolarBeam
+    -   Psychic
+
+Not too much of a hard fight. You can abuse switch mid-battle if you are
+allowing yourself to that to always use a mon with advantage, and
+setting thins like Toxic Spikes, Spikes and Stealth Rock is always good
+for long fights, so use it if you have it. Be careful of Psychic,
+especially on any mon weak to it. As always super effective moves are a
+good choice.
+
+Your starter has a Crest, try to use it properly to gain advantage.
+
+**Elite Four Koga (Glitch Field). Story Mode.**
+-   Forretress, Level 50. @ Zoom Lens.
+    -   Toxic Spikes
+    -   Spikes
+    -   Zap Cannon
+    -   Explosion
+-   Muk, Level 51.
+    -   Fire Blast
+    -   Venoshock
+    -   Sleep Talk
+    -   Rest
+-   Weezing, Level 51.
+    -   Toxic Spikes
+    -   Flamethrower
+    -   Sludge Bomb
+    -   Venom Drench
+-   Qwilfish, Level 52. @ Payapa Berry.
+    -   Fell Stinger
+    -   Venoshock
+    -   Waterfall
+    -   Toxic Spikes
+-   Ariados, Level 52. @ Focus Band.
+    -   Sucker Punch
+    -   Mega Horn
+    -   Venoshock
+    -   Stomping Tantrum
+-   Crobat, Level 53. @ Leftovers.
+    -   Toxic
+    -   Wing Attack
+    -   Roost
+    -   Heat Wave
+
+**Elite Four Koga (Glitch Field). Classic Mode.**
+-   Forretress, Level 53. @ Zoom Lens.
+    -   Toxic Spikes
+    -   Spikes
+    -   Zap Cannon
+    -   Explosion
+-   Muk, Level 54. @ Black Sludge.
+    -   Fire Blast
+    -   Venoshock
+    -   Sleep Talk
+    -   Rest
+-   Weezing, Level 54. @ Sitrus Berry.
+    -   Toxic Spikes
+    -   Flamethrower
+    -   Sludge Bomb
+    -   Venom Drench
+-   Qwilfish, Level 55. @ Payapa Berry.
+    -   Fell Stinger
+    -   Venoshock
+    -   Hydro Pump
+    -   Toxic Spikes
+-   Ariados, Level 55. @ Focus Band.
+    -   Sucker Punch
+    -   Mega Horn
+    -   Venoshock
+    -   Stomping Tantrum
+-   Crobat, Level 56. @ Leftovers.
+    -   Toxic
+    -   Double Team
+    -   Roost
+    -   Heat Wave
+
+Main issue here if getting poisoned and if Koga manages to put Toxic
+Spikes, it will be troublesome. Cyndaquil path can erase the spike with
+Qwilfish, but the others can’t.
+
+Gliscor (Cyndaquil Path), Steelix(Cyndaquil Path), and Skarmory
+Chikorita Path being immune to poison helps, but there is fire moves so
+Steelix and Skarmory won't last long against those.
+
+Otherwise, the fight isn’t too difficult if you try to go for fast
+damage. Stalling won’t go well in this battle.
+
+**Elite Four Bruno (Glitch Field). Story Mode.**
+-   Golem, Level 52. @ Muscle Band.
+    -   Rock Polish
+    -   Metronome
+    -   Rock Slide
+    -   Earthquake
+-   Granbull, Level 52. @ Leftovers.
+    -   Lovely Kiss
+    -   Return
+    -   Fire Blast
+    -   Metronome
+-   Kangaskhan, Level 53. @ Metronome.
+    -   Blizzard
+    -   Fire Blast
+    -   Hyper Beam
+    -   Power Up Punch
+-   Hitmonchan, Level 54. @ Expert Belt.
+    -   Drain Punch
+    -   Fire Punch
+    -   Ice Punch
+    -   Metronome
+-   Hitmonlee, Level 54. @ Choice Scarf.
+    -   Metronome
+    -   Metronome
+    -   Metronome
+    -   Metronome
+-   Machamp, Level 55. @ Payapa Berry.
+    -   Metronome
+    -   Dynamic Punch
+    -   Stone Edge
+    -   Fire Blast
+
+**Elite Four Bruno (Glitch Field). Classic Mode.**
+-   Golem, Level 54. @ Muscle Band.
+    -   Rock Polish
+    -   Metronome
+    -   Rock Slide
+    -   Earthquake
+-   Granbull, Level 55. @ Leftovers.
+    -   Lovely Kiss
+    -   Return
+    -   Fire Blast
+    -   Metronome
+-   Kangaskhan, Level 54. @ Metronome.
+    -   Blizzard
+    -   Fire Blast
+    -   Hyper Beam
+    -   Power Up Punch
+-   Hitmonchan, Level 56. @ Expert Belt.
+    -   Drain Punch
+    -   Fire Punch
+    -   Ice Punch
+    -   Metronome
+-   Hitmonlee, Level 56. @ Choice Scarf.
+    -   Metronome
+    -   Metronome
+    -   Metronome
+    -   Metronome
+-   Machamp, Level 57. @ Payapa Berry.
+    -   Metronome
+    -   Dynamic Punch
+    -   Stone Edge
+    -   Fire Blast
+
+A lot of his team being build around Metronome may make this the easiest
+fight if you are lucky or a very hard one if unlucky.
+
+If you manage to set two lines of Toxic Spikes, you can play around
+stalling and using items to make this fight easier, but only Cyndaquil
+Route can do this. Psychic moves on the other two routes are really
+useful though. Defeat them before they defeat you.
+
+**Elite Four Karen (Glitch Field). Story Mode.**
+-   Alolan Persian, Level 53.
+    -   Nasty Plot
+    -   Bite
+    -   Seed Bomb
+    -   Thunder
+-   Honchkrow, Level 52.
+    -   Steel Wing
+    -   Aerial Ace
+    -   Curse
+    -   Roost
+-   Tyranitar, Level 53. @ Passho Berry.
+    -   Blizzard
+    -   Thunder
+    -   Fire Blast
+    -   Dark Pulse
+-   Vileplume, Level 54.
+    -   Nature Power
+    -   Sleep Powder
+    -   Energy Ball
+    -   Infestation
+-   Houndoom, Level 54. @ Lum Berry.
+    -   Fire Blast
+    -   Laser Focus
+    -   Super Fang
+    -   Throat Chop
+-   Umbreon, Level 55. @ Leftovers.
+    -   Rest
+    -   Sleep Talk
+    -   Dark Pulse
+    -   Toxic
+
+**Elite Four Karen (Glitch Field). Classic Mode.**
+-   Alolan Persian, Level 55. @ Mental Herb.
+    -   Nasty Plot
+    -   Bite
+    -   Seed Bomb
+    -   Thunder
+-   Honchkrow, Level 56. @ Sitrus Berry.
+    -   Steel Wing
+    -   Aerial Ace
+    -   Curse
+    -   Roost
+-   Tyranitar, Level 57. @ Passho Berry.
+    -   Blizzard
+    -   Thunder
+    -   Fire Blast
+    -   Dark Pulse
+-   Vileplume, Level 55. @ Miracle Seed.
+    -   Nature Power
+    -   Sleep Powder
+    -   Energy Ball
+    -   Infestation
+-   Houndoom, Level 57. @ Lum Berry.
+    -   Fire Blast
+    -   Laser Focus
+    -   Super Fang
+    -   Throat Chop
+-   Umbreon, Level 58. @ Leftovers.
+    -   Rest
+    -   Sleep Talk
+    -   Dark Pulse
+    -   Toxic
+
+This fight is hard. You may need to abuse your items to have an easier
+time; they are restored on each battle anyway, so no need to save them
+for later. Vileplume will erase any Toxic Spikes while Honchkrow is
+immune to them and Spikes. Stealth Rock is still good.
+
+**Champion Lance (Glitch Field). Story Mode.**
+-   Alolan Exeggutor, Level 54.
+    -   Draco Meteor
+    -   Giga Drain
+    -   Dragon Hammer
+    -   Hyper Beam
+-   Arcanine, Level 55. @ Power Herb.
+    -   Dig
+    -   Flamethrower
+    -   Extreme Speed
+    -   Hyper Beam
+-   Aerodactyl, Level 55.
+    -   Aerial Ace
+    -   Rock Slide
+    -   Hone Claws
+    -   Hyper Beam
+-   Lapras, Level 55. @ Iapapa Berry.
+    -   Blizzard
+    -   Future Sight
+    -   Whirlpool
+    -   Hyper Beam
+-   Charizard, Level 56.
+    -   Fire Spin
+    -   Wing Attack
+    -   Dig
+    -   Blast Burn
+-   Dragonite, Level 58. @ Wise Glasses.
+    -   Agility
+    -   Outrage
+    -   Heat Wave
+    -   Hyper Beam
+
+**Champion Lance (Glitch Field). Classic Mode.**
+-   Alolan Exeggutor, Level 58. @ White Herb.
+    -   Draco Meteor
+    -   Giga Drain
+    -   Dragon Hammer
+    -   Hyper Beam
+-   Arcanine, Level 57. @ Power Herb.
+    -   Dig
+    -   Fire Blast
+    -   Extreme Speed
+    -   Hyper Beam
+-   Aerodactyl, Level 57. @ Normal Gem.
+    -   Aerial Ace
+    -   Rock Slide
+    -   Hone Claws
+    -   Hyper Beam
+-   Lapras, Level 58. @ Iapapa Berry.
+    -   Blizzard
+    -   Future Sight
+    -   Whirlpool
+    -   Hyper Beam
+-   Charizard, Level 58. @ Charcoal.
+    -   Fire Blast
+    -   Wing Attack
+    -   Earthquake
+    -   Blast Burn
+-   Dragonite, Level 60. @ Wise Glasses.
+    -   Agility
+    -   Outrage
+    -   Fire Blast
+    -   Hyper Beam
+
+I actually felt this fight easier than the previous one.
+
+First be careful with Alolan Exeggutor as it hits extremely hard. Try to
+take it out quickly with your strongest moves.
+
+Glitch Field Normal Gem Hyper Bram from Aerodactyl is likely a OHKO on
+most, although a Sturdy will survive it, so send a sacrifice against it.
+
+The best of this battle is that everyone after Alone Exeggutor is weak
+to stealth rocks, so set them up as soon as you can. Charizard in
+particular will lose half of its life to them.
+
+As always try to use super effective moves, and the fight will become
+far easier.
+
+After you defeat Lance, you will get the corresponding crest to your
+starter in the challenge: ***Meganium Crest***, ***Typhlosion Crest***,
+or ***Feraligatr Crest***. You'll also get 25 AP Points and a Somniam
+Mall stamp, which should be your first. You haven’t even visited the
+Somniam Mall yet; we will visit it in the future and the more stamps the
+better.
+
+You can now buy the other two crests at the Kecleon Bazar in Route 2.
+
+Go east to reach the left side of the Junction Bridge.
+
+Go northeast to find a Zygarde Cell.
+
+**ZCell 094: Junction Bridge**
+
+<img src="assets/media/image106.png" width="512"/>
+
+Leave though the east to reach East Gearen City.
+
+A couple shops have new wares:
+
+**Berry Emporium New Item (8 Badges)**
+
+| **Item**     | **Price** |
+|--------------|-----------|
+| *Occa Berry* | $750      |
+
+Buy a bunch of Occa Berries now for much later.
+
+Next, return to the Magnolia Library and show Zumi your Pokédex with
+Toxel inside. She will give you 15 ***Exp. Candy M**,* as well as
+mentioned a hint about one way to evolve it, but this guide already
+covered that.
+
+You can visit the Kecleon Bazar to buy the crests of the other two
+starters now for $50000 each; only one appear each day and can only be
+bought once. The one you already got won’t appear. Otherwise, return to
+West Gearen City and go to the Help Center.
+
+### Quest 59: Generator Problems 
 
 
 
-
-**The guide is still work-in progress, so from here onwards, it isn't available yet, but the Karma files and some 13.5 new quests are available although may not be complete with all details.**
+**The guide is still work-in progress, so from here onwards, it isn't
+available yet, but the Karma files and some 13.5 new quests are
+available although may not be complete with all details.**
 
 # Karma Files (Paragon Route Chapter 0)
 
