@@ -887,8 +887,11 @@ find a hidden ***Green Shard***.
 Continue east and you will reach the right part of East Gearen City,
 which has different encounters than the left part we were before.
 
-Just before the area changes, there is a hidden ***Oran Berry*** on the
-cleared patch of grass.
+Just before the area changes, there is a hidden ***Oran Berry*** below
+the flowers at the north.
+
+Just as the area changes, continue to the right until some barrels,
+there is a hidden ***Heart Scale*** here.
 
 **Right East Gearen City Encounters (City Field)**
 
