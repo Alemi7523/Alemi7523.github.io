@@ -220,6 +220,7 @@
     - [Quest 61: House Sit](#quest-59-house-sit)
     - [Quest 62: Hidden Library 3](#quest-21-hidden-library-3)
   - [Pulse Badge](#pulse-badge)
+- [Chapter 10: Stopped in Our Tracks](#chapter-10-stopped-in-our-tracks)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -16739,7 +16740,7 @@ regardless of if you stop or not.
 -   Xatu, Level 50. @ Heat Rock.
     -   Sunny Day
     -   Heat Wave
-    -   SolarBeam
+    -   Solar Beam
     -   Psychic
 
 **Elite Four Will (Glitch Field). Classic Mode.**
@@ -16771,7 +16772,7 @@ regardless of if you stop or not.
 -   Xatu, Level 53. @ Heat Rock.
     -   Sunny Day
     -   Heat Wave
-    -   SolarBeam
+    -   Solar Beam
     -   Psychic
 
 Not too much of a hard fight. You can abuse switch mid-battle if you are
@@ -17603,6 +17604,155 @@ egg and +1 Karma.
 Head back to Erick's gym and head up to challenge him.
 
 ## Pulse Badge
+
+Head outside. Enter the factory here. Approach the door and talk to
+Amanda to fight her in a double battle:
+
+**League Scout Amanda (Factory Field). Story Mode.**
+-   Torkoal, Level 54. @ Heat Rock.
+    -   Eruption
+    -   Heave Wave
+    -   Sludge Bomb
+    -   Earth Power
+-   Bronzong, Level 55. @ Occa Berry.
+    -   Trick Room
+    -   Gyro Ball
+    -   Psywave
+    -   Explosion
+-   Druddigon, Level 55. @ Druddigon Crest.
+    -   Glare
+    -   Dragon Claw
+    -   Fire Punch
+    -   Sucker Punch
+-   Incineroar, Level 56. @ Sitrus Berry.
+    -   Flare Blitz
+    -   Fake Out
+    -   Darkest Lariat
+    -   U-Turn
+
+**League Scout Amanda (Factory Field). Classic Mode.**
+-   Incineroar, Level 56. @ Assault Vest.
+    -   Flare Blitz
+    -   Fake Out
+    -   Darkest Lariat
+    -   U-Turn
+-   Hatterene, Level 59. @ Babiri Berry.
+    -   Psychic
+    -   Mystical Fire
+    -   Shadow Ball
+    -   Trick Room
+-   Druddigon, Level 56. @ Druddigon Crest.
+    -   Dragon Claw
+    -   Fire Punch
+    -   Sucker Punch
+    -   Gunk Shot
+-   Torkoal, Level 57. @ Heat Rock.
+    -   Eruption
+    -   Heave Wave
+    -   Earth Power
+    -   Solar Beam
+-   Bronzong, Level 59. @ Occa Berry.
+    -   Rock Slide
+    -   Gyro Ball
+    -   Trick Room
+    -   Sunny Day
+-   Miltank, Level 58. @ Chople Berry.
+    -   Return
+    -   Gyro Ball
+    -   Thunder Wave
+    -   Hammer Arm
+
+She plays with Trick Room, which may become troublesome if all your team
+is fast. You can prevent it killing Hatterene before she can move, which
+should make the fight easier. Priority moves also work to attack faster
+in Trick Room, but again, the best is to prevent the Trick Room to have
+a team that makes good use of it yourself.
+
+Enter the door for a Gym Battle. Again it is a double battle.
+
+**Electrical Engineer Erick (Murkwater Field). Story Mode.**
+-   Stunkfisk, Level 55. @ Magnet.
+    -   Mud Shot
+    -   Discharge
+    -   Scald
+    -   Mud Barrage
+-   Magneton, Level 54.
+    -   Discharge
+    -   Tri-Attack
+    -   Flash Cannon
+    -   Magnet Bomb
+-   Togedemaru, Level 55.
+    -   Iron Head
+    -   Spiky Shield
+    -   Zing Zap
+    -   Nuzzle
+-   Hisuian Electrode, Level 56.
+    -   Thunder Raid
+    -   Chloroblast
+    -   Protect
+    -   Foul Play
+-   Electivire, Level 60. @ Leftovers.
+    -   Thunder Raid
+    -   Ice Punch
+    -   Low Kick
+    -   Meditate
+
+**Electrical Engineer Erick (Murkwater Field). Classic Mode.**
+-   Electivire, Level 60. @ Assault Vest.
+    -   Thunder Raid
+    -   Ice Punch
+    -   Cross Chop
+    -   Fire Punch
+-   Alolan Raichu, Level 58. @ Wise Glasses.
+    -   Discharge
+    -   Psychic
+    -   Focus Blast
+    -   Grass Knot
+-   Magneton, Level 56. @ Eviolite.
+    -   Hidden Power Grass
+    -   Signal Beam
+    -   Thunderbolt
+    -   Flash Cannon
+-   Togedemaru, Level 58. @ Elemental Seed.
+    -   Thunder Raid
+    -   Iron Head
+    -   Fell Stinger
+    -   Poison Jab
+-   Eelektross, Level 57. @ Assault Vest.
+    -   Thunder Raid
+    -   Flamethrower
+    -   Giga Drain
+    -   Acid Spray
+-   Ampharos, Level 59. @ Ampharosite.
+    -   Volt Switch
+    -   Dragon Pulse
+    -   Protect
+    -   Hidden Power Ice
+
+Thunder Raid: Electric. Physical. 3-hit move, hits are 20, 40, and 60
+power. 100% accuracy.
+
+The field is troublesome, so I recommend changing it to Icy Field unless
+you are going to take full advantage of it. Blizzard is the move to do
+it and at this point, having it on your team isn’t hard; Remember that
+on Hail weather it doesn’t fail so combining with the Snow Warnign
+ability is great to change the field for certain on the first turn. The
+battle becomes really easy this way.
+
+Otherwise, you are having to deal with constant damage and Alolan Raichu
+having its ability always activated, so it will outspeed you. Ground
+moves will always fail too. You can still without issues, but the battle
+is certainly harder than if you change the field.
+
+After you will, you will receive the **Pulse Badge**, which raises the
+level cap to 65. You also receive the ***TM72 Volt Switch***.
+
+After the scenes use the elevator to see another scene, but this one is
+about Angie. The chapter ends here.
+
+# Chapter 10: Stopped in Our Tracks
+
+As usual, another Team Xen Scene to begin the chapter.
 
 
 
