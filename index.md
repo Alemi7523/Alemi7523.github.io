@@ -17578,7 +17578,7 @@ Easy fight. Enter the cave after your victory.
 Advance and interact in the north to need to make a puzzle. It is very
 simple and basically the same from HGSS.
 
-<img src="media/image107.png" width="512"/>
+<img src="assets/media/image107.png" width="512"/>
 
 Once the puzzle is done, you will be back into reality.
 
