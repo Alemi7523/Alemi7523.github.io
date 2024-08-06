@@ -219,6 +219,7 @@
     - [Quest 60: Spector Quest](#quest-60-spector-quest)
     - [Quest 61: House Sit](#quest-59-house-sit)
     - [Quest 62: Hidden Library 3](#quest-21-hidden-library-3)
+  - [Pulse Badge](#pulse-badge)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -17389,13 +17390,220 @@ the southern part of the room.
 
 Re-enter the house, and head up and right.
 
-GO back to the Help Plaza to claim your reward: $5500.
+Go back to the Help Plaza to claim your reward: $5500.
 
 ### Quest 62: Hidden Library 3 
 
 Accept the last quest on the Help Center.
 
 Go to Gearen Park and enter the Hidden Library.
+
+Tehe the west bridge and go north to reach the room where Karen is. Talk
+to her.
+
+**Friendship Point Choice:**
+-   Sure (Karen +1)
+-   What’s in it for me? (Karen -2)
+-   Ok. (Neutral)
+
+Try to step on the right switch to be interrupted by Karrina.
+
+**Friendship Point Choice:**
+-   What the heck is happening (Karen -2)
+-   You are a good mother. (Karen +5)
+-   She’s just being a teen! (Karen +1)
+
+You won’t be able to leave the Hidden Library until the end of the
+quest.
+
+Leave this room and you will see a scene with Karrina. Now, head to the
+east room for another scene. Choices don’t matter.
+
+Search for the key, which is at the northwestern end of the room. Now go
+to the west wing and advance for a scene.
+
+Avoid Karens attacks, while also trying to reach her position.
+
+Note that you can find ***TM77 Psych Up*** on the northwestern since,
+which you can get by moving on the west side even during this event,
+preferably the first round, or pick them after finishing which is
+easier.
+
+You have to reach Karen’s position 3 times, and each round gets more
+difficult. Note that being hit hurts your whole party and that if in the
+third round Diancie or the green mist catch you, you will be send out to
+the beginning.
+
+Once you have finished, pick the third ***Ancient Teachings*** on your
+right, and the previously mentioned TM if you didn’t before. Now, enter
+the next room, and advance for a scene. The choice doesn’t matter. Time
+to fight Karrina.
+
+**Gang Leader Karrina (Blessed Field). Story Mode.**
+-   **Boosts:**
+    -   **Runerigus becomes Ghost/Fighting.**
+    -   **Musharna becomes Psychic/Grass.**
+    -   **Granbull becomes Fairy/Fire.**
+    -   **Nidoking becomes Poison/Electric.**
+-   Runerigus, Level 55. @ Red Card.
+    -   Curse
+    -   Shadow Claw
+    -   Body Press
+    -   Toxic Spikes
+-   Musharna, Level 56.
+    -   Energy Ball
+    -   Shadow Ball
+    -   Psyshock
+    -   Hypnosis
+-   Granbull, Level 57.
+    -   Play Rough
+    -   Thunder Wave
+    -   Fire Punch
+    -   Crunch
+-   Nidoking, Level 59. @ Expert Belt.
+    -   Earth Power
+    -   Thunderbolt
+    -   Poison Jab
+    -   Sludge Bomb
+
+**Gang Leader Karrina (Blessed Field). Classic Mode.**
+-   **Boosts:**
+    -   **Runerigus becomes Ghost/Fighting.**
+    -   **Musharna becomes Psychic/Grass.**
+    -   **Granbull becomes Fairy/Fire.**
+    -   **Alakazam becomes Psychic/Ghost.**
+    -   **Nidoking becomes Poison/Electric.**
+-   Runerigus, Level 58. @ Red Card.
+    -   Earthquake
+    -   Shadow Claw
+    -   Body Press
+    -   Toxic Spikes
+-   Musharna, Level 58. @ Zoom Lens.
+    -   Energy Ball
+    -   Dazzling Gleam
+    -   Psyshock
+    -   Hypnosis
+-   Granbull, Level 59. @ Babiri Berry.
+    -   Play Rough
+    -   Thunder Wave
+    -   Fire Punch
+    -   Earthquake
+-   Alakazam, Level 61. @ Wise Glasses.
+    -   Substitute
+    -   Psyshock
+    -   Dazzling Gleam
+    -   Shadow Ball
+-   Nidoking, Level 63. @ Expert Belt.
+    -   Earth Power
+    -   Thunderbolt
+    -   Poison Jab
+    -   Flamethrower
+
+She looks stronger than she is as long as you don’t forget the type
+changes and exploit them to your benefit.
+
+After defeating Karrina, you will be brought to the Atebit Town. Choice
+doesn’t matter.
+
+Advance to see another scene; the choice here doesn’t matter.
+
+Advance and turn left when you can. There is grass here.
+
+**Atebit Town Encounters (Glitch Field)**
+
+| **Grass** | **%** |
+|-----------|-------|
+| Unown     | 53    |
+| Hoothoot  | 20    |
+| Pidgey    | 12    |
+| Noctowl   | 10    |
+| Pidgeotto | 5     |
+
+On the leftmost point you will find an ***Exp. Candy XL***. Return to
+the central path and go north for another scene.
+
+Go left and up the hill to pick a ***Black Prism***. Return the main
+path and go right this time. The flowers teleport you to the main path
+again, so don’t step on them.
+
+Go south avoiding all the flowers and turn left when you can, there is a
+***Time Flute*** at the shrine’s side.
+
+Return to the main path and enter the house on the north for a scene.
+
+**Friendship Point Choice:**
+-   Yes, I have. (Neutral)
+-   No. (Neutral)
+-   YES, I have. (Alice +1, Allen +1)
+
+The item in the table isn’t an item but a device to heal your whole
+team, which you may need.
+
+Try to enter the right path again, the Funky Forest.
+
+This time go to the right once you find a path without flowers and go up
+until you can go right again. Head south for a ***Rare Candy***. GO all
+way north from here to find a **Carbos**. Continue to the left and turn
+up as soon as you can, you will find Alice.
+
+You will be back in the house. Afte the scene, return to where you found
+Alice. You can now go north into the Caution Cave, but you will be
+stopped and have to fight a double battle.
+
+**Gym Leader ALLEN (Glitch Field).**
+-   Togekiss, Level 58. @ Leftovers.
+    -   Aura Sphere
+    -   Glided Arrow
+    -   Dazzling Gleam
+    -   Flamethrower
+-   Absol, Level 59. @ Absolite.
+    -   Sucker Punch
+    -   Night Slash
+    -   Iron Tail
+    -   Fire Blast
+-   Alolan Ninetales, Level 59. @ Light Clay.
+    -   Frost Breath
+    -   Aurora Veil
+    -   Moonblast
+    -   Hex
+-   Sableye, Level 61. @ Magical Seed.
+    -   Power Gem
+    -   Calm Mind
+    -   Shadow Ball
+    -   Dark Pulse
+
+Easy fight. Enter the cave after your victory.
+
+Advance and interact in the north to need to make a puzzle. It is very
+simple and basically the same from HGSS.
+
+<img src="media/image107.png" width="512"/>
+
+Once the puzzle is done, you will be back into reality.
+
+Go north and open the door by standing on the right switch and enter the
+new room.
+
+You have to choose between Banettite or Heracronite. IT is possible to
+get the other one way later, but only by taking a bad choice, so if you
+don’t want that, you may not be able to get the other until future
+versions.
+
+After having the MegaStone, the quest will finish.
+
+Before leaving the Hidden Library, go to the west wing and then go
+north, to the room we fourth Karrina. Go the stage and to the left of
+it. Three tiles down from the top, inspect the left side to get a hidden
+***Charcoal***.
+
+Return to the Help Center to get $4000 as a reward, and as you have
+finished all the quests of this Help Center, you will get a **Turtwig**
+egg and +1 Karma.
+
+Head back to Erick's gym and head up to challenge him.
+
+## Pulse Badge
+
 
 
 
