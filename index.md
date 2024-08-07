@@ -18121,18 +18121,18 @@ Leave the bar and use the northern exit to reach Honec Woods.
 
 **Honec Woods Encounters (Swamp Field)**
 
-| **Grass**     | **%** | **Water**  | **%** | **Honey Trees** | **%** | **Old/Good Rod** | **%** |
-|---------------|-------|------------|-------|-----------------|-------|------------------|-------|
-| Carnivine     | 25    | Tympole    | 50    | Burmy           | 70    | Skrelp           | 100   |
-| Combee        | 15    | Wooper     | 25    | Combee          | 24    |                  |       |
-| Stunfisk      | 10    | Palpitoad  | 15    | Aipom           | 4     |                  |       |
-| Shelmet       | 10    | Quagsire   | 7     | Forretress      | 2     |                  |       |
-| Karrablast    | 12    | Seismitoad | 3     |                 |       |                  |       |
-| Charjabug     | 10    |            |       |                 |       |                  |       |
-| Venonat       | 5     |            |       |                 |       |                  |       |
-| **Venomoth**  | 4     |            |       |                 |       |                  |       |
-| **Blipbug**   | 2     |            |       |                 |       |                  |       |
-| **Vespiquen** | 2     |            |       |                 |       |                  |       |
+| **Grass**     | **%** | **Water**  | **%** | **Old/Good Rod** | **%** |
+|---------------|-------|------------|-------|------------------|-------|
+| Carnivine     | 25    | Tympole    | 50    | Skrelp           | 100   |
+| Combee        | 15    | Wooper     | 25    |                  |       |
+| Stunfisk      | 10    | Palpitoad  | 15    |                  |       |
+| Shelmet       | 10    | Quagsire   | 7     |                  |       |
+| Karrablast    | 12    | Seismitoad | 3     |                  |       |
+| Charjabug     | 10    |            |       |                  |       |
+| Venonat       | 5     |            |       |                  |       |
+| **Venomoth**  | 4     |            |       |                  |       |
+| **Blipbug**   | 2     |            |       |                  |       |
+| **Vespiquen** | 2     |            |       |                  |       |
 
 Go to the left and cut a tree on the south to get 3 ***Starf Berries***
 from a berry tree.
@@ -18163,6 +18163,13 @@ Advance north for a scene. Choice doesn’t matter.
 
 After the scene, check the northeast tree for a hidden ***Aspear
 Berry***. The tree in the middle is a Honey Tree.
+
+| **Honey Trees** | **%** |
+|-----------------|-------|
+| Burmy           | 70    |
+| Combee          | 24    |
+| Aipom           | 4     |
+| Forretress      | 2     |
 
 Return to the previous map and cross the stairs to the south a total of
 three times. Here surf to the right and leave Honec Woods.
