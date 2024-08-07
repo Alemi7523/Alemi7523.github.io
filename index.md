@@ -217,10 +217,15 @@
     - [Quest 59: Generator Problems](#quest-59-generator-problems)
     - [Quest 58: Narcissa's Hauntings (Second Part)](#quest-58-narcissas-hauntings-second-part)
     - [Quest 60: Spector Quest](#quest-60-spector-quest)
-    - [Quest 61: House Sit](#quest-59-house-sit)
-    - [Quest 62: Hidden Library 3](#quest-21-hidden-library-3)
+    - [Quest 61: House Sit](#quest-61-house-sit)
+    - [Quest 62: Hidden Library 3](#quest-63-hidden-library-3)
   - [Pulse Badge](#pulse-badge)
 - [Chapter 10: Stopped in Our Tracks](#chapter-10-stopped-in-our-tracks)
+  - [Grand Express](#grand-express)
+  - [Route 7](#route-7)
+    - [Quest 62: Ben's Stolen Miltank](#quest-63-bens-stolen-miltank)
+  - [Darchlight Woods](#darchlight-woods)
+
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -17756,6 +17761,484 @@ about Angie. The chapter ends here.
 # Chapter 10: Stopped in Our Tracks
 
 As usual, another Team Xen Scene to begin the chapter.
+
+Go to Mr. Luck’s Tent as there is a new Move Tutor on the top-left
+corner.
+
+**Marlow (Move Tutor)**
+
+| **Aqua Tail**    | *4 Green Shards*  |
+|------------------|-------------------|
+| **Laser Focus**  | *4 Red Shards*    |
+| **Spikes**       | *4 Yellow Shards* |
+| **Reversal**     | *4 Green Shards*  |
+| **Endure**       | *4 Green Shards*  |
+| **Amnesia**      | *4 Blue Shards*   |
+| **Electro Ball** | *4 Yellow Shards* |
+| **Ally Switch**  | *4 Red Shards*    |
+| **Hyper Voice**  | *4 Blue Shards*   |
+
+Now go to Valor Cliffside, if you donate 10 Rock types to a guy here,
+you will get a ***Protector**,* which you can use to evolve Rhydon. You
+can repeat this to get more. It is quite easy with breeding. It is also
+possible to buy mor later on Somniam Mall, but that would be on Chapter
+15 on the earliest as we will need 8 Stamps. Remember that we have yet
+to visit this place, but we already got the first stamp.
+
+We won't be able to come back for a while, so if you want to buy
+something in the AP Shop, do it now. The Golden Gauntlets are important
+as they are the next item we will need to use a move outside of battle.
+Still, better to get them all as soon as you can and forget about having
+to buy them. Of course, you may already have them all if you used the
+password.
+
+Make sure you have at least 8 Sitrus Berries for a quest in the next
+chapter.
+
+Enter the station in West Gearen and talk to Melia. After this point,
+you won’t be able to visit Terajuma and Floria Island for a while.
+
+## Grand Express
+
+**Friendship Point Choice:**
+-   I’ll take the floor. (Venam +2)
+-   Someone gets the floor! (Neutral)
+
+You can now move though the Grand Express. You can use the PC and rest
+in bed next to it to heal and use the PC if you want.
+
+Leave the room. We are going to explore the Grand Express, but there is
+not much to do. To room on the right only has a trainer while the one in
+the left is locked for now.
+
+Talk to Venam for a scene.
+
+Now let’s visit the right wagon. There is nothing on the rightmost
+wagon. To continue with the story talk to Venam. The scene changes a bit
+fi you have completed the Black Shard quest.
+
+**Friendship Point Choice (If you did Tyluric Temple Quest):**
+-   Talon was my friend… (Kanon +2, Venam +2)
+-   … (Neutral)
+
+**Friendship Point Choice (If you didn’t do Tyluric Temple Quest):**
+-   We need to investigate (Kanon +2)
+-   … (Neutral)
+
+Once you can move, interact with the PC. You will be introduced to
+Rhodea. When given options, ask what you want, you can select all
+options.
+
+**Friendship Point Choice:**
+-   It’ll be okay. (Venam +1)
+-   It is kinda freaky. (Neutral)
+-   Toughen up. (Venam +3, Melia -1)
+-   Coward. (Venam -3, Melia -2)
+
+Now, leave the train using the southern door between wagons. We are
+making a quick visit to the Marine Tube. Talk to Kanon on the north of
+the right side to continue. The choice doesn’t matter.
+
+Return to the train and it will start moving again. Go to the room left
+to yours and knock on. Enter for a scene with April.
+
+First choice doesn’t matter. Second is Friendship Point Choice.
+
+**Friendship Point Choice:**
+-   Why are you on this train? (Neutral)
+-   Are you okay? (April +2)
+
+There is a lot of changes in the scene if you have completed the Black
+Shard quest. A little extra is also added for the quest with her
+Amethyst Mines, bit it is just a couple of lines.
+
+Next choice doesn’t matter.
+
+At the end of this scene, if you completed the Black Shard quest you get
++4 Friendship Points with April.
+
+Try to leave the room for another scene. This scene changes a bit if you
+finished the Amethyst Mines quest.
+
+Talk with Lunatone and it will follow you. Leave the room. Go to the
+rightmost part of the train and talk to Lunatone.
+
+## Route 7
+
+After the scenes we have reached Route 7, not out objective, but we
+can’t reach GDC without asking for the help of Kelvin in Oblitus Town.
+
+**Route 7/Yui’s Ranch Encounters (No Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|
+| **Skiddo**         | 22    | Wooloo         | 32    | Stantler         | 37    |
+| Skiploom           | 20    | **Tauros**     | 20    | Houndour         | 22    |
+| Rapidash           | 20    | Dubwool        | 15    | **Ledian**       | 20    |
+| Taillow            | 15    | Ponyta         | 10    | Noctowl          | 10    |
+| Ponyta             | 10    | Mudbray        | 5     | Ariados          | 6     |
+| Swellow            | 5     | Rapidash       | 5     | Audino           | 4     |
+| **Jumpluff**       | 4     | **Bouffalant** | 5     |                  |       |
+| Audino             | 2     | Audino         | 4     |                  |       |
+| **Gogoat**         | 2     | **Mudsdale**   | 2     |                  |       |
+|                    |       | **Gogoat**     | 2     |                  |       |
+
+**Route 7 Encounters (No Field)**
+
+| **Water**  | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|------------|-------|-------------|-------|--------------|-------|
+| Wooper     | 75    | Goldeen     | 70    | Remoraid     | 60    |
+| Quagsire   | 22    | Wooper      | 30    | Corphish     | 20    |
+| **Marill** | 3     |             |       | Quagsire     | 22    |
+
+We are limited in our movement due to the broke bridge and the train
+itself, so go south.
+
+We aren’t going to pick a couple of items before going to Oblitus Town.
+
+From the train, go south until reaching the water. If you are
+interested, you will see an overworld Deerling on the left after the
+stairs.
+
+Close to the left side on the bottom area, there is a hidden ***Blue
+Shard***. Move right and on the right since of a big rock in the north
+there is a hidden ***Honey***.
+
+Surf on the water and head west to find a Rare Candy on a small part of
+land.
+
+Now, it is time to leave this map through the right to reach Oblitus
+Town. Go to where your group is to trigger a scene. Continue north for
+another. Check the easternmost tile for a hidden Link Heart.
+
+Leave through the west to reach aa part of Route 7 you couldn’t access
+before.
+
+Advance for another scene and go north to reach Yui’s Ranch.
+
+There is a hidden Blue Shard on the southern tall grass and a hidden
+Green Shard on the northern tall grass. Use the Item Finder to pinpoint
+their position. Check the yellow tree on the left for a hidden ***Fire
+Gem***.
+
+Cross the westerns bridge and go down to reach yet another part of the
+map where the train is struck.
+
+Go south and you will find an **Ether**. Go north, cut a tree end enter
+the house. Talk with the man, he is Dean or Sardines, the PC Manager.
+Your PC will now be called Dines’s PC.
+
+There is a hard to see tree you can cut on the left side, covered by
+some tall grass. Cut it and advance to reach a new part of the map.
+
+On a tile without grass just north of where the wagon starts there is a
+hidden ***Green Shard***. Avance till the end to find a Zygarde Cell.
+
+**ZCell 095: Route 7**
+
+<img src="assets/media/image108.png" width="512"/>
+
+Go to the south side. On a tile without grass between a lot of it, there
+is a hidden ***Balm Mushroom***. Continue to the left and from the
+stairs of the wagon move tree tiles down and inspect your left for a
+hidden ***Rare Candy***.
+
+Enter the wagon and pick up ***Buginium Z***, which is our first
+Z-Crystal. Try to sleep on the bed for a scene.
+
+Return to Yui’s Ranch and go west once you can. When you need to go
+north, check the tile under a big rock for a hidden ***Ultra Potion***.
+
+Gor right and ignore the house, we will come back shortly. Once you see
+a trainer, check the spot without crass south of said trainer for a
+hidden ***Yellow Shard***. Under the left part a big rock there is a
+hidden ***Moomoo Milk***.
+
+Now continue to the right and check the rightmost part of the rightmost
+tree, the is a hidden ***Max Repel*** here.
+
+Note: The Zygarde Cell you can see on this area is unreachable in V13.5.
+
+Enter the building. You need to check the left tile under the straw on
+the side the breeder is walking for a hidden ***Stable Mulch***.
+
+Check the right side of the straw in the north for a hidden ***Moomoo
+Milk***.
+
+Use the door on the left. The one in the right is locked.
+
+A tile right of the southwest corner has a hidden ***Revive***. Check
+the left side of the straw in the northeast corner for a hidden
+***Moomoo Milk***.
+
+Talk to the Miltank and give her a total of 8 Sitrus Berries. Now, you
+can have a chance to catch this ***Miltank*** if you speak with her
+again.
+
+Go to the northern area. Note that during the day, there are some
+Miltank you can give an Oran Berry to receive ***Moomoo Milk*** in
+exchange.
+
+Check the right vegetable of the upper side for a hidden ***Pecha
+Berry***. Check the tile under the right part of a big rock in the
+northwest for a hidden ***Red Shard***. Go south from here for a Zygarde
+Cell.
+
+**ZCell 096: Yui's Ranch**
+
+<img src="assets/media/image109.png" width="512"/>
+
+Enter the right building at night. On the left side on the straw at your
+left, there is a hidden ***Moomoo Milk***. Check the tile at the right
+of the right Tauros for a hidden ***Sitrus Berry***. On the tile north
+of the left Tauros there is a hidden ***Oran Berry***. Diagonal up from
+the top-left Tauros there is a hidden ***Stable Mulch***.
+
+Go to the north and just before changing maps, go to the right to find a
+hidden Elemental Seed on the right of some tall grass. Ow go to the
+north map for a scene at the Grand Bridge, which is broken.
+
+Our next objective is in Darchlight Woods, but no way we aren’t
+exploring Route 7 in full before.
+
+Before leaving the map, go northeast to find ***TM123 Self Destruct***.
+Go to the northwest side for a Zygarde Cell.
+
+**ZCell 097: Grand Bridge**
+
+<img src="assets/media/image110.png" width="512"/>
+
+Go south for another scene. The choice doesn’t matter.
+
+Before leaving this map enter the house on the left, we ignored earlier.
+
+### Quest 63: Ben's Stolen Miltank
+
+Talk with the NPC upstairs to initiate this quest. To proceed this
+quest, it has to be night.
+
+<u>Note: For this quest to be available you must have completed Infinite
+Potential.</u>
+
+Speak with Ben here to continue the quest. After the scene go outside
+You have to catch all the Inkay.
+
+We need to head to Honec Woods, but the direct way is blocked. We will
+proceed to the place together with Route 7 exploration.
+
+Before leaving this map, interact with the post near the left house to
+activate it. This is how we teleport between points in Terrial Island,
+calling a Braviary.
+
+Return to where the Grand Express is on the southern Map. Now, one of
+the doors from the northern side let you enter. Leave through the other
+side and continue south. Turn west after the stairs and cross the bridge
+for a scene.
+
+**Friendship Point Choice:**
+-   She’s in the city? (Venam +2, Melia +2)
+-   Something bad happened… (Venam -2)
+
+Check the tree at northwest for a hidden ***Green Shard***. On this area
+there is an overworld **Sawsbuck**.
+
+Continue left to the next map and you will find an overworld **Starly**.
+This is our first chance to get it.
+
+Go upstairs and advance until seeing a scene with Florin and Flora. The
+scene is different if you haven’t done the Tyluric Temple quest.
+
+On the south there are some overworld mons like Sawsbuck and Paras, but
+nothing new.
+
+Cross to the west like Florin and Flore did. You will see an overworld
+Octillery on the way, and Deerling soon after.
+
+Go upstairs to see an overworld Graveler, and use the right stairs to
+descend. Continue east.
+
+Talk to Melia when you see her and choose to spend time with her. First
+choice doesn’t matter but second does.
+
+**Friendship Point Choice:**
+-   Hapi? (Melia +2)
+-   The food? (Melia -1)
+
+There is an additional choice if you select the option that gives you
+friendship points, but that option doesn’t matter.
+
+Continue west and go north. On the left of the big rock at the top there
+is a hidden ***Yellow Shard***. Two tiles left of the log, there is a
+hidden Blue Shard.
+
+Now use the eastern stairs and turn north when you can. You will see an
+overworld Venipede on your way.
+
+On the bifurcation, go right and check the northern flowers for a hidden
+***Red Shard***. Now go left and check a small rock after going down
+some stairs for a hidden PP Up. There is an overworld **Scolipede**
+here.
+
+Return to where Melia is and go north on the west side this time.
+
+This area has overworld Stantler and Fomantis. Surf the water to the
+land on the northwest corner to get a hidden ***Reverse Candy*** on the
+northern wall.
+
+Take the northern stairs, and activate the Braviary Post. Here there is
+a Mr. Luck Tent.
+
+Use the north exit to reach yet another part of Route 7.
+
+Before the stairs, cut the tree on the left and inspect two tiles after
+it for a hidden ***Green Shard***.
+
+After going upstairs, go to the right and change maps again. You can cut
+a tree here to get ***TM107 Slash and Burn***. Note that the policemen
+have disappeared now. Return to the previous map.
+
+Go north and check the garden on the right side. You can get several
+berries from berry trees: 18 ***Oran Berries***, 18 ***Sitrus
+Berries***, and 3 ***Persim Berries***. Check the left side of the
+building for a Zygarde Cell.
+
+**ZCell 098: Route 7**
+
+<img src="assets/media/image111.png" width="512"/>
+
+Enter the building, the Magic Milk Bar.
+
+**Magic Milk Bar Shop**
+
+| **Item**      | **Price** |
+|---------------|-----------|
+| *Oran Berry*  | $200      |
+| Sitrus Berry  | $750      |
+| *Moomoo Milk* | $1500     |
+| *Rose Tea*    | $4700     |
+
+Leave the bar and use the northern exit to reach Honec Woods.
+
+**Honec Woods Encounters (Swamp Field)**
+
+| **Grass**     | **%** | **Water**  | **%** | **Honey Trees** | **%** | **Old/Good Rod** | **%** |
+|---------------|-------|------------|-------|-----------------|-------|------------------|-------|
+| Carnivine     | 25    | Tympole    | 50    | Burmy           | 70    | Skrelp           | 100   |
+| Combee        | 15    | Wooper     | 25    | Combee          | 24    |                  |       |
+| Stunfisk      | 10    | Palpitoad  | 15    | Aipom           | 4     |                  |       |
+| Shelmet       | 10    | Quagsire   | 7     | Forretress      | 2     |                  |       |
+| Karrablast    | 12    | Seismitoad | 3     |                 |       |                  |       |
+| Charjabug     | 10    |            |       |                 |       |                  |       |
+| Venonat       | 5     |            |       |                 |       |                  |       |
+| **Venomoth**  | 4     |            |       |                 |       |                  |       |
+| **Blipbug**   | 2     |            |       |                 |       |                  |       |
+| **Vespiquen** | 2     |            |       |                 |       |                  |       |
+
+Go to the left and cut a tree on the south to get 3 ***Starf Berries***
+from a berry tree.
+
+There is nothing to do on the map on the left so return right and use
+the northern bridge. Since you don’t have strength, you can’t access the
+eastern part from here.
+
+Advance the only way you can until you go downstairs. Go north until
+some flowers at the left of a log, there is hidden ***Leaf Stone***
+here. On the next land, check the orange flower surrounded by the big
+flowers to get a hidden ***Cleanse Tag***. Go right and position
+yourself in the lower part of the land here. Walk two steps and interact
+for a hidden ***Poison Gem***.
+
+Go northeast to see mushroom south of a log, there is a hidden ***Tiny
+Mushroom*** here. Continue north going downstairs, upstairs and
+downstairs again. Check the right side and on the tile after a tree you
+have to cut there is a hidden ***Reverse Candy***.
+
+Use the northern exit.
+
+Check the orange flowers right of a mushroom to find a hidden
+***Honey***. Go to the right, and on the orange flowers on the right
+side, you will find another hidden ***Honey***.
+
+Advance north for a scene. Choice doesn’t matter.
+
+After the scene, check the northeast tree for a hidden ***Aspear
+Berry***. The tree in the middle is a Honey Tree.
+
+Return to the previous map and cross the stairs to the south a total of
+three times. Here surf to the right and leave Honec Woods.
+
+You will be on Yui’s Ranch. Go south and cut a tree for a hidden
+***Bright Powder***.
+
+Go to the right to find Ben in front of the eastern building and talk to
+him. You will receive 3 ***Cherish Balls*** and +1 Karma as a reward.
+
+The shop inside this building is now open during daytime.
+
+**Yui's Ranch Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Ultra Ball*   | $1200     |
+| *Hyper Potion* | $1200     |
+| *GourmetTreat* | $1500     |
+| *Super Repel*  | $500      |
+| *Max Repel*    | $700      |
+| *Escape Rope*  | $550      |
+| *Honey*        | $100      |
+| *Moomoo Milk*  | $500      |
+
+The quest is finished, and we explored everything except the part
+leading to Darchlight Woods, so take the Braviary Post to Luck’s Tent
+and go south.
+
+Take the western path and go upstairs. Advance south until the end of
+the way. There is a hidden ***Lax Mint*** here. You will see overworld
+Graveler and Geodude on this area.
+
+Go downstairs on the west side. And check two tiles left and one down of
+the southern grass for a hidden ***Tiny Mushroom***.
+
+Continue advancing to enter Darchlight Woods.
+
+## Darchlight Woods
+
+You will see a scene immediately. It changes depending on the Tyluric
+Temple quest.
+
+**Friendship Point Choice (If you did Tyluric Temple Quest):**
+-   What are YOU doing here? (Flora -1)
+-   Just chilling, plank you (Florin +1)
+
+**Friendship Point Choice (If you didn’t do Tyluric Temple Quest):**
+-   What are YOU doing here? (Flora -2)
+-   Just chilling, plank you (Neutral)
+
+**Darchlight Woods Encounters (Bewitched Woods)**
+
+| **Grass: Morning**   | **%** | **Grass: Day**       | **%** | **Grass: Night**     | **%** |
+|----------------------|-------|----------------------|-------|----------------------|-------|
+| **Aevian Shroomish** | 30    | **Aevian Shroomish** | 30    | **Murkrow**          | 41    |
+| Morelull             | 30    | **Galarian Ponyta**  | 20    | **Aevian Shroomish** | 30    |
+| **Galarian Ponyta**  | 20    | Foongus              | 20    | **Skuntank**         | 20    |
+| **Skuntank**         | 20    | **Skuntank**         | 20    | Shiinotic            | 17    |
+| Foongus              | 12    | Vullaby              | 5     | Amoonguss            | 17    |
+| Vullaby              | 9     | Shiftry              | 5     | Shiftry              | 5     |
+| Shiinotic            | 5     | **Hatenna**          | 4     |                      |       |
+| **Hatenna**          | 4     |                      |       |                      |       |
+
+Nore that the numbers don’t match 100% but that is how it is coded.
+
+| **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|-----------|-------|-------------|-------|--------------|-------|
+| Finneon   | 75    | Finneon     | 70    | Basculin     | 60    |
+| Quagsire  | 15    | Basculin    | 30    | Lumineon     | 20    |
+| Lumineon  | 7     |             |       | Chinchou     | 20    |
+| Marill    | 3     |             |       |              |       |
+
+There are also wild Parasect during the day, Amoonguss at night on the
+northern area. This map also has a couple of **Impidimp** that will run
+to you upon notice.
 
 
 
