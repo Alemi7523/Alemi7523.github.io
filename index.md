@@ -225,6 +225,8 @@
   - [Route 7](#route-7)
     - [Quest 62: Ben's Stolen Miltank](#quest-63-bens-stolen-miltank)
   - [Darchlight Woods](#darchlight-woods)
+  - [Darchlight Detour](#darchlight-detour)
+  - [Darchlight Caves](#darchlight-caves)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -18141,6 +18143,8 @@ There is nothing to do on the map on the left so return right and use
 the northern bridge. Since you don’t have strength, you can’t access the
 eastern part from here.
 
+Cross the bridge and activate the Braviary post on your right.
+
 Advance the only way you can until you go downstairs. Go north until
 some flowers at the left of a log, there is hidden ***Leaf Stone***
 here. On the next land, check the orange flower surrounded by the big
@@ -18234,7 +18238,7 @@ Temple quest.
 | Shiinotic            | 5     | **Hatenna**          | 4     |                      |       |
 | **Hatenna**          | 4     |                      |       |                      |       |
 
-Nore that the numbers don’t match 100% but that is how it is coded.
+Note that the numbers don’t match 100% but that is how it is coded.
 
 | **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
 |-----------|-------|-------------|-------|--------------|-------|
@@ -18244,12 +18248,186 @@ Nore that the numbers don’t match 100% but that is how it is coded.
 | Marill    | 3     |             |       |              |       |
 
 There are also wild Parasect during the day, Amoonguss at night on the
-northern area. This map also has a couple of **Impidimp** that will run
-to you upon notice.
+northern area. 
+
+After crossing the first bridge, check the mushroom on your left for a hidden ***Tiny Mushroom***. Check the north tree for a hidden ***Big Mushroom***.
+
+Talk to the girl in the north to receive ***TM149 Draining Kiss***. Continue north to change maps, we will be coming here back shortly. You will see a scene.
+
+**Friendship Point Choice:**
+
+- You know a lot about this. (Florin +2)
+- Just chilling, plank you (Florin -2)
+- Where do I start (Neutral)
+
+There are **Impidimp** around the map.
+
+Check the mushroom on the left side to find a hidden ***Tiny Mushroom***.
+
+Go north until seeing some trees. Check the upper part of the right tree for a hidden ***Ether***.
+
+Return to the bridge you saw  on the southwest  and heck the logs at north before it for a hidden ***Dark Gem***.
+
+Advance until the end. Inspect the white tree to proceed. Check the left tree for a hidden ***Tiny Mushroom***.
+
+Use surf and pick ***TM95 Snarl*** on the island. Surf to the left again, and two tiles right and one up from a stump, there is a hidden ***Reverse Candy***.
+
+Go north and use Rock Climb for a Zygarde Cell.
+
+**ZCell 099: Darchlight Woods**
+
+<img src="assets/media/image112.png" width="512"/>
+
+Now go to the west cliff and interact with the tree from under it to proceed. We will discover something very shady about Flora.
+
+Leave this map and we are back when we began.
+
+Use the southern bridge to go west and then use the next bridge too. On the las tile of the bridge, look towards the south water and interact to surf and automatically find a hidden ***Tiny Mushroom***.
+
+Cross the bridge on the west and activate the Braviary Post. Cross the bridge back to the east and go south. After gown downstairs go south and east to find ***Bold Mint***. From where you got it, step down and look left. Interact to get a hidden ***Dark Gem***.
+
+Continue west to change maps. We are taking a small Detour.
+
+## Darchlight Detour
+
+Go north and pick the ***Big Mushroom***. 
+
+Leave though the southern exit to reach Azure Port.
+
+Go to the left. A tile under the last green squares there is a hidden ***Pearl***. Continue south and on the tile in front of the man guarding the ship there is a hidden ***Max Repel***. Return to the center and use the southern bride, continue to the right and in the top-left of the green containers, there is a hidden ***Pearl***.
+
+Return to the previous map and take the western exit this time. You will be on Daylight Village.
+
+On the top-left corner of the sump in the left, there is a hidden ***Super Repel***.
+
+Continue west to reach Route 8.
+
+**Route 8 Encounters (Beach Field)**
+| **Grass: Morning**   | **%** | **Grass: Day**       | **%** | **Grass: Night**     | **%** |
+|----------------------|-------|----------------------|-------|----------------------|-------|
+| Skiddo               | 22    | Wooloo               | 32    | Stantler             | 41    |
+| Rapidash             | 20    | Tauros               | 20    | Houndour             | 30    |
+| Skiploom             | 20    | Dubwool              | 15    | Ledian               | 20    |
+| Taillow              | 15    | Ponyta               | 10    | Noctowl              | 17    |
+| Ponyta               | 10    | Mudbray              | 5     | Ariados              | 17    |
+| Swellow              | 5     | Rapidash             | 5     | Audino               | 5     |
+| Jumpluff             | 4     | Bouffalant           | 5     |                      |       |
+| Audino               | 2     | Audino               | 4     |                      |       |
+| Gogoat               | 2     | Mudsdale             | 2     |                      |       |
+|                      |       | Gogoat               | 2     |                      |       |
 
 
 
+| **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|-----------|-------|-------------|-------|--------------|-------|
+| Wooper    | 75    | Goldeen     | 70    | Remoraid     | 60    |
+| Quagsire  | 22    | Wooper      | 30    | Quagsire     | 20    |
+| Marill    | 3     |             |       | Corphish     | 20    |
 
+This route is very small without a lot to do, but there are some items, including a TM.
+
+Advance and activate the Braviary Post. Go downstairs twice, move to steps to the left,
+look up, and interact for a hidden ***Green Shard***. On the tile left of the big rock on
+the south there is a hidden ***Red Shard***.
+
+Go north and after going downstairs, move to the leftmost part of the sand and use surf
+but don't move. Interact to get a hidden ***Soda Pop***.
+
+Move surfing though the islands until reaching land with a tall wooden structure,
+interact with it to get a hidden Blue Shard. Advance north and use rock break to
+get ***TM156 Air Slash***.
+
+Return to the mainland and go north. When you see stairs surf on the left side
+and move north tor each land again. Inspect the wall to get a hidden ***Blue Shard***.
+
+Return to Darchlight Village and go upstairs as soon as you can. Enter the first house
+and talk with the woman for a scene. She is the servant of the past who became a baker.
+Go to the next house and inspect the middle plant at its left to get a hidden 
+***Yellow Shard***.
+
+The house here has some lore related to Crescent and the hags.
+
+Go up to the next house and check the right side of the left tree for a hidden
+***Roseli Berry***. Nothing relevant on this house, so continue north. The breeder
+here gives 5 ***Exp. Candy L*** when defeated/talked. There are 2 Persim berries
+on the berry tree and the house is the Pokémon Center.
+
+Go north to the outside of the Darchlight Manor.
+
+**Darchlight Manor (Outside) Encounters (Bewitched Woods)**
+
+| **Grass**            | **%** | **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|----------------------|-------|-----------|-------|-------------|-------|--------------|-------|
+| **Oricorio (Sensu)** | 96    | Finneon   | 75    | Finneon     | 70    | Basculin     | 60    |
+| **Meditite**         | 4     | Quagsire  | 15    | Basculin    | 30    | Lumineon     | 20    |
+|                      |       | Lumineon  | 7     |             |       | Chinchou     | 20    |
+|                      |       | Marill    | 3     |             |       |              |       |
+
+Enter inside the manor.
+
+**Darchlight Manor (Inside) Encounters (Haunted Field)**
+
+| **Cave**      | **%**    | **Rock Smash** | **%** |
+|---------------|----------|----------------|-------|
+| Duskull       | 32       | Golett         | 32    |
+| Shuppet       | 25       | **Golurk**     | 25    |
+| Misdreavus    | 15       |                | 15    |
+| **Dusclops**  | 10       |                | 10    |
+| **Sinistea**  | 9        |                | 9     |
+| **Banette**   | 5        |                | 5     |
+| **Mismagius** | 4        |                | 4     |
+
+Our visit this time is very limited as we don’t have strength yet.
+
+Enter the room at your right, go to the southern side of the table and put yourself
+between the first to chairs; look down and interact for a hidden ***Full Heal***.
+Check the plant on the top-right corner for a hidden ***Revival Herb***.
+Check the diary in the table, this is tracked.
+
+Leave through the right exit and on the garden, check the middle mushroom for a
+hidden ***Big Mushroom***. Go to the top-right cornet and look left; interact to
+get a hidden ***Dark Gem***.
+
+Return inside and to the entrance, this time go upstairs and check the tile in
+front of the first portrait for a hidden ***Ghost Gem***. Enter the right room.
+
+On the right of the northern plant, there is a hidden Health Wing. Pick the
+***Old Gateau*** of the table. Read the diary on this room.
+
+Lave the room and enter the northern one. On the left side of the diary there
+is a hidden Revival Berb. This diary doesn’t count, but you can read it if you
+wish to do so.
+
+Enter the left room this time and go north. Read the diary here and use Rock Smash
+to pick the 5 ***Exp. Candy XL***. Go to the eastern end and check north to find a
+hidden ***Blue Shard***.
+
+We can’t do more for now, so return to Darchlight Village and pick the berry trees
+on your right: 4 ***Sitrus Berries*** and 2 ***Persim Berries***. Diagonal from the
+bottom-right corner of the wooden fence there is a hidden ***Magical Seed***.
+
+Go south. On the left side of another wooden fence, there is a hidden ***Blue Shard***.
+
+Continue south and when you see stairs, go to the leftmost place and look right.
+Interact for a hidden ***Dark Gem***.
+
+Leave through the east exit from Darchlight Village and go north through the bridge.
+On the other side surf to the west to find a ***Carbos***. Surf back and use the
+northern exit.
+
+Surf on the north and check the right nenuphar to get a hidden ***Blue Shard***.
+
+Go the west side and inspect the mushroom to get a hidden ***Big Mushroom***.
+Continue north and inspect another mushroom for a hidden ***HP Up***.
+
+Use the bridge to reach the east side and surf north to get ***TM18 Rain Dance***.
+
+Return to the center and go north to reach the map where Flora is.
+
+Check the mushroom here to get a hidden ***Tiny Mushroom***. Continue north for a
+scene. Choice doesn’t matter. You will end up in the Darchlight Caves.
+
+## Darchlight Caves
 
 **The guide is still work-in progress, so from here onwards, it isn't
 available yet, but the Karma files and some 13.5 new quests are
