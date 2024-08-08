@@ -218,15 +218,28 @@
     - [Quest 58: Narcissa's Hauntings (Second Part)](#quest-58-narcissas-hauntings-second-part)
     - [Quest 60: Spector Quest](#quest-60-spector-quest)
     - [Quest 61: House Sit](#quest-61-house-sit)
-    - [Quest 62: Hidden Library 3](#quest-63-hidden-library-3)
+    - [Quest 62: Hidden Library 3](#quest-62-hidden-library-3)
   - [Pulse Badge](#pulse-badge)
 - [Chapter 10: Stopped in Our Tracks](#chapter-10-stopped-in-our-tracks)
   - [Grand Express](#grand-express)
   - [Route 7](#route-7)
-    - [Quest 62: Ben's Stolen Miltank](#quest-63-bens-stolen-miltank)
+    - [Quest 63: Ben's Stolen Miltank](#quest-63-bens-stolen-miltank)
   - [Darchlight Woods](#darchlight-woods)
   - [Darchlight Detour](#darchlight-detour)
   - [Darchlight Caves](#darchlight-caves)
+    - [Flora Path](#flora-path)
+    - [Florin and Erin Path](#florin-and-erin-path)
+    - [Florin Bad Ending Interlude](#florin-bad-ending-interlude)
+    - [Florin and Erin Path Continuation](#florin-and-erin-path-continuation)
+  - [Detour Before Rose Badge](#detour-before-rose-badge)
+    - [Flora Path Detour](#flora-path-detour)
+    - [Florin and Erin Path Detour](#florin-and-erin-path-detour)
+    - [Quest 64: Oshawott Quest](#quest-63-bens-stolen-miltank)
+  - [Rose Badge](#rose-badge)
+    - [Flora Gym Battle](#flora-gym-battle)
+    - [Florin Gym Battle](#florin-gym-battle)
+    - [Darchlight Manor](#darchlight-manor)
+- [Chapter 11: Through the Looking Mask](#chapter-10-through-the-looking-mask)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -14821,7 +14834,7 @@ Scale***.
 
 Now time to go up to have a boss battle.
 
-**Renegade Giratina (Volcano Top Field)). 3 HP Bars. Story Mode.**
+**Renegade Giratina (Volcano Top Field). 3 HP Bars. Story Mode.**
 -   Giratina, Level 50.
     -   Shadow Force
     -   Aura Sphere
@@ -14832,7 +14845,7 @@ Now time to go up to have a boss battle.
     -   Cures any stat drop.
     -   Attack +1, Special Attack +1.
 
-**Renegade Giratina (Volcano Top Field)). 3 HP Bars. Classic Mode.**
+**Renegade Giratina (Volcano Top Field). 3 HP Bars. Classic Mode.**
 -   Giratina, Level 55.
     -   Shadow Force
     -   Aura Sphere
@@ -18428,6 +18441,1037 @@ Check the mushroom here to get a hidden ***Tiny Mushroom***. Continue north for 
 scene. Choice doesn’t matter. You will end up in the Darchlight Caves.
 
 ## Darchlight Caves
+
+You start with a scene; first choice doesn’t matter. Press the UP key
+when instructed to open the door. Second choice is a Friendship Point
+Choice.
+
+**Friendship Point Choice:**
+- It’s true. (Flora +2)
+- She’s lying lol. (Flora -2)
+
+Once you can move, go the right for another scene. You will have to
+decide if stay with Florin and Erin or go with Flora. This is a very
+important choice and there are consequence depending on future actions.
+
+Both paths have its variations that matter a lot, including a way to
+make Florin die later on, which is quite a big effect. Flora Path has a
+boss fight at the end while the Florin and Erin Path had a
+minigame-style battle. Also this affect if you will face Flora or Florin
+as a Gym leader; you will face the one of the path you finish.
+
+### Flora Path
+
+Go through the western exit. There is nothing to do if you go north now,
+so continue through the western exit for another scene.
+
+Here is another choice that affects how to proceed next related to
+interacting with the northern door or don’t interact at all.
+
+- Confront Flora.
+  - Advance north on the new rom for a scene. Select Keep Pushing or you
+    will be sent back outside as if you didn’t choose to confront her.
+  - She will reveal you her identity and explain her circumstances. It
+    changes a bit of dialogue if the Tyluric Temple is done.
+  - **Friendship Point Choice:**
+    - I’m so sorry. (Flora +3)
+    - … (Neutral)
+  - Leave the room to have a conversation with Flora. Choice doesn’t
+    matter.
+- Stay and investigate.
+  - Talk with Flora who will leave her room. Choice doesn’t matter.
+- Don’t interact with the door
+  - Same as interacting and choosing to stay and investigate, but
+    dialogues change.
+
+Continuing form any of the options.
+
+Investigate the rock to pick Black Shard Fragments and then to the
+monitor to create a Darchlight Mirror, but it will fail.
+
+We need to follow the instructions scattered around, note that two of
+them are inside the lab, so if you are ignoring the door entirely, you
+won’t have access to them. Note that those notes are informative only,
+as long as you know how to do it, you don’t need to read them in-game.
+
+Step 1 is to put the ore into an isolated device.
+
+Step 2 is to burn the ore in a great big pit of fire.
+
+Step 3 is to zap the ore with a great bolt of electricity
+
+Step 4 is to Liberate the ore with plasma.
+
+Step 5 is to cook the ore for exactly 15 seconds.
+
+The isolated device is at the center of the room. You can now use the UP
+key to change the direction of the arrows in the conveyor belt.
+
+First arrow must look to the right as there is fire there. Second must
+look to the left as there is electricity there. Third must go to the
+right as there is plasma there.
+
+Then when there is exactly 15 seconds left on the timer interact with
+the monitor in the south to complete the Darchlight Mirror. The scenes
+here change depending on what you did with the door.
+
+If you failed in the process, pick the Black Shard Fragments again and
+begin the process once more.
+
+Return to the starting room to meet with Florin and Erin.
+
+Here we have another important choice:
+
+- Expose Flora.
+  - You jump to Florin and Erin Path
+- Keep quiet.
+  - Remain on this route.
+
+If you didn’t expose Flora on the Florin and Ering Route, you continue
+here.
+
+You need to advance to the right to advance with the story, but let’s
+make a small detour.
+
+Go the left and check the tile under the leftmost platform with the
+tubes to find a hidden ***Dusk Stone***. There is a mining rock in the
+south. This is all, go through the bridge on the right side to proceed.
+
+Youa re in anew part of the caves. There aren't encounters, but there
+are some overworld mons like Graveler, Carbink, and **Aevian Bronzor**.
+
+Go couth to find a hidden ***Yellow Shard***. Go northeast to find a
+hidden ***Max Repel*** on the left side of a tree.
+
+Go south to trigger a scene. You will receive the ***Darchlight
+Mirror*** now.
+
+Check the northeast corner in this small area for a hidden **Blue
+Shard**.
+
+Now, go north, a rock blocking the way disappeared, and follow the path.
+Once you see stairs going down, check the northeast to find a hidden
+***Rock Gem***.
+
+Continue south to change rooms. Advance to find a device that allows to
+change the map if you interact with it. Go south to leave the room and
+proceed to the north though the only way until seeing a scene and fight
+a Bladestar Grunt in a double battle.
+
+**Bladestar Zyo (Dark Crystal Cavern). Story Mode.**
+- Magmar, Level 60.
+- Electabuzz, Level 60.
+
+**Bladestar Zyo (Dark Crystal Cavern). Classic Mode.**
+- Magmar, Level 62.
+  - Flamethrower
+  - Thunderpunch
+  - Confuse Ray
+  - Will-O-Wisp
+- Rhydon, Level 62.
+  - Rock Slide
+  - Mega Horn
+  - Drill Run
+  - Stealth Rock
+- Jynx, Level 62.
+  - Ice Beam
+  - Psychic
+  - Lovely kiss
+  - Fake Out
+- Electabuzz, Level 62.
+  - Thunderbolt
+  - Fire Punch
+  - Ice Punch
+  - Thunderwave
+
+There is overworld Sandslash, Dugtrio, and Aevian Bronzor here, you are
+going to see through the whole cave, and a tiny Giratina pursuing you.
+It doesn’t really matter as it won’t fight you or anything.
+
+Advance south for another scene and double battle.
+
+**Bladestar Kayo (Dark Crystal Cavern). Story Mode.**
+- Vespiquen, Level 60.
+- Tangela, Level 60.
+
+**Bladestar Kayo (Dark Crystal Cavern). Classic Mode.**
+- Vespiquen, Level 63.
+  - Defend Order
+  - Heal order
+  - Toxic
+  - Protect
+- Tangrowth, Level 63.
+  - Giga Drain
+  - Bulldoze
+  - Rock Slide
+  - Protect
+
+After the battle pick the ***Rare Candy*** on the southwest and use the
+butterflies next to the southern exit. Leave through it.
+
+Advance and go upstairs to face 2 grunts.
+
+**Bladestar Lee and Bladestar Lana (Dark Crystal Cavern). Story Mode.**
+- Hitmonlee, Level 61. (Lee)
+- Hitmonchan, Level 61. (Lee)
+- Bellossom, Level 60. (Lana)
+- Roselia, Level 61. (Lana)
+
+**Bladestar Lee and Bladestar Lana (Dark Crystal Cavern). Classic
+Mode.**
+- Hitmonlee, Level 62. (Lee)
+  - Fake Out
+  - Close Combat
+  - Blaze Kick
+  - Knock Off
+- Hitmontop, Level 62. (Lee)
+  - Mach punch
+  - Drain Punch
+  - Fire Punch
+  - Ice Punch
+- Hitmonchan, Level 62. (Lee)
+  - Bullet Punch
+  - Hi-Jump Kick
+  - Sucker Punch
+  - Rock Tomb
+- Bellossom, Level 63. (Lana)
+  - Giga Drain
+  - Nature Power
+  - Moonblast
+  - Sleep Powder
+- Roselia, Level 61. (Lana)
+  - Sleep Powder
+  - Sludge Bomb
+  - Nature Power
+  - Giga Drain
+- Eldegoss, Level 62. (Lana)
+  - Leech Seed
+  - Giga Drain
+  - Nature Power
+  - Synthesis
+
+Continue north for another double battle.
+
+**Bladestar Shane (Dark Crystal Cavern). Story Mode.**
+- Carnivine, Level 60.
+- Tangela, Level 61.
+- Gogoat, Level 61.
+
+**Bladestar Shane (Dark Crystal Cavern). Classic Mode.**
+- Noivern, Level 62.
+  - Dragon Pulse
+  - Flamethrower
+  - Moonlight
+  - Boomburst
+- Sceptile, Level 62.
+  - Dragon Pulse
+  - Nature Power
+  - Giga Drain
+  - Brick Break
+- Ampharos, Level 62.
+  - Thunderbolt
+  - Dragon Pulse
+  - Light Screen
+  - Reflect
+
+- Tangela, Level 62.
+
+  - Giga Drain
+  - Knock Off
+  - Toxic
+  - Synthesis
+
+Continue to change rooms. Use the crystal to change the cave and go back
+to the previous room. Now there is a new overworld **Wobbuffet** here
+that wasn’t here when the cave was lighted. Go back an additional room.
+You won’t be able to go north since the cave is dark, but there are
+overworld **Wobbuffet** and **Wynaut** here. On the right side there is
+***TM123 Smack Down*** and on the left side, there is a Zygarde Cell,
+which is out hundredth.
+
+**ZCell 100: Darchlight Cave**
+
+<img src="assets/media/image113.png" width="512"/>
+
+Return to where you changed the cave.
+
+You can’t go north, so go east for another scene.
+
+Ignore the Giratina and check the left side of the northern rock for a
+hidden ***Psychic Gem***.
+
+Continue east to change rooms.
+
+You can find ***TM115 Mega Punch*** on the southeast. Use the stairs to
+the west a bit north of you once, and north of the next set of stairs
+there is a hidden ***Ghost Gem***.
+
+We can’t do anything in the room here, do go through the northern
+bridge.
+
+A couple of steps north from the bridge, if you are on its right side,
+look right for a hidden ***Reverse Candy***. On the last tile west from
+here there is a hidden ***Ether***.
+
+Walk behind the northwestern tree to find ***Dark Material***.
+
+Now use the northern exit to reach the Decompression Lab.
+
+Use the left room, to heal and use the PC if you want. Also pick the
+***Hyper Potion*** from the table.
+
+Now take the middle path to the north and talk to Flora to continue.
+There is a couple of consecutive double battles against Bladestar
+Grunts, but they aren’t hard.
+
+**Bladestar Enda (Dark Crystal Cavern)**
+- Dragonite, Level 66.
+- Dragonite, Level 66.
+- Dragonite, Level 66.
+
+**Bladestar Sufdhsjghdsj (Dark Crystal Cavern)**
+- Blaziken, Level 66.
+- Latias, Level 70.
+- Sunkern, Level 1.
+
+After the scenes, go to the west room for a scene.
+
+**Friendship Point Choice:**
+- I trust you! (Flora -2)
+- I didn't want to. (Flora +2)
+- I’m not sure myself (Neutral)
+
+After the scene interact with the northern monitor. Move around the
+scenes and inspect them. When you inspect the area with the tubes where
+you began, the story will proceed, but I recommend seeing the previous
+ones too for some extra scenes.
+
+Leave the room for another scene.
+
+Go the right room to pick up ***TM97 Dark Pulse***.
+
+Return to the previous room and go north for a scene and a boss battle.
+
+**Clown Caricature (Dark Crystal Cavern). 4 HP Bars. Story Mode.**
+- Giratina, Level 62.
+  - Sludge Wave
+  - Dragon Pulse
+  - Nasty Plot
+  - Fire Blast
+- After clearing 1 HP Bar:
+  - Becomes a Porygon-Z.
+  - Ability becomes Wonder Guard.
+  - Item becomes Toxic Orb.
+  - Cures any stat drop.
+- After clearing 2 HP Bars:
+  - Becomes a Blacephalon.
+  - Cures any stat drop.
+  - Moveset update:
+    - Mind Blown
+    - Shadow Ball
+    - Nasty Plot
+    - Present
+- After clearing 3 HP Bars:
+  - Becomes a Pidgey
+  - Cures any stat drop.
+
+**Clown Caricature (Dark Crystal Cavern). 4 HP Bars. Classic Mode.**
+- Giratina, Level 64.
+  - Sludge Wave
+  - Dragon Pulse
+  - Dark Pulse
+  - Fire Blast
+- After clearing 1 HP Bar:
+  - Becomes a Porygon-Z.
+  - Ability becomes Wonder Guard.
+  - Item becomes Toxic Orb.
+- After clearing 2 HP Bars:
+  - Becomes a Blacephalon.
+  - Cures any stat drop.
+  - Attack +1, Defense +1, Special Attack +1, Special Defense +1, Speed
+    +1.
+  - Moveset update:
+    - Mind Blown
+    - Shadow Ball
+    - Nasty Plot
+    - Present
+- After clearing 3 HP Bars:
+  - Becomes a Pidgey
+
+Despite how it may look, this isn’t a hard fight. If you don't have any
+super effective move, the Wonder Guard may be troublesome, but the boss
+is poisoned, so you can stall and will be defeated anyway.
+
+Agree to move to the battlefield where we will have the Gym battle if
+you want, but we are taking a detour first.
+
+### Florin and Erin Path
+
+Go to the north room for a scene. Now talk with Erin on the right side.
+Choice doesn't matter.
+
+There is a big revelation and an important choice.
+
+- Push Florin to the truth.
+  - This leads to another choice that it is important.
+    - Tell Floring the truth
+      - This exposes Flora, which depending on further actions may lead
+        to Florin’s death or not.
+    - …
+      - You will end up in Flora’s Path after the next scene outside.
+- Turn the video off
+  - You will end up in Flora’s Path after the next scene outside.
+
+After the scene, leave room.
+
+If exposed Flora on the other route, you continue on this point here.
+Note that if you are here, it is possible to unlock Florin’s death,
+which means a bad end for him
+
+**Friendship Point Choice:**
+- It’s not meaningless. (Flora -4, Florin +2)
+- The evidence is sound. (Erin +2, Florin +4)
+- Maybe we should rethink… (Erin -3)
+
+We need to talk with Erin to continue. There is some extra dialogue if
+Tyluric Temple is completed.
+
+**Friendship Point Choice:**
+- Erin’s right. (Erin +2, Florin +2)
+- You should have known. (Florin -2)
+
+The dialogues should be bit different if you didn’t expose Flora, but
+there is an issue with the variable required being reset on the previous
+scene, so it doesn’t appear.
+
+Now we have to make a Darchlight Mirror since we never made it or we
+made it, but Flora has it if we started on her route, so anyway, go to
+the west map and to the west again.
+
+Pick the Black Shard Fragments on the right of the table and follow the
+instructions to create the Darchlight Mirror. They are scattered around
+and are the following five.
+
+Step 1 is to put the ore into an isolated device.
+
+Step 2 is to burn the ore in a great big pit of fire.
+
+Step 3 is to zap the ore with a great bolt of electricity
+
+Step 4 is to Liberate the ore with plasma.
+
+Step 5 is to cook the ore for exactly 15 seconds.
+
+There is no need to actually read them in-game. Just follow the
+instructions.
+
+The isolated device is at the center of the room. You can now use the UP
+key to change the direction of the arrows in the conveyor belt.
+
+First arrow must look to the right as there is fire there. Second must
+look to the left as there is electricity there. Third must go to the
+right as there is plasma there.
+
+Then when there is exactly 15 seconds left on the timer interact with
+the monitor in the south to complete the ***Darchlight Mirror***, which
+you get immediately. The choice here doesn’t matter.
+
+If you failed in the process, pick the Black Shard Fragments again and
+begin the process once more.
+
+Advance to the east for a scene and continue until changing maps for
+another. The choice doesn’t matter. Giratina will be following you now.
+
+Interact with it to change the room.
+
+You need to advance to the right to advance with the story, but let’s
+make a small detour.
+
+Go the left and check the tile under the leftmost platform with the
+tubes to find a hidden ***Dusk Stone***. There is a mining rock in the
+south. This is all, go through the bridge on the right side to proceed.
+
+You will see a scene on the outside with Venam and Melia that you don’t
+see on the other route, which included Venam flirting a bit.
+
+Youa re in anew part of the caves. There aren't encounters, but there
+are some overworld mons like Graveler, Carbink, and **Aevian Bronzor**.
+
+Go couth to find a hidden ***Yellow Shard***. Go northeast to find a
+hidden ***Max Repel*** on the left side of a tree.
+
+Go south to trigger a scene and fight some grunts. You have to choose
+who join you as a partner, Erin or Florin. I believe Erin goes better as
+a partner on this battle.
+
+**Bladestar Ken and Bladestar Yula (Dark Crystal Cavern). Story Mode.**
+- Claydol, Level 60. (Ken)
+- Claydol, Level 63. (Ken)
+- Morgrem, Level 60. (Ken)
+- Venusaur, Level 61. (Yula)
+- Dugtrio, Level 60. (Yula)
+
+**Bladestar Ken and Bladestar Yula (Dark Crystal Cavern). Classic
+Mode.**
+- Claydol, Level 63. (Ken)
+  - Psychic
+  - Signal Beam
+  - Earth power
+  - Trick Room
+- Absol, Level 62. (Ken)
+  - Night Slash
+  - Sucker Punch
+  - Me First
+  - Play Rough
+- Morgrem, Level 61. (Ken)
+- Venusaur, Level 62. (Yula)
+  - Power Whip
+  - Rock Slide
+  - Knock Off
+  - Stomping Tantrum
+- Dugtrio, Level 62. (Yula)
+  - Rock Slide
+  - Dig
+  - Night Slash
+  - Sand Attack
+- Scolipede, Level 62. (Yula)
+  - Steamroller
+  - Poison Jab
+  - Stomping Tantrum
+  - Protect
+
+After the battle you discover that Florin has superpowers that harmed
+those grunts.
+
+Check the northeast corner in this small area for a hidden **Blue
+Shard**.
+
+Now, go north, a rock blocking the way disappeared, and follow the path.
+Once you see stairs going down, check the northeast to find a hidden
+***Rock Gem***.
+
+Continue south to change rooms. Advance to find a device that allows to
+change the map if you interact with it. Go south to leave the room and
+proceed to the north though the only way until reaching downstairs.
+
+There is overworld Sandslash, Dugtrio, and Aevian Bronzor here, you are
+going to see through the whole cave.
+
+Go south for a scene and continue south for another scene and an
+important choice.
+
+**Friendship Point Choice:**
+- Battle them. (Florin +2)
+- Florin, handle them. (Florin -2, Florin Bad Ending = 1)
+
+Important to note that if you keep getting points to Florin Bad Ending,
+some scenes will change and later on another chapter, Florin will end up
+dying.
+
+If you chose to battle them, go forward to fight the grunts. You can
+talk to them to fight one on one or walk to the middle to fight both.
+They are normal trainers rather than story forced despite being on the
+way, so you will have to fight them. Their teams are noted on the Flora
+Path part of the guide if you are interested on them. Of course, there
+is no way to fight them if Florin dealt with them
+
+After the battle pick the ***Rare Candy*** on the southwest and use the
+butterflies next to the southern exit. Leave through it.
+
+Advance and go upstairs to face 2 grunts. If you have at least 1 Floring
+Bad Ending Point, yoy get the same choice as before.
+
+**Friendship Point Choice (if Floring Bad Ending = 1):**
+- Battle them. (Florin +2)
+- Florin, handle them. (Florin -3, Florin Bad Ending = 2)
+
+They are also a normal fight, but you can check them out on the Flora
+Path part of the guide.
+
+Continue to see the same scene happening again after crossing a bridge.
+
+**Friendship Point Choice (if Floring Bad Ending = 3):**
+- You’re taking it too far! (Florin -2)
+- Florin is right. (Erin -3, Florin +4)
+
+Advance to the next room for a scene. Change the cave with the crystal.
+
+Go back to the previous room. Now there is a new overworld **Wobbuffet**
+here that wasn’t here when the cave was lighted. Go back an additional
+room. You won’t be able to go north since the cave is dark, but there
+are overworld **Wobbuffet** and **Wynaut** here. On the right side there
+is ***TM123 Smack Down*** and on the left side, there is a Zygarde Cell,
+which is out hundredth.
+
+**ZCell 100: Darchlight Cave**
+
+<img src="assets/media/image114.png" width="512"/>
+
+Return to where you changed the cave.
+
+You can’t go north, so go east for another scene. IF you are at 3 Florin
+Bad Ending Points go to the Florin Bad Ending Section, otherwise to
+Florin and Erin Path Continuation.
+
+### Florin Bad Ending Interlude
+
+The choice you get doesn't matter.
+
+Use the northern door that Giratina opened. Advance until seeing another
+scene. Advance more for another more. Same as before once more.
+
+**Friendship Point Choice:**
+- That was reckless… (Erin +2)
+- She had it coming. (Erin -6)
+
+### Florin and Erin Path Continuation
+
+For now, it is the same regardless of the Bad Ending. Some dialogue may
+change though.
+
+Check the left side of the northern rock for a hidden ***Psychic Gem***.
+
+Continue east to change rooms.
+
+You can find ***TM115 Mega Punch*** on the southeast. Use the stairs to
+the west a bit north of you once, and north of the next set of stairs
+there is a hidden ***Ghost Gem***.
+
+We can’t do anything in the room here, do go through the northern
+bridge.
+
+A couple of steps north from the bridge, if you are on its right side,
+look right for a hidden ***Reverse Candy***. On the last tile west from
+here there is a hidden ***Ether***.
+
+Walk behind the northwestern tree to find ***Dark Material***.
+
+Now use the northern exit to reach the Decompression Lab.
+
+Use the left room, to heal and use the PC if you want. Also pick the
+***Hyper Potion*** from the table.
+
+Now take the middle path to the north, the northern room is impossible
+to use, so turn right midway and enter the room here. There is a hidden
+***Luxury Ball*** close to the entrance on the north. Go north through
+the bridge to pick up a ***Revive***. Cross the next bridge to pick up
+a ***White Herb*** on the east.
+
+On the previous bridge go left on the conveyor belt you to another room.
+There is a hidden ***Reverse Candy*** on the northeast. Use the southern
+conveyor belt to return to the previous room and go further to the right
+to reach another area.
+
+A bit east of the central conveyor belt there is a hidden ***Elixir***.
+Use the northern conveyor belt.
+
+Use the northern conveyor belt to go east, and go east to use It again.
+You will be in a room with the ***Dark Memory***. Use the glowing tile
+to return to the first room of conveyor belts.
+
+Go east on the conveyor belt here and use the northern one to go west.
+Take the western conveyor belt. Go north for a scene.
+
+We are controlling Giratina in a minigame. Use Shadow Sneak Teice, one
+on Venusaur another on Roserade. Then use Sahdow Ball to charge up and
+on turn 4 Use Shadow Force to deal massive damage. Venusaur and Roserade
+should be out of combat. Now, two Shadow Sneaks on Flora should defeat
+her.
+
+After winning, the lift will go back, and you will decompress
+successfully.
+
+Flora will be arrested and there will be more scenes. If the Bad Ending
+is activated there is some changes in dialogue.
+
+Agree to move to the Gym battle to teleport to the field to fight Florin
+if you want, but are making a small detour first.
+
+## Detour Before Rose Badge
+
+Go where the Braviary Post in Darchlight woods is, cross the bridge east
+once and go north end east at the end to find a cave that allow us to go
+back to Darchlight Caves.
+
+Go north though the bridge and enter the Decompression Lab.
+
+Here the items we need to find vary depending on what path we took.
+
+### Flora Path Detour
+
+If we went Flora Path, we need to go right on the dark area and enter
+the door there.
+
+There is a hidden ***Luxury Ball*** close to the entrance on the north.
+Go north through the bridge to pick up a ***Revive***. Cross the next
+bridge to pick up a ***White Herb*** on the east.
+
+On the previous bridge go left on the conveyor belt you to another room.
+There is a hidden ***Reverse Candy*** on the northeast. Use the southern
+conveyor belt to return to the previous room and go further to the right
+to reach another area.
+
+A bit east of the central conveyor belt there is a hidden ***Elixir***.
+Use the northern conveyor belt.
+
+Use the northern conveyor belt to go east, and go east to use It again.
+You will be in a room with the ***Dark Memory***. Use the glowing tile
+to return to the first room of conveyor belts.
+
+You can return to the surface.
+
+### Florin and Erin Path Detour
+
+If took the Florin/Erin Path go through the northern door. User the east
+door to find ***TM97 Dark Pulse***. You can return to the surface.
+
+### Quest 64: Oshawott Quest
+
+We need to go to the south of Darchlight Woods and reach Azure Port. Now
+that we have fled from Darchlight Caves, we will see two Bladestar
+Grunts stealing an Oshawott from a Zen Mage.
+
+Once the scene finishes, go to Route 8, and enter the wagon on the
+western island, where you will fight the Xen Mage. It is a double
+battle. The dialogue before and after the battle changes if you defeated
+Madam X.
+
+**Xen Mage Julie (No Field).**
+- **Boosts:**
+  - **Braviary becomes Fire/Fighting.**
+  - **Braviary Special Attack +2.**
+- Torkoal, Level 63. @ Heat Rock.
+  - Heat Wave
+  - Sunny Day
+  - Toxic
+- Braviary, Level 63. @Leftovers.
+  - Heat Wave
+  - Sunny Day
+  - Hurricane
+
+After defeating her, you get a choice, but it doesn't matter.
+
+Now, return to Azure Port and enter the building the Bladestar Grunts
+went. You get a scene with a choice, but it doesn’t even have a bit of
+dialogue change. Time for another double battle.
+
+**Spelunker Grunt Aruti (Dark Crystal Cavern). Story Mode.**
+- Dugtrio, Level 62.
+  - Dig
+  - Sucker Punch
+  - Rock Slide
+- Steelix, Level 64.
+  - Scald
+  - Earth Power
+  - Discharge
+- Trapinch, Level 64.
+  - Dig
+  - Rock Slide
+  - Crunch
+- Hippowdon, Level 63.
+  - Stone Edge
+  - Dig
+  - Ice Fang
+
+**Spelunker Grunt Aruti (Dark Crystal Cavern). Classic Mode.**
+- Dugtrio, Level 63. @ Ground Gem.
+  - Earth Power
+  - Thunderbolt
+  - Scald
+  - Toxic
+- Steelix, Level 64. @ Ground Gem.
+  - Iron Head
+  - Dig
+  - Ice Fang
+  - Fire Fang
+- Palossand, Level 65. @ Ground Gem.
+  - Earth power
+  - Shadow Ball
+  - Shore Up
+  - Giga Drain
+- Hippowdon, Level 66. @ Ground Gem.
+  - Dig
+  - Crunch
+  - Stone Edge
+  - Ice Fang
+
+After winning the battle, Oshawott will flee to the wagon on Route 8.
+Before going here pick a ***Black Augurite*** on the table. This is the
+only Black Augurite of the whole game on V13.5.
+
+Return to the wagon on Route 9 and you will get **Oshawott**.
+
+Return to the map of the lake and the waterwall where either Flora or
+Florin are ready to fight you.
+
+## Rose Badge
+
+It is a different battle depending on your Route.
+
+### Flora Gym Battle
+
+The dialogue before battle changes if you have confronted her. This is a
+single battle.
+
+**Botanist Flora (Bewitched Field, Permanent Rain). Story Mode.**
+- Ludicolo, Level 60. @ Damp Rock.
+  - Rain Dance
+  - Surf
+  - Uproot
+  - Giga Drain
+- Ferrothorn, Level 61. @ Leftovers.
+  - Gyro Ball
+  - Seed Bomb
+  - Curse
+  - Leech Seed
+- Shiinotic, Level 62.
+  - Pollen Puff
+  - Uproot
+  - Safeguard
+  - Spore
+- Roserade, Level 61.
+  - Spikes
+  - Giga Drain
+  - Nature Power
+  - Weather Ball
+- Venusaur, Level 65. @ Big Root.
+  - Uproot
+  - Leech Seed
+  - Giga Drain
+  - Sludge Bomb
+
+**Botanist Flora (Bewitched Field, Permanent Rain). Classic Mode.**
+- Tsareena, Level 63. @ Assault Vest.
+  - Play Rough
+  - Power Whip
+  - U-Turn
+  - Zen Headbutt
+- Ludicolo, Level 64. @ Leftovers.
+  - Protect
+  - Surf
+  - Ice Beam
+  - Giga Drain
+- Ferrothorn, Level 64. @ Magical Seed.
+  - Gyro Ball
+  - Seed Bomb
+  - Curse
+  - Leech Seed
+- Roserade, Level 64. @ Coba Berry.
+  - Giga Drain
+  - Sleep Powder
+  - Nature Power
+  - Weather Ball
+- Rotom-Cut, Level 63. @ Magical Seed.
+  - Will-O-Wisp
+  - Uproot
+  - Thunderbolt
+  - Protect
+- Venusaur, Level 65. @ Venusaurite.
+  - Uproot
+  - Leech Seed
+  - Giga Drain
+  - Sludge Bomb
+
+Advice for this battle is together with Florin Gym Battle.
+
+### Florin Gym Battle
+
+Florin’s dialogue changes before and after the battle change if the Bad
+Ending for him is unlocked. It is a double battle.
+
+**Botanist Florin (Bewitched Woods, Permanent Rain). Story Mode.**
+- Ludicolo, Level 60. @ Wise Glasses.
+  - Rain Dance
+  - Surf
+  - Fake Out
+  - Giga Drain
+- Cradily, Level 61.
+  - Rock Slide
+  - Giga Drain
+  - Recover
+  - Earthquake
+- Breloom, Level 62.
+  - Spore
+  - Mach Punch
+  - Bullet Seed
+  - Poison Jab
+- Cherrim, Level 62. @ Cherrim Crest.
+  - Helping Hand
+  - Protect
+  - Heal Pulse
+  - Giga Drain
+- Sceptile, Level 63. @ Yache Berry.
+  - Giga Drain
+  - Dragon Pulse
+  - Leech Seed
+  - Hidden Power Fire
+
+**Botanist Florin (Bewitched Woods, Permanent Rain). Classic Mode.**
+- Ludicolo, Level 63. @ Wise Glasses.
+  - Rain Dance
+  - Surf
+  - Ice Beam
+  - Giga Drain
+- Cradily, Level 64. @ Magical Seed.
+  - Rock Slide
+  - Giga Drain
+  - Leech Seed
+  - Earth Power
+- Leafeon, Level 64. @ Leafeon Crest.
+  - Leaf Blade
+  - Grasswhistle
+  - Bite
+  - Return
+- Cherrim, Level 64. @ Magical Seed.
+  - Nature Power
+  - Weather Ball
+  - Giga Drain
+  - Flower Shield
+- Breloom, Level 63. @ Focus Sash.
+  - Spore
+  - Mach Punch
+  - Rock Tomb
+  - Bullet Seed
+- Sceptile, Level 65. @ Sceptilite.
+  - Giga Drain
+  - Dragon Pulse
+  - Grasswhistle
+  - Focus Blast
+
+Uproot: Grass. Special. 90 Power. 100% accuracy. 100% chance to lower
+the target's Special Defense by 2 stages. On Bewitched Woods Field,
+power is boosted x1.5.
+
+Each of these battles tries to neutralize Grass' many weaknesses. Be
+careful of both of their Ludicolo, who will outspeed you thanks to the
+rain. Mega Sceptile hits really hard and fast and can heal itself, while
+Mega Venusaur tanks two of its weaknesses thanks to Thick Fat and can
+wear you down with Giga Drain and Leech Seed.
+
+Florin doesn’t use the signature move at all, which makes him a bit
+easier, but Flora isn’t that difficult either. Both are easy to deal if
+you take advantage of the field instead of going for super effective
+moves. Dark and Fairy types are really good for this battle increasing
+x1.5 and x1.3 respectively, so Fairy is a bit better, but your team and
+stabs also matter. Remember that Fairy deals super effective damage on
+steel on this field, which is great.
+
+Moxie Mightyena and Snow Warning Alolan Ninetales can easily solo both
+fights if EVs are focused on speed and attack/special attack thanks to
+their abilities and field boost.
+
+Win to get the ***Rose Badge***, which increases the level cap to 70,
+and you will also receive ***TM53 Energy Ball**!*
+
+Head towards Darchlight Village and enter the southern house for a
+scene.
+
+Head back to the train and try to enter to get a scene with April and
+get ***HM04 Strength***.
+
+Before going to the train, we are going to use Strength and the
+Darchlight Mirror to get some things at Darchlight Manor.
+
+### Darchlight Manor Strength
+
+If you go to the garden in the east, you can use your Darchlight Mirror
+to make a translucent servant appear and get some lore. It isn’t
+tracked, so there is no actual reason to do it more than conversation
+itself.
+
+Return to the entrance of the manor and go upstairs. Enter the left room
+and use the Darchlight Mirror on the black stone to make a bridge
+appear. There is a hidden ***Ghost Gem*** in front of the northern door.
+Enter this door and check the northwestern plant for a hidden ***Spell
+Tag***.
+
+Return to the previous room, break a rock on the south and use strength
+to open the way to the southern door.
+
+Read the diary on the table on the south.
+
+In the center of the room, left to some rocks on the north, there is a
+hidden ***Elixir***.
+
+Read the diary on the eastern side, and the doll on the bed will
+disappear. We need to find it and interact with it each time.
+
+Try to leave the manor to see the doll downstairs. Blocking your way.
+Interact with it to make it disappear. Go upstairs to find it again.
+Enter the door at the north and the doll is on the northern end of the
+room.
+
+Go to the room on the right and check the cabinet to find a Cabinet Key.
+Now go to the left room and use the northern door. Interact with the
+cabinet here, which you can now open, and there is the doll inside.
+
+Now go to the dining room on the base floor. The doll is on the table at
+the side of the diary.
+
+Go upstairs and on the left room. Here go through the northwestern door
+to find the doll again, but it won’t disappear. Instead, it is pointing
+to the left. Interact with the portrait on the left of the northern
+wall. Now, you can enter the fireplace to find ***TM12 Taunt***, the
+***Gate Key***, and a Zygarde Cell.
+
+**ZCell 101: Darchlight Manor**
+
+<img src="assets/media/image115.png" width="512"/>
+
+Once you leave the fireplace, the doll isn’t on the table anymore.
+
+Leave room until reaching the one with the stairs to see the doll gain.
+Interacting with it make the rubble in front of you transform into a
+rock you can push down with Strength. Now you can access a door on the
+north of the base floor. You can open with door with the Gate Key.
+
+On this room, there is a hidden Old Gateau on the eastern rubble. Check
+the pot north of the diary to get a ***Chipped Pot***. Interact with the
+diary for a scene and open the northern door. You can read the diary
+again to actually know what is written if you are interested as it tells
+more of what happened in the manor in the past.
+
+Use the left door to reach another part of the outside of the manor.
+Advance through the only way to find a ***Dread Plate*** and a Zygarde
+Cell.
+
+**ZCell 102: Darchlight Manor (Outside)**
+
+
+<img src="assets/media/image116.png" width="512"/>
+
+Return to the manor and this time use the northern door.
+
+Go up and twice left to find a hidden ***Ether***. Advance to the north
+and turn right. On the second group of flowers, inspect the second
+starting from the bottom to get a hidden ***Tiny Mushroom***. Close
+there is ***TM114 Leech Life***. Go to the left side to find another
+Zygarde Cell.
+
+**ZCell 103: Darchlight Manor (Outside)**
+
+<img src="assets/media/image117.png" width="512"/>
+
+If you pull the rope in the well, you can take out a worn out, burned
+out, and tattered mechanical doll with a ***Light Ball*** attached to
+it.
+
+We are done here. Return to the train and talk to Melia in your cabin to
+see some scenes. There are changes depending in what route you followed
+and on if you went to Folorin Bad Ending.
+
+After the scenes this chapter will finish.
+
+# Chapter 11: Through the Looking Mask
+
+We begin again with a Team Xen scene.
+
+
+
+
+
+
+
 
 **The guide is still work-in progress, so from here onwards, it isn't
 available yet, but the Karma files and some 13.5 new quests are
