@@ -18316,6 +18316,7 @@ On the top-left corner of the sump in the left, there is a hidden ***Super Repel
 Continue west to reach Route 8.
 
 **Route 8 Encounters (Beach Field)**
+
 | **Grass: Morning**   | **%** | **Grass: Day**       | **%** | **Grass: Night**     | **%** |
 |----------------------|-------|----------------------|-------|----------------------|-------|
 | Skiddo               | 22    | Wooloo               | 32    | Stantler             | 41    |
@@ -18455,10 +18456,11 @@ decide if stay with Florin and Erin or go with Flora. This is a very
 important choice and there are consequence depending on future actions.
 
 Both paths have its variations that matter a lot, including a way to
-make Florin die later on, which is quite a big effect. Flora Path has a
-boss fight at the end while the Florin and Erin Path had a
-minigame-style battle. Also this affect if you will face Flora or Florin
-as a Gym leader; you will face the one of the path you finish.
+make Florin die later on, which is quite a big effect.
+[Flora Path](#flora-path) has a boss fight at the end while the
+[Florin and Erin Path](#florin-and-erin-path) has a minigame-style
+battle. Also this affect if you will face Flora or Florin as a
+Gym leader; you will face the one of the path you finish.
 
 ### Flora Path
 
@@ -18523,11 +18525,11 @@ Return to the starting room to meet with Florin and Erin.
 Here we have another important choice:
 
 - Expose Flora.
-  - You jump to Florin and Erin Path
+  - You jump to [Florin and Erin Path](#florin-and-erin-path).
 - Keep quiet.
   - Remain on this route.
 
-If you didn’t expose Flora on the Florin and Ering Route, you continue
+If you didn’t expose Flora on the Florin and Erin Route, you continue
 here.
 
 You need to advance to the right to advance with the story, but let’s
@@ -18814,19 +18816,19 @@ There is a big revelation and an important choice.
 
 - Push Florin to the truth.
   - This leads to another choice that it is important.
-    - Tell Floring the truth
+    - Tell Florin the truth
       - This exposes Flora, which depending on further actions may lead
         to Florin’s death or not.
     - …
-      - You will end up in Flora’s Path after the next scene outside.
+      - You will end up in [Flora Path](#flora-path) after the next scene outside.
 - Turn the video off
-  - You will end up in Flora’s Path after the next scene outside.
+  - You will end up in [Flora Path](#flora-path) after the next scene outside.
 
 After the scene, leave room.
 
 If exposed Flora on the other route, you continue on this point here.
 Note that if you are here, it is possible to unlock Florin’s death,
-which means a bad end for him
+which means a bad end for him.
 
 **Friendship Point Choice:**
 - It’s not meaningless. (Flora -4, Florin +2)
@@ -18978,10 +18980,10 @@ is no way to fight them if Florin dealt with them
 After the battle pick the ***Rare Candy*** on the southwest and use the
 butterflies next to the southern exit. Leave through it.
 
-Advance and go upstairs to face 2 grunts. If you have at least 1 Floring
-Bad Ending Point, yoy get the same choice as before.
+Advance and go upstairs to face 2 grunts. If you have at least 1 Florin
+Bad Ending Point, you get the same choice as before.
 
-**Friendship Point Choice (if Floring Bad Ending = 1):**
+**Friendship Point Choice (if Florin Bad Ending = 1):**
 - Battle them. (Florin +2)
 - Florin, handle them. (Florin -3, Florin Bad Ending = 2)
 
@@ -18990,7 +18992,7 @@ Path part of the guide.
 
 Continue to see the same scene happening again after crossing a bridge.
 
-**Friendship Point Choice (if Floring Bad Ending = 3):**
+**Friendship Point Choice (if Florin Bad Ending = 3):**
 - You’re taking it too far! (Florin -2)
 - Florin is right. (Erin -3, Florin +4)
 
@@ -19010,8 +19012,8 @@ which is out hundredth.
 Return to where you changed the cave.
 
 You can’t go north, so go east for another scene. IF you are at 3 Florin
-Bad Ending Points go to the Florin Bad Ending Section, otherwise to
-Florin and Erin Path Continuation.
+Bad Ending Points go to the [Florin Bad Ending Interlude](#florin-bad-ending-interlude), otherwise to
+[Florin and Erin Path Continuation.](#florin-and-erin-path-continuation)
 
 ### Florin Bad Ending Interlude
 
@@ -19096,6 +19098,10 @@ back to Darchlight Caves.
 Go north though the bridge and enter the Decompression Lab.
 
 Here the items we need to find vary depending on what path we took.
+
+Go to [Flora Path Detour](#flora-path-detour).
+
+Go to [Florin and Erin Path Detour](#florin-and-erin-path-detour).
 
 ### Flora Path Detour
 
@@ -19207,6 +19213,10 @@ Florin are ready to fight you.
 ## Rose Badge
 
 It is a different battle depending on your Route.
+
+Go to [Flora Gym Battle](#flora-gym-battle).
+
+Go to [Florin Gym Battle](#flora-gym-battle).
 
 ### Flora Gym Battle
 
