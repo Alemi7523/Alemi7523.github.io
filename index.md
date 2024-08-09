@@ -239,7 +239,7 @@
     - [Flora Gym Battle](#flora-gym-battle)
     - [Florin Gym Battle](#florin-gym-battle)
     - [Darchlight Manor](#darchlight-manor)
-- [Chapter 11: Through the Looking Mask](#chapter-10-through-the-looking-mask)
+- [Chapter 11: Through the Looking Mask](#chapter-11-through-the-looking-mask)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -21421,8 +21421,8 @@ The information about Crests has been taken from the [wiki](https://rejuvenation
   - It takes resisted damage from Rock and Fighting attacks.
   - Location: Zorrialyn Labyrinth - 3rd Floor.
 - [Gothitelle](https://rejuvenation.wiki.gg/wiki/Gothitelle_Crest):
- - Using Dark and Psychic type moves swaps between respective types. Recovers HP.
- - Location: Fort Rystrine - Inside the lowest building, on the left hand side.
+  - Using Dark and Psychic type moves swaps between respective types. Recovers HP.
+  - Location: Fort Rystrine - Inside the lowest building, on the left hand side.
 - [Hypno](https://rejuvenation.wiki.gg/wiki/Hypno_Crest):
   - It increases Hypno\'s Special Attack and Accuracy by 50%.
   - Zorrialyn Labyrinth - 2nd Floor.
