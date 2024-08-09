@@ -269,6 +269,7 @@
     - [Cold Evolution Environment](#cold-evolution-environment)
     - [Alolan Marowak Evolution Environment](#alolan-marowak-evolution-environment)
     - [Galarian Weezing Evolution Environment](#galarian-weezing-evolution-environment)
+    - [Galarian Mr. Mime Evolution Environment](#galarian-mrmime-evolution-environment)
     - [Alolan Exeggutor Evolution Environment](#alolan-exeggutor-evolution-environment)
     - [Hisuian Lilligant Evolution Environment](#hisuian-lilligant-evolution-environment)
     - [Hisuian Braviary Evolution Environment](#hisuian-braviary-evolution-environment)
@@ -14672,7 +14673,7 @@ On the left, there is a Zygarde Cell.
 Now, use the right path to reach the northern area. Activate the Valor
 Crystal on the north.
 
-With the mountain on Fieryt mood, return to the southern area though the
+With the mountain on Fiery mood, return to the southern area though the
 right path and around the area of the previous Zygarde Cell, there is a
 **Vulpix**. Give it a Gourmet Treat to have a chance to catch it.
 
@@ -20634,7 +20635,7 @@ this evolution form anyway.]</u>
 ### Galarian Weezing Evolution Environment
 
 **Pokémon with evolution on this location:**
--   Koffing -\> Alolan Weezing
+-   Koffing -\> Galarian Weezing
 
 **Maps to evolve:**
 -   West Gearen City
@@ -20643,6 +20644,26 @@ this evolution form anyway.]</u>
 -   West Gearen Sewage Management
 -   Blakeory Manor
 -   Route Z
+
+### Galarian Mr. Mime Evolution Environment
+
+**Pokémon with evolution on this location:**
+-   Mime Jr. -\> Galarian Mr. Mime
+
+**Maps to evolve:**
+-   Evergreen Island
+-   Valor Mountain (Icy Mood)
+-   Zeight (Diamond Route area)
+-   3rd HQ
+-   Terajuma Beach (Day)
+-   Mirimura Cave
+-   Jynnobi Pass
+-   Tyluric Temple (Outdoors)
+-   Evergreen Cave \[North\]
+-   Evergreen Forest
+-   Spring of Preservation
+-   Seabound Cave
+-   Evergreen Cave \[South\]
 
 ### Alolan Exeggutor Evolution Environment
 
