@@ -18016,7 +18016,7 @@ north map for a scene at the Grand Bridge, which is broken.
 Our next objective is in Darchlight Woods, but no way we aren’t
 exploring Route 7 in full before.
 
-Before leaving the map, go northeast to find ***TM123 Self Destruct***.
+Before leaving the map, go northeast to find ***TM123 Self-Destruct***.
 Go to the northwest side for a Zygarde Cell.
 
 **ZCell 097: Grand Bridge**
@@ -19220,7 +19220,7 @@ It is a different battle depending on your Route.
 
 Go to [Flora Gym Battle](#flora-gym-battle).
 
-Go to [Florin Gym Battle](#flora-gym-battle).
+Go to [Florin Gym Battle](#florin-gym-battle).
 
 ### Flora Gym Battle
 
