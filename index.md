@@ -18807,6 +18807,8 @@ is poisoned, so you can stall and will be defeated anyway.
 Agree to move to the battlefield where we will have the Gym battle if
 you want, but we are taking a detour first.
 
+Go to [Detour Before Rose Badge](#detour-before-rose-badge).
+
 ### Florin and Erin Path
 
 Go to the north room for a scene. Now talk with Erin on the right side.
@@ -19088,6 +19090,8 @@ is activated there is some changes in dialogue.
 
 Agree to move to the Gym battle to teleport to the field to fight Florin
 if you want, but are making a small detour first.
+
+Go to [Detour Before Rose Badge](#detour-before-rose-badge).
 
 ## Detour Before Rose Badge
 
