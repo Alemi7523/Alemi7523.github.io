@@ -269,7 +269,7 @@
     - [Cold Evolution Environment](#cold-evolution-environment)
     - [Alolan Marowak Evolution Environment](#alolan-marowak-evolution-environment)
     - [Galarian Weezing Evolution Environment](#galarian-weezing-evolution-environment)
-    - [Galarian Mr. Mime Evolution Environment](#galarian-mrmime-evolution-environment)
+    - [Galarian Mr. Mime Evolution Environment](#galarian-mr-mime-evolution-environment)
     - [Alolan Exeggutor Evolution Environment](#alolan-exeggutor-evolution-environment)
     - [Hisuian Lilligant Evolution Environment](#hisuian-lilligant-evolution-environment)
     - [Hisuian Braviary Evolution Environment](#hisuian-braviary-evolution-environment)
