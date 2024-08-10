@@ -242,7 +242,7 @@
 - [Chapter 11: Through the Looking Mask](#chapter-11-through-the-looking-mask)
   - [Grand Dream City](#grand-dream-city)
     - [Quest 65: Spiteful Ex](#quest-65-spiteful-ex)
-
+    - [Quest 66: SPU Delivery](#quest-66-spu-delivery)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -298,7 +298,7 @@
   - [Pickup Table](#pickup-table)
   - [Crest Descriptions](#crest-descriptions)
 - [New Quests](#new-quests)
-  - [Tyluric Temple (Magma Drift / 12 Badges)](#tyluric-temple-magma-drift-12-badges)
+  - [Tyluric Temple (Magma Drift and 12 Badges)](#tyluric-temple-magma-drift-and-12-badges)
 
 
 # About this guide
@@ -19079,7 +19079,7 @@ Go east on the conveyor belt here and use the northern one to go west.
 Take the western conveyor belt. Go north for a scene.
 
 We are controlling Giratina in a minigame. Use Shadow Sneak Teice, one
-on Venusaur another on Roserade. Then use Sahdow Ball to charge up and
+on Venusaur another on Roserade. Then use Shadow Ball to charge up and
 on turn 4 Use Shadow Force to deal massive damage. Venusaur and Roserade
 should be out of combat. Now, two Shadow Sneaks on Flora should defeat
 her.
@@ -19509,8 +19509,8 @@ of the city.
 
 Note that you can increase your reputation in Grand Dram City by
 fighting trainers. Later on, we can get rewards for having high enough
-reputation, some of them unique like a stamp, a Mega Stone and a Z
-Crystal, so try to win battles to increase it. Note that losing some
+reputation, some of them unique like a stamp, a Mega Stone and a 
+Z-Crystal, so try to win battles to increase it. Note that losing some
 battles may actually decrease it. You will need at least 800 of
 reputation to get all rewards.
 
@@ -19540,7 +19540,7 @@ There is a white haired trainer running on the area, defeating him gives
 20 of reputation.
 
 Continue walking to the right until you can access a small garden to the
-south, move around it to reach an Exp. Candy XL.
+south, move around it to reach an ***Exp. Candy XL***.
 
 Continue to the right to find a bug catcher north close to a garden.
 Defeat him for 20 of reputation. At night, running around the area close
@@ -19662,7 +19662,7 @@ we have 100 of reputation, which is the minimum threshold for things
 related to reputation. We can’t check it in game yet, but 100 is
 considered Stone Rank while less is Dust Rank.
 
-A bit to the left of the crows, there is a small street going up, so
+A bit to the left of the crowd, there is a small street going up, so
 time to go there.
 
 Go north through the street to fight a red-haired girl. She gives 20 of
@@ -19714,24 +19714,335 @@ Talk to the girl, who copies you, and ask about the Train Pass.
 Return to the main street and leave this map though the left to reach
 the Central Square.
 
-Find the ex-boyfriend on The Black Alley and trach him as lesson. The
-choices don't matter, you will have to fight him anyway.
+**Central Square Encounters (City Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|
+| **Fearow**         | 27    | **Fearow**     | 30    | Purugly          | 35    |
+| **Rockruff**       | 25    | **Rockruff**   | 17    | Skuntank         | 27    |
+| Leavanny           | 22    | Leavanny       | 22    | Noctowl          | 15    |
+| Forretress         | 10    | Togedemaru     | 14    | Ariados          | 16    |
+| Greedent           | 5     | Gogoat         | 10    | Thievul          | 5     |
+| Unfezant           | 5     | Pidgeot        | 5     | Wigglytuff       | 2     |
+| Togedemaru         | 4     | Boltund        | 2     |                  |       |
+| Stoutland          | 2     |                |       |                  |       |
+|                    |       |                |       |                  |       |
+
+To get a **Dusk Lycanroc**, you must evolve a **Rockruff** between 19h
+and 20h in-game. Earlier or later are the other two forms.
+
+As soon as you are on the Central Square, check the left end of the
+northern part of the pedestrian crossing to get a hidden ***Lemonade***.
+
+Go north and check the moss rock for a hidden ***Exp. Candy XL***. Enter
+the right building.
+
+You can give money to the girl on the left four times, and she will give
+you a ***Rare Candy***.
+
+Go to steps to the right from the girl and look down. Interact for a
+hidden ***Dusk Ball***. Go another step left and interact to find a
+hidden ***Ether***.
+
+Leave and go to the left to enter another building. There is a ***Sun
+Stone*** on the northwest corner.
+
+Leave the building, and go right and down; you will see tables and grass
+here. The right building allows to cut hair, which increases friendship.
+
+Check the right side of the tree in the grass area for a hidden Red
+Shard. Go two steps down and advance to the left until finding an empty
+tile, check it for a hidden ***Muscle Wing***.
+
+Tak with the blond trainer under the grass area for a double battle, win
+for 20 of reputation.
+
+Go south and turn right when you a tree there. Check the central tile of
+grass under it for a hidden ***Love Ball***. Continue right and go down
+to find a ***Synthetic Seed***.
+
+Return to where the double battle was and go to the left this time. Go
+south at the end of the street. Once you can go left again, put yourself
+on the upper-left side of the benches and look up; interact for a hidden
+***Max Repel***. Now, make your way up to find a ***Revival Herb*** next
+to a dump container. Check the container itself for a hidden ***Exp
+Candy L***.
+
+Return to the main street and go north. You will see two dump containers
+south of some big stairs, check the northern container for a hidden
+***Green Shard***. Check the tree you can see from here on the south to
+find another hidden ***Green Shard***.
+
+Enter the house here. There is a ***Hyper Potion*** in the table and if
+it is night, there is a girl on the right who will give you 5 ***Persim
+Berry***.
+
+Go north through the main street to reach the Back Alley. On the
+northern part we will find a guy with an exclamation on his head, he is
+the one we need to teach a lesson.
+
+The choices don’t matter, you will have to fight him anyway.
 
 **Cool Trainer Guy (City Field)**
--   Scrafty. Level 66.
--   Obstagoon. Level 67.
--   Staraptor. Level 66.
--   Machamp. Level 67.
+
+- Scrafty. Level 66.
+
+- Obstagoon. Level 67.
+
+- Staraptor. Level 66.
+
+- Machamp. Level 67.
 
 Beating him increases your GDC reputation by 20, but then he spreads
 rumors about you and diminish by 50.
 
-Go back to the girl who gave you the quest and she will give up a
-Train Pass completing the Quest and restore 30 of reputation, so
-you don't end up winning or losing reputation with this quest in
-the end. With the Train Pass, the travel on trains in GDC become
-cheaper, and it is a very big discount, from $6950 to $1000.
-It doesn’t make the bus cheaper though.
+Let’s visit the Festival Plaza at the north before going back to report
+what happened.
+
+There are shops and move tutors here. Also, there is a way to get some
+mons from events and a grass area on the northeast.
+
+**Festival Plaza Encounters (City Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|
+| Chatot             | 30    | Togedemaru     | 34    | Electrike        | 35    |
+| Skiddo             | 15    | Leavanny       | 22    | Raticate         | 22    |
+| Leavanny           | 22    | Skiddo         | 20    | Skiddo           | 20    |
+| Forretress         | 10    | Electrike      | 10    | Gogoat           | 11    |
+| **Lillipup**       | 10    | Gogoat         | 10    | Noctowl          | 10    |
+| Gogoat             | 5     | Chatot         | 5     | Dustox           | 2     |
+| Togedemaru         | 4     | Manectric      | 4     |                  |       |
+| Stoutland          | 2     |                |       |                  |       |
+
+Start to the right. The guy nearby will sell you a Chatot for \$15000,
+which is quite useless as we could have catch it a long time ago, and it
+is even available on the wild on this same map.
+
+If you check the table on the north, you can pick up a ***Green
+Shard***. If you talk with the girl with the Chatot on the southeast
+corner and then to the Chatot, you will listen what words the Chatot was
+taught.
+
+Continue north on the right side. The first stand has a girl who is a
+Name Rater, not useful. There is a guy next to her that is a Move
+Relearner, who will teach again moves to your team for one Heart Scale.
+You can use 3 Heart Scales to make a mon capable of relearning all at
+any moment.
+
+The next stand has three Tutor Moves we have already obtained in our app
+in Akuwa Town.
+
+**Festival Plaza Move Tutor (Right)**
+
+| Water Pledge | *3 Blue Shards*  |
+|--------------|------------------|
+| Grass Pledge | *3 Green Shards* |
+| Fire Pledge  | *3 Red Shards*   |
+
+Here, there is a breeder to farm candies, and grass with the encounters
+and a couple of hidden items. Go one tile right from the left corner and
+inspect down to get a hidden Friend Ball, and now go to the left of the
+right corner and inspect up for a hidden ***Synthetic Seed***.
+
+The stand on the left is a finishing game, the Aquarium Mystery.
+Standard bait is \$2000, Delicious bait is \$7500, and Gourmet bait is
+\$20000. Here's a breakdown of what you can get for each:
+
+**Aquarium Mystery Standard Bait**
+
+| **Item/Pokémon** | **Chance** |
+|------------------|------------|
+| Wishiwashi       | 1%         |
+| *Heart Scale*    | 10%        |
+| *Link Heart*     | 10%        |
+| *HP Up*          | 10%        |
+| *Lemonade*       | 10%        |
+| *Super Potion*   | 10%        |
+| *Honey*          | 10%        |
+| *Poké Ball*      | 39%        |
+
+**Aquarium Mystery Delicious Bait**
+
+| **Item/Pokémon** | **Chance** |
+|------------------|------------|
+| **Horsea**       | 1%         |
+| *Heart Scale*    | 10%        |
+| *Link Heart*     | 10%        |
+| *Moon Stone*     | 10%        |
+| *Max Revive*     | 10%        |
+| *Ultra Potion*   | 10%        |
+| *Fire Stone*     | 10%        |
+| *Dusk Ball*      | 39%        |
+
+**Aquarium Mystery Gourmet Bait**
+
+| **Item/Pokémon** | **Chance** |
+|------------------|------------|
+| *Jaw Fossil*     | 10%        |
+| **Horsea**       | 12%        |
+| *Shiny Stone*    | 18%        |
+| *Sail Fossil*    | 20%        |
+| *Dawn Stone*     | 20%        |
+| *Dusk Stone*     | 20%        |
+
+Wishiwashi isn’t even new and same happens with the Sail and Jaw Fossils
+elsewhere, so this is primarily useful right now for **Horsea**, which
+can only be obtained after we have 13 badges otherwise. Note that you
+must insist in that you want it to get the Wishiwashi and the
+***Horsea*** otherwise the guy makes you retry.
+
+On the left, there are more vendors.
+
+**Festival Plaza Right Shop**
+
+| **Item**            | **Price** |
+|---------------------|-----------|
+| *Vanilla Ice Cream* | \$400     |
+| *Choc Ice Cream*    | \$600     |
+| *Berry Ice Cream*   | \$800     |
+
+She'll also rarely have *Blue Moon Ice Cream* to sell for \$20000.
+
+**Festival Plaza Left Shop**
+
+| **Item**            | **Price** |
+|---------------------|-----------|
+| *Reverse Candy*     | \$50      |
+| *Sachet*            | \$1000    |
+| *Funnel Cake*       | \$7000    |
+| *Whipped Dream*     | \$1000    |
+| *Apophyll Pancakes* | \$3000    |
+| *Rare Candy*        | \$30000   |
+
+Just to the left of these shops there is a high striker machine. Pay the
+price, \$350, then it will give you a random reward, but if you have a
+mon in your team with one of the following abilities, you always hit max
+and get the ***HM06 Dive***: Huge Power, Sheer Force, Pure Power, and
+Guts.
+
+| **Outcome**  | **Chance** |
+|--------------|------------|
+| *HM06 Dive*  | 2%         |
+| *Poke Doll*  | 14%        |
+| Fee refunded | 22%        |
+| Nothing      | 62%        |
+
+Note that the first time you get the Poke Doll prize, it will actually
+be a **Stufful**.
+
+Note that Dive can only be used outside of battle after we got 13
+badges.
+
+Under a table on the south there is a girl who tells you what is the
+Hidden Power of your mons.
+
+You can’t use the move tutor left of the table until you get 13 badges,
+but you can with the one on the stand under his.
+
+**Festival Plaza Move Tutor (Left Bottom)**
+
+| Earth Power     | *6 Blue Shards*   |
+|-----------------|-------------------|
+| Focus Punch     | *5 Red Shards*    |
+| Drain Punch     | *6 Yellow Shards* |
+| Pain Split      | *4 Blue Shards*   |
+| Misty Explosion | *7 Red Shards*    |
+
+Remember to learn the moves once so that they appear in your app. There
+is a PC nearby if you need to bring out a mon who can learn those moves
+and you don’t have a Remote PC.
+
+Under this stand, there is an ***Ether***.
+
+Go right to reach the bottom stands, talk to the guy on the first one
+from the left and give him a Blue Shard, and we will be able to do a
+puzzle.
+
+This has a random aspect and can be hard, you can soft reset if you find
+it too hard, but completing this is the only way to get **Darumaka**.
+Here some instructions [based on a guide made for a similar puzzle on
+Reborn](https://www.rebornevo.com/forums/topic/29088-timburr-puzzle-strategy-guide-4x4-rotation/).
+
+For this puzzle you need to rotate the pieces to complete the image, but
+when doing so, the adjacent tiles also rotate, and as mentioned, this is
+randomized at the beginning.
+
+<img src="assets/media/image121.png" width="512"/>
+
+The first step is to put each tile in order by rotating the tile below
+it. This way the tiles below won’t be disturbed.
+
+<img src="assets/media/image122.png" width="512"/>
+
+Once the top row is fixed, time to do the same with the second, remember
+to rotate toughing those of a row below.
+
+<img src="assets/media/image123.png" width="512"/>
+
+Do the same to fix the third row. The trouble is to fix the last one
+unless we are lucky and gets fixed at the same time as the row above.
+
+<img src="assets/media/image124.png" width="512"/>
+
+If it isn’t solved, follow the instructions below or soft-reset until
+you are lucky, and the last row got completed automatically when you
+finish the third one.
+
+If the four tiles are wrong, follow these instructions.
+
+ 2 1 0 2  
+ 1 1 1 2  
+ 0 0 0 3  
+ 3 3 0 3 
+
+If the corner tiles are wrong, follow these instructions.
+
+ 1 1 2 0  
+ 2 0 1 2  
+ 1 0 3 1  
+ 1 0 3 2
+
+If the central tiles are wrong, follow these instructions.
+
+ 2 3 1 3  
+ 3 2 1 0  
+ 1 3 0 0  
+ 1 2 0 0 
+
+<img src="assets/media/image125.png" width="512"/>
+
+As stated before, the reward for completing this is a **Darumaka**.
+
+The stand on the right is a shop.
+
+**Air Ballon Shop**
+
+| **Item**      | **Price** |
+|---------------|-----------|
+| *Air Balloon* | \$200     |
+
+We are finished with the Festival Plaza, so go back to the girl who gave
+you the quest and talk to her. She will give you a Train Pass and
+restore 30 of your reputation, so you don't end up winning or losing
+reputation with this quest in the end.
+
+With the Train Pass, the travel on trains in GDC become cheaper, and it
+is a very big discount, from \$6950 to \$1000. It doesn’t make the bus
+cheaper though.
+
+### Quest 66: SPU Delivery
+
+We are going to star another quest as we explore more and advance with
+the story.
+
+Go back to Central Square and enter the enormous building at the north.
+
+On the top-right corner, you can heal and access the EV Training room.
+
+Talk to Rhodea to advance the story. You are registered officially as
+temporary Grand City citizens.
+
 
 
 
@@ -21799,7 +22110,7 @@ The information about Crests has been taken from the [wiki](https://rejuvenation
 
 ## New Quests
 
-### Tyluric Temple (Magma Drift / 12 Badges)
+### Tyluric Temple (Magma Drift and 12 Badges)
 You can get some overworld **Grookey** now, if you go past the tornadoes.
 
 Return to this temple once you got able to use Magma Drift outside
