@@ -240,6 +240,8 @@
     - [Florin Gym Battle](#florin-gym-battle)
     - [Darchlight Manor](#darchlight-manor)
 - [Chapter 11: Through the Looking Mask](#chapter-11-through-the-looking-mask)
+  - [Grand Dream City](#grand-dream-city)
+    - [Quest 65: Spiteful Ex](#quest-65-spiteful-ex)
 
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
@@ -296,8 +298,7 @@
   - [Pickup Table](#pickup-table)
   - [Crest Descriptions](#crest-descriptions)
 - [New Quests](#new-quests)
-  - [Spiteful Ex](#spiteful-ex)
-  - [Tyluric Temple (Magma Drift)](#tyluric-temple-magma-drift)
+  - [Tyluric Temple (Magma Drift / 12 Badges)](#tyluric-temple-magma-drift-12-badges)
 
 
 # About this guide
@@ -19481,7 +19482,256 @@ After the scenes this chapter will finish.
 
 We begin again with a Team Xen scene.
 
+Once you can move, leave the train. You won't be able to enter again,
+but there is nothing to do inside it either way. Now, leave the map with
+the train to reach the main map of Grand Dream Station. On the southwest
+corner there is a hidden ***Hyper Potion***. Use the southern exit to
+leave. You will see a scene, which changes depending on if Flora is
+arrested or not and the Florin Bad Ending.
 
+## Grand Dream City
+
+We are on the southern part of Dream District, and we can explore a bit
+of the city.
+
+**Dream District (South) Encounters (City Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|
+| Emolga             | 30    | Togedemaru     | 34    | Purugly          | 35    |
+| **Leavanny**       | 22    | **Leavanny**   | 22    | Skuntank         | 27    |
+| Skwovet            | 15    | Skiddo         | 15    | Ariados          | 16    |
+| Forretress         | 10    | Yamper         | 10    | Noctowl          | 15    |
+| Unfezant           | 10    | Gogoat         | 10    | Thievul          | 5     |
+| Greedent           | 5     | **Pidgeot**    | 5     | Wigglytuff       | 2     |
+| Togedemaru         | 4     | Boltund        | 2     |                  |       |
+| Stoutland          | 4     |                |       |                  |       |
+
+Note that you can increase your reputation in Grand Dram City by
+fighting trainers. Later on, we can get rewards for having high enough
+reputation, some of them unique like a stamp, a Mega Stone and a Z
+Crystal, so try to win battles to increase it. Note that losing some
+battles may actually decrease it. You will need at least 800 of
+reputation to get all rewards.
+
+Note that dialogues around the city will also change with higher
+reputation as people will know about you.
+
+The right building is the Pokémon Center and in front of it there is a
+Bus Stop you can use and also the metro from Gran Dream Station is now
+available, but we are exploring, so we are going on foot. Also, note
+that it is expensive to use.
+
+On the building left of the Grand Dram Station there is a breeder
+commenting about the mons you have in the Day Care. Inside, on the right
+corner, you can deposit and withdraw mons from the Day Care. Useful
+given that we are unable to go to the Day Care in Floria Island.
+
+Go south from this counter for a Zygarde Cell.
+
+**ZCell 104: Dream District (South)**
+
+<img src="assets/media/image118.png" width="512"/>
+
+Go south from here and inspect the dump container n the left for a
+hidden ***Poison Gem***.
+
+There is a white haired trainer running on the area, defeating him gives
+20 of reputation.
+
+Continue walking to the right until you can access a small garden to the
+south, move around it to reach an Exp. Candy XL.
+
+Continue to the right to find a bug catcher north close to a garden.
+Defeat him for 20 of reputation. At night, running around the area close
+to the garden, there is a Fairy Girl who also gives 20 of reputation for
+defeating her.
+
+On the northwest tile of the garden, under a tree, there is a hidden
+Dark Gem. On the right side, three tiles behind the bench, there is a
+hidden Magical Seed.
+
+Go up until seeing cars, and ten go to the right and up. During the day,
+you will see a lot of people together, beat the ranger here there to get
+20 of reputation and a ***Leppa Berry***.
+
+From here go north and enter the Night Market, go north and turn right
+when you can, at the end of the way there is ***TM67 Roost***. Except
+for a girl giving massages on the north, there nothing more to do here
+during the day, but during the night you can enter a shop on the left
+street.
+
+**Madame Peony Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Heal Powder*  | \$450     |
+| *Energy Root*  | \$800     |
+| *EnergyPowder* | \$500     |
+| *Pure Incense* | \$9600    |
+| *Luck Incense* | \$9600    |
+| *Full Incense* | \$9600    |
+| *Wave Incense* | \$9600    |
+| *Odd Incense*  | \$9600    |
+| *Full Heal*    | \$600     |
+
+Having access to the incenses allows us to breed baby mons we couldn’t
+before.
+
+Nothing else to do here, leave through the north of the central street
+to reach the northern area of Dream District.
+
+Here, go the right to find a car selling Ice Creams.
+
+Deam District (North) Ice Cream Shop
+
+| **Item**          | **Price** |
+|-------------------|-----------|
+| Vanilla Ice Cream | \$400     |
+| Choc Ice Cream    | \$600     |
+| Berry Ice Cream   | \$800     |
+
+Now, go north to find the Somniam Mall, which I have mentioned
+previously on the guide. Enter for a scene in which you will be given
+your second stamp. The more stamps you have the more places in Somniam
+Mall you can buy.
+
+On the left you can check the two shops that require only one stamp,
+which you will have for certain the first time you enter the Somniam
+Mall even without doing other quests.
+
+**Somniam Mall 1 Stamp Shop 1**
+
+| **Item**      | **Price** |
+|---------------|-----------|
+| *Heat Rock*   | \$200     |
+| *Icy Rock*    | \$200     |
+| *Smooth Rock* | \$200     |
+| *Damp Rock*   | \$200     |
+| *Grip Claw*   | \$200     |
+| *Light Clay*  | \$200     |
+| *Everstone*   | \$200     |
+
+**Somniam Mall 1 Stamp Shop 2**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Max Repel*    | \$700     |
+| *Great Ball*   | \$600     |
+| *Ultra Ball*   | \$1200    |
+| *Full Heal*    | \$600     |
+| *Hyper Potion* | \$1200    |
+| *Ultra Potion* | \$2200    |
+| *Revive*       | \$8500    |
+| *Escape Rope*  | \$550     |
+
+Us ethe northwest stairs to reach the two shops you can access with two
+stamps, which you should have if you followed this guide.
+
+**Somniam Mall 2 Stamps Shop 1**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Fire Stone*   | \$2100    |
+| *Water Stone*  | \$2100    |
+| *Leaf Stone*   | \$2100    |
+| *Thunderstone* | \$2100    |
+| *Sun Stone*    | \$2100    |
+| *Moon Stone*   | \$2100    |
+
+**Somniam Mall 2 Stamps Shop 2**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Air Balloon*  | \$200     |
+| *White Herb*   | \$100     |
+| *Mental Herb*  | \$100     |
+| *Power Herb*   | \$100     |
+| *Absorb Bulb*  | \$200     |
+| *Snowball*     | \$200     |
+| *Smoke Ball*   | \$200     |
+| *Destiny Knot* | \$200     |
+| *Cell Battery* | \$200     |
+
+We can’t check other shops for now, so leave after buying whatever you
+need.
+
+This time, go to the left until seeing a crowd during the day, there is
+a trainer that gives you 20 of reputation for defeating him. With this
+we have 100 of reputation, which is the minimum threshold for things
+related to reputation. We can’t check it in game yet, but 100 is
+considered Stone Rank while less is Dust Rank.
+
+A bit to the left of the crows, there is a small street going up, so
+time to go there.
+
+Go north through the street to fight a red-haired girl. She gives 20 of
+reputation.
+
+On the northwestern building, Mika’s Café, there is a maid who formerly
+worked for Angie, so talk to her on the counter.
+
+Let’s use the northwest exit for a quick visit to the Botanical Garden.
+Here, there are overworld Combee, Vespiquen and **Petilil**. You can
+evolve it normally here, but on Sheridan Village and Route 9, you can
+evolve to the Hisuian variant. **Petilil** is on the right side, and if
+you go north from here, you will find a hidden ***Revive*** on a small
+rock between grass and a big rock.
+
+Go to the left from here until you see grass going north; on the last
+tile of grass there is a hidden ***Lum Berry***. On the southeast of
+this green area, there is a Zygarde Cell on a tile without grass. It is
+a bit hard to see.
+
+**ZCell 105: Botanical Garden**
+
+<img src="assets/media/image119.png" width="512"/>
+
+South from here there is a trainer who will give you 20 of reputation
+when defeated. Check the right side of the brush with pink flowers
+northeast of here for a hidden ***Revive***.
+
+Take the path to the left. On the paved path, between two blue flowers,
+there is a hidden ***Sitrus Berry***. Continue north through the path to
+find another Zygarde Cell.
+
+**ZCell 106: Botanical Garden**
+
+<img src="assets/media/image120.png" width="512"/>
+
+Continue north. You can’t use the exit here, but to the right and check
+in the middle of the northern flowers for a hidden ***Pecha Berry***.
+
+Leave the botanical Garden through the south. Now go to the right and on
+the southern table you will find ***TM31 Brick Break***.
+
+Talk to the woman with an exclamation in her head to begin a new quest.
+
+### Quest 65: Spiteful Ex
+
+Talk to the girl, who copies you, and ask about the Train Pass.
+
+Return to the main street and leave this map though the left to reach
+the Central Square.
+
+Find the ex-boyfriend on The Black Alley and trach him as lesson. The
+choices don't matter, you will have to fight him anyway.
+
+**Cool Trainer Guy (City Field)**
+-   Scrafty. Level 66.
+-   Obstagoon. Level 67.
+-   Staraptor. Level 66.
+-   Machamp. Level 67.
+
+Beating him increases your GDC reputation by 20, but then he spreads
+rumors about you and diminish by 50.
+
+Go back to the girl who gave you the quest and she will give up a
+Train Pass completing the Quest and restore 30 of reputation, so
+you don't end up winning or losing reputation with this quest in
+the end. With the Train Pass, the travel on trains in GDC become
+cheaper, and it is a very big discount, from $6950 to $1000.
+It doesn’t make the bus cheaper though.
 
 
 
@@ -21549,25 +21799,7 @@ The information about Crests has been taken from the [wiki](https://rejuvenation
 
 ## New Quests
 
-### Spiteful Ex
-
-Find the ex-boyfriend on The Black Alley and trach him as lesson. The
-choices don't matter, you will have to fight him anyway.
-
-**Cool Trainer Guy (City Field)**
--   Scrafty. Level 66.
--   Obstagoon. Level 67.
--   Staraptor. Level 66.
--   Machamp. Level 67.
-
-Beating him increases your GDC reputation by 20, but then he spreads
-rumors about you and diminish by 50.
-
-Go back to the girl who gave you the quest and she will give up a
-Train Pass completing the Quest. With the Train pass, the travel on
-trains in GDC becomes cheaper.
-
-### Tyluric Temple (Magma Drift)
+### Tyluric Temple (Magma Drift / 12 Badges)
 You can get some overworld **Grookey** now, if you go past the tornadoes.
 
 Return to this temple once you got able to use Magma Drift outside
