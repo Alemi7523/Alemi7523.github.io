@@ -243,6 +243,8 @@
   - [Grand Dream City](#grand-dream-city)
     - [Quest 65: Spiteful Ex](#quest-65-spiteful-ex)
     - [Quest 66: SPU Delivery](#quest-66-spu-delivery)
+    - [Quest 30: Lost Souls (District of Hope)](#quest-30-lost-souls-district-of-hope)
+    - [Quest 67: Wall of Shame](#quest-67-wall-of-shame)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -20033,15 +20035,277 @@ cheaper though.
 
 ### Quest 66: SPU Delivery
 
-We are going to star another quest as we explore more and advance with
-the story.
+We are going to start another quest as we explore more. Go back to
+Central Square.
 
-Go back to Central Square and enter the enormous building at the north.
+Go south until the end of the street and turn right. Once you see a big
+rock and a three on the south, check the right side of the tree there is
+a hidden ***Grass Gem***.
+
+Talk to the woman in front of the pedestrian pass and choose to save her
+to start a new quest. She is so stupid to actually stop in the middle
+and end up provoking an accident. She is fine, but a vehicle ended up
+against a wall. Go to the left and talk with the driver of said vehicle.
+
+We are advancing the story a bit before delivering this package though.
+
+Go to the north, where the enormous building is, and enter.
 
 On the top-right corner, you can heal and access the EV Training room.
 
 Talk to Rhodea to advance the story. You are registered officially as
 temporary Grand City citizens.
+
+**Friendship Point Choice:**
+- What’s the Central Building? (Rhodea +1)
+- Were you close with Rune? (Neutral)
+- No questions. (Neutral)
+
+Leave the building for another scene. Ask whatever you want and then say
+no questions to continue.
+
+You will need to select two of your mons to fight Risa Raider in a
+double battle, but there is some extra dialogue if you have only one and
+have to fight using just one. Winning against her is tracked and you
+also ger 50 of reputation for winning. If you lose, you lose 50 of
+reputation, so I don’t recommend losing.
+
+**Pop Star Risa Raider (City Field). Story Mode.**
+- Tuff-Puff Jigglypuff, Level 73. @ Air Balloon.
+  - Poison Jab
+  - Thunderbolt
+  - Draco Meteor
+  - Sludge Wave
+- Delcatty, Level 73. @ Delcatty Crest.
+  - Fake Out
+  - Helping Hand
+  - Blizzard
+  - Covet
+
+**Pop Star Risa Raider (City Field). Classic Mode.**
+- Tuff-Puff Jigglypuff, Level 78. @ Air Balloon.
+  - Poison Jab
+  - Thunderbolt
+  - Draco Meteor
+  - Flamethrower
+- Delcatty, Level 78. @ Delcatty Crest.
+  - Fake Out
+  - Helping Hand
+  - Blizzard
+  - Frustration
+
+I am not sure if the Story Mode battle triggers properly seeing the
+code. Anyway, she is far over the level cap, but it isn’t a hard fight
+unless your team of two is at a great typing disadvantage.
+
+You are told your reputation can be checked on the Central Building, but
+as far as I am aware, no, you can’t. The place is at the Scholar
+District, which we can’t access yet.
+
+Enter the building after the scenes; this is the Dram Complex. The first
+delivery is also here, on the top-left counter. Return to the delivery
+driver to get another parcel.
+
+Go to the northeast until reaching the north path of Dram District. Go
+north though the small street and to Mika’s Café. Deliver the parcel to
+Patty, the girl who worked for Angie and we spoke before when we visited
+the area. You will receive a ***Link Heart***.
+
+Return to the driver to get your next delivery. We need to go to the
+Judicial District, and this will be our first visit.
+
+Take the western exit form the Central Square to reach the District of
+Hope; we will deal properly with northern area of the District of Hope
+later, but for now turn south when you can.
+
+When you can, turn left and enter the graveyard. There is a hidden Blue
+Shard in front of the grave at your left. Go the next row of graves and
+on front of the first on the right there is a hidden Berry Juice.
+
+Go north until you see a guard blocking your way to the catacombs. Under
+the stairs, take a step left and inspect for a hidden ***Persim
+Berry***.
+
+Leave the graveyard and continue west. Go south when you see two houses
+there. Use the stairs of the left one to find a ***Thunderstone***. As a
+curiosity, this is Mosely’s house form where she ran away, and the diary
+you can find here is also hers.
+
+Leave the house and continue west. There is a ***Soda Pop*** on the
+western end near a ship.
+
+Go north to enter Pokémon Pinnacle.
+
+**Pokémon Pinnacle Encounters (Haunted Field)**
+
+| **Cave**            | **%** |
+|---------------------|-------|
+| Shedinja            | 50    |
+| **Cofagrigus**      | 25    |
+| **Aevian Sigilyph** | 25    |
+
+Use the northern stairs and fight the first guy you see to obtain 20 of
+reputation. You should be able to see ***Spell Tag*** from her pick it
+up.
+
+Note that after you open the 9 badge chest on Wispy Chasm, some
+overworld encounters will appear on this floor, but we can’t go back to
+Floria Island, and we didn’t have strength to access it before coming
+here.
+
+Advance to the next floor. There is another ***Spell Tag*** here. Go
+upstairs once again. You will find a **Lemonade** on the south.
+
+Advance to the right and defeat the white-haired trainer to get 20 of
+reputation.
+
+You can leave this place now and return to the District of Hope. Go the
+right all the way and then south to reach the Judicial District.
+
+**Judicial District Encounters (City Field)**
+
+| **Grass: Morning/Day** | **%** | **Grass: Night** | **%** |
+|------------------------|-------|------------------|-------|
+| **Pikachu**            | 30    | **Magnemite**    | 20    |
+| Growlithe              | 20    | **Magneton**     | 20    |
+| Litleo                 | 20    | Houndour         | 15    |
+| **Raichu**             | 15    | Litleo           | 15    |
+| **Granbull**           | 5     | Lurantis         | 10    |
+| **Magneton**           | 5     | **Pyroar**       | 5     |
+| **Pyroar**             | 5     | **Luxio**        | 5     |
+| **Arcanine**           | 5     | **Luxray**       | 5     |
+|                        |       | **Houndoom**     | 5     |
+|                        |       |                  |       |
+
+Fight the girl you will see here and win for 20 more of reputation.
+
+Check the garden at the left of the Pokémon Center. If you didn't get
+***TM19 Secret Power*** on the Hidden Library, you will get it here.
+
+There is a hidden ***Link Heart*** on the leftmost blue flower on the
+top.
+
+Go south to the area with the docks to find a Zygarde Cell.
+
+**ZCell 107: Judicial District**
+
+<img src="assets/media/image126.png" width="512"/>
+
+Go upstairs and on the right, there is the GDC Police Department.
+Deliver the package on the counter.
+
+We need to return to the driver, but do it through the eastern exist,
+and it is better if it is night. There is a trainer during here, but
+also a policeman during the night. Both fight you and winning is 20 of
+reputation for each one.
+
+At this point we should have 310 of reputation if we did everything. 200
+was Bronze Rank and over 300 is already Star Rank.
+
+If it is still night, you may find a girl running once you reach Dream
+District though this way. Defeating her gives other 20 of reputation.
+
+Return to the driver in Central Square. The last package doesn’t have an
+owner, so the driver will put its content on Forlorned Cave on Route 9.
+We can’t go there yet, but we will get a mon it shouldn’t be there
+otherwise, Dewpider, when we go.
+
+This quest is done, we will catch the Dewpider in the future when we
+visit the place.
+
+### Quest 30: Lost Souls (District of Hope)
+
+Leave through the western exit again to reach the District of Hope. It
+needs to still be night since we can’t start the quest, but first go the
+western end and two tiles under the right side of the brush with pink
+flowers there is a hidden ***Green Shard***.
+
+Now, talk to Mosely and agree to proceed. Enter the door. The choice
+doesn’t matter. Head downstairs.
+
+You can’t enter the door because it is blocked, so go downstairs again
+two times. There is a computer here you can use to unlock the door, but
+it triggers the alarms.
+
+Return to the locked door and talk to Mosely. Choice doesn't matter. You
+will have to fight a policeman.
+
+**Police Officer Johnson (No Field). Story Mode.**
+- Growlithe, Level 76.
+- Arcanine, Level 72.
+
+**Police Officer Johnson (No Field). Classic Mode.**
+- Purugly, Level 74.
+  - Play Rough
+  - Body Slam
+  - Night Slash
+  - Fake Out
+- Liepard, Level 74.
+  - Swagger
+  - Thunder Wave
+  - Foul Play
+  - Attract
+- Arcanine, Level 76.
+  - Close Combat
+  - Flare Blitz
+  - Extreme Speed
+  - Overheat
+
+Go upstairs for another fight.
+
+**Police Officer Mitchell (No Field). Story Mode.**
+- Lickilicky, Level 72.
+  - Power Whip
+  - Fire Blast
+  - Earthquake
+  - Body Slam
+- Marowak, Level 72.
+  - Bonemerang
+  - Rock Slide
+  - Double Edge
+  - Knock Off
+- Xatu, Level 73.
+  - Psychic
+  - Heat Wave
+  - Calm Mind
+  - Dazzling Gleam
+- Liepard, Level 74.
+  - Play Rough
+  - Night Slash
+  - Thunder Wave
+  - Foul Play
+
+**Police Officer Mitchell (No Field). Classic Mode.**
+- Lickilicky, Level 76. @ Chople Berry.
+  - Power Whip
+  - Fire Blast
+  - Earthquake
+  - Body Slam
+- Marowak, Level 77. @ Thick Club.
+  - Bonemerang
+  - Rock Slide
+  - Double Edge
+  - Knock Off
+- Xatu, Level 78. @ Wise Glasses.
+  - Psychic
+  - Heat Wave
+  - Calm Mind
+  - Dazzling Gleam
+- Liepard, Level 77. @ Life Orb.
+  - Play Rough
+  - Night Slash
+  - Thunder Wave
+  - Foul Play
+
+The policeman won’t move, so you need to go downstairs and advance
+fighting the policemen on the way. After a double battle, you will see a
+scene with Isha.
+
+This is all we can do for now since we can’t go back to the camp until
+we get Fly.
+
+### Quest 67: Wall of Shame
+
 
 
 
