@@ -20839,7 +20839,7 @@ are they ultimatum. Agree to enter the Somniam Storage for a scene,
 which vastly changes if you completed Hidden Library 3. If completed,
 you will have a double battle.
 
-**Mystery Duo ??? \$ ??? (Shot-Circuit Field)**
+**Mystery Duo ??? & ??? (Shot-Circuit Field)**
 - Wailord, Level 66.
   - Water Spout
   - Blizzard
