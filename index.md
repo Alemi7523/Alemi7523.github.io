@@ -20230,8 +20230,14 @@ needs to still be night since we can’t start the quest, but first go the
 western end and two tiles under the right side of the brush with pink
 flowers there is a hidden ***Green Shard***.
 
-Now, talk to Mosely and agree to proceed. Enter the door. The choice
-doesn’t matter. Head downstairs.
+The left building is the Pokémon Hospital. You can talk in the right
+counter to get an appointment with joy. This lets you maximize and EV of
+your choosing, an IV of your choosing and set Pokerus if you tell if
+haven’t experienced it. This all is for $10000. You can repeat this
+infinitely as long as you have the money.
+
+Now, talk to Mosely outside and agree to proceed. Enter the door. The
+choice doesn’t matter. Head downstairs.
 
 You can’t enter the door because it is blocked, so go downstairs again
 two times. There is a computer here you can use to unlock the door, but
