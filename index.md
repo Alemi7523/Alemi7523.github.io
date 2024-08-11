@@ -253,6 +253,8 @@
     - [New Game](#new-game)
     - [Incidents on Grand Dream City](#incidents-on-grand-dream-city)
   - [Nightmare Toy Box](#nightmare-toy-box)
+  - [Trickery Badge](#trickery-badge)
+- [Chapter 12: Remember, I Love You](#chapter-12-remember-i-love-you)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -20910,6 +20912,408 @@ Go to sleep to continue.
 ## Nightmare Toy Box
 
 The box here allows you to dress like you did in the Darchlight Caves.
+
+Advance to the north for a scene. Choice doesn’t matter. There is some
+extra dialogue if you met Aelita briefly on Route 7.
+
+We need to get an Elevator Pass to reach the Pupper Master, but we don’t
+have it. Go to the left and follow the only way.
+
+You will be seen by a trainer. Winning will earn you 500 Puppet Coins
+and 20 of reputation. Not that the field here is the Chess Board.
+
+Continue north for a scene, dialogue change depending on the New Game
+section being completed or not.
+
+We need a million Pupper Coins to open the chest with the Elevator Pass.
+It sounds hard, but it is very easy if you completed the New Game
+section.
+
+If you haven’t you will need to get them in the arena and for that,
+having a sponsor to multiply your earnings is critical.
+
+The best sponsor gives x10 what you bet, but getting that one requires a
+bit of work. Anyway, we also get extra fights, and they give reputation,
+so it is worthy to do even if you can get the Puppet Coins without this.
+
+Talk to the worker on the north. He will refuse to move, but will ask
+you for an item he lost gambling.
+
+Go the left and fight a Xen Grunt, you will get 500 Puppet Coins and 20
+of reputation for defeating him.
+
+Go to the right, and you can talk with Risa Rider here. Don’t be
+surprised she look different than usual. If you completed the New Game
+section, she gifts you a million Puppet Coins, or to be more precise,
+whatever you were missing to reach a million coins.
+
+Here is the stage for the battles, but let’s wait to have a sponsor.
+
+The left vendor will give you a ***Coin Case*** if you have neglected to
+get one yet together with 1000 coins. This counter allows to exchange
+money with coins while the one on the right toe exchange coins for
+Puppet Coins.
+
+**Nightmare Toy Box Left Shop**
+
+| **Item**  | **Price** |
+|-----------|-----------|
+| 50 Coins  | \$1000    |
+| 500 Coins | \$10000   |
+
+**Nightmare Toy Box Right Shop**
+
+| **Item**          | **Price**   |
+|-------------------|-------------|
+| 500 Puppet Coins  | 1000 Coins  |
+| 3500 Puppet Coins | 5000 Coins  |
+| 8500 Puppet Coins | 10000 Coins |
+
+Use the southern door, and here use the right one. Talk with the old man
+here. Now, return to the left room and use the southern door to exit,
+this door will remain open as a shortcut.
+
+Talk with the servant in this area for a fight.
+
+**Police Officer Soyo (Chess Board)**
+- Arcanine, Level 65.
+- Camerupt, Level 64.
+
+You get 500 Puppet Coins and 20 of reputation for winning.
+
+Now, go to the pool area and enter the northern room. There is ***TM85
+Dream Eater*** on the right.
+
+Advance to the left to pick up a family portrait, which belongs to the
+worker blocking the way.
+
+You can pick Puppet Coins here. For 5000 or 10000, nothing happens, but
+if you pick up more, you end up in a fight with a trainer having a boss,
+but winning gives reputation and even more Puppet Coins, so I recommend
+fighting.
+
+**Security Bot Drone (Chess Board) . Classic Mode.**
+- **Casino Bouncer. 2 HP Bars.**
+  - Arceus, Level 70. @Fist Plate
+    - Judgment
+    - Punishment
+    - Extreme Speed
+  - Liquidation
+
+**Security Bot Drone (Chess Board) . Classic Mode.**
+- **Casino Bouncer. 2 HP Bars.**
+  - Arceus, Level 75. @Fist Plate
+    - Judgment
+    - Punishment
+    - Extreme Speed
+    - Liquidation
+  - After clearing 1 HP Bar:
+    - Defense +1, Special Defense +1.
+
+His hard and it is resistant, but it is a single mon with only 2 HP
+Bars, so with a full team, you will win.
+
+Winning gives 20 of reputation and 35000 additional Puppet Coins. Your
+reputation is 615, so you have reached the Gold Star Rank, which is the
+highest by name given that the one for over 700 is called the same. For
+full rewards we need at least 800 of reputation though.
+
+Talk to the worker t make him disappear, you can now talk with the rich
+man, who will sponsor you at x10.
+
+You can now battle until you have enough Puppet Coins. Note that betting
+ten thousand gives you hundred thousand and a hundred thousand gives you
+a million of rewards right away. If you did the New Game, you don’t need
+to fight here at all, but otherwise, you can get enough with a couple of
+fights.
+
+Note that you have to speak again with the sponsor after each battle.
+There are three possible trainers and they are chosen at random. You can
+only use three of your team, which you select beforehand.
+
+The only reward is the Puppet Coins of the wager, so no reputation here.
+You may register some additional mons as seen on your Dex though.
+
+**Battle Boy (Chess Board). Story Mode.**
+- Sawsbuck, Level 66.
+  - Nature Power
+  - Horn Leech
+  - Headbutt
+  - Jump Kick
+- Nihilego, Level 66.
+  - Thunder
+  - Power Gem
+  - Sludge Bomb
+  - Foul Play
+- Raikou, Level 66.
+  - Thunder
+  - Aura Sphere
+  - Extrasensory
+  - Calm Mind
+
+**Battle Boy (Chess Board). Classic Mode.**
+- Sawsbuck, Level 69. @ Elemental Seed.
+  - Nature Power
+  - Horn Leech
+  - Headbutt
+  - Jump Kick
+- Nihilego, Level 69. @ Black Sludge.
+  - Thunder
+  - Power Gem
+  - Sludge Bomb
+  - Foul Play
+- Raikou, Level 69. @ Magnet.
+  - Thunder
+  - Aura Sphere
+  - Extrasensory
+  - Calm Mind
+
+**Mistress Clarissa (Chess Board). Story Mode.**
+- Sandaconda, Level 66.
+  - Coil
+  - Earthquake
+  - Rock Slide
+  - Body Press
+- Guzzlord, Level 66.
+  - Dragon Rush
+  - Crunch
+  - Gunk Shot
+  - Heat Crash
+- Entei, Level 66.
+  - Strength
+  - Stomping Tantrum
+  - Extreme Speed
+  - Stone Edge
+
+**Mistress Clarissa (Chess Board). Classic Mode.**
+- Sandaconda, Level 69. @ Sitrus Berry.
+  - Coil
+  - Earthquake
+  - Rock Slide
+  - Body Press
+- Guzzlord, Level 69. @ Draco Plate.
+  - Dragon Rush
+  - Crunch
+  - Gunk Shot
+  - Heat Crash
+- Entei, Level 69. @ Protective Pads.
+  - Strength
+  - Stomping Tantrum
+  - Extreme Speed
+  - Stone Edge
+
+**Enthusiast Baybe (Chess Board). Story Mode.**
+- Gigalith, Level 66. @ Sitrus Berry.
+  - Iron Head
+  - Earthquake
+  - Stone Edge
+  - Nature Power
+- Pheromosa, Level 66. @ Telluric Seed.
+  - Focus Blast
+  - Ice Beam
+  - Bug Buzz
+  - Hi-Jump Kick
+- Suicune, Level 66. @ Leftovers.
+  - Surf
+  - Rest
+  - Calm Mind
+  - Toxic
+
+**Enthusiast Baybe (Chess Board). Classic Mode.**
+- Gigalith, Level 69. @ Sitrus Berry.
+  - Iron Head
+  - Earthquake
+  - Stone Edge
+  - Nature Power
+- Pheromosa, Level 69. @ Telluric Seed.
+  - Focus Blast
+  - Ice Beam
+  - Bug Buzz
+  - Hi-Jump Kick
+- Suicune, Level 69. @ Leftovers.
+  - Surf
+  - Rest
+  - Calm Mind
+  - Toxic
+
+Open the chest with the Elevator Pass when you have your million coins,
+but it will crumble right away. Approach the elevator to fight Zetta.
+
+**Xen Executive Zetta (Chess Board). Story Mode.**
+- Vileplume, Level 65.
+  - Giga Drain
+  - Sludge Bomb
+  - Teeter Dance
+  - Safeguard
+- Perrserker, Level 65.
+  - Swords Dance
+  - Iron Head
+  - Play Rough
+  - Crunch
+- Weavile, Level 65.
+  - Icicle Crash
+  - Night Slash
+  - Poison Jab
+  - Fake Out
+- Dragonite, Level 65.
+  - Dragon Dance
+  - Dragon Claw
+  - Fire Punch
+  - Extreme Speed
+- Silvally, Level 65.
+  - Multi Attack
+  - Shadow Ball
+  - Swords Dance
+  - Thunder
+- Solosis, Level 1.
+  - Memento
+  - Memento
+  - Memento
+  - Memento
+
+**Xen Executive Zetta (Chess Board). Classic Mode.**
+- Weavile, Level 68. @ Muscle Band.
+  - Icicle Crash
+  - Night Slash
+  - Poison Jab
+  - Ice Shard
+- Perrserker, Level 68. @ Protective Pads.
+  - Swords Dance
+  - Iron Head
+  - Play Rough
+  - Close Combat
+- Dragonite, Level 68. @ Dragon Fang.
+  - Dragon Dance
+  - Fly
+  - Fire Punch
+  - Dragon Claw
+- Typhlosion, Level 69. @ Power Herb.
+  - Eruption
+  - Heat Wave
+  - Focus Blast
+  - Solar Beam
+- Silvally, Level 69. @ Silk Scarf.
+  - Return
+  - Shadow Claw
+  - Swords Dance
+  - Zen Headbutt
+- Solosis, Level 1.
+  - Memento
+  - Memento
+  - Memento
+  - Memento
+
+Not really a hard battle if you have a properly trained team at the
+level cap, which I am assuming you have.
+
+Take the elevator.
+
+## Trickery Badge
+
+Advance and use the southern door.
+
+Go to the right to pick up ***TM29 Psychic***. Go south for a scene.
+Time for a surprise Gym Battle, although the device to contact Jan and
+the title of this section may have given you a heads up.
+
+It is a double battle, and the opponents count as two different
+trainers, so you can end with one side first.
+
+**Puppet Master Magenta and Puppet Master Neon (Psychic Terrain). Story
+Mode**
+- Beheeyem, Level 65. @ Wise Glasses. (Magenta)
+  - Bunraku Beatdown
+  - Calm Mind
+  - Thunderbolt
+  - Shadow Ball
+- Medicham, Level 67. @ Psychic Gem. (Magenta)
+  - Hi-Jump Kick
+  - Zen headbutt
+  - Ice Punch
+  - Poison Jab
+- Bronzong, Level 64. @ Leftovers. (Neon)
+  - Gyro Ball
+  - Reflect
+  - Toxic
+  - Light Screen
+- Hatterene, Level 65. @ Leftovers. (Neon)
+  - Bunraku Beatdown
+  - Dazzling Gleam
+  - Nuzzle
+  - Protect
+
+**Puppet Master Magenta and Puppet Master Neon (Psychic Terrain).
+Classic Mode**
+- Beheeyem, Level 68. @ Focus Sash. (Magenta)
+  - Thunderbolt
+  - Psychic
+  - Signal Beam
+  - Shadow Ball
+- Delphox, Level 70. @ Magical Seed. (Magenta)
+  - Bunraku Beatdown
+  - Focus Blast
+  - Mystical Fire
+  - Hidden Power Fairy
+- Medicham, Level 71. @ Medichamite. (Magenta)
+  - Signal Beam
+  - Focus Blast
+  - Bunraku Beatdown
+  - Shadow Ball
+- Oranguru, Level 68. @ Light Clay. (Neon)
+  - Light Screen
+  - Instruct
+  - Reflect
+  - Psychic
+- Musharna, Level 70. @ Sitrus Berry. (Neon)
+  - Bunraku Beatdown
+  - Hypnosis
+  - Moonlight
+  - Moonblast
+- Hatterene, Level 71. @ Hatterenite. (Neon)
+  - Calm Mind
+  - Mystical Fire
+  - Bunraku Beatdown
+  - Dazzling Gleam
+
+Bunraku Beatdown: Psychic. Special. 75 Power, but increases in power for
+each knocked out ally. 100% accuracy. On Psychic Terrain, power is
+boosted x1.5.
+
+Be careful with priority moves as they won’t work against grounded mons
+on Psychic Terrain.
+
+Fully focus on Magenta first as it is offensive but doesn’t have good
+defenses while Neon is the opposite. Once you are in 2vs1, Neon alone
+won’t be a big problem. Note that on Classic Mode, you will be facing
+two mega in this combat while non in Story Mode.
+
+After winning the battle, open the box that appeared with the Puppet
+Master to get the ***Trickery Badge***. You are told that it is just in
+a dream though.
+
+You are given a choice to ask but no matter what you day, it doesn’t
+matter, and text won’t change at all.
+
+If you saw her on Route 7, you will se her wake p and you will reunite
+with her, finishing the chapter like this.
+
+Otherwise, you need to interact with the box in your table to get the
+real ***Trickery Badge*** and finish the chapter. There is no box and no
+need to pick the badge on the other option, you will have the badge
+directly.
+
+# Chapter 12: Remember, I Love You
+
+As usual, the chapter begins with a scene with Team Xen.
+
+You will continue with a scene in the repaired Grand Bridge. First
+choice doesn't matter. The second choice doesn't matter in the long
+term, but the \[I’m never leaving you.\] option has extra dialogue if
+Aelita has at least 30 Friendship Points.
+
+After the scene you retake control on the southern part of Dream
+District.
+
 
 
 
