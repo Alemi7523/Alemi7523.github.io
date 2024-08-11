@@ -247,7 +247,7 @@
     - [Quest 67: Wall of Shame](#quest-67-wall-of-shame)
     - [Rhodea's Penthouse](#rhodeas-penthouse)
     - [Search Talon's House](#search-talons-house)
-    - [Quest 68: Flora'¡'s Puzzle Box](#quest-68-floras-puzzle-box)
+    - [Quest 68: Flora's Puzzle Box](#quest-68-floras-puzzle-box)
     - [Investigate the Night Market](#investigate-the-night-market)
     - [Both Investigations Done](#both-investigations-done)
     - [New Game](#new-game)
@@ -255,6 +255,12 @@
   - [Nightmare Toy Box](#nightmare-toy-box)
   - [Trickery Badge](#trickery-badge)
 - [Chapter 12: Remember, I Love You](#chapter-12-remember-i-love-you)
+  - [Post Trickery Badge Detour](#post-trickery-badge-detour)
+    - [Quest 69: Missing Children](#quest-69-missing-children)
+    - [Quest 70: Particia's Letter](#quest-70-particias-letter)
+    - [Quest 69: Missing Children (Underground)](#quest-69-missing-children-underground)
+    - [Quest 71: Classified Information](#quest-71-classified-information)
+  - [Route 9](#route-9)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -21040,7 +21046,7 @@ only use three of your team, which you select beforehand.
 The only reward is the Puppet Coins of the wager, so no reputation here.
 You may register some additional mons as seen on your Dex though.
 
-**Battle Boy (Chess Board). Story Mode.**
+**Battle Boy Hunter (Chess Board). Story Mode.**
 - Sawsbuck, Level 66.
   - Nature Power
   - Horn Leech
@@ -21057,7 +21063,7 @@ You may register some additional mons as seen on your Dex though.
   - Extrasensory
   - Calm Mind
 
-**Battle Boy (Chess Board). Classic Mode.**
+**Battle Boy Hunter (Chess Board). Classic Mode.**
 - Sawsbuck, Level 69. @ Elemental Seed.
   - Nature Power
   - Horn Leech
@@ -21318,7 +21324,427 @@ term, but the \[I’m never leaving you.\] option has extra dialogue if
 Aelita has at least 30 Friendship Points.
 
 After the scene you retake control on the southern part of Dream
-District.
+District. Remember to level up your team because the level cap is now at
+75.
+
+Make a small visit to Mr. Luck’s Tent since new Move Tutor has appeared
+on the right couch.
+
+**Marley (Move Tutor)**
+
+| **Sky Attack**      | *4 Green Shards*  |
+|---------------------|-------------------|
+| **Icy Wind**        | *4 Red Shards*    |
+| **Tailwind**        | *4 Yellow Shards* |
+| **Baton Pass**      | *4 Blue Shards*   |
+| **Encore**          | *4 Red Shards*    |
+| **High Horsepower** | *4 Green Shards*  |
+| **Agility**         | *4 Blue Shards*   |
+| **Crunch**          | *4 Yellow Shards* |
+| **Blaze Kick**      | *4 Red Shards*    |
+
+Return to Grand Dream City and head to the Hospital of Hope. Enter for a
+scene.
+
+You can talk with the people here, even Venam’s father and Eizen are
+here, but to continue with the story, you have to talk to Melia.
+
+We are told to go meet Aelita at Grand Dream Station. She is on the
+northeast.
+
+All your choices led to **-2 Friendship Points with Aelita**, so what
+you choose doesn’t matter.
+
+You should follow Aelita to continue with the story, but it is time for
+a detour.
+
+## Post Trickery Badge Detour
+
+Go to the Central Building and use the left elevator to reach floor 12;
+before we spoke with Aelita, we couldn’t access it.
+
+This is the Help Center and there is two quest available. You can pick
+both now to save time of coming back to pick the other, but we are
+dealing with them one by one.
+
+### Quest 69: Missing Children
+
+Accept the quest and go to the Police Department. Tank to Chief Jenny.
+
+Head to the Night Market, head down the left alleyway, and speak to the
+guy standing at the door, then, while attempting to leave, you will be
+stopped by an unknown person, and you need to meet this person again
+near the black truck at the south exit.
+
+You are asked to cancel the Help Request with Jenny if you want his
+help, and we need it to proceed, so we have to do it. Note that doing
+this will cost you 40 reputation points.
+
+Return to the Night Market and speak with the man from earlier. He will
+tell you how to enter that building. Select \[Snorlax Sleeps Somberly\]
+when talking to the guy in front of the door to gain access to a lift to
+The Underground, this time for real. The field here is Backalley.
+
+Not that there some extra dialogue with Dylan, but for some reason only
+with exactly 300 of reputation, which seems like a bug as 300 or more is
+more logic.
+
+Advance until the Pokémon Center. We can do a very quick quest here.
+
+### Quest 70: Particia’s Letter
+
+Talk with the one in charge of the Pokémon Center, who has an
+exclamation on her head. She is Particia. Her name was mentioned by use
+before by Carpenter on Darchlight Village as she is one of her
+daughters.
+
+Go to where the lift is and put the envelope you received on the mailbox
+there.
+
+Return to the Pokémon Center and talk with Particia for a scene. Select
+\[How’d you know?\] to continue with the scene. If you talked to Patty,
+which if you followed the guide, you should, there is change in the
+scene.
+
+**Friendship Point Choice:**
+- Are you two… okay? (Neutral)
+- You seem close. (Particia +1)
+
+The quest is completed, and you can now heal for free here.
+
+### Quest 69: Missing Children (Underground)
+
+The building left of the Pokémon Center is a shop.
+
+**The Underground Shop**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Ultra Ball*   | \$1200    |
+| *Dusk Ball*    | \$1000    |
+| *Hyper Potion* | \$1200    |
+| *Revive*       | \$8500    |
+| *Full Heal*    | \$600     |
+
+On the building south of the Pokémon Center, you can pay \$15000 to a
+guy on the right to get the password “BYE CAROTOS”.
+
+The one on the left has a Pokémon Psychologist that can change natures,
+but I don’t recommend using him. Talk to him once though, as this is
+tracked.
+
+Go east, to the building right of the Diner, and enter.
+
+**Underground Left Building Shop (Left)**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Metal Powder* | \$10      |
+| *Cell Battery* | \$200     |
+| *Magnet*       | \$100     |
+| *Quick Powder* | \$10      |
+| *Blast Powder* | \$2500    |
+
+**Underground Left Building Shop (Right)**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Oval Stone*   | \$2100    |
+| *Sticky Barb*  | \$200     |
+| *Charcoal*     | \$9800    |
+| *Light Ball*   | \$100     |
+| *Stick*        | \$200     |
+| *Float Stone*  | \$200     |
+| *Binding Band* | \$200     |
+
+Good items to buy, especially Blast Power to remove completely the
+mining tock blocking the way.
+
+Talk with the man in the north and use the password we got: BYE CAROTOS
+
+Here you can use shards to buy some jailed mons. You can get Furfrou,
+**Charmander**, **Joltik**, **Happiny**, and **Mimikyu**. Note that they
+have OT that aren’t you.
+
+If you but them all, you get a ***Fire Memory***. Leave this building.
+
+Go to the west of the shop to talk with Dylan. The quest will proceed,
+but only is Particia’s letter have been completed first.
+
+The choice in the scene doesn’t matter.
+
+After the scene go south to find a ***Toxic Orb*** and a Zygarde Cell.
+
+**ZCell 109: The Underground**
+
+<img src="assets/media/image128.png" width="512"/>
+
+Now go the Bladestar Building at the left of the lift.
+
+Step up and inspect for a hidden ***Mystery Bowl***. Inspect the plant
+on the corner for a hidden ***Lemonade***.
+
+Speak with the grunt on the counter. You will face a grunt on a double
+battle.
+
+**Bladestar Tirgon (No Field). Story Mode.**
+- Raichu, Level 62.
+- Onix, Level 61.
+
+**Bladestar Tirgon (No Field). Classic Mode.**
+- Raichu, Level 62.
+  - Thunderbolt
+  - Fake Out
+  - Focus Blast
+  - Grass Knot
+- Onix, Level 61.
+  - Rock Tomb
+  - Nature Power
+  - Dig
+  - Iron Tail
+- Persian, Level 62.
+  - Slash
+  - Fake Out
+  - Night Slash
+  - Seed Bomb
+
+Two tiles above the counter’s PC there is a hidden ***Full Heal***. Go
+upstairs and advance until being able to go upstairs again. You will see
+a scene.
+
+Check a machine on the left from the south for a hidden ***PP Up***.
+Pick the ***Hyper Potion*** from the table and check its left for a
+hidden ***Mystery Bowl***.
+
+Use the northern door. Advance for a scene and a double battle. There is
+some variation depending on if Flora have been exposed or not.
+
+**Bladestar Xander and Bladestar Xina (No Field). Story Mode.**
+- Cacturne, Level 69. (Xander)
+- Tsareena, Level 69. (Xander)
+- Roserade, Level 69. (Xina)
+- Tropius, Level 69. (Xina)
+
+**Bladestar Xander and Bladestar Xina (No Field). Classic Mode.**
+- Cacturne, Level 72. (Xander)
+- Tsareena, Level 72. (Xander)
+- Gourgeist, Level 72. (Xander)
+- Roserade, Level 72. (Xina)
+- Tropius, Level 72. (Xina)
+- Torterra, Level 72. (Xina)
+
+After the scenes, you will be outside the building. Follow Ana to the
+west, and then to the south. Talk with Madam Peony to trigger another
+scene. Move to Ana’s side and interact with her.
+
+After the scenes, you will be next to the lift. Go to Dylan’s house
+again.
+
+**Friendship Point Choice:**
+- Sounds good. (Dylan +1)
+- Er… (Dylan -1)
+
+Now we have to show Ana around the Underground. There is some dialogue
+modification with the Casino’s bartender if we speak now, but it isn’t
+required to progress. Go to Peony’s Fortuneteller Shop on the south for
+a scene. Choice doesn’t matter.
+
+Go to the shop and talk with the shopkeeper to progress. After the
+scenes, go back to Peony’s place and talk with her. Choice doesn’t
+matter.
+
+Once the fortunetelling finishes, go to the Pokémon Center and approach
+Particia.
+
+After the conversation, go back to Dylan’s house and talk with him. You
+have now unlocked a new way between the Underground and Dream District.
+
+Agree to be moved to Route 9, btu we aren’t going to explore this now,
+just talk to Ana and after a scene where the choice doesn't matter, you
+will be back on the Underground and see more scenes.
+
+Back to Dylan’s house again for more scenes. Leave the house to the east
+to trigger another scene; choice doesn’t matter.
+
+**Bladestar Nesto (Backalley Field). Story Mode.**
+- Ludicolo, Level 67.
+- Ferroseed, Level 68.
+
+**Bladestar Nesto (Backalley Field). Classic Mode.**
+- Ludicolo, Level 70.
+- Ludicolo, Level 70.
+- Ferroseed, Level 71.
+
+Continue east and enter the Diner for a scene. Choice doesn’t matter,
+bit I think the Night Nuke option is more interesting. Agree to go
+aboveground. Talk with Ana to continue. If you talk with Ana again you
+fight her level 25 Magnemite. The scene changes if you win or you lose.
+Dylan asks you to lose on purpose, and Ana winning is tracked, and some
+later scenes change based on if she won this battle. Her Magnemite will
+also be stronger if she wins now.
+
+We can’t progress more in the story for now, so let’s do the other one.
+
+### Quest 71: Classified Information
+
+Accept the quest in the Help Center, and you now need to go to floor 36
+of the Central Building. Talk to the right counter to let the central
+elevator reach floor 36.
+
+Enter the right room for a scene; first choice doesn’t matter, second
+does.
+
+**Friendship Point Choice:**
+- I was terrified too… (Melia +2)
+- It’s standard procedure. (Melia +1)
+- Grow up. (Melia -2)
+
+Enter the room again. After the scene, give Anabel the Nightmare
+Medallion and go to the Night Market at night to buy another one from
+Madam Peony for \$4800.
+
+Go to your room to sleep. Go north and speak with Anabel; choice doesn’t
+matter. Advance to the west and speak with Anabel. After the scene,
+return to the bed and wake up.
+
+Return to the Floor 36 of Central Building to meet Anabel in the room
+again. Talk to Looker after the scene to reach Darchlight Cave.
+
+Switch the cave to dark and advance. Switch the cave again on the next
+crystal and continue.
+
+Go the crystal on the room in the east to switch again and proceed to
+the area you fell down in your first visit. Continue to the west and
+talk to Anabel when you see her. Talk to Looker to reach a door on the
+north, cross it for a scene; you are now at Bladestar Labs. Advance for
+another one.
+
+Enter the left room following Anabel and talk with her. After the
+scenes, you will be back in the Central Building.
+
+Talk to Looker and head inside the room.
+
+**Friendship Point Choice:**
+- Glad to help! (Melia +3, Erick +2)
+- I kinda got baited into this… (Melia +2, Erick +3)
+- Eh… (Melia -2, Erick +1)
+
+Talk to looker to return to the Darchlight Caves. Go north and enter the
+left room again.
+
+Show the Rose Badge to the locked door to open it. Enter and pick the
+Rift Notes on the right. Prepare to face a boss battle as you advance to
+the north and tell you are ready.
+
+**Rift Ferrothorn (Volcanic Field). 4 HP Bars. Story Mode.**
+- Suspended Rift Ferrothorn, Level 70. Flash Fire.
+  - Seed Bomb
+  - Leech Seed
+  - Gyro Ball
+  - Fire Lash
+- After clearing 1 HP Bar:
+  - Reflect and Light Screen are set for 3 turns.
+- After clearing 2 HP Bars:
+  - Changes to Unleashed Rift form. Ability: Sheer Force
+  - Cures any stat drop.
+  - Item becomes White Herb
+  - Moveset update:
+    - Flare Blitz
+    - Energy Ball
+    - Iron Head
+    - Shift Gear
+- After clearing 3 HP Bars:
+  - Attack +1, Special Attack +1, Speed +1.
+  - Defense -2, Special Defense -2.
+
+**Rift Ferrothorn (Volcanic Field). 4 HP Bars. Classic Mode.**
+- Suspended Rift Ferrothorn, Level 75. Flash Fire.
+  - Power Whip
+  - Leech Seed
+  - Gyro Ball
+  - Fire Lash
+- After clearing 1 HP Bar:
+  - Reflect and Light Screen are set for 5 turns.
+- After clearing 2 HP Bars:
+  - Changes to Unleashed Rift form. Ability: Sheer Force
+  - Cures any stat drop.
+  - Item becomes White Herb
+  - Moveset update:
+    - Flare Blitz
+    - Energy Ball
+    - Iron Head
+    - Shift Gear
+- After clearing 3 HP Bars:
+  - Attack +2, Special Attack +2, Speed +2.
+  - Defense -2, Special Defense -2.
+
+You can try switching the field to lose some disadvantage; Sparkling
+Aria is a particularly good move to do so as it is also boosted by the
+Cave Field after having changed to it. Due to Flash Fire, fire moves are
+useless on the first 2 HP Bars for you, so you can’t make use of the
+field properly. Fighting moves are great for this fight, and the same
+goes for Earth ones.
+
+This boss hits very hard and is very bulky at the same time, so you may
+want to prepare a team specifically for this fight if you don’t want to
+switch the field. If you remove the field, the battle becomes
+significantly easier.
+
+After the fight, reject to return to the office and return to where you
+fought Rift Ferrothorn. Activate the panel in the north, and now, the
+right room is opened. Inside you can find a hidden ***Dubious Disc*** on
+the bottom-left corner. You can also read the notes in the wall to learn
+about the experiment with Rift Ferrothorn.
+
+Go to floor 36 of the Central Building, enter the room, and speak with
+Anabel to finish the quest.
+
+You get the Rift Notes for your Cyber Nav. Now, go the Help Center and
+receive your reward here, which is \$25000 and 1 stamp for Somniam Mall.
+
+You can buy in a couple more shops of the Somniam Mall now; the ones you
+fins using the right stairs behind the main counter.
+
+**Somniam Mall 3 Stamps Shop 1**
+
+| **Item**  | **Price** |
+|-----------|-----------|
+| *HP Up*   | \$9800    |
+| *Protein* | \$9800    |
+| *Iron*    | \$9800    |
+| *Carbos*  | \$9800    |
+| *Calcium* | \$9800    |
+| *Zinc*    | \$9800    |
+
+**Somniam Mall 3 Stamps Shop 2**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Sticky Barb*  | \$200     |
+| *Lagging Tail* | \$200     |
+| *Iron Ball*    | \$200     |
+| *Binding Band* | \$200     |
+| *Float Stone*  | \$200     |
+| *Eject Button* | \$200     |
+| *Red Card*     | \$200     |
+| *Ring Target*  | \$200     |
+| *Metronome*    | \$200     |
+
+## Route 9
+
+Head over to the Grand Dream Station and use the northeast exit to pick
+a train to Route 9.
+
+**Route 9 Encounters**
+
+| **Grass**      | **%** | **Water**  | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|----------------|-------|------------|-------|-------------|-------|--------------|-------|
+| **Pangoro**    | 30    | Mantyke    | 60    | Spheal      | 70    | Mantyke      | 60    |
+| Liepard        | 24    | Dewgong    | 25    | Mantyke     | 30    | Quagsire     | 20    |
+| **Sudowoodo**  | 17    | Sealeo     | 15    |             |       | Qwilfish     | 20    |
+| **Mothim**     | 15    | Mantine    | 7     |             |       |              |       |
+| **Lycanroc**   | 10    | Pincurchin | 3     |             |       |              |       |
+| **Talonflame** | 4     |            |       |             |       |              |       |
 
 
 
