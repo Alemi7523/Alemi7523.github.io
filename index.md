@@ -245,6 +245,14 @@
     - [Quest 66: SPU Delivery](#quest-66-spu-delivery)
     - [Quest 30: Lost Souls (District of Hope)](#quest-30-lost-souls-district-of-hope)
     - [Quest 67: Wall of Shame](#quest-67-wall-of-shame)
+    - [Rhodea's Penthouse](#rhodeas-penthouse)
+    - [Search Talon's House](#search-talons-house)
+    - [Quest 68: Flora'¡'s Puzzle Box](#quest-68-floras-puzzle-box)
+    - [Investigate the Night Market](#investigate-the-night-market)
+    - [Both Investigations Done](#both-investigations-done)
+    - [New Game](#new-game)
+    - [Incidents on Grand Dream City](#incidents-on-grand-dream-city)
+  - [Nightmare Toy Box](#nightmare-toy-box)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -714,12 +722,12 @@ After having your starter, talk with Amanda to have your first battle.
 This is one you can win or lose.
 
 **League Scout Amanda (No Field). Story Mode.**
--   Hatenna. Level 4.
+-   Hatenna, Level 4.
     -   Tackle
     -   Play Nice
 
 **League Scout Amanda (No Field). Classic Mode.**
--   Hatenna. Level 5.
+-   Hatenna, Level 5.
     -   Tackle
     -   Play Nice
 
@@ -1298,14 +1306,14 @@ several HP bars and effects may happen when changing from one bar to
 another. Remember that you are still on City Field.
 
 **Pride King (City Field). 2HP Bars. Story Mode.**
--   Pyroar. Level 15.
+-   Pyroar, Level 15.
     -   Take Down
     -   Noble Roar
     -   Fire Fang
     -   Roar
 
 **Pride King (City Field). 2HP Bars. Classic Mode.**
--   Pyroar. Level 20.
+-   Pyroar, Level 20.
     -   Take Down
     -   Noble Roar
     -   Fire Fang
@@ -1720,13 +1728,13 @@ the third, first, then second generator. Go back into the room Venam
 went into for a long cutscene and a battle.
 
 **Garbage Menace. 3HP Bars. (No Field) Story Mode.**
--   Garbodor. Level 10.
+-   Garbodor, Level 10.
     -   Pound
     -   Acid Spray
     -   Double Slap
     -   Attract
 **Garbage Menace. 3HP Bars. (No Field) Classic Mode.**
--   Garbodor. Level 12.
+-   Garbodor, Level 12.
     -   Pound
     -   Acid Spray
     -   Double Slap
@@ -1872,38 +1880,38 @@ part. This only happens if you have yet to get the badge.
 Now return to the Gym and prepare yourself for your first Gym battle.
 
 **Punk Girl Venam (Concert Venue Field) Story Mode**
--   Toxel. Level 11. @Oran Berry.
+-   Toxel, Level 11. @Oran Berry.
     -   Nuzzle
     -   Venam\'s Kiss
     -   Power Punch
     -   Tearful Look
--   Croagunk. Level 12. @Oran Berry.
+-   Croagunk, Level 12. @Oran Berry.
     -   Fake Out
     -   Encore
     -   Vacuum Wave
     -   Venam's Kiss
--   Alolan Grimer. Level 12.
+-   Alolan Grimer, Level 12.
     -   Bite
     -   Harden
     -   Poison Fang
     -   Shadow Sneak
--   Seviper. Level 13.
+-   Seviper, Level 13.
     -   Bite
     -   Round
     -   Venam\'s Kiss
 
 **Punk Girl Venam (Concert Venue Field) Classic Mode**
--   Trubbish. Level 13. @Oran Berry.
+-   Trubbish, Level 13. @Oran Berry.
     -   Rock Blast
     -   Venam\'s Kiss
     -   Thief
     -   Spikes
--   Croagunk. Level 14. @Normal Gem.
+-   Croagunk, Level 14. @Normal Gem.
     -   Fake Out
     -   Encore
     -   Venam's Kiss
     -   Sucker Punch
--   Ivysaur. Level 14. @Oran Berry.
+-   Ivysaur, Level 14. @Oran Berry.
     -   Venam's Kiss
     -   Poison Powder
     -   Razor Leaf
@@ -1913,12 +1921,12 @@ Now return to the Gym and prepare yourself for your first Gym battle.
     -   Acid Armor
     -   Acid Spray
     -   Screech
--   Whirlipede. Level 15.
+-   Whirlipede, Level 15.
     -   Twineedle
     -   Rollout
     -   Defense Curl
     -   Venoshock
--   Seviper. Level 16.
+-   Seviper, Level 16.
     -   Snarl
     -   Rollout
     -   Glare
@@ -2446,49 +2454,49 @@ Defeat them and advance forward to get into another battle. Alone this
 time.
 
 **Xen Executive Zetta (Forest Field). Story Mode.**
--   Minior. Level 13.
+-   Minior, Level 13.
     -   Rollout
     -   Defense Curl
     -   Confuse Ray
     -   Self-Destruct
--   Quilava. Level 14.
+-   Quilava, Level 14.
     -   Flame Wheel
     -   Quick Attack
     -   Aerial Ace
     -   Smokescreen
--   **Shadow Snorunt**. Level 14.
+-   **Shadow Snorunt**, Level 14.
     -   Nature Power
     -   Stealth Rock
     -   Shadow Sneak
     -   Icy Wind
--   Type: Null. Level 15.
+-   Type: Null, Level 15.
     -   Pursuit
     -   Double Hit
     -   Hidden Power: Fighting
     -   Aerial Ace
 
 **Xen Executive Zetta (Forest Field). Classic Mode.**
--   **Shadow Snorunt**. Level 14.
+-   **Shadow Snorunt**, Level 14.
     -   Nature Power
     -   Stealth Rock
     -   Shadow Sneak
     -   Icy Wind
--   Minior. Level 16.
+-   Minior, Level 16.
     -   Rollout
     -   Defense Curl
     -   Confuse Ray
     -   Self-Destruct
--   Quilava. Level 17.
+-   Quilava, Level 17.
     -   Flame Wheel
     -   Quick Attack
     -   Aerial Ace
     -   Smokescreen
--   Galarian Meowth. Level 16.
+-   Galarian Meowth, Level 16.
     -   Metal Claw
     -   Pay Day
     -   Fake Out
     -   Hone Claws
--   Type: Null. Level 18.
+-   Type: Null, Level 18.
     -   Pursuit
     -   Double Hit
     -   Hidden Power: Fighting
@@ -2513,7 +2521,7 @@ it.
 Go north to see a Magikarp evolve into Rift Gyarados. Time to fight.
 
 **Rift Gyarados (Dimensional Field). 2 HP Bars. Story Mode.**
--   Rift Gyarados. Level 18. Type: Water/Ghost.
+-   Rift Gyarados, Level 18. Type: Water/Ghost.
     -   Shadow Sneak
     -   Bite
     -   Water Pulse
@@ -2522,7 +2530,7 @@ Go north to see a Magikarp evolve into Rift Gyarados. Time to fight.
     will drop, and the defense will increase.
 
 **Rift Gyarados (Dimensional Field). 2 HP Bars. Classic Mode.**
--   Rift Gyarados. Level 20. Type: Water/Ghost.
+-   Rift Gyarados, Level 20. Type: Water/Ghost.
     -   Shadow Sneak
     -   Bit
     -   Water Pulse
@@ -2545,13 +2553,13 @@ we have always spoken with the professor, and you will end up having to
 fight while being Melia.
 
 **Xen Executive Madelis (No Field). Story Mode.**
--   Houndoom. Level 18.
+-   Houndoom, Level 18.
     -   Ember
     -   Nasty Plot
     -   Snarl
 
 **Xen Executive Madelis (No Field). Classic Mode.**
--   Houndoom. Level 20.
+-   Houndoom, Level 20.
     -   Incinerate
     -   Nasty Plot
     -   Snarl
@@ -6393,7 +6401,7 @@ get one with Moxie or use an Ability Capsule.
 
 Put all EVs on Atack and Speed (hopefully perfect IVs on those two too,
 use the training rooms on Gearen Lab to easily train the EVs), and the
-nature Adamant to max attack (use a mint to get it easily). Level it up
+nature Adamant to max attack (use a mint to get it easily), Level it up
 to the cap, equip Blackglasses and go to fight.
 
 Sucker Punch will OHKO five of the six, and it moves first, so you won't
@@ -8425,7 +8433,7 @@ The dialogues after the battle also change depending on if you win in one try or
   - Ice Punch
   - Waterfall
 - Seaking, Level 38. @ Rindo Berry. 
-  - Megahorn
+  - Mega Horn
   - Waterfall
   - Poison Jab
   - Bounce
@@ -19736,8 +19744,9 @@ and 20h in-game. Earlier or later are the other two forms.
 As soon as you are on the Central Square, check the left end of the
 northern part of the pedestrian crossing to get a hidden ***Lemonade***.
 
-Go north and check the moss rock for a hidden ***Exp. Candy XL***. Enter
-the right building.
+Go north and check the moss rock for a hidden ***Exp. Candy XL***. There
+is a trainer at night near here who gives 20 of reputation for defeating
+him. Enter the right building.
 
 You can give money to the girl on the left four times, and she will give
 you a ***Rare Candy***.
@@ -19764,16 +19773,19 @@ grass under it for a hidden ***Love Ball***. Continue right and go down
 to find a ***Synthetic Seed***.
 
 Return to where the double battle was and go to the left this time. Go
-south at the end of the street. Once you can go left again, put yourself
-on the upper-left side of the benches and look up; interact for a hidden
-***Max Repel***. Now, make your way up to find a ***Revival Herb*** next
-to a dump container. Check the container itself for a hidden ***Exp
-Candy L***.
+south at the end of the street. If it is night, you can find a trainer
+who gives 20 of reputation for winning against.
+
+Once you can go left again, put yourself on the upper-left side of the
+benches and look up; interact for a hidden ***Max Repel***. Now, make
+your way up to find a ***Revival Herb*** next to a dump container.
+Check the container itself for a hidden ***Exp Candy L***.
 
 Return to the main street and go north. You will see two dump containers
 south of some big stairs, check the northern container for a hidden
 ***Green Shard***. Check the tree you can see from here on the south to
-find another hidden ***Green Shard***.
+find another hidden ***Green Shard***. A guy upstairs will give you 
+***HP Up*** if you speak with him during the day.
 
 Enter the house here. There is a ***Hyper Potion*** in the table and if
 it is night, there is a girl on the right who will give you 5 ***Persim
@@ -19785,15 +19797,11 @@ the one we need to teach a lesson.
 
 The choices don’t matter, you will have to fight him anyway.
 
-**Cool Trainer Guy (City Field)**
-
-- Scrafty. Level 66.
-
-- Obstagoon. Level 67.
-
-- Staraptor. Level 66.
-
-- Machamp. Level 67.
+**Hardcore Trainer Guy (City Field)**
+- Scrafty, Level 66.
+- Obstagoon, Level 67.
+- Staraptor, Level 66.
+- Machamp, Level 67.
 
 Beating him increases your GDC reputation by 20, but then he spreads
 rumors about you and diminish by 50.
@@ -20003,7 +20011,7 @@ If the corner tiles are wrong, follow these instructions.
  1 1 2 0  
  2 0 1 2  
  1 0 3 1  
- 1 0 3 2
+ 1 0 3 2 
 
 If the central tiles are wrong, follow these instructions.
 
@@ -20199,11 +20207,11 @@ and it is better if it is night. There is a trainer during here, but
 also a policeman during the night. Both fight you and winning is 20 of
 reputation for each one.
 
-At this point we should have 310 of reputation if we did everything. 200
-was Bronze Rank and over 300 is already Star Rank.
-
 If it is still night, you may find a girl running once you reach Dream
 District though this way. Defeating her gives other 20 of reputation.
+
+At this point we should have 370 of reputation if we did everything. 200
+was Bronze Rank and over 300 is already Star Rank.
 
 Return to the driver in Central Square. The last package doesn’t have an
 owner, so the driver will put its content on Forlorned Cave on Route 9.
@@ -20306,6 +20314,604 @@ we get Fly.
 
 ### Quest 67: Wall of Shame
 
+Go south to the Judicial District and enter the house on the southwest
+and talk to the painter inside. He will ask us to find a piece of art
+for his walls, but this is as far as we can progress this quest until we
+can access the Scholar District.
+
+### Rhodea’s Penthouse
+
+Leave the Judicial District though the east and return to Dream Complex.
+Use the central elevator to reach Rhodea’s Penthouse and continue with
+the story. Advance for a scene. You are shown your room, which is the
+first on the left. You fell asleep on the scene.
+
+On the dream, you are told to guess the name of the person in front of
+you.
+
+You aren’t supposed to know this on your first playthrough, and contains
+spoilers as this is something for those playing at least a second time,
+but you won't get extra content without it, and you won’t unlock it
+either if on a later dream you don’t have a previous save with at least
+15 badges. What you have to write to be correct is in the spoiler. Open
+it under your own responsibility.
+
+<details>
+  <summary>SPOILER:</summary>
+
+ZETTA
+</details>
+
+Regardless of what you said before, you can now interact with the pieces
+of chess to get some descriptions. When you are ready speak with the man
+on the left and agree to begin the game.
+
+Talk to Valarie here for a battle.
+
+**Water Show Performer Valarie (Chess Board)**
+
+- Smeargle, Level 100. @ Poison Barb.
+  - Dark Void
+  - Guillotine
+- Smeargle has the No Guard Ability.
+
+Note that the Chess Board has a particular set of rules, check them on
+the Field Effect Manual.
+
+Guillotine will always fail the first turn as you are considered a Pawn
+and it doesn’t work on Pawns. Use this turn to deal as much damage as
+you can and the next one to finish it.
+
+Winning gives you **+1 Friendship Point with Valarie**.
+
+Talk with the man again and you need to talk to Saki and agree to put
+her to sleep to fight her.
+
+**Ultimate Engineer Saki (Chess Board)**
+- Pidove, Level 100. @ Custap Berry.
+  - Amnesia
+- Pidove has the Sturdy Ability.
+
+Winning gives you **+1 Friendship Point with Saki**.
+
+Talk with the man again, and speak with Adam, who will refuse to fight
+and instead summon a piece that falls broken into the floor, Risa
+Raider. Talk with the piece and agree for another fight.
+
+**Pop Star Risa Raider (Chess Board)**
+- Tuff-Puff Jigglypuff, Level 90. @ Air Balloon.
+  - Poison Jab
+  - Thunderbolt
+  - Draco Meteor
+  - Flamethrower
+
+After the fight you will finally wake up.
+
+You can use the box in your room to change clothes. Note that if you
+activate the Legacy Outfit at Mr. Luck’s Tent you can sue the box to
+change to another outfit and become able to have the Legacy Outfit
+permanently unlocked even if you aren’t using it.
+
+Leave your room and go downstairs for a scene.
+
+You can ask the first two options, but when you are done asking let’s
+move on.
+
+The story splits here, but once you finish one branch, you will be sent
+to the other, so I recommend just following the guide as this guide will
+consider this order. You will see a scene after your choice.
+
+Regardless of your choice, return to Rhodea’s Penthouse and go outside
+though the southern door. There is a Zygarde Cell on the west side.
+
+**ZCell 108: Rhodea’s Penthouse**
+
+<img src="assets/media/image127.png" width="512"/>
+
+Return to the outside and follow the choice you made.
+
+### Search Talon’s House!
+
+We have been to the Botanical Garden in the past, so let’s go back to
+it. Remember northern part of Fream District and going further north
+through a small street.
+
+On the Botanical Garden, go north and turn right at the and of the way.
+Go north when you can to have a scene with Lavender. You will be thrown
+into a fight. You shall recognize this guy if you did the Spiteful Ex
+quest, but he doesn’t recognize you at all.
+
+**Hardcore Trainer Guy (Flower Garden)**
+- Scrafty, Level 66.
+- Obstagoon, Level 67.
+- Staraptor, Level 66.
+- Machamp, Level 67.
+
+You gain 20 of reputation for winning. The following scene changes
+depending if you exposed flora and on Florin’s Bad Ending being unlocked
+or not.
+
+**Friendship Point Choice:**
+- It’s okay! (Lavender +1)
+- You were being a tad rude. (Huey +2)
+- Was it about Talon? (Neutral)
+
+Once you can move, enter the right house, the Treasure Treehouse.
+Advance for another scene.
+
+Go downstairs and then back upstairs for another scene.
+
+On the metaphysical plane, interact with the floating squares on the
+southwest and go downstairs. Both the right and the left room have
+floating squared to interact. After having interacted with both, return
+upstairs and talk to Lavender. You will need up facing a masked
+individual
+
+**Masked Individual ??? (No Field)**
+- Aegislash, Level 74.
+- Bisharp, Level 74.
+
+Winning gives you **+1 Friendship Points** with the Masked Individual
+while losing **-1 Friendship Points**.
+
+Interact with the floating squares that have appeared.
+
+Use the ladder to reach Talon’s room and see a scene. Agree to move to
+the Club Night Light.
+
+Go north and talk to lavender. Agree to have the nighttime forced and
+become able to enter the club. Enter and advance for a scene.
+
+Somehow Adam has forgot about you and if you got Marinette to give you a
+nickname, her uses it. He doesn’t remember your actual name anyway.
+
+Interact with the floating squares. Now you can’t interact with any
+squares do they are just blocking the way. Advance through the only way
+and talk to the guy in the table to fight, which will open a way in the
+middle to another trainer.
+
+G thought the opened left way and there is another trainer on a table.
+
+You can advance through a way in the center. There is a trainer turning
+around himself here, defeat him to open a way. There are karmic
+butterflies a bit north of the trainer, use them.
+
+Go south, west and south and then east to find a policeman to fight. No
+path opened this time, so do as instructed and jump into the southern
+counter to jump above the crowd.
+
+You now can advance until Mega-Alakazam, which is a boss battle,
+although he isn’t mega when the battle begins.
+
+**Alakazam (Concert Venue). 3 HP Bars. Story Mode.**
+- Alakazam, Level 62.
+  - Calm Mind
+  - Reflect
+  - Light Screen
+  - Night Shade
+- After clearing 1 HP Bar:
+  - Becomes Mega-Alakazam.
+  - Special Defense +2, Speed +2.
+  - Item becomes Twisted Spoon.
+  - Cures any stat drop.
+  - Moveset update:
+    - Psychic
+    - Shadow Ball
+    - Focus Blast
+    - Counter
+- After clearing 2 HP Bars:
+  - Gains Reflect for 5 turns.
+  - Cures any stat drop.
+
+**Alakazam (Concert Venue). 3 HP Bars. Classic Mode.**
+- Alakazam, Level 65.
+  - Calm Mind
+  - Reflect
+  - Light Screen
+  - Night Shade
+- After clearing 1 HP Bar:
+  - Becomes Mega-Alakazam.
+  - Special Defense +2, Speed +2.
+  - Item becomes Twisted Spoon.
+  - Cures any stat drop.
+  - Moveset update:
+    - Psychic
+    - Shadow Ball
+    - Focus Blast
+    - Counter
+- After clearing 2 HP Bars:
+  - Gains Reflect for 5 turns.
+  - Cures any stat drop.
+
+Dark types are your friends here. Only Focus Blast can do you real
+damage while you will always be super effective. Mons with Dark moves
+without being dark type are also good, especially if they gain stab or
+stab-like with crests without gaining weaknesses. It isn’t a very hard
+fight fortunately.
+
+After the scenes, this section is finished and you can go investigate
+the night market, but first let’s unlock a quest.
+
+### Quest 68: Flora’s Puzzle Box
+
+Go to the Treasure Treehouse and go downstairs. Enter the left room and
+interact with eh bookshelf having and exclamation mark. You will receive
+the ***Puzzle Box***.
+
+We need to bring it to Terajuma Weather Institute, but we can0t go back
+until getting Fly.
+
+Head south to the night market.
+
+### Investigate the Night Market!
+
+On the intersection, go to the left and talk to Risa Raider.
+
+Go south to the southern part of Dream District. Go left and when you
+see the Dream Complex building continue to the left and go up to find a
+secluded mailbox. Put the envelope inside.
+
+Go back to the Night Market and speak with Risa Raider again.
+
+We need to go to a house on Central Square now.
+
+We need to check the mailbox next to the southwest house. You will face
+a battle
+
+**Ghost Girl Cindie (City Field). Story Mode.**
+- Dusknoir, Level 62.
+- Mismagius, Level 61.
+
+**Ghost Girl Cindie (City Field). Classic Mode.**
+- Dusknoir, Level 64.
+- Mismagius, Level 64.
+
+You get 20 of reputation for winning. You should be now in 410, Rising
+Star Rank.
+
+Follow the instructions and check the box on the northeast of Vienna’s
+Hill, the area on north Dream District using the small street to the
+north.
+
+You will have another battle.
+
+**Fisherman Jeffy (City Field). Story Mode.**
+- Gyarados, Level 60.
+- Slowbro, Level 63.
+
+**Fisherman Jeffy (City Field). Classic Mode.**
+- Gyarados, Level 65.
+- Slowbro, Level 68.
+
+You get 20 more of reputation after winning.
+
+You need to go to a jewelry shop in the Night Market.
+
+On the intersection, turn right and speak with the woman on the first
+shop for a scene.
+
+**Friendship Point Choice:**
+- Sure, what’s up? (Venam +2)
+- Is this important? (Venam +1)
+- I’m busy. (Venam -2)
+
+The ribbon you choose next is tracked, but Venam will always like the
+other more and ask you to fight to decide. If you will your choice will
+be used, if you lose it will be the other. Anyway, later on Melia will
+actually wear this, so her sprite will be different depending on the
+ribbon.
+
+Talk to Venam in the center of the intersection to fight her.
+
+**Punk Girl Venam (City Field). Story Mode.**
+- Toxapex, Level 65.
+  - Toxic Spikes
+  - Sludge Wave
+  - Baneful Bunker
+  - Liquidation
+- Venusaur, Level 65.
+  - Sludge Bomb
+  - Hidden Power Fire
+  - Giga Drain
+  - Earthquake
+- Seviper, Level 68.
+  - Sludge Wave
+  - Earthquake
+  - Giga Drain
+  - Sucker Punch
+- Charizard, Level 65.
+  - Flamethrower
+  - Air Slash
+  - Focus Blast
+  - Roost
+
+**Punk Girl Venam (City Field). Classic Mode.**
+- Toxtricity, Level 67. @ Focus Sash.
+  - Overdrive
+  - Boomburst
+  - Sludge Bomb
+  - Thunder Wave
+- Alolan Muk, Level 67. @ Black Sludge.
+  - Gunk Shot
+  - Crunch
+  - Curse
+  - Fire punch
+- Scolipede, Level 67. @ Muscle Band.
+  - Rock Slide
+  - Mega Horn
+  - Aqua Tail
+  - Poison Jab
+- Venusaur, Level 67. @ Leftovers.
+  - Sludge Bomb
+  - Hidden Power Fire
+  - Giga Drain
+  - Sucker Punch
+- Seviper, Level 67. @ Life Orb.
+  - Sludge Wave
+  - Earthquake
+  - Giga Drain
+  - Sucker Punch
+- Charizard, Level 75. @ Charti Berry.
+  - Heat Wave
+  - Air Slash
+  - Focus Blast
+  - Roost
+
+Winning gives 25 of reputation and **+4 Friendship Points with Venam**,
+while losing makes you lose 25 of reputation. Of course, what is
+mentioned before about the ribbon also applies. It shouldn’t be hard to
+win.
+
+Go the left and once you see Risa Rider, go south. At the end of the way
+continue to the left and up to find a guy blocking a door. He won’t let
+us enter, so report to Risa Rider. Now you can enter that door. Talk to
+the woman here and leave.
+
+We need to follow the clues we were given to enter Stargaze Cuppa. If
+the case you forgot.
+
+1.  Enter Star
+2.  Exit Square
+3.  Enter Heart
+4.  Exit Triangle
+5.  Enter Circle
+
+You will have to fight.
+
+**Gang Member Emere (No Field). Story Mode.**
+- Steelix, Level 63.
+- Machamp, Level 64.
+- Heatmor, Level 65.
+
+**Gang Member Emere (No Field). Classic Mode.**
+- Steelix, Level 66.
+- Machamp, Level 68.
+- Eelektross, Level 68.
+- Heatmor, Level 68.
+
+Inspect the Cleffa poster after the scenes and cut it. Enter the new
+room. Talk to Risa Rider to reach The Underground, although you
+specifically reach the Cold Storage.
+
+After the scenes, you will be in a battle again.
+
+**Gang Member Marquis (Icy Field). Story Mode.**
+- Machoke, Level 63.
+- Glalie, Level 64.
+
+**Gang Member Marquis (Icy Field). Classic Mode.**
+- Machoke, Level 66.
+- Glalie, Level 68.
+
+You will get 20 of reputation for winning.
+
+**Friendship Point Choice:**
+- Risa has problems. (Melia +2, Venam +2)
+- I think I get it. (Neutral)
+
+Once you can move, inspect the right tile of the northern barrel on the
+right for a hidden **Yellow Shard**.
+
+Advance and go downstairs. Go immediately north to enter a small room,
+advance and talk to the man for a fight.
+
+**Gang Member Luis (Icy Field)**
+- Story Mode: Avalugg 64.
+- Classic Mode: Avalugg 66.
+
+You get 20 of reputation for winning. Leave the room.
+
+Go five steps to the right and look down for a hidden ***Blue Shard***.
+
+Go upstairs and use the ladder here. Advance until being in the open
+again, there is 3 ***Exp. Candy L*** on the right side. Enter the room
+on the south.
+
+**Gang Member Tarto (Icy Field)**
+- Story Mode: Steelix 67.
+- Classic Mode: Steelix 72.
+
+You get 20 of reputation for winning.
+
+Return to before the ladder and this time go south.
+
+Continue advancing until you see karmic butterflies, use them and go to
+the west.
+
+You can’t use the west path because of a guy blocking it, so go east and
+use the exit here.
+
+After being in the open area again, move a step to the right and inspect
+to get a hidden ***Ice Heal***.
+
+Continue south and enter the room here for a scene.
+
+**Gang Member Jimmy (Icy Field)**
+- Story Mode: Toxtricity 65.
+- Classic Mode: Toxtricity 69.
+
+You get 20 of reputation for winning.
+
+We now have the full code. In fact, as long as you knew it, you could
+have skipped getting it, since you have to input it, but this guide
+isn’t making such skips.
+
+Now use the bridge to the east to reach a door with a panel asking for a
+code.
+
+The code is 643. Use the door and advance for a scene. Choice doesn't
+matter.
+
+After the scenes you are back on the Night Market, but go down to the
+Cold Storage once again and enter the room we fought Luis. On the
+northern wall there is a hidden Ability Capsule we couldn't get earlier
+because Luis was on the way. You can leave now.
+
+Go to the right to trigger another scene.
+
+**Friendship Point Choice:**
+- You’re right… (Melia +1, Venam +2)
+- You’re crazy. (Melia -2, Venam -3)
+
+### Both Investigations Done
+
+If you followed this guide, it is time to return to Rhodea’s Penthouse
+as both tasks are finished.
+
+Once you enter the living room, you will get into a scene.
+
+**Friendship Point Choice:**
+- I like it here! (Melia +1, Venam +3)
+- I miss Terajuma too. (Melia +3, Venam +1)
+- I don’t like it here either. (Melia +2, Venam -1)
+
+Go to sleep and if you have at least 10 Friendship points with Venam,
+you unlock a hidden scene.
+
+After the hidden scene or if you didn’t see it, you are back to the
+strange dream. If you failed the previous question or don't have a save
+with at least 15 badges on your save folder, you will be back to
+Rhodea’s House. Avoid the next section.
+
+### New Game
+
+The scenes following are meant for people playing a second playthrough
+and are by nature a spoiler.
+
+If you solved the previous question and have a save with at least 15
+badges on your save folder, you can enter a name here, which is clearly
+a spoiler if this is your first time playing and you got a save file
+from someone else. On the spoiler, there is the correct answer. Open it
+under your own responsibility.
+
+<details>
+  <summary>SPOILER:</summary>
+
+HAZUKI
+</details>
+
+You get immediately another question. Same as above, the answer in
+spoiler.
+
+<details>
+  <summary>SPOILER:</summary>
+
+HUEY
+</details>
+
+One last question. Again, the answer in spoiler.
+
+<details>
+  <summary>SPOILER:</summary>
+
+FREYA
+</details>
+
+Once you have answered everything right, you will see a very interesting
+scene. Choice doesn’t matter.
+
+You will receive a ***Puppet Doubloon***.
+
+### Incidents on Grand Dream City
+
+You wake up threatened by a terrorist attack on Somniam Mall, and you
+are they ultimatum. Agree to enter the Somniam Storage for a scene,
+which vastly changes if you completed Hidden Library 3. If completed,
+you will have a double battle.
+
+**Mystery Duo ??? \$ ??? (Shot-Circuit Field)**
+- Wailord, Level 66.
+  - Water Spout
+  - Blizzard
+  - Surf
+  - Hidden Power Electric
+- Ferrothorn, Level 67.
+  - Iron Defense
+  - Gyro Ball
+  - Body press
+  - Protect
+- Breloom, Level 68.
+  - Fake Out
+  - Zing Zap
+  - Seed Bomb
+  - Spore
+- Comfey, Level 65.
+  - Floral Healing
+  - Giga Drain
+  - Draining Kiss
+  - Grassy Terrain
+- Cinderace, Level 66.
+  - Iron Head
+  - Pyro Ball
+  - Gunk Shot
+  - Sucker Punch
+- Kricketune, Level 68.
+  - Leech Life
+  - Throat Chop
+  - Brick Break
+  - Strength
+
+It isn’t a hard battle. Once you win, the scenes will continue.
+
+Return to Rhodea’s Penthouse. There is a scene if you have completed
+Hidden Library 3.
+
+**Friendship Point Choice (if completed Hidden Library 3):**
+- They’re fine (Melia +2)
+- Concerning… (Melia +1)
+- I am very tired. (Melia -1)
+
+Go to sleep in your bed. You will see a scene with Venam and Lavender.
+
+leave your room and go downstairs for a scene. Choice doesn’t matter.
+
+You will be on the Back Alley after the scene, advance to the right and
+up when you can for a scene.
+
+**Friendship Point Choice:**
+- Focus, Huey. (Huey +1)
+- Get it together! (Huey -2)
+- We can do this. (Neutral)
+
+We have to go to the Grand Terminal Station now. Us the southwestern
+stairs to trigger a scene.
+
+You are on the Night Market now. Go to the intersection and follow the
+right path to the end to find Huey and Lavender. Talk to Huey.
+
+The scenes will lead you back to Rhodea’s Penthouse, the choices here
+don’t matter.
+
+Go the rightmost doors and enter. You will receive the ***Nightmare
+Medallion***.
+
+Go to sleep to continue.
+
+## Nightmare Toy Box
+
+The box here allows you to dress like you did in the Darchlight Caves.
+
+
 
 
 
@@ -20329,7 +20935,7 @@ Walk to Erin in the League Administration Area to begin the Karma Files.
 -   Your hair is nice today. (Erin +1)
 
 Then you are given another choice.
-  -   I need time... (Let's you go to your destination Obelisk on your own)
+-   I need time... (Let's you go to your destination Obelisk on your own)
 -   Let's walk. (Moves you directly to the Obelisk)
 
 Once you are into the Obelisk map, talk with it and select Yes to continue.
@@ -20344,27 +20950,27 @@ have positive Karma. If you touch them your soul will be Rejuvenated.
 Continue upwards and you will be thrown into a battle.
 
 **Interceptor Crescent (Deep Earth Field)**
--   Aevian Bronzong. Level 86. @Leftovers.
+-   Aevian Bronzong, Level 86. @Leftovers.
     -   Iron Defense
     -   Body Press
     -   Heavy Slam
     -   Terrain Pulse
--   Weavile. Level 87. @Life Orb.
+-   Weavile, Level 87. @Life Orb.
     -   Low Kick
     -   Icicle Crash
     -   Throat Chop
     -   Psycho Cut
--   Metagross. Level 88. @Metagrossite.
+-   Metagross, Level 88. @Metagrossite.
     -   Zen Headbutt
     -   Gyro ball
     -   Grass Knot
     -   Earthquake
--   Garchomp. Level 87. @Focus Sash.
+-   Garchomp, Level 87. @Focus Sash.
     -   Earthquake
     -   Dragon Rush
     -   Iron Tail
     -   Stone Edge
--   Malamar. Level 88. @Iron Ball
+-   Malamar, Level 88. @Iron Ball
     -   Superpower
     -   Fling
     -   Rock Slide
@@ -20579,9 +21185,9 @@ Go down and into the graveyard. The grave you need to talk to is the one
 under the old woman, which have candles with blue fire instead of red.
 
 **Old Lady Haggie (City Field)**
--   Stoutland. Level 87 (78 shown in the game but 87 on files.).
--   Arcanine. Level 90 (81 shown in the game but 90 on files).
--   Samurott. Level 91 (81 shown in the game but 91 on files).
+-   Stoutland, Level 87 (78 shown in the game but 87 on files.).
+-   Arcanine, Level 90 (81 shown in the game but 90 on files).
+-   Samurott, Level 91 (81 shown in the game but 91 on files).
 
 She isn't hard to defeat.
 
@@ -20628,32 +21234,32 @@ Gym's test, and the seven wonder is to fight him. You already have his
 badge, so Talon says it is a battle for fun.
 
 **Cartographer Talon (Sky Field)**
--   Noivern. Level 87. @Life Orb.
+-   Noivern, Level 87. @Life Orb.
     -   Flamethrower
     -   Defog
     -   Hurricane
     -   Dragon Pulse
--   Drifblim. Level 87. @Elemental Seed.
+-   Drifblim, Level 87. @Elemental Seed.
     -   Acrobatics
     -   Tailwind
     -   Explosion
     -   Will-O-Wisp
--   Oricorio. Level 88. @ Oricorio Crest.
+-   Oricorio, Level 88. @ Oricorio Crest.
     -   Revelation Dance
     -   Hurricane
     -   Hidden Power (Grass)
     -   Tailwind
--   Butterfree. Level 89. @Butterfreenite.
+-   Butterfree, Level 89. @Butterfreenite.
     -   Sleep Powder
     -   Hurricane
     -   Quiver Dance
     -   Bug Buzz
--   Salamence. Level 89. @Elemental Seed.
+-   Salamence, Level 89. @Elemental Seed.
     -   Dragon Dance
     -   Dragon Claw
     -   Fly
     -   Aqua Tail
--   Braviary. Level 90. @Life Orb
+-   Braviary, Level 90. @Life Orb
     -   Sky Attack
     -   Crush Claw
     -   Close Combat
@@ -20740,17 +21346,17 @@ Movie World, so unless you think you will need them, you can ignore
 them. Choices here are inconsequential.
 
 Firebrand Enya (No Field)
--   Togedemaru. Level 10 (12 in script).
+-   Togedemaru, Level 10 (12 in script).
     -   Tackle
     -   Thunder Shock
     -   Defense Curl
     -   Rollout
--   Frillish. Level 10 (12 in script).
+-   Frillish, Level 10 (12 in script).
     -   Absorb
     -   Bubble
     -   Water Sport
     -   Night Shade
--   Snorunt. Level 11 (13 in script).
+-   Snorunt, Level 11 (13 in script).
     -   Powder Snow
     -   Astonish
     -   Headbutt
@@ -20798,7 +21404,7 @@ have reached jumping before where you can find Max Revive.
 
 Once you are ready go to the stairs. Advance until triggering a
 cutscene.
--   **Monstrosity Boss. 2 Hp Bar. Level 16. Poison/Dark.**
+-   **Monstrosity Boss. 2 Hp Bar, Level 16. Poison/Dark.**
     -   Poison Fang
     -   Bite
     -   Tail Whip
@@ -20830,22 +21436,22 @@ premiers to get a gift.
 Go back to your director chair to enter the final filming session.
 
 **Mayor Lucile (No Field)**
--   Joltik. Level 11.
+-   Joltik, Level 11.
     -   String Shot
     -   Electroweb
     -   Signal Beam
     -   Cross Poison
--   Chinchou. Level 12.
+-   Chinchou, Level 12.
     -   Confuse Ray
     -   Bubble Beam
     -   Thunder Wave
     -   Electro Ball
--   Helioptile. Level 13.
+-   Helioptile, Level 13.
     -   Quick Attack
     -   Charge
     -   Thunder Wave
     -   Thunder Shock
--   Morpeko. Level 14.
+-   Morpeko, Level 14.
     -   Tickle
     -   Bite
     -   Quick Attack
@@ -20866,22 +21472,22 @@ Cross the opened door to use the elevator to reach a new floor, advance
 though the only way to trigger another cutscene.
 
 **Splicer Admin Sierra (Factory Field)**
--   Cubone. Level 18.
+-   Cubone, Level 18.
     -   Bone Club
     -   Leer
     -   Headbutt
     -   Focus Energy
--   Ponyta. Level 19.
+-   Ponyta, Level 19.
     -   Flame Wheel
     -   Ember
     -   Stomp
     -   Leer
--   Magnemite. Level 20.
+-   Magnemite, Level 20.
     -   Thunder Shock
     -   Supersonic
     -   Mirror Shot
     -   Thunder Wave
--   Galarian Darumaka. Level 19.
+-   Galarian Darumaka, Level 19.
     -   Avalanche
     -   Work Up
     -   Bite
@@ -20954,7 +21560,7 @@ Venam and Amber.
 
 **Music Enthusiast Amber and Punk Girl Venam (Volcanic Top Field)**
 -   **Amber**
-    -   Camerupt. Level 76 (85 in script). @Solid Rock.
+    -   Camerupt, Level 76 (85 in script). @Solid Rock.
         -   Fever Pitch
         -   Hidden Power (Electric)
         -   Magnitude
@@ -20963,23 +21569,23 @@ Venam and Amber.
         -   Fever Pitch
         -   Scald
         -   Work Up
-    -   Aevian Toxtricity. Level 77 (86in script). @Air Balloon.
+    -   Aevian Toxtricity, Level 77 (86in script). @Air Balloon.
         -   Fever Pitch
         -   Acid Spray
         -   Hyper Voice
         -   Draco Meteor
 -   **Venam**
-    -   Scolipede. Level 84 (86 in script). @Tellutic Seed.
+    -   Scolipede, Level 84 (86 in script). @Tellutic Seed.
         -   Venam's Kiss
         -   Mega Horn
         -   Rock Slide
         -   Protect
-    -   Toxtricity. Level 85 (87 in script). @Elemental Seed.
+    -   Toxtricity, Level 85 (87 in script). @Elemental Seed.
         -   Overdrive
         -   Hyper Voice
         -   Sludge Bomb
         -   Hidden Power (Fire)
-    -   Seviper. Level 85. @Seviper Crest.
+    -   Seviper, Level 85. @Seviper Crest.
         -   Sludge Wave
         -   Giga Drain
         -   Flame Thrower
@@ -21042,22 +21648,22 @@ You are thrown into a battle in a strange setting almost immediately.
 You will face consecutive battles, and they all are double battles.
 
 **Inevitable Grief 01010010 01110110 (Deep Earth Field)**
--   Silvally. Level 81.
+-   Silvally, Level 81.
     -   Swords Dance
     -   Multi Attack
     -   Zen Headbutt
     -   Iron Head
--   Corviknight. Level 82. @Leftovers
+-   Corviknight, Level 82. @Leftovers
     -   Roost
     -   Brave Bird
     -   Iron Head
     -   U-Turn
--   Charizard. Level 81. @Charizardite X
+-   Charizard, Level 81. @Charizardite X
     -   Fire Punch
     -   Dragon Claw
     -   Thunderpunch
     -   Will-O-Wisp
--   Seviper. Level 82. @Seviper Crest
+-   Seviper, Level 82. @Seviper Crest
     -   Sludge Wave
     -   Sludge Bomb
     -   Flame Thrower
@@ -21067,22 +21673,22 @@ It is quite an easy fight, but you will be thrown into another
 immediately, and no heals in the middle of course.
 
 **Inevitable Grief 01000001 01000101 (Deep Earth Field)**
--   Cherrim. Level 81. @Cherrim Crest
+-   Cherrim, Level 81. @Cherrim Crest
     -   Helping Hand
     -   Giga Drain
     -   Nature Power
     -   Synthesis
--   Hawlucha. Level 82. @Telluric Seed
+-   Hawlucha, Level 82. @Telluric Seed
     -   Swords Dance
     -   Close Combat
     -   Acrobatics
     -   X-Scissor
--   Absol. Level 82. @Absolite
+-   Absol, Level 82. @Absolite
     -   Throat Chop
     -   Ice Beam
     -   Flame Thrower
     -   Night Slash
--   Zangoose. Level 81. @Zangoose Crest
+-   Zangoose, Level 81. @Zangoose Crest
     -   Facade
     -   Close Combat
     -   Quick Attack
@@ -21091,22 +21697,22 @@ immediately, and no heals in the middle of course.
 Again, the enemies aren't that strong, but this isn't the last battle.
 
 **Inevitable Grief 01001101 (Deep Earth Field)**
--   Zoroark. Level 81. @Zoroark Crest
+-   Zoroark, Level 81. @Zoroark Crest
     -   Psychic
     -   Nasty Plot
     -   Dark Pulse
     -   Sludge Bomb
--   Mimikyu. Level 81. @Spooky Plate
+-   Mimikyu, Level 81. @Spooky Plate
     -   Hone Claws
     -   Play Rough
     -   Shadow Claw
     -   Shadow Sneak
--   Snorlax. Level 82. @Snorlaxite
+-   Snorlax, Level 82. @Snorlaxite
     -   Return
     -   Earthquake
     -   Crunch
     -   Heavy Slam
--   Togekiss. Level 82. @Babiri Berry
+-   Togekiss, Level 82. @Babiri Berry
     -   Aura Sphere
     -   Glided Helix
     -   Nasty Plot
@@ -21158,7 +21764,7 @@ You are now in the Crystal Queendom, and you must free Alice from the
 one controlling her. Move up.
 
 **Ice Soldier (Frozen Dimension Field)**
--   Guardian Regice. Level 90. Ice/Ghost.
+-   Guardian Regice, Level 90. Ice/Ghost.
     -   Hail
     -   Surf
     -   Psychic
@@ -21309,7 +21915,7 @@ You will be not at Amberette Town. Once you can control your character
 go to the Time Gate.
 
 **Tiempa (Deep Earth)**
--   Dialga. 2 Hp Bars. Level 85. @Adamant Orb
+-   Dialga. 2 Hp Bars, Level 85. @Adamant Orb
     -   Earth Power
     -   Flash Cannon
     -   Power Gem
@@ -21323,7 +21929,7 @@ go to the Time Gate.
 You will be fully healed before the next boos fight.
 
 **Spacea (Deep Earth)**
--   Palkia. 3 Hp Bars. Level 85. @Lustrous Orb
+-   Palkia. 3 Hp Bars, Level 85. @Lustrous Orb
     -   Surf
     -   Thunderbolt
     -   Dragon Pulse
@@ -22390,7 +22996,7 @@ to advance forward.
 Now you can face a boss.
 
 **Wacky Lizard. 2 Hp Bar.**
--   Kecleon. Level 80. @Sitrus Berry.
+-   Kecleon, Level 80. @Sitrus Berry.
     -   Play Rough
     -   Thunderpunch
     -   Bounce
