@@ -208,7 +208,7 @@
 - [Chapter 9: No Time Left to Lose](#chapter-9-no-time-left-to-lose)
   - [Badge 8 Detour](#badge-8-detour)
   - [Forest of Time](#forest-of-time)
-  - [Aevium (Past) 1st Visit](#aevium-past-1st-visit)
+  - [Aevium (Past)](#aevium-past)
   - [West Gearen City Sewer Management](#west-gearen-city-sewer-management)
   - [Detour Before Pulse Badge](#detour-before-pulse-badge)
     - [West Gearen City](#west-gearen-city)
@@ -261,6 +261,10 @@
     - [Quest 69: Missing Children (Underground)](#quest-69-missing-children-underground)
     - [Quest 71: Classified Information](#quest-71-classified-information)
   - [Route 9](#route-9)
+  - [Rose Theater](#rose-theater)
+    - [Quest 72: Kimono Girls Quest](#quest-72-kimono-girls-quest)
+    - [Aevium (Past) 11 Badges](#aevium-past-11-badges)
+    - [Aevium (Alt. Future)](#aevium-alt-future)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -16058,7 +16062,7 @@ There is no friendship choice if you trusted Jenner.
 
 So begins Rejuvenations next major twist... time travel.
 
-## Aevium (Past) 1st Visit
+## Aevium (Past)
 
 You can use this crystal to head back to the present anytime you want.
 
@@ -21735,7 +21739,7 @@ fins using the right stairs behind the main counter.
 Head over to the Grand Dream Station and use the northeast exit to pick
 a train to Route 9.
 
-**Route 9 Encounters**
+**Route 9 Encounters (No Field)**
 
 | **Grass**      | **%** | **Water**  | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
 |----------------|-------|------------|-------|-------------|-------|--------------|-------|
@@ -21746,6 +21750,696 @@ a train to Route 9.
 | **Lycanroc**   | 10    | Pincurchin | 3     |             |       |              |       |
 | **Talonflame** | 4     |            |       |             |       |              |       |
 
+Activate the Braviary post on your right. Now go to the left and stand
+on the last tile of grass. Interact for a hidden ***Resist Wing***.
+
+Go south until you see a big brown tree under a smaller one of similar
+color. Check the northwest part of this big tree to find a hidden ***Big
+Mushroom***.
+
+Continue south and turn right when you can. Once you step on the first
+tile of grass, go a step forward, look up and interact for a hidden
+***Carbos***.
+
+If you walk a bit more to the right, you will see stairs leading to a
+beach, there are overworld Sandygast here. On the top-left corner there
+is a hidden ***Calcium***.
+
+Go the northern end of the beach and surf north to find a Zygarde Cell.
+
+**ZCell 110: Route 9**
+
+<img src="assets/media/image129.png" width="512"/>
+
+Enter the cave here to find **Dewpider**. They are only here if you
+finished the SPU Delivery quest.
+
+Leve the cave and go north after leaving the beach. You will find
+another cave entrance, but we are going to ignore it and come back
+later. Go to the west until you find another Zygarde Cell.
+
+**ZCell 111: Route 9**
+
+<img src="assets/media/image130.png" width="512"/>
+
+Enter though the cave entrance here. This is the main part of the
+Forlorned Cavern.
+
+**Forlorned Cavern Encounters (No Field)**
+
+| **Grass**  | **%** | **Water** | **%** | **Old Rod** | **%** | **Good Rod** | **%** |
+|------------|-------|-----------|-------|-------------|-------|--------------|-------|
+| Graveler   | 20    | Mantyke   | 50    | Corphish    | 70    | Mantyke      | 60    |
+| Pangoro    | 20    | Dewgong   | 25    | Chewtle     | 30    | Quagsire     | 20    |
+| Sudowoodo  | 17    | Sealeo    | 15    |             |       | Qwilfish     | 20    |
+| Togedemaru | 14    | Mantine   | 7     |             |       |              |       |
+| **Aron**   | 15    | Bruxish   | 3     |             |       |              |       |
+| Lycanroc   | 10    |           |       |             |       |              |       |
+| Rhydon     | 2     |           |       |             |       |              |       |
+| Rhyhorn    | 2     |           |       |             |       |              |       |
+
+There are some mining rocks here.
+
+Advance and turn left after having gone upstairs once. Break the rocks
+then needed and use Rock Climb to get an ***Ability Capsule***. Going
+south from here, you can find a hidden ***Dusk Stone*** on the grass
+tile in the end of the way.
+
+Go to the right and upstairs. Go to the southeast grass tile here, look
+up, and interact for a hidden ***Mineral Ball***.
+
+Advance until seeing a lone tree on the north. Inspect its left side for
+a hidden ***Ether***. Use the exit here.
+
+Move to the left and on the right side of the big rock, you will find a
+hidden ***Muscle Wing***. Enter the cave on the left.
+
+Check the rightmost grass tile for a hidden Clever Wing. Go all way to
+the west and check the southern tree for a hidden ***Soda Pop***. Use
+the exit here.
+
+There is ***TM35 Flamethrower*** in the south and if you inspect the
+northern tree, you will find a hidden ***Honey***.
+
+Return to the main area on the outside, and this time use the entrance
+in the right we ignored earlier.
+
+On the rock north of the stairs there is a hidden ***Yellow Shard***.
+
+If you use the southern exit, you can find several overworld Aevian
+Sewaddle.
+
+Use the northern exit to reach a big room. Walk three steps to the right
+and inspect for a hidden Pretty Wing. On the north there is a
+Timesplicer Stone that is disabled, it can’t be used, and a Zygarde
+Cell.
+
+**ZCell 112: Forlorned Cave**
+
+<img src="assets/media/image131.png" width="512"/>
+
+Now, leave the Forlorned Cavern and go to the northwest part of Route 9.
+
+After being north of the train. Step on the tile of grass under a tree
+and inspect the tree from here to get a hidden Swift Wing.
+
+There is a breeder that gives 7 ***Exp. Candy L*** when battled or
+spoken depending on password*.*
+
+Use the northwest exit to reach the northern part of Route 9.
+
+Go left as soon as you can and interact with the bamboo. Cut it and
+interact again to encounter a **Komala**.
+
+Surf across the river here for a Zygarde Cell.
+
+**ZCell 113: Route 9 (North)**
+
+<img src="assets/media/image132.png" width="512"/>
+
+Go back to the main way and go north to reach the Rose Theater.
+
+## Rose Theater
+
+You will start with a scene. Enter the room directly at the north to
+find a Zygarde Cell.
+
+**ZCell 114: Rose Theater**
+
+<img src="assets/media/image133.png" width="512"/>
+
+Use thew northern exit here and go upstairs. Enter the first room for
+some scenes.
+
+After the scenes, go downstairs and use the southern door.
+
+### Quest 72: Kimono Girl Quest
+
+Talk to the Kimono girls here to start this quest. We will be doing it
+together with the story and some exploration.
+
+Leave though the southern doo to be on the main area of the Rose Theater
+again. Use the southwest exit to be back on the northern part of Route
+9, but on a part we have yet to visit.
+
+Advance to the left, and in the empty tile between 4 grass tiles, there
+is a hidden ***Fresh Water***.
+
+Go north to pick up ***TM120 Solar Blade***. Return to the Rose Theater.
+Now use the southeastern exit to reach the hot springs. On the southeast
+end there is the ***Flying Memory***.
+
+Return to the theater and use the door just at your north to continue
+with the story. Go upstairs for a scene.
+
+**Friendship Point Choice:**
+- I do. (Neutral)
+- I’m not sure… (Neutral)
+- You can be aggressive… (Aelita -3)
+
+**Friendship Point Choice:**
+- That ribbon… (Melia +2)
+- You okay? (Kanon +2)
+- Took you guys long enough. (Melia -3, Aelita +1, Kanon -2)
+
+You need to input Nim’s name, but if you instead write NYMIERA you get
+**+2 Friendship Points with Damien**, although you will be corrected by
+Aelita. There is another name that provokes skipping with a glitching
+image on the screen, but it is spoiler and no extra content for
+inputting it.
+
+Use either of the northern door to reach the northmost part of Route 9.
+On the right side of the very tall grass, there is a hidden ***Swift
+Wing***, and on the left side, a hidden ***Ultra Ball***. Use the Item
+Finder for the Ultra Ball, but it won’t work with the Swift Wing because
+of an extra space on the event name. It will work if you are using the
+last version of ItemfinderUnhideItems though. If it doesn’t detect it,
+step on the right of the left tree and interact. The direction doesn't
+matter as for some reason this one requires you to be on top of the
+item.
+
+We are going to complete the Kimono Girl Quest before proceeding further
+with the story.
+
+The first is in the lobby of the Judicial Police Department, in front of
+the counter. Talk to her and she will request we locate a thief that is
+located on Route 9.
+
+The thief can be found on the beach of Route 9, before the area to surf
+to reach the Dewpider place. You will have to fight him.
+
+**Cool Guy Simon (No Field). Story Mode.**
+- Exploud, Level 68.
+- Snorlax, Level 68.
+- Bewear, Level 69.
+
+**Cool Guy Simon (No Field). Classic Mode.**
+- Exploud, Level 70.
+  - Boomburst
+  - Flamethrower
+  - Surf
+  - Focus Blast
+- Snorlax, Level 70.
+  - Curse
+  - Rest
+  - Body Slam
+  - Crunch
+- Bewear, Level 71.
+  - Drain Punch
+  - Bunk Up
+  - Ice Punch
+  - Double Edge
+
+We need to return and report what happened, but before, go to the left
+entrance of Forlorned cave, and make your way to the top, where the TM
+was. You can find the second Kimono Girl here. Talk with her and she
+will go back to the theater
+
+Return to the Police Department to send her back to the theater.
+
+The third one is located in District of Hope, sitting in front of the
+hospital. Talk to her, and then go to sleep in your room to enter the
+Nightmare Toybox.
+
+Once inside, head to the slot machines, and find a **Sableye** watching
+her**.** Catch, or defeat it, and speak to the Kimono Girl. Return to
+the District of Hope and talk to her; choice doesn't matter. She will
+return to the theater.
+
+The fourth is in the Grand Bridge, to the right. Talk with her to
+receive a ***Pearl***. She will return to the theater.
+
+The fifth is in Honec Shrine, so go south to Yui’s Ranch and west to
+Honec Woods. You need to use the western exit to reach the Honec Shrine.
+Talk with her and she will return to the theater.
+
+Now, head to the Darchlight Manor to find the sixth Kimono Girl. She is
+the right room upstairs. Talk to her and when asked , answer no. She
+will return to the theater.
+
+The last one is in Oblitus Town, below Kelvin's house. Tal to her and
+she will return to the theater.
+
+Now, you are the one who needs to go back to the theater. Try to enter
+for a scene. Enter the theater and head north to the central room.
+
+Talk to the Kimono Girl in the front and center, Ayuna, to face a
+Gauntlet of all 8 Kimono Girls.
+
+**Story Mode Gauntlet.**
+
+**Kimono Girl Lana (No Field)**
+- Umbreon, Level 77. @ Leftovers.
+  - Moonlight
+  - Foul Play
+  - Toxic
+  - Protect
+
+**Kimono Girl Beatrice (No Field)**
+- Flareon, Level 77. @ Toxic Orb.
+  - Flare Blitz
+  - Return
+  - Superpower
+  - Quick Attack
+
+**Kimono Girl Midori (No Field)**
+- Leafeon, Level 77. @ Focus Sash.
+  - Leaf Blade
+  - Swords Dance
+  - Double Team
+  - X-Scissor
+
+**Kimono Girl Efi (No Field)**
+- Espeon, Level 80. @ Wise Glasses.
+  - Psychic
+  - Shadow Ball
+  - Dazzling Gleam
+  - Calm Mind
+
+**Kimono Girl Sesilia (No Field)**
+- Vaporeon, Level 80. @ Leftovers.
+  - Scald
+  - Wish
+  - Toxic
+  - Ice Beam
+
+**Kimono Girl Ruka (No Field)**
+- Jolteon, Level 80. @ Air Ballon.
+  - Thunderbolt
+  - Hidden Power Ice
+  - Thunder Wave
+  - Shadow Ball
+
+**Kimono Girl Enya (No Field)**
+- Glaceon, Level 80. @ Occa Berry.
+  - Hail
+  - Blizzard
+  - Swagger
+  - Water Pulse
+
+**Kimono Girl Ayuna (No Field)**
+- Sylveon, Level 80. @ Leftovers.
+  - Hyper Voice
+  - Wish
+  - Psyshock
+  - Shadow Ball
+
+**Classic Mode Gauntlet:**
+
+**Kimono Girl Lana (No Field)**
+- Umbreon, Level 80. @ Leftovers.
+  - Confuse Ray
+  - Foul Play
+  - Toxic
+  - Protect
+
+**Kimono Girl Beatrice (No Field)**
+- Flareon, Level 80. @ Toxic Orb.
+  - Flare Blitz
+  - Return
+  - Superpower
+  - Double Team
+
+**Kimono Girl Midori (No Field)**
+- Leafeon, Level 80. @ Focus Sash.
+  - Leaf Blade
+  - Swords Dance
+  - Double Team
+  - X-Scissor
+
+**Kimono Girl Efi (No Field)**
+- Espeon, Level 82. @ Wise Glasses.
+  - Psychic
+  - Shadow Ball
+  - Dazzling Gleam
+  - Calm Mind
+
+**Kimono Girl Sesilia (No Field)**
+- Vaporeon, Level 82. @ Leftovers.
+  - Scald
+  - Shadow Ball
+  - Toxic
+  - Blizzard
+
+**Kimono Girl Ruka (No Field)**
+- Jolteon, Level 82. @ Air Ballon.
+  - Thunderbolt
+  - Hidden Power Ice
+  - Thunder Wave
+  - Shadow Ball
+
+**Kimono Girl Enya (No Field)**
+- Glaceon, Level 82. @ Occa Berry.
+  - Hail
+  - Blizzard
+  - Freeze Dry
+  - Water Pulse
+
+**Kimono Girl Ayuna (No Field)**
+- Sylveon, Level 82. @ Leftovers.
+  - Hyper Voice
+  - Moonblast
+  - Psyshock
+  - Shadow Ball
+
+You have to defeat the eight consecutively, so although it is a single
+mon each, it may prove hard especially due to their levels. IF you can0t
+defeat them, just try again after having a higher level cap as there is
+no issue in completing this quest later, but it is perfectly possible to
+win now.
+
+After having defeated them all, you receive a Shiny Eevee with Transform
+as this Eevee has previously been a shadow one. You also receive an
+***Ice Stone***.
+
+Now talk to the hiker under the stage to receive a stamp for the Somniam
+Mall, and to the Kimono girl there for a ***Sawsbuck Crest***.
+
+With this the quest is completed, and we have access to new shops in the
+Somniam Mall. This time both are berry shops and are the north shops of
+the left side.
+
+**Somniam Mall 4 Stamps Shop 1**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Occa Berry*   | \$3000    |
+| *Passho Berry* | \$3000    |
+| *Wacan Berry*  | \$3000    |
+| *Rindo Berry*  | \$3000    |
+| *Yache Berry*  | \$3000    |
+| *Payapa Berry* | \$3000    |
+| *Tanga Berry*  | \$3000    |
+| *Charti Berry* | \$3000    |
+| *Custap Berry* | \$3000    |
+| *Chople Berry* | \$3000    |
+
+**Somniam Mall 4 Stamps Shop 2**
+
+| **Item**       | **Price** |
+|----------------|-----------|
+| *Kebia Berry*  | \$3000    |
+| *Shuca Berry*  | \$3000    |
+| *Coba Berry*   | \$3000    |
+| *Haban Berry*  | \$3000    |
+| *Kasib Berry*  | \$3000    |
+| *Colbur Berry* | \$3000    |
+| *Babiri Berry* | \$3000    |
+| *Chilan Berry* | \$3000    |
+| *Roseli Berry* | \$3000    |
+
+Return to the Rose Theater and go upstairs. This time let’s go to the
+leftmost room for a scene. Interact with the crystal to go back to the
+past of Aevium.
+
+You will see a small scene with Kanon and Damien and unlock a hidden
+scene: Madelis’ Appointment if you have a save at least 13 badges on
+your save folder.
+
+## Aevium (Past) 11 Badges
+
+Exit the cave you appear in onto Route 4 for a scene. Choice doesn’t
+matter.
+
+There are no encounters for now.
+
+Go south through the right stairs and approach Aelita for a scene.
+Follow Aelita again for another scene.
+
+From this point on, there are encounters.
+
+**Route 4 (Past) Encounters (No Field)**
+
+| **Grass: Morning** | **%** | **Grass: Day** | **%** | **Grass: Night** | **%** |
+|--------------------|-------|----------------|-------|------------------|-------|
+| Sunkern            | 20    | Bounsweet      | 49    | Bounsweet        | 42    |
+| Sunflora           | 20    | Sunflora       | 15    | Meowth           | 30    |
+| Bounsweet          | 20    | Fletchinder    | 12    | Tranquill        | 19    |
+| Meowth             | 17    | Tranquill      | 10    | Togedemaru       | 5     |
+| Tranquill          | 14    | Meowth         | 5     | Plusle           | 2     |
+| Togedemaru         | 5     | Togedemaru     | 5     | Taillow          | 2     |
+| Plusle             | 2     | Minin          | 2     |                  |       |
+| Taillow            | 2     | Taillow        | 2     |                  |       |
+
+Advance through the only way for another scene.
+
+**Friendship Point Choice:**
+- Yes (Vivian +1)
+- Uh... (Vivian -1)
+
+Next you have to fight a Level 1 Deoxys. Obviously, it is easy, but for
+Friendship Points losing grants (Aelita -1, Vivian -1) and running away
+grants (Aelita -2, Vivian -2).
+
+Go north and use the left stairs. Advance to reach Kugearen. Go north
+and talk to Erin for a scene. You get \$5000 from Katsu. Agree to go
+with them to Amberette Town.
+
+Enter the right house for a scene. You will get the ***Time Gear
+Amulet***.
+
+Take the driver to Kugearen then go east through the woods to get to
+Sheridan Village.
+
+**Sheridan Village (Past) Encounters (No Field)**
+
+| **Grass**    | **%** |
+|--------------|-------|
+| Unfezant     | 25    |
+| Nuzleaf      | 20    |
+| Shiftry      | 15    |
+| Beautifly    | 15    |
+| Makuhita     | 12    |
+| Pinsir       | 9     |
+| **Hariyama** | 2     |
+| Heracross    | 2     |
+
+Head approach Ering, Melia and Aelita for a scene. Go north for another.
+More north for yet another. First choice doesn’t matter.
+
+**Friendship Point Choice:**
+- You okay? (Melia +2, Erin +1)
+- Ready for tea?! (Erin +2, Melia +1)
+
+Go north to find a hidden ***Yellow Shard*** on the right side and a
+hidden ***Meadow Plate*** on the left one.
+
+Enter Vivian's house on the west for another scene.
+
+Speak with Vivian and you have to choose 3 members of your team for a
+battle. Aelita will partner with you.
+
+**Candid Girl Erin & Pokémon Trainer Melia (No Field). Story Mode.**
+- Swanna, Level 69. (Erin)
+  - Hurricane
+  - Surf
+  - Ice Beam
+  - Tailwind
+- Dubwool, Level 68. (Erin)
+  - Thunder Wave
+  - Payback
+  - Cotton Guard
+  - Body Press
+- Zangoose, Level 70. @ Zangoose Crest. (Erin)
+  - Facade
+  - Night Slash
+  - Close Combat
+  - Protect
+- Meganium, Level 69. @ Meganium Crest. (Melia)
+  - Nature Power
+  - Ancient Power
+  - Giga Drain
+  - Protect
+- Zoroark, Level 70. (Melia)
+  - Night Daze
+  - Sludge Bomb
+  - Flamethrower
+  - Protect
+- Togekiss, Level 71. (Melia)
+  - Heat Wave
+  - Air Slash
+  - Follow Me
+  - Life Dew
+
+**Candid Girl Erin & Pokémon Trainer Melia (No Field). Classic Mode.**
+- Swanna, Level 70. @ Wide Lens. (Erin)
+  - Hurricane
+  - Surf
+  - Ice Beam
+  - Tailwind
+- Zangoose, Level 71. @ Zangoose Crest. (Erin)
+  - Facade
+  - Night Slash
+  - Close Combat
+  - Protect
+- Absol, Level 72. @ Scope Lens. (Erin)
+  - Sucker Punch
+  - Night Slash
+  - Psycho Cut
+  - Stone Edge
+- Meganium, Level 70. @ Meganium Crest. (Melia)
+  - Reflect
+  - Ancient Power
+  - Giga Drain
+  - Stun Spore
+- Zoroark, Level 71. @ Life Orb. (Melia)
+  - Night Daze
+  - Sludge Bomb
+  - Flamethrower
+  - Protect
+- Togekiss, Level 72. @ Sitrus Berry. (Melia)
+  - Heat Wave
+  - Air Slash
+  - Follow Me
+  - Dazzling Gleam
+
+Easy fight, but careful with crested Zangoose if you don’t’ defeat him
+quickly.
+
+You are now at the Guest House. Leave and head for Cella’s house, which
+is on the right after crossing the northern bridge.
+
+Exit, and go to Cella's house in the upper right. Approach her for a
+scene.
+
+**Friendship Point Choice:**
+- I'm in! (Neutral)
+- Can I think about it? (You are asked again)
+- Gotta go... (Melia -2, Aelita -2, Erin -2)
+
+After the scene, go to bed in the guest house. Then, enter Vivian's
+house. Follow her up, and attempt to leave after the scene.
+
+**Friendship Point Choice:**
+- My friends (Aelita +2)
+- My family (Aelita +1)
+- Myself (Aelita -1)
+- I'm not sure (Neutral)
+
+**Friendship Point Choice:**
+- Yes (Aelita +1)
+- No (Aelita -1)
+
+After the scenes, you are back in the Guest House. Go downstairs for a
+scene.
+
+Go south and use the right exit to reach the Heracross Woods.
+
+**Heracross Woods (Past) Encounters**
+
+| **Grass** | **%** |
+|-----------|-------|
+| Heracross | 54    |
+| Unfezant  | 20    |
+| Beautifly | 15    |
+| Shiftry   | 5     |
+| Pinsir    | 4     |
+
+You will see the Red Heracross soon after you enter. When you step in
+branches close to it, it runs away.
+
+Go east to where Aelita is, and go north though the way on her left. A
+tile before the flower has a hidden ***Tiny Mushroom***.
+
+Continue north and go to the left. Turn down and on the last tile before
+the tree there is a hidden ***Ultra Ball***. Go west for a ***Max
+Repel***. We are done with the items, so let’s focus on getting the Red
+Heracross for our purpose.
+
+We need it on the northwest par of the map. Step on any of the branches
+close to Heracross and it will go to the southwest part of the forest.
+Now go down through the left side to scare it again.
+
+Go west to make the Heracross flee up. Follow it up and it will go east,
+follow it again. And will go south. Now don’t follow it. Go to the
+southern part and advance to the left avoiding the branches, there is a
+space south of them.
+
+Interact with the Heracross and will flee to the northwest for a scene.
+
+Go to the berry tree area and speak with Aelita for a scene.
+
+Go upstairs and interact with the book in the table to get the ***Garufa
+Spellbook**.* Head down the stairs after the scene.
+
+Go north and surf to reach the northern door. You will have to fight
+her, and it will be a while before you can return to anywhere you have
+visited before, so be ready.
+
+**Sensei Vivian (Blessed Field). Story Mode.**
+- Tyranitar, Level 68. @ Smooth Rock.
+  - Stealth Rock
+  - Toxic
+  - Rock Slide
+  - Crunch
+- Rhyperior, Level 68.
+  - Earthquake
+  - Stone Edge
+  - Ice Punch
+  - Mega Horn
+- Bruxish, Level 68.
+  - Psychic Fangs
+  - Crunch
+  - Ice Fang
+  - Swords Dance
+- Alakazam, Level 70. @ Kasi Berry.
+  - Psychic
+  - Shadow Ball
+  - Hidden Power Fight
+  - Calm Mind
+
+**Sensei Vivian (Blessed Field). Classic Mode.**
+- Tyranitar, Level 71. @ Smooth Rock.
+  - Stealth Rock
+  - Toxic
+  - Rock Slide
+  - Crunch
+- Tyrantrum, Level 72. @ Assault Vest.
+  - Head Smash
+  - Earthquake
+  - Dragon Claw
+  - Superpower
+- Rhyperior, Level 73. @ Assault Vest.
+  - Earthquake
+  - Stone Edge
+  - Ice Punch
+  - Mega Horn
+- Meganium, Level 71. @ Flame Plate.
+  - Ancient Power
+  - Leech Seed
+  - Nature Power (-\> Fire-type Judgement)
+  - Giga Drain
+- Sigilyph, Level 72. @ Life Orb.
+  - Psyshock
+  - Heat Wave
+  - Roost
+  - Air Slash
+- Alakazam, Level 73. @ Alakazite.
+  - Psychic
+  - Dazzling Gleam
+  - Focus Blast
+  - Calm Mind
+
+Not a really hard fight, but her team makes good use of the field. Mega
+Alakazam is very fast, so priority moves may help, or use a Dark Type
+immune to its field-boosted Psychic. Changing the weather also helps and
+if it benefits your team even better.
+
+After the fight scenes will continue.
+
+**Friendship Point Choice:**
+- You okay? (Melia +2)
+- What's up? (Neutral)
+- Can we leave now? (Melia -1)
+
+## Aevium (Alt. Future)
+
+We start with a choice that doesn’t matter, but we really screwed up.
+
+You will meet Kenneth on the scene. Again choice doesn’t matter.
+
+Once the scenes finish, you will be able to move in the beach. Head up
+into the cave.
 
 
 
