@@ -265,6 +265,12 @@
     - [Quest 72: Kimono Girls Quest](#quest-72-kimono-girls-quest)
     - [Aevium (Past) 11 Badges](#aevium-past-11-badges)
     - [Aevium (Alt. Future)](#aevium-alt-future)
+    - [Aevium (Past) Fixing Things](#aevium-past-fixing-things)
+    - [Golden Wing Badge](#golden-wing-badge)
+    - [The Aelita Incident](#the-aelita-incident)
+    - [A Note about Where Love Lies](#a-note-about-where-love-lies)
+- [Chapter 13: Conflicting Ren-union](#chapter-13-conflicting-ren-union)
+  - [Scholar District](#scholar-district)
 
 **Contents in middle pending to finish. The contents after this point may also be incomplete.**
 - [Karma Files (Paragon Route Chapter 0)](#karma-files-paragon-route-chapter-0)
@@ -15588,7 +15594,7 @@ Enter the Help Plaza and go to the back room. Since we have more than 75
 Zygarde Cells, we will get a ***Lucky Egg***.
 
 Be sure to have Metal Poder, 3 Cell Batteries and a Poké Ball before
-continuing. Ig you have been following the guide you should have them
+continuing. If you have been following the guide you should have them
 all. If you ran out of ordinary Poké Balls just buy one. Also, you will
 need a Spice Powder that can be bought on the Ranger HQ
 
@@ -22346,7 +22352,7 @@ the tree there is a hidden ***Ultra Ball***. Go west for a ***Max
 Repel***. We are done with the items, so let’s focus on getting the Red
 Heracross for our purpose.
 
-We need it on the northwest par of the map. Step on any of the branches
+We need it on the northwest part of the map. Step on any of the branches
 close to Heracross and it will go to the southwest part of the forest.
 Now go down through the left side to scare it again.
 
@@ -22436,10 +22442,776 @@ After the fight scenes will continue.
 
 We start with a choice that doesn’t matter, but we really screwed up.
 
-You will meet Kenneth on the scene. Again choice doesn’t matter.
+You will meet Kenneth on the scene. Again, choice doesn’t matter.
 
-Once the scenes finish, you will be able to move in the beach. Head up
-into the cave.
+Once the scenes finish, you will be able to move in the beach. Use the
+nearby stairs and head up into the cave.
+
+You can now see conversations with Mosely and Melia. There is one for
+inside the cave and one for the outside. It is the A key of the keyboard
+by default.
+
+Go outside the cave and talk to Amber. Choice doesn't matter.
+
+Return to the cave and talk to Kenneth to sleep.
+
+After a scene about the past, you wake up. Leave the cave while fighting
+the Pyriah grunts. You will be caught in the end. You need to hatch an
+egg to recover all the stolen mons, supposedly including yours, but you
+have access to your team and with a Remote PC to all your mons. No one
+will ever acknowledge this though.
+
+Talk to Granny to get blankets, then to Kenneth, and next to the egg.
+Despite what it may seem, the choice in the scene doesn’t matter.
+
+You can now talk to your group, the conversation changes depending on
+where you are.
+
+Use the ladder here for a scene. Enter the left room.
+
+Beat a couple of grunts while avoiding the mugs they are throwing and
+press the red button on the southwest. Leave this room and take the
+northern ladder. Enter the left room here.
+
+The PC and healing star are here.
+
+Beat the grunts as you push the blue and yellow buttons in this room.
+Head up again and go past the turned-off lasers, then upstairs for a
+scene. Advance to the outside of the ship for another. Choice doesn’t
+matter. Go all way to the left to enter the ship again. Use the ladder
+on the southwest. Go north for a scene and a battle.
+
+**Captain Valarie (Murkwater Surface). Story Mode.**
+- Toxicroak, Level 70.
+  - Sucker Punch
+  - Poison Jab
+  - Drain Punch
+  - Ice Punch
+- Dragalge, Level 71.
+  - Venoshock
+  - Dragon Pulse
+  - Surf
+  - Thunderbolt
+- Swalot, Level 70. @ Wiki Berry.
+  - Earthquake
+  - Toxic
+  - Stockpile
+  - Sludge Bomb
+- Cursola, Level 71. @ Leftovers.
+  - Strength Sap
+  - Will-O-Wisp
+  - Shadow Ball
+  - Scald
+- Jellicent, Level 71. @ Leftovers.
+  - Sludge Bomb
+  - Scald
+  - Shadow Ball
+  - Recover
+
+**Captain Valarie (Murkwater Surface). Classic Mode.**
+- Toxicroak, Level 72. @ Assault Vest.
+  - Sucker Punch
+  - Poison Jab
+  - Drain Punch
+  - Ice Punch
+- Dragalge, Level 73. @ Assault Vest.
+  - Venoshock
+  - Dragon Pulse
+  - Surf
+  - Thunderbolt
+- Qwilfish, Level 72. @ Focus Sash.
+  - Destiny Bond
+  - Reversal
+  - Dive
+  - Poison Jab
+- Tentacruel, Level 72. @ Black Sludge.
+  - Giga Drain
+  - Acid Spray
+  - Ice Beam
+  - Scald
+- Cursola, Level 73. @ Leftovers.
+  - Strength Sap
+  - Will-O-Wisp
+  - Shadow Ball
+  - Scald
+- Jellicent, Level 73. @ Leftovers.
+  - Sludge Bomb
+  - Scald
+  - Shadow Ball
+  - Recover
+
+This field reduces the speed of all grounded mons without Swift Swim or
+Surge Surfer. As usual, check the Field Nots if you want more details of
+the field. I recommend Blizzard to get Icy Field instead, which will
+erase all advantage of your opponents. They will try to melt the field
+with Scald, but they need to use it twice while Blizzard refreezes it in
+one. Anyway, just avoiding the field damage for a while is already nice
+unless your team happens to be filled with mons benefiting the field.
+
+The choice on the following scenes doesn’t matter.
+
+Head to the deck for a scene. First choice doesn’t matter, second is a
+Friendship Point Choice.
+
+**Friendship Point Choice:**
+- We needed a new sail... (Melia +2)
+- She loves her new job. (Melia +1)
+- Yes. (Neutral)
+
+Continue to the left to enter the captain's room and speak with Madame
+X, for a scene. Choices don't matter.
+
+Now, return to the right area of the ship, go downstairs and open the
+northern door by interacting with the panel. Downstairs, talk to Melia;
+she in on the lake with the waterwall.
+
+**Friendship Point Choice:**
+- Who knows... (Melia +1)
+- Why does it matter? (Melia -2)
+- It's necessary. (Melia +2)
+
+Second choice doesn't matter. If you have at least 5 Melia Friendship
+Points at this point, you'll get another **+5 Friendship Point with
+Melia** and some extra dialogue.
+
+Head down to the bottom and approach the elevated area to trigger more
+scenes.
+
+Once you wake up, go to the deck for a scene. Choice doesn't matter.
+
+Go downstairs and advance until reaching the northeast; all paths led
+there. Talk with Madam X for a scene. Enter the opened door for another.
+Choice doesn't matter.
+
+Go to the north and interact with the lift for another scene.
+
+**Friendship Point Choice:**
+- We must press on (Melia +2, Keta +2)
+- It's hopeless... (Melia -2, Keta -2)
+
+You can group talk again. Leave the room to proceed.
+
+In the room to the right, there are encounters.
+
+**Blacksteeple Playroom Encounters (Chess Board)**
+
+| **Grass**      | **%** |
+|----------------|-------|
+| Amoonguss      | 20    |
+| Graveler       | 15    |
+| Muk            | 12    |
+| **Drapion**    | 10    |
+| Whirlipede     | 10    |
+| Mawile         | 10    |
+| **Tentacruel** | 5     |
+| Duosion        | 5     |
+| Thievul        | 5     |
+| Boltund        | 4     |
+| Jynx           | 2     |
+| Sableye        | 2     |
+
+Note that this map is only available for a limited time, so if you want
+to get something here, do it now.
+
+Head outside and go north u7pstairs. There are a couple of rooms on the
+left and the right, enter on each and read the book they have. You will
+get a scene for each.
+
+Now enter the top room for another scene.
+
+If you have at least 20 Friendship Points with Melia she will stop
+Kenneth, otherwise, you will take double field damage before the battle
+with him.
+
+**Survivor Kenneth (Chess Board). Story Mode.**
+- Muk, Level 71.
+  - Gunk Shot
+  - Shadow Sneak
+  - Curse
+  - Ice Punch
+- Weavile, Level 72.
+  - Ice Punch
+  - Throat Chop
+  - Low Kick
+  - Poison Jab
+- Lapras, Level 72. @ Leftovers.
+  - Ice Beam
+  - Surf
+  - Toxic
+  - Ice Shard
+- Lucario, Level 73. @ Black Belt
+  - Meteor Mash
+  - Drain Punch
+  - Bullet Punch
+
+**Survivor Kenneth (Chess Board). Classic Mode.**
+- Banette, Level 70. @ Spell Tag.
+  - Toxic
+  - Phantom Force
+  - Foul Play
+  - Protect
+- Muk, Level 70. @ Shuca Berry.
+  - Gunk Shot
+  - Shadow Sneak
+  - Curse
+  - Ice Punch
+- Krookodile, Level 71. @ Assault Vest.
+  - Earthquake
+  - Crunch
+  - Stone Edge
+  - Low Kick
+- Weavile, Level 71. @ Life Orb.
+  - Ice Punch
+  - Throat Chop
+  - Low Kick
+  - Poison Jab
+- Lapras, Level 72. @ Leftovers.
+  - Ice Beam
+  - Surf
+  - Toxic
+  - Perish Song
+- Lucario, Level 73. @ Focus Sash.
+  - Meteor Mash
+  - Close Combat
+  - Bullet Punch
+  - Swords Dance
+
+He isn’t exactly weak, but he isn’t extremely strong either. The field
+is Chess Board, so check it on the Field Notes if you don’t remember how
+to make use of it.
+
+After winning try to use the upper-right door for a scene. Heal and
+continue advancing for another one. We will be on timer now, so be
+careful. Enter the bottom-left room and follow the instructions to reach
+your destination; try to avoid the maids to not lose time on battles.
+
+The order of doors to follow now is: LUURULDD. You will end up fighting
+the last maid as it is blocking the door. If you reach Melia in time,
+you'll be granted **+4 Melia Friendship Points**. Otherwise, she will
+press the button, which gives a different scene and is tracked.
+
+Go north for a scene, which has different dialogue depending on if the
+button was pressed or not.
+
+Go the left side of the battlefield to fight Melia. You can lose this
+fight, but the only difference is a bit of dialogue change.
+
+**Enigma Melia (Chess Board). Story Mode.**
+- Snorlax, Level 72.
+  - Strength
+  - High Horsepower
+  - Heavy Slam
+  - Fire Punch
+- Zoroark, Level 73.
+  - Dark Pulse
+  - Sludge Bomb
+  - Flamethrower
+  - Sucker Punch
+- Meganium, Level 73.
+  - Leech Seed
+  - Toxic
+  - Giga Drain
+  - Nature Power (-\> Ancient Power)
+- Aegislash, Level 73.
+  - King’s Shield
+  - Shadow Ball
+  - Flash Cannon
+  - Wide Guard
+- Togekiss, Level 74.
+  - Aura Sphere
+  - Air Slash
+  - Nasty Plot
+  - Dazzling Gleam
+
+**Enigma Melia (Chess Board). Classic Mode.**
+- Snorlax, Level 72. @ Silk Scarf.
+  - Strength
+  - High Horsepower
+  - Heavy Slam
+  - Fire Punch
+- Hydreigon, Level 74. @ Synthetic Seed.
+  - Gilded Arrow
+  - Flash Cannon
+  - Dark Pulse
+  - Nasty Plot
+- Zoroark, Level 73. @ Zoroark Crest.
+  - Dark Pulse
+  - Sludge Bomb
+  - Flamethrower
+  - Sucker Punch
+- Meganium, Level 73. @ Meganium Crest.
+  - Leech Seed
+  - Toxic
+  - Giga Drain
+  - Nature Power (-\> Ancient Power)
+- Azumarill, Level 73. @ Life Orb.
+  - Play Rough
+  - Aqua Jet
+  - Deluge
+  - Knock Off
+- Togekiss, Level 74. @ Synthetic Seed.
+  - Aura Sphere
+  - Air Slash
+  - Nasty Plot
+  - Dazzling Gleam
+
+This may be a tough fight or not depending on your team, but since we
+can lose this fight without any demerits, don’t break your head if you
+can’t win.
+
+Dialogue changes depending on the outcome of battle and if Melia pressed
+the button or not.
+
+Use the lift to end up on another scene. The dialogues change depending
+on weather you pressed the button.
+
+**Friendship Point Choice:**
+- About what? (Neutral; extra dialogue if at least 3 Friendship points
+  with Melia)
+- Sigh (Melia -3)
+
+Time for a story choice with a timer. When confirming your choice,
+Melia’s dialogue change if you have at least 3 Melia Friendship Points.
+- If you choose \[Hand it Over\], well... you're gonna get a game over.
+  A game over that in fact will write to your save that you made that
+  choice should you click Try Again. If that's what you want, go for it;
+  it counts to trigger Renegade Route. But if not, better make sure you
+  have a backup if you want to see how that route plays out.
+- \[Abandon Them\] is a passable choice, but not the best. Bad things
+  will happen, but the story will continue. It gives points to reach
+  Renegade Route, and some future dialogue will be affected.
+- \[Do Nothing\], which means let the timer run out. This way you will
+  get the best ending. There is no confirmation here as you aren’t
+  choosing anything. If you are going Paragon Route, this is the
+  recommended.
+  - You will get a couple of choices that will repeat until you choose
+    the correct one. No penalty for selecting the others.
+
+After the explosion, the scene will change depending if you tried to
+abandon everyone or not.
+
+**Friendship Point Choice:**
+- Are you okay?! (Melia +2)
+- Uh... You good? (Neutral)
+- What happened? (Neutral)
+
+You are controlling Melia now. Advance though the only way seeing the
+scenes.
+
+**Hood Emma (No Field, Permanent Hail)**
+- Zoroark, Level 74. @ Zoroark Crest.
+  - Dark Pulse
+  - Flamethrower
+  - Shadow Ball
+  - Grass Knot
+- Azumarill, Level 75. @ Pixie Plate.
+  - Play Rough
+  - Aqua Jet
+  - Liquidation
+  - Rest
+- Togekiss, Level 78. @ Synthetic Seed.
+  - Aura Sphere
+  - Gilded Arrow
+  - Nasty Plot
+  - Dazzling Gleam
+
+A pretty easy fight for Melia’s team, but it is fine to lose.
+
+You are back at controlling yourself after the scenes. Advance north to
+fight Melanie with Mealia’s help, so it will be a 12vs8 or 12vs5; yes
+Melanie has 8 in Classic Mode.
+
+**Little Demon Melanie (Chess Board, Permanent Rain). Story Mode.**
+- Galarian Mr. Mime, Level 71.
+  - Calm Mind
+  - Psychic
+  - Ice Beam
+  - Energy Ball
+- Obstagoon, Level 71. @ Sitrus Berry.
+  - Obstruct
+  - Double Edge
+  - Throat Chop
+  - Close Combat
+- Boltund, Level 71. @ Life Orb.
+  - Thunder Fang
+  - Fire Fang
+  - Ice Fang
+  - Psychic Fangs
+- Polteageist, Level 71.
+  - Nasty Plot
+  - Psychic
+  - Shadow Ball
+  - Giga Drain
+- Alcremie, Level 73. @ Leftovers.
+  - Recover
+  - Draining Kiss
+  - Mystical Fire
+  - Calm Mind
+
+**Little Demon Melanie (Chess Board, Permanent Rain). Classic Mode.**
+- Galarian Mr. Mime, Level 73. @ Eviolite.
+  - Calm Mind
+  - Psychic
+  - Ice Beam
+  - Energy Ball
+- Obstagoon, Level 73. @ Sitrus Berry.
+  - Obstruct
+  - Double Edge
+  - Throat Chop
+  - Close Combat
+- Thievul, Level 73. @ Thievul Crest.
+  - Sucker Punch
+  - Parting Shot
+  - Play Rough
+  - Crunch
+- Boltund, Level 73. @ Boltund Crest.
+  - Thunder Fang
+  - Fire Fang
+  - Ice Fang
+  - Psychic Fangs
+- Polteageist, Level 73. @ Colbur Berry.
+  - Nasty Plot
+  - Psychic
+  - Shadow Ball
+  - Giga Drain
+- Stonjourner, Level 73. @ Galon Berry.
+  - Wide Guard
+  - Body Press
+  - Rock Slide
+  - Heavy Slam
+- Cursola, Level 73. @ Leftovers.
+  - Strength Sap
+  - Shadow Ball
+  - Power Gem
+  - Scald
+- Alcremie, Level 75. @ Alcremite.
+  - Recover
+  - Draining Kiss
+  - Mystical Fire
+  - Calm Mind
+
+Melanie is strong, but it is hard to lose this fight thanks to the
+advantage in numbers and level. This is a Chess Board field despite its
+looks.
+
+The scene after the battle depends on it you did nothing or tried to
+flee abandoning everyone.
+
+**Friendship Point Choice (if Did Nothing):**
+- We have to go. (Neutral)
+- It was fun. (Neutral)
+- Where's the exit? (Mosely -2)
+
+Use the northern door for another scene.
+
+If you Did Nothing previously, you will see a scene with the people of
+this Alternate Future on the ship.
+
+## Aevium (Past) Fixing Things
+
+After the scenes, we are back on Past Sheridan Village. Go to Vivian’s
+house for a scene, use the northern door. S you advance north, there is
+a hidden ***Balm Mushroom*** on the right side of the bridge, next to
+the pink flowers in the water.
+
+Enter the Sacrificial Chamber on the north for another scene.
+
+**Friendship Point Choice:**
+- I remember! (Melia +2)
+- What are you talking about? (Melia +1)
+- We have to save Vivian! (Melia -1)
+
+Time for a boss battle.
+
+**Stone Guardian (Blessed Field). 2 HP Bars. Story Mode.**
+- Regirock, Level 68. @ Leftovers.
+  - Drain Punch
+  - Superpower
+  - Rock Slide
+  - Earthquake
+- After clearing 1 HP Bar:
+  - Stealth Rock will be deployed on your side.
+  - Item becomes Rockium Z.
+  - Attack +1, Defense +1, Special Defense +1.
+
+**Stone Guardian (Blessed Field). 2 HP Bars. Classic Mode.**
+- Regirock, Level 70. @ Leftovers.
+  - Drain Punch
+  - Body Press
+  - Rock Slide
+  - Earthquake
+- After clearing 1 HP Bar:
+  - Stealth Rock will be deployed on your side.
+  - Item becomes Rockium Z.
+  - Attack +1, Defense +1, Special Attack +1, Special Defense +1, Speed
+    +1.
+
+Not a hard fight given the level and that it doesn’t make use of the
+field. It is also very slow.
+
+Once you can move, go downstairs for a scene. It differs depending on
+what you did with the Time Diamond.
+
+**Friendship Point Choice (if Did Nothing):**
+- We make a good team! (Melia +2)
+- I did all the work. (Melia -2)
+
+**Friendship Point Choice:**
+- Catch it! (Melia +1)
+- Leave it in the wild. (Neutral)
+
+When leaving Sheridan Village, you will notice a tree with an
+exclamation to your left. If you cut it, a rift in Route 2 will appear
+giving access to Route Z in your time. There is no downside to this, so
+do it.
+
+Continue south for some scenes. If you have at least 45 Melia Friendship
+Point, you will gain **4 Melia Friendship Points**. The whole
+conversation in the cave doesn't happen otherwise.
+
+Use the crystal to return to your time.
+
+## Golden Wing Badge
+
+Leave the room for a scene.
+
+If you enter the room north of the one with the Timesplicer Crystal, you
+will be able to heal and use a PC, there is also a device to call Jan
+for information of the Gym Battle.
+
+Go downstairs and go north until having reached the outside of the
+building. Talk to Souta on the northern cliff for a scene and a Gym
+Battle. It is doubles.
+
+**Spiritual Healer Souta (Sky Field, Strong Winds). Story Mode.**
+- Skarmory, Level 70.
+  - Sky Attack
+  - Steel Wing
+  - Tailwind
+  - Heavenly Wing
+- Swanna, Level 741
+  - Surf
+  - Steel Wing
+  - Roost
+  - Heavenly Wing
+- Sensu Oricorio, Level 74. @ Oricorio Crest.
+  - Hurricane
+  - Tailwind
+  - Hidden Power Ground
+  - Revelation Dance
+- Altaria, Level 70.
+  - Dragon Dance
+  - Fly
+  - Dragon Claw
+  - Play Rough
+- Aevian Volcarona, Level 73. @ Leftovers.
+  - Ethereal Tempest
+  - Quiver Dance
+  - Psychic
+  - Heavenly Wing
+
+**Spiritual Healer Souta (Sky Field, Strong Winds). Classic Mode.**
+- Skarmory, Level 73. @ Elemental Seed.
+  - Sky Attack
+  - Steel Wing
+  - Tailwind
+  - Heavenly Wing
+- Unfezant, Level 74. @ Assault Vest.
+  - Heavenly Wing
+  - Steel Wing
+  - Return
+  - Sky Attack
+- Aevian Volcarona, Level 74. @ Life Orb.
+  - Ethereal Tempest
+  - Thunderbolt
+  - Tailwind
+  - Aura Sphere
+- Dragonite, Level 75. @ Heavy Duty Boots.
+  - Surf
+  - Hurricane
+  - Thunder
+  - Fly
+- Sensu Oricorio, Level 74. @ Oricorio Crest.
+  - Hurricane
+  - Tailwind
+  - Hidden Power Ground
+  - Revelation Dance
+- Pidgeot, Level 77. @ Pidgeotite.
+  - Hurricane
+  - Heat Wave
+  - Razor Wind
+  - Fly
+
+Heavenly Wing: Flying. Physical. 90 Power. Cannot miss. Removes target's
+stat changes. On Sky Field, Mountain Field, and Snowy Mountain Field,
+power is boosted x1.5. Turns Volcanic Top Field, Mountain Field, and
+Snowy Mountain Field into Sky Field.
+
+Sky Field and Strong Wing weather is a nasty combination against a
+flying-type specialist. Good thing is that this isn’t a Mega-Rayquaza
+using its ability, so you can change the weather.
+
+This may be one of the toughest fights with the weather intact, but if
+you remove Strong Winds, it is one of the easiest.
+
+Changing the field is harder as it required very specific moves like
+Smack Down, Gravity or Ingrain, and Mountain Field still boost flying
+moves anyway, so changing the weather is far more useful.
+
+Open the battle with a mon that can handle Skarmory, fire moves are a
+good idea. I particularly Crested Typhlosion with Flare Blitz as it will
+defeat it in one turn thanks to hitting twice. As long as you get
+Skarmory out of the way, or at least some HP to prevent Study from
+saving him from the weather setter, it is fine, but defeating it
+directly sounds better.
+
+Skarmory will set strong winds again thanks to Tailwind on the first
+turn, so no use in opening the battle setting the weather with an
+ability unless you have a multi-hit move with the mon that can defeat
+Skarmory in one turn or you want to waste another turn setting the
+weather again with a move or switching.
+
+Switch for a mon with Snow Warning to neutralize the field and you can
+easily defeat Souta with super effective moves now. This combines great
+with Blizzard as you will one-shot the five remaining without letting
+them attack. Alolan Ninetales is great for this as it hits hard and has
+good speed.
+
+Once you win, you will get the ***Golden Wing Badge*** and ***TM62
+Acrobatics***. Your level cap goes to 80 and can use Fly outside battle,
+but you don't have Fly yet, and you need to own the HM too.
+
+**Friendship Point Choice:**
+- Are you okay? (Erin +2)
+- He doesn't matter. (Erin -4)
+
+You will also receive ***Souta's Cane***.
+
+## The Aelita Incident
+
+You need to go to the middle room upstairs for a scene. Now, leave the
+building for another scene.
+
+**Friendship Point Choice:**
+- Let's save Aelita! (Melia +3, Erin +3)
+- Can't Erin just go? (Erin -3, Melia -3)
+
+Talk with Erin to enter the Rift.
+
+Advance seeing scenes until you wake up on a very different map with
+some Rift Notes on your left, pick them up.
+
+Advance to the north for a boss fight with Erin’s help.
+
+**Rift Aelita (Dimensional Field). 4 HP Bars. Story Mode.**
+- Rift Regirock, Level 70. @ Life Orb.
+  - Rock Blast
+  - Arm Thrust
+  - Bullet Seed
+  - Barrage
+- After clearing 1 HP Bar:
+  - Laser Focus Effect with be applied.
+  - Laser Focus will be reapplied after 5 turns.
+  - Field becomes Rocky Field.
+  - Accuracy +1.
+  - Moveset change:
+    - Rock Blast
+    - Bulldoze
+    - Pollen Puff
+    - Shadow Ball
+- After clearing 2 HP Bars:
+  - Attack +1, Special Attack +1.
+  - Defense -1, Special Defense -1.
+  - Moveset change:
+    - Rock Wrecker
+    - Aura Sphere
+    - Acid Spray
+    - Energy Ball
+
+**Rift Aelita (Dimensional Field). 4 HP Bars. Classic Mode.**
+- Rift Regirock, Level 75. @ Life Orb.
+  - Rock Blast
+  - Close Combat
+  - Bullet Seed
+  - Barrage
+- After clearing 1 HP Bar:
+  - Laser Focus Effect with be applied.
+  - Laser Focus will be reapplied after 3 turns.
+  - Field becomes Rocky Field.
+  - Accuracy +1.
+  - Cures any stat drop.
+  - Cures any change in status.
+  - Clears any effects.
+  - Moveset change:
+    - Rock Blast
+    - Earthquake
+    - Pollen Puff
+    - Shadow Ball
+- After clearing 2 HP Bars:
+  - Attack +1, Defense +1, Special Attack +1, Special Defense +1.
+  - Moveset change:
+    - Rock Slide
+    - Triple Arrows
+    - Sludge Bomb
+    - Energy Ball
+- After clearing 3 HP Bars:
+  - Arenite Wall will be deployed.
+  - Moveset change:
+    - Rock Slide
+    - Triple Arrows
+    - Accelerock
+    - Zap Cannon
+
+The ability of Rift Regirock is True Shot and boost bullet moves x1.3.
+
+There are 4 HP Bars, but Erin is with us, so there is two full team
+hitting this boss, so defeating Rift Alita isn’t really hard.
+
+After the scenes, enter the right room for another scene.
+
+**Friendship Point Choice:**
+- You sure you're okay? (Melia +1, Erin +1)
+- ... (Neutral)
+
+**Friendship Point Choice:**
+- Let's save Venam! (Melia +3, Erin +2)
+- ... (Neutral)
+
+**Friendship Point Choice:**
+- Welcome back! (Aelita +4)
+- Too speedy... (Erin -2, Aelita -2)
+
+After the scenes where choice doesn’t matter, this chapter will finish.
+
+## A Note about Where Love Lies
+
+Completing all the content so far marks the recommended point in the
+story you should consider going to play Rejuvenation: Where Love Lies, a
+separate game made by the same creators which acts as a prequel to a
+part of this story. It is not required that you play it, but it gives
+perspective and history on certain events in this game. You can find it
+in the bottom of the regular Rejuvenation download page.
+
+If you want a guide to the side story: Lucifer on the forums wrote up a
+[guide](https://www.rebornevo.com/forum/index.php?/topic/34308-spoilers-the-completionists-guide-to-where-love-lies/)
+to getting 100% in the side game.
+
+There is no gift in this game for completing it. There was for the
+previous version though.
+
+Maps are outdated on Where Love Lives compared to V13.5, so you may
+consider applying [this
+mod](https://www.rebornevo.com/forums/topic/71426-where-love-lies-overhaul-v042/)
+to have them match. It includes a guide for the modded version.**  
+**
+
+# Chapter 13: Conflicting Ren-union
+
+Another Team Xen Scene to begin a chapter. You will be in a scene in the
+Rose Theater afterward. Choice doesn’t matter. We will need to go south
+on Route 9 to reach the Scholar District.
+
+## Scholar District
 
 
 
