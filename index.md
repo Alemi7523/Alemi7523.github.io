@@ -305,7 +305,7 @@
     - [Hisuian Braviary Evolution Environment](#hisuian-braviary-evolution-environment)
     - [Hisuian Sliggoo Evolution Environment](#hisuian-sliggoo-evolution-environment)
     - [Hisuian Avalugg Evolution Environment](#hisuian-avalugg-evolution-environment)
-  - [Complete the V13.5 Dex (Pending to Update properly)](#complete-the-v13.5-dex-pending-to-update-properly)
+  - [Complete the V13.5 Dex](#complete-the-v135-dex)
     - [Must Breed](#must-breed)
     - [Must Evolve by Level](#must-evolve-by-level)
     - [Must Evolve by Item](#must-evolve-by-item)
