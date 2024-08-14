@@ -283,7 +283,7 @@
     - [Legendary Wings Quest](#legendary-wings-quest)
     - [Teila Resort December 11th](#teila-resort-december-11th)
   - [December 12th: A Light of Ice](#december-12th-a-light-of-ice)
-  - [December 13th: 2:00AM.](#december-13th-200am.)
+  - [December 13th: 2:00AM](#december-13th-200am)
   - [December 15th: A Light of Family](#december-15th-a-light-of-family)
   - [December 16th: A Light of Insanity](#december-16th-a-light-of-insanity)
   - [December 20th: A Light of Violet Rose](#december-20th-a-light-of-violet-rose)
@@ -23944,7 +23944,7 @@ Begin the new day talking with Erin. You end up in Forst Rystrine. Go
 east and use Rock Smash to find Erin and Kanon. Talk with Kanon to
 continue and enter the building.
 
-## December 13th: 2:00AM.
+## December 13th: 2:00AM
 
 You are thrown into a battle in a strange setting almost immediately.
 You will face consecutive battles, and they all are double battles.
