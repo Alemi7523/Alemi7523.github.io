@@ -289,7 +289,7 @@
   - [December 20th: A Light of Violet Rose](#december-20th-a-light-of-violet-rose)
   - [December 21st: A Light of a Violet Tower](#december-21st-a-light-of-a-violet-tower)
   - [December 22nd: A Light of a Hidden Truth](#december-22nd-a-light-of-a-hidden-truth)
-  - [December 24th: A Light of a \#######](#december-24th-a-light-of-a)
+  - [December 24th: A Light of a \#######](#december-24th-a-light-of-a-)
   - [December 25th: A Light of a Miracle](#december-25th-a-light-of-a-miracle)
 - [Appendices](#appendices)
   - [All Special Evolution Locations](#all-special-evolution-locations)
