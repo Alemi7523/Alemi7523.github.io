@@ -1,4 +1,4 @@
-# Rejuvenation 13.5 100% Walkthough
+# Rejuvenation 13.5 100% Walkthrough
 - [About this guide](#about-this-guide)
 - [Prologue](#prologue)
 - [Intro](#intro)
