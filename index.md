@@ -10756,7 +10756,7 @@ This is a good chance to catch **Karrablast**.
 
 Enter the building and use the teleporter to reach the rooftop quickly.
 There is an overworld **Elekid** here. If you are lucky, you may 
-discover it is holding an ***Electrizer***. You can soft reset until it has it.
+discover it is holding an ***Electirizer***. You can soft reset until it has it.
 
 Leave the building and go to the western area using the path above water
 until seeing an AA Grunt. You need to catch her. The choice here doesn’t
@@ -16583,7 +16583,7 @@ Pick up the ***Metal Coat*** here. Head downstairs. We need gather 5
 Electric types, and 5 Fire types to donate. The electric one in the
 north room and the fire ones in the southern room. The easiest way to do
 this is to breed a mon of each type and take all their babies back.
-Return to each person with the 5 Pokémon to get the ***Electrizer*** and
+Return to each person with the 5 Pokémon to get the ***Electirizer*** and
 ***Magmarizer**.* Pick up 2 ***Cell Batteries*** on each side of the
 Electrodes in the northern room.
 
@@ -17183,7 +17183,7 @@ advance snakingly to the left map. Save and use F12 if you get spotted
 to reduce the backtracking.
 
 Here head north, and again north, to the Generator Room we haven’t been
-able to access when we came for the Electrizer before.
+able to access when we came for the Electirizer before.
 
 Once in the Generator Room, go forward for a scene. Regardless of what
 it may seem, the choice doesn’t matter.
@@ -24734,7 +24734,7 @@ at level 59.
 |**Milotic**            |Prism Scale + Link Heart   |
 |**Honchkrow**          |Dusk Stone                 |
 |**Rhyperior**          |Protector + Link Heart     |
-|**Electivire**         |Electrizer + Link Heart    |
+|**Electivire**         |Electirizer + Link Heart    |
 |**Magmortar**          |Magmarizer + Link Heart    |
 |**Togekiss**           |Shiny Stone                |
 |**Porygon-Z**          |Dubious Disc + Link Heart  |
