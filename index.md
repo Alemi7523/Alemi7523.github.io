@@ -20938,16 +20938,16 @@ The box here allows you to dress like you did in the Darchlight Caves.
 Advance to the north for a scene. Choice doesn’t matter. There is some
 extra dialogue if you met Aelita briefly on Route 7.
 
-We need to get an Elevator Pass to reach the Pupper Master, but we don’t
+We need to get an Elevator Pass to reach the Puppet Master, but we don’t
 have it. Go to the left and follow the only way.
 
 You will be seen by a trainer. Winning will earn you 500 Puppet Coins
-and 20 of reputation. Not that the field here is the Chess Board.
+and 20 of reputation. Note that the field here is the Chess Board.
 
 Continue north for a scene, dialogue change depending on the New Game
 section being completed or not.
 
-We need a million Pupper Coins to open the chest with the Elevator Pass.
+We need a million Puppet Coins to open the chest with the Elevator Pass.
 It sounds hard, but it is very easy if you completed the New Game
 section.
 
@@ -23202,8 +23202,7 @@ previous version though.
 Maps are outdated on Where Love Lives compared to V13.5, so you may
 consider applying [this
 mod](https://www.rebornevo.com/forums/topic/71426-where-love-lies-overhaul-v042/)
-to have them match. It includes a guide for the modded version.**  
-**
+to have them match. It includes a guide for the modded version.
 
 # Chapter 13: Conflicting Ren-union
 
